@@ -1,0 +1,131 @@
+place,name,points,level
+1,Orlik Armon **,58.75,**
+3 b,Nötzli Bruno ***,57.50,***
+5 a,Bless Michael ***,57.00,***
+6 a,Horner Peter **,56.75,**
+6 d,Battaglia Ursin **,56.75,**
+7 c,Landolt Reto *,56.50,*
+8 c,Kindlimann Fabian ***,56.25,***
+9 b,Fontana Michael,56.00,Michael
+2,Rychen Roger **,58.00,**
+4 a,Forrer Arnold ***,57.25,***
+5 b,Glaus Martin ***,57.00,***
+6 b,Imhof Andi ***,56.75,***
+7 a,Fässler Andreas **,56.50,**
+8 a,Clopath Beat ***,56.25,***
+8 d,Bernold Christian *,56.25,*
+9 c,Höﬂiger Andreas **,56.00,**
+3 a,Hersche Martin **,57.50,**
+4 b,Nägeli Marco *,57.25,*
+5 c,Kamer Hanspeter *,57.00,*
+6 c,Reber Marcel *,56.75,*
+7 b,Giger Urs *,56.50,*
+8 b,Eugster Ruedi **,56.25,**
+9 a,Orlik Curdin **,56.00,**
+9 d,Schläpfer Markus **,56.00,**
+9 e,Sprecher Sandro *,56.00,*
+10 c,Arztmann Beda,55.75,Beda
+10 f,Rüegg Fabian *,55.75,*
+10 i,Schudel Simon *,55.75,*
+11 c,Bernold Michael (1999),55.50,(1999)
+11 f,Breitenmoser Simon,55.50,Simon
+11 i,Kammermann Dominik,55.50,Dominik
+11 l,Vestner Roman *,55.50,*
+11 o,Lieberherr Michael (1999),55.50,(1999)
+10 a,Jöhl Christian *,55.75,*
+10 d,Brügger Stefan *,55.75,*
+10 g,Hochholdinger Roman **,55.75,**
+11 a,Fässler Patrick,55.50,Patrick
+11 d,Vollenweider Jeremy (1998) *,55.50,*
+11 g,Frick Andreas *,55.50,*
+11 j,Oertle Daniel,55.50,Daniel
+11 m,Arnold Raphael *,55.50,*
+11 p,Schmid Patrick *,55.50,*
+10 b,Kuster Marcel **,55.75,**
+10 e,Nötzli Reto ***,55.75,***
+10 h,Koch Reto,55.75,Reto
+11 b,Bäbler Dominik *,55.50,*
+11 e,Bircher Luca (1999),55.50,(1999)
+11 h,Hasler Florian **,55.50,**
+11 k,Rhyner Michael **,55.50,**
+11 n,Lanter Christian (1998),55.50,(1998)
+12 a,Gmür Pirmin *,55.25,*
+12 b,Hämmerli Gian-Franco *,55.25,*
+12 e,Koch Thomas,55.25,Thomas
+13 a,Bärtsch Jann (2000),55.00,(2000)
+13 d,Pﬁster Florian *,55.00,*
+14 c,Pianta Christian,54.75,Christian
+14 f,Wittenwiler Roman (1998),54.75,(1998)
+15 c,Danner Daniel,54.50,Daniel
+15 f,Schläpfer Matthias *,54.50,*
+16 b,Elmer Adrian,54.25,Adrian
+12 c,Arnold Andreas *,55.25,*
+12 f,Riedi Thomas,55.25,Thomas
+13 b,Gysel Hansruedi,55.00,Hansruedi
+14 a,Güntensperger Marcel *,54.75,*
+14 d,Biäsch Christian,54.75,Christian
+15 a,Peng Mike ***,54.50,***
+15 d,Gartmann Mauro,54.50,Mauro
+15 g,Jörger Marc,54.50,Marc
+16 c,Aebli Nino (2000),54.25,(2000)
+12 d,Coray Beda *,55.25,*
+12 g,Roth Martin *,55.25,*
+13 c,Hersche Daniel,55.00,Daniel
+14 b,Holenstein Christian *,54.75,*
+14 e,Kuster Thomas *,54.75,*
+15 b,Büchler Remo **,54.50,**
+15 e,Litscher Manuel *,54.50,*
+16 a,Stahel Felix *,54.25,*
+16 d,Freuler Franz **,54.25,**
+16 e,Fuster Sepp,54.25,Sepp
+16 h,Thoma Christoph,54.25,Christoph
+17 c,Gosswiler Livio (2000),54.00,(2000)
+17 f,Schnyder Christian,54.00,Christian
+18 c,Mösli Reto,53.75,Reto
+18 f,Vollmeier Sandro,53.75,Sandro
+19 b,Elmer Daniel *,53.50,*
+21 a,Betschart Fabian (1999),52.75,(1999)
+21 d,Lötscher Abraham (2000),52.75,(2000)
+16 f,Horner Sämi,54.25,Sämi
+17 a,Bleiker Reto *,54.00,*
+17 d,Held Florian,54.00,Florian
+18 a,Giger Lorenz (2000),53.75,(2000)
+18 d,Schneider Noel (2000),53.75,(2000)
+18 g,Oetiker Ronny,53.75,Ronny
+20 a,Bäbler Sandro **,53.00,**
+21 b,Bleiker Daniel,52.75,Daniel
+22 a,Ackermann Roman,52.50,Roman
+16 g,Kammermann Thomas *,54.25,*
+17 b,Frei Hanspeter (1999),54.00,(1999)
+17 e,Salnajs Leo (1998),54.00,(1998)
+18 b,Ott Damian (2000),53.75,(2000)
+18 e,Trümpi Simon (1998),53.75,(1998)
+19 a,Aliesch Noah (1998),53.50,(1998)
+20 b,Schiesser Patrik (1998),53.00,(1998)
+21 c,Schwyn Adrian,52.75,Adrian
+22 b,Manser Adrian (1998),52.50,(1998)
+22 c,Signer Walter (1998),52.50,(1998)
+24,Frauchiger Remo,44.50,Remo
+27 a,Langenegger Remo,35.25,Remo
+27 d,Schönenberger Christian,35.25,Christian
+27 g,Sonderegger Patrik (2000),35.25,(2000)
+28 c,Laager Andreas (1999),34.50,(1999)
+29 b,Kamm Fritz (1999),34.25,(1999)
+30,Hirt Pascal **,18.75,**
+* Kan,nal- bzw. Gauverbandskranzschwin,ger ** T,Gauverbandskranzschwin
+22 d,Sprecher Martin (2000),52.50,(2000)
+25,Langenegger Beat,44.25,Beat
+27 b,Mathis Patrick,35.25,Patrick
+27 e,Schröttenthaler Micha (1998),35.25,(1998)
+28 a,Moser Yanick (1999),34.50,(1999)
+28 d,Wirth Adrian,34.50,Adrian
+29 c,Rhyner Beni (1999),34.25,(1999)
+31,Herger Matthias **,9.75,**
+lverb,dskranzschwinger *** Eidg. Kranzs,chwinge,Kranzs
+23,Bottlang Michael,45.50,Michael
+26,Kunz Daniel,44.00,Daniel
+27 c,Meier Michi,35.25,Michi
+27 f,Schwyn Patrick (1999),35.25,(1999)
+28 b,Ochsner Reto (2000),34.50,(2000)
+29 a,Dudli Gallus,34.25,Gallus
+29 d,Rütsche Stefan *,34.25,*

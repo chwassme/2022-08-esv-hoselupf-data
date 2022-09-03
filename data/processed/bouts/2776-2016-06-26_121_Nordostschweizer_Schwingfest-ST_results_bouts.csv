@@ -1,0 +1,925 @@
+result,name,level,points,placed_fighter,fight_round
++,Bieri Christoph ***,***,9.75,Orlik Armon **,1
++,Coray Beda *,*,10.00,Orlik Armon **,2
++,Bless Michael ***,***,10.00,Orlik Armon **,3
++,Haenni Stéphane **,**,9.75,Orlik Armon **,4
++,Schneider Mario **,**,9.75,Orlik Armon **,5
++,Giger Samuel (1998) **,**,10.00,Orlik Armon **,6
++,von Ah Benji ***,***,10.00,Bösch Daniel ***,1
++,Kuster Thomas *,*,10.00,Bösch Daniel ***,2
+-,Leuppi Samir **,**,8.75,Bösch Daniel ***,3
+-,Bieri Christoph ***,***,9.00,Bösch Daniel ***,4
++,Bühler Ernst **,**,9.75,Bösch Daniel ***,5
++,Gwerder Andreas **,**,10.00,Bösch Daniel ***,6
++,Dind Samuel **,**,9.75,Kindlimann Fabian ***,1
++,Näf Pius *,*,10.00,Kindlimann Fabian ***,2
+-,Kämpf Bernhard ***,***,8.75,Kindlimann Fabian ***,3
++,Frick Andreas *,*,10.00,Kindlimann Fabian ***,4
+-,Clopath Beat ***,***,8.75,Kindlimann Fabian ***,5
++,Vestner Roman *,*,10.00,Kindlimann Fabian ***,6
+-,Schneider Mario **,**,8.75,Zwyssig Raphael ***,1
++,Ammann Rico *,*,10.00,Zwyssig Raphael ***,2
++,Oettli Marco *,*,10.00,Zwyssig Raphael ***,3
+o,Glaus Martin ***,***,8.50,Zwyssig Raphael ***,4
++,Ackermann Remo *,*,10.00,Zwyssig Raphael ***,5
++,Knechtle Martin **,**,10.00,Zwyssig Raphael ***,6
++,Battaglia Ursin **,**,10.00,Fejzaj Naim *,1
+-,Schneider Domenic **,**,9.00,Fejzaj Naim *,2
+o,Haenni Stéphane **,**,8.50,Fejzaj Naim *,3
++,Bernold Michael (1999),(1999),9.75,Fejzaj Naim *,4
++,Schlegel Sämi (2000),(2000),10.00,Fejzaj Naim *,5
++,Scherer Christian *,*,9.75,Fejzaj Naim *,6
+-,Zwyssig Raphael ***,***,8.75,Schneider Mario **,1
++,Biäsch Christian *,*,9.75,Schneider Mario **,2
++,Korrodi Paul *,*,10.00,Schneider Mario **,3
++,Kuster Thomas *,*,10.00,Schneider Mario **,4
+o,Orlik Armon **,**,8.50,Schneider Mario **,5
++,Good Marco *,*,10.00,Schneider Mario **,6
++,Peng Mike ***,***,9.75,Rhyner Michael **,1
++,Dörig Erich *,*,9.75,Rhyner Michael **,2
+o,von Ah Benji ***,***,8.50,Rhyner Michael **,3
++,Biäsch Christian *,*,10.00,Rhyner Michael **,4
++,Koch Thomas,Thomas,10.00,Rhyner Michael **,5
+-,Notz Beni ***,***,8.75,Rhyner Michael **,6
+-,Gwerder Andreas **,**,8.75,Krähenbühl Tobias **,1
++,Holenstein Christian *,*,9.75,Krähenbühl Tobias **,2
++,Odermatt Christoph *,*,10.00,Krähenbühl Tobias **,3
+o,Forrer Arnold ***,***,8.50,Krähenbühl Tobias **,4
++,Baumann Rico *,*,9.75,Krähenbühl Tobias **,5
++,Schläpfer Markus **,**,9.75,Krähenbühl Tobias **,6
++,Hirt Pascal **,**,10.00,Hersche Martin **,1
++,Bernold Edi **,**,9.75,Hersche Martin **,2
+-,Imhof Andi ***,***,8.75,Hersche Martin **,3
++,Rüegg Fabian *,*,9.75,Hersche Martin **,4
++,Arztmann Beda,Beda,10.00,Hersche Martin **,5
++,Forrer Arnold ***,***,10.00,Hersche Martin **,6
++,Alpiger Nick **,**,10.00,Bless Michael ***,1
++,Bernold Christian *,*,10.00,Bless Michael ***,2
+o,Orlik Armon **,**,8.50,Bless Michael ***,3
++,Odermatt Martin *,*,10.00,Bless Michael ***,4
+-,Giger Samuel (1998) **,**,9.00,Bless Michael ***,5
++,Koller Martin *,*,10.00,Bless Michael ***,6
+-,Oertig Adrian **,**,8.75,Orlik Curdin **,1
++,Güntensperger Marcel *,*,10.00,Orlik Curdin **,2
++,Baumann Rico *,*,9.75,Orlik Curdin **,3
+-,Burkhalter Stefan ***,***,8.75,Orlik Curdin **,4
++,Streuli Martin *,*,10.00,Orlik Curdin **,5
++,Fässler Andreas **,**,10.00,Orlik Curdin **,6
+-,Roth Martin *,*,8.75,Eugster Ruedi **,1
++,Zbinden Marc *,*,9.75,Eugster Ruedi **,2
++,Landolt Reto *,*,9.75,Eugster Ruedi **,3
+-,Alpiger Nick **,**,8.75,Eugster Ruedi **,4
++,Sprecher Sandro *,*,10.00,Eugster Ruedi **,5
++,Hirt Pascal **,**,10.00,Eugster Ruedi **,6
++,Glaus Martin ***,***,9.75,Leuppi Samir **,1
++,Dumelin David *,*,10.00,Leuppi Samir **,2
+-,Bösch Daniel ***,***,8.75,Leuppi Samir **,3
++,Schläpfer Matthias *,*,10.00,Leuppi Samir **,4
+o,Forrer Arnold ***,***,8.75,Leuppi Samir **,5
++,Wickli Beat **,**,9.75,Leuppi Samir **,6
+-,Clopath Beat ***,***,8.75,Kämpf Bernhard ***,1
++,Kuster Marcel **,**,10.00,Kämpf Bernhard ***,2
+-,Kindlimann Fabian ***,***,8.75,Kämpf Bernhard ***,3
++,Roth Martin *,*,9.75,Kämpf Bernhard ***,4
++,Näf Pius *,*,9.75,Kämpf Bernhard ***,5
++,Vollenweider Jeremy (1998) *,*,9.75,Kämpf Bernhard ***,6
++,Bickel Roman (1998) *,*,10.00,Bernold Christian *,1
+o,Bless Michael ***,***,8.50,Bernold Christian *,2
++,Hari Michi,Michi,9.75,Bernold Christian *,3
+o,Koller Martin *,*,8.50,Bernold Christian *,4
++,Korrodi Paul *,*,10.00,Bernold Christian *,5
++,Roth Martin *,*,10.00,Bernold Christian *,6
++,Knechtle Martin **,**,9.75,Bühler Ernst **,1
+o,von Ah Benji ***,***,8.50,Bühler Ernst **,2
++,Koch Thomas,Thomas,9.75,Bühler Ernst **,3
++,Pﬁster Florian *,*,10.00,Bühler Ernst **,4
+o,Bösch Daniel ***,***,8.50,Bühler Ernst **,5
++,Oertle Daniel,Daniel,10.00,Bühler Ernst **,6
+©,2017 Eidgenössischer Schwingerverba,Schwingerverba,nd,Bühler Ernst **,7
+o,Leuppi Samir **,**,8.50,Glaus Martin ***,1
++,Notz Hans *,*,10.00,Glaus Martin ***,2
++,Bickel Roman (1998) *,*,10.00,Glaus Martin ***,3
++,Zwyssig Raphael ***,***,9.75,Glaus Martin ***,4
++,Koller Martin *,*,10.00,Glaus Martin ***,5
++,Anderegg Simon ***,***,10.00,Glaus Martin ***,6
++,Haenni Stéphane **,**,10.00,Giger Samuel (1998) **,1
++,Schlegel Sandro **,**,9.75,Giger Samuel (1998) **,2
++,Anderegg Simon ***,***,9.75,Giger Samuel (1998) **,3
++,von Ah Benji ***,***,10.00,Giger Samuel (1998) **,4
+-,Bless Michael ***,***,9.00,Giger Samuel (1998) **,5
+o,Orlik Armon **,**,8.75,Giger Samuel (1998) **,6
+-,Anderegg Simon ***,***,8.75,Forrer Arnold ***,1
++,Koller Martin *,*,10.00,Forrer Arnold ***,2
++,Notz Beni ***,***,10.00,Forrer Arnold ***,3
++,Krähenbühl Tobias **,**,9.75,Forrer Arnold ***,4
++,Leuppi Samir **,**,10.00,Forrer Arnold ***,5
+o,Hersche Martin **,**,8.75,Forrer Arnold ***,6
+-,Burkhalter Stefan ***,***,8.75,Imhof Andi ***,1
++,Rychen Roger **,**,9.75,Imhof Andi ***,2
+-,Hersche Martin **,**,8.75,Imhof Andi ***,3
++,Coray Beda *,*,10.00,Imhof Andi ***,4
++,Wickli Beat **,**,9.75,Imhof Andi ***,5
++,Zbinden Marc *,*,10.00,Imhof Andi ***,6
++,Schläpfer Matthias *,*,10.00,Rychen Roger **,1
+o,Imhof Andi ***,***,8.50,Rychen Roger **,2
++,Bleiker Reto *,*,10.00,Rychen Roger **,3
++,Dind Samuel **,**,9.75,Rychen Roger **,4
+-,Fässler Andreas **,**,8.75,Rychen Roger **,5
++,Keller Andreas *,*,10.00,Rychen Roger **,6
++,Hochholdinger Roman **,**,9.75,Notz Beni ***,1
++,Reber Marcel *,*,10.00,Notz Beni ***,2
+o,Forrer Arnold ***,***,8.50,Notz Beni ***,3
++,Scherer Christian *,*,10.00,Notz Beni ***,4
++,Oertig Dominik *,*,9.75,Notz Beni ***,5
+-,Rhyner Michael **,**,8.75,Notz Beni ***,6
++,Korrodi Paul *,*,10.00,Wickli Beat **,1
+o,Haenni Stéphane **,**,8.50,Wickli Beat **,2
++,Dändliker Shane,Shane,9.75,Wickli Beat **,3
++,Reber Marcel *,*,10.00,Wickli Beat **,4
+o,Imhof Andi ***,***,8.50,Wickli Beat **,5
++,Giger Urs *,*,10.00,Wickli Beat **,6
+o,Leuppi Samir **,**,0.00,Wickli Beat **,7
++,Bühler Hannes *,*,9.75,Kuster Marcel **,1
+o,Kämpf Bernhard ***,***,8.75,Kuster Marcel **,2
++,Bernold Michael (1999),(1999),9.75,Kuster Marcel **,3
++,Ammann Rico *,*,10.00,Kuster Marcel **,4
+o,Anderegg Simon ***,***,8.50,Kuster Marcel **,5
++,Coray Beda *,*,9.75,Kuster Marcel **,6
+,11.09.2017 21:35,21:35,Seite 1/,Kuster Marcel **,7
++,Stahel Felix *,*,9.75,Oertig Dominik *,1
+o,Alpiger Nick **,**,8.75,Oertig Dominik *,2
++,Koch Reto,Reto,10.00,Oertig Dominik *,3
++,Steiner Michael **,**,9.75,Oertig Dominik *,4
+o,Notz Beni ***,***,8.50,Oertig Dominik *,5
++,Näf Pius *,*,9.75,Oertig Dominik *,6
+o,Bless Michael ***,***,8.25,Alpiger Nick **,1
++,Oertig Dominik *,*,9.75,Alpiger Nick **,2
++,Battaglia Ursin **,**,9.75,Alpiger Nick **,3
+-,Eugster Ruedi **,**,8.75,Alpiger Nick **,4
++,Bühler Hannes *,*,10.00,Alpiger Nick **,5
++,Kuster Thomas *,*,9.75,Alpiger Nick **,6
+-,Imhof Andi ***,***,8.75,Burkhalter Stefan ***,1
++,Kammermann Thomas *,*,10.00,Burkhalter Stefan ***,2
++,Brügger Stefan *,*,10.00,Burkhalter Stefan ***,3
+-,Orlik Curdin **,**,8.75,Burkhalter Stefan ***,4
++,Schmid Patrick *,*,10.00,Burkhalter Stefan ***,5
+-,Bieri Christoph ***,***,8.75,Burkhalter Stefan ***,6
+-,Odermatt Martin *,*,8.75,Rüegg Roman *,1
+o,Schnurrenberger Roman **,**,8.50,Rüegg Roman *,2
++,Fontana Michael,Michael,10.00,Rüegg Roman *,3
+-,Schwyn Patrick (1999),(1999),9.00,Rüegg Roman *,4
++,Lanter Christian (1998),(1998),9.75,Rüegg Roman *,5
++,Bucher Roland,Roland,10.00,Rüegg Roman *,6
+-,Holenstein Christian *,*,8.75,Horner Peter **,1
+o,Roth Martin *,*,8.75,Horner Peter **,2
++,Hämmerli Gian-Franco *,*,9.75,Horner Peter **,3
++,Fausch Kjetil,Kjetil,10.00,Horner Peter **,4
++,Biäsch Christian *,*,9.75,Horner Peter **,5
+-,Schnurrenberger Roman **,**,8.75,Horner Peter **,6
+o,Jöhl Christian *,*,8.50,Schmid Patrick *,1
+-,Fontana Michael,Michael,8.75,Schmid Patrick *,2
++,Ott Damian (2000),(2000),10.00,Schmid Patrick *,3
++,Rütsche Stefan *,*,10.00,Schmid Patrick *,4
+o,Burkhalter Stefan ***,***,8.50,Schmid Patrick *,5
++,Wolfer Lukas,Lukas,10.00,Schmid Patrick *,6
++,Ackermann Remo *,*,10.00,Fässler Andreas **,1
+o,Anderegg Simon ***,***,8.50,Fässler Andreas **,2
++,Arztmann Beda,Beda,10.00,Fässler Andreas **,3
++,Jöhl Christian *,*,9.75,Fässler Andreas **,4
+-,Rychen Roger **,**,8.75,Fässler Andreas **,5
+o,Orlik Curdin **,**,8.50,Fässler Andreas **,6
+-,Rüegg Roman *,*,8.75,Odermatt Martin *,1
++,Knechtle Martin **,**,9.75,Odermatt Martin *,2
++,Lozza Roman,Roman,10.00,Odermatt Martin *,3
+o,Bless Michael ***,***,8.50,Odermatt Martin *,4
+o,Schlegel Reto *,*,8.50,Odermatt Martin *,5
++,Bleiker Reto *,*,10.00,Odermatt Martin *,6
++,Rhyner Marco,Marco,9.75,Frick Andreas *,1
+o,Dind Samuel **,**,8.50,Frick Andreas *,2
++,Schwyn Patrick (1999),(1999),10.00,Frick Andreas *,3
+o,Kindlimann Fabian ***,***,8.50,Frick Andreas *,4
++,Jörger Marc,Marc,10.00,Frick Andreas *,5
+o,Schneider Domenic **,**,8.75,Frick Andreas *,6
+-,Schläpfer Markus **,**,8.75,Schneider Domenic **,1
+-,Fejzaj Naim *,*,9.00,Schneider Domenic **,2
++,Ulmann Fabian (1999),(1999),10.00,Schneider Domenic **,3
+-,Hirt Pascal **,**,9.00,Schneider Domenic **,4
++,Haenni Stéphane **,**,9.75,Schneider Domenic **,5
++,Frick Andreas *,*,10.00,Schneider Domenic **,6
++,Egli Martin,Martin,9.75,Arztmann Beda,1
++,Hochholdinger Roman **,**,9.75,Arztmann Beda,2
+o,Fässler Andreas **,**,8.50,Arztmann Beda,3
++,Brügger Stefan *,*,10.00,Arztmann Beda,4
+o,Hersche Martin **,**,8.50,Arztmann Beda,5
++,Schlegel Reto *,*,9.75,Arztmann Beda,6
+-,Kämpf Bernhard ***,***,8.75,Clopath Beat ***,1
++,Vestner Roman *,*,9.75,Clopath Beat ***,2
++,Truniger Manuel *,*,10.00,Clopath Beat ***,3
++,Schläpfer Markus **,**,10.00,Clopath Beat ***,4
+-,Kindlimann Fabian ***,***,8.75,Clopath Beat ***,5
+-,Steiner Michael **,**,9.00,Clopath Beat ***,6
+-,Orlik Curdin **,**,8.75,Oertig Adrian **,1
+-,Vollenweider Jeremy (1998) *,*,8.75,Oertig Adrian **,2
++,Keller Andreas *,*,10.00,Oertig Adrian **,3
++,Lanter Christian (1998),(1998),9.75,Oertig Adrian **,4
+-,Schlegel Sandro **,**,8.75,Oertig Adrian **,5
++,Koch Thomas,Thomas,9.75,Oertig Adrian **,6
+-,Forrer Arnold ***,***,8.75,Anderegg Simon ***,1
++,Fässler Andreas **,**,10.00,Anderegg Simon ***,2
+o,Giger Samuel (1998) **,**,8.50,Anderegg Simon ***,3
++,Giger Urs *,*,10.00,Anderegg Simon ***,4
++,Kuster Marcel **,**,10.00,Anderegg Simon ***,5
+o,Glaus Martin ***,***,8.50,Anderegg Simon ***,6
+o,Steiner Michael **,**,8.75,Vollenweider Jeremy (1998) *,1
+-,Oertig Adrian **,**,8.75,Vollenweider Jeremy (1998) *,2
++,Fuster Sepp,Sepp,10.00,Vollenweider Jeremy (1998) *,3
++,Braun Mathias *,*,9.75,Vollenweider Jeremy (1998) *,4
++,Rüegg Fabian *,*,10.00,Vollenweider Jeremy (1998) *,5
+o,Kämpf Bernhard ***,***,8.50,Vollenweider Jeremy (1998) *,6
+o,Dumelin David *,*,8.50,Good Marco *,1
++,Fuster Sepp,Sepp,9.75,Good Marco *,2
+-,Bühler Hannes *,*,9.00,Good Marco *,3
++,Pianta Christian,Christian,10.00,Good Marco *,4
++,Notz Hans *,*,9.75,Good Marco *,5
+o,Schneider Mario **,**,8.50,Good Marco *,6
+-,Schnurrenberger Roman **,**,8.75,Zbinden Marc *,1
+o,Eugster Ruedi **,**,8.50,Zbinden Marc *,2
++,Büsser André,André,10.00,Zbinden Marc *,3
++,Elmer Adrian,Adrian,10.00,Zbinden Marc *,4
++,Dind Samuel **,**,9.75,Zbinden Marc *,5
+o,Imhof Andi ***,***,8.50,Zbinden Marc *,6
+o,Bernold Edi **,**,8.75,Giger Urs *,1
++,Streuli Martin *,*,9.75,Giger Urs *,2
++,Ackermann Remo *,*,9.75,Giger Urs *,3
+o,Anderegg Simon ***,***,8.50,Giger Urs *,4
++,Wolfer Lukas,Lukas,10.00,Giger Urs *,5
+o,Wickli Beat **,**,8.75,Giger Urs *,6
+©,2017 Eidgenössischer Schwingerverba,Schwingerverba,nd,Giger Urs *,7
+-,Zbinden Marc *,*,8.75,Schnurrenberger Roman **,1
++,Rüegg Roman *,*,10.00,Schnurrenberger Roman **,2
+o,Bieri Christoph ***,***,8.75,Schnurrenberger Roman **,3
++,Schlegel Sämi (2000),(2000),10.00,Schnurrenberger Roman **,4
++,Ammann Rico *,*,10.00,Schnurrenberger Roman **,5
+-,Horner Peter **,**,9.00,Schnurrenberger Roman **,6
++,Oettli Marco *,*,9.75,Pﬁster Florian *,1
+o,Hirt Pascal **,**,8.50,Pﬁster Florian *,2
++,Bürgler Patrick,Patrick,9.75,Pﬁster Florian *,3
+o,Bühler Ernst **,**,8.50,Pﬁster Florian *,4
++,Jöhl Christian *,*,9.75,Pﬁster Florian *,5
++,Braun Mathias *,*,10.00,Pﬁster Florian *,6
+-,Eugster Ruedi **,**,8.75,Roth Martin *,1
++,Horner Peter **,**,10.00,Roth Martin *,2
++,Sprecher Sandro *,*,10.00,Roth Martin *,3
+o,Kämpf Bernhard ***,***,8.75,Roth Martin *,4
++,Dändliker Shane,Shane,10.00,Roth Martin *,5
+o,Bernold Christian *,*,8.75,Roth Martin *,6
+-,Baumann Rico *,*,8.75,Wey Nicola *,1
+-,Schmucki Ivo,Ivo,8.75,Wey Nicola *,2
++,Fässler Patrick,Patrick,10.00,Wey Nicola *,3
++,Inauen Andreas *,*,9.75,Wey Nicola *,4
+-,Peng Mike ***,***,8.75,Wey Nicola *,5
++,Koch Reto,Reto,9.75,Wey Nicola *,6
++,Odermatt Christoph *,*,10.00,Schlegel Sandro **,1
+o,Giger Samuel (1998) **,**,8.50,Schlegel Sandro **,2
+o,Scherer Christian *,*,8.50,Schlegel Sandro **,3
++,Lozza Roman,Roman,10.00,Schlegel Sandro **,4
+-,Oertig Adrian **,**,8.75,Schlegel Sandro **,5
++,Holenstein Christian *,*,10.00,Schlegel Sandro **,6
+o,Orlik Armon **,**,8.50,Bieri Christoph ***,1
++,Steiner Michael **,**,9.75,Bieri Christoph ***,2
++,Schnurrenberger Roman **,**,10.00,Bieri Christoph ***,3
+-,Bösch Daniel ***,***,8.75,Bieri Christoph ***,4
++,Hochholdinger Roman **,**,9.75,Bieri Christoph ***,5
+-,Burkhalter Stefan ***,***,8.75,Bieri Christoph ***,6
+-,Krähenbühl Tobias **,**,8.75,Gwerder Andreas **,1
++,Schlegel Reto *,*,10.00,Gwerder Andreas **,2
+o,Dind Samuel **,**,8.50,Gwerder Andreas **,3
++,Riedi Thomas,Thomas,9.75,Gwerder Andreas **,4
++,Schläpfer Matthias *,*,10.00,Gwerder Andreas **,5
+o,Bösch Daniel ***,***,8.50,Gwerder Andreas **,6
+o,Fejzaj Naim *,*,8.50,Battaglia Ursin **,1
++,Scheiwiller Andreas *,*,10.00,Battaglia Ursin **,2
+o,Alpiger Nick **,**,8.50,Battaglia Ursin **,3
++,Kammermann Dominik,Dominik,10.00,Battaglia Ursin **,4
+o,Knechtle Martin **,**,8.50,Battaglia Ursin **,5
++,Fässler Patrick,Patrick,10.00,Battaglia Ursin **,6
+o,Giger Samuel (1998) **,**,8.50,Haenni Stéphane **,1
++,Wickli Beat **,**,10.00,Haenni Stéphane **,2
++,Fejzaj Naim *,*,10.00,Haenni Stéphane **,3
+o,Orlik Armon **,**,8.50,Haenni Stéphane **,4
+o,Schneider Domenic **,**,8.50,Haenni Stéphane **,5
++,Brügger Stefan *,*,10.00,Haenni Stéphane **,6
+,11.09.2017 21:35,21:35,Seite 2/,Haenni Stéphane **,7
+o,Notz Beni ***,***,8.50,Hochholdinger Roman **,1
+o,Arztmann Beda,Beda,8.50,Hochholdinger Roman **,2
++,Bürgler Patrick,Patrick,10.00,Hochholdinger Roman **,3
++,Wild Thomas,Thomas,10.00,Hochholdinger Roman **,4
+o,Bieri Christoph ***,***,8.50,Hochholdinger Roman **,5
++,Schwyn Adrian,Adrian,10.00,Hochholdinger Roman **,6
++,Schudel Simon *,*,10.00,Schlegel Reto *,1
+o,Gwerder Andreas **,**,8.50,Schlegel Reto *,2
+o,Koller Martin *,*,8.50,Schlegel Reto *,3
++,Dändliker Hansheinrich,Hansheinrich,9.75,Schlegel Reto *,4
++,Odermatt Martin *,*,10.00,Schlegel Reto *,5
+o,Arztmann Beda,Beda,8.75,Schlegel Reto *,6
+o,Hersche Martin **,**,8.50,Hirt Pascal **,1
++,Pﬁster Florian *,*,9.75,Hirt Pascal **,2
++,Dörig Erich *,*,9.75,Hirt Pascal **,3
+-,Schneider Domenic **,**,8.75,Hirt Pascal **,4
++,Krähenbühl Lukas *,*,10.00,Hirt Pascal **,5
+o,Eugster Ruedi **,**,8.50,Hirt Pascal **,6
+o,Fässler Andreas **,**,8.50,Ackermann Remo *,1
++,Schwyn Adrian,Adrian,10.00,Ackermann Remo *,2
+o,Giger Urs *,*,8.50,Ackermann Remo *,3
++,Büsser André,André,10.00,Ackermann Remo *,4
+o,Zwyssig Raphael ***,***,8.50,Ackermann Remo *,5
++,Inauen Andreas *,*,9.75,Ackermann Remo *,6
+o,Bühler Ernst **,**,8.75,Knechtle Martin **,1
+o,Odermatt Martin *,*,8.50,Knechtle Martin **,2
++,Dändliker Hansheinrich,Hansheinrich,9.75,Knechtle Martin **,3
++,Koller Fabian,Fabian,10.00,Knechtle Martin **,4
++,Battaglia Ursin **,**,9.75,Knechtle Martin **,5
+o,Zwyssig Raphael ***,***,8.50,Knechtle Martin **,6
+o,Rychen Roger **,**,8.50,Schläpfer Matthias *,1
++,Lieberherr Michael (1999),(1999),10.00,Schläpfer Matthias *,2
++,Notz Hans *,*,10.00,Schläpfer Matthias *,3
+o,Leuppi Samir **,**,8.50,Schläpfer Matthias *,4
+o,Gwerder Andreas **,**,8.50,Schläpfer Matthias *,5
++,Bänziger Peter,Peter,9.75,Schläpfer Matthias *,6
+o,Rüegg Fabian *,*,8.50,Keller Andreas *,1
++,Vollmeier Sandro,Sandro,9.75,Keller Andreas *,2
+o,Oertig Adrian **,**,8.50,Keller Andreas *,3
++,Ott Damian (2000),(2000),9.75,Keller Andreas *,4
++,Güntensperger Marcel *,*,10.00,Keller Andreas *,5
+o,Rychen Roger **,**,8.50,Keller Andreas *,6
+o,Wickli Beat **,**,8.50,Korrodi Paul *,1
++,Marty Jaime (2000),(2000),10.00,Korrodi Paul *,2
+o,Schneider Mario **,**,8.50,Korrodi Paul *,3
++,Lieberherr Michael (1999),(1999),9.75,Korrodi Paul *,4
+o,Bernold Christian *,*,8.50,Korrodi Paul *,5
++,Güntensperger Marcel *,*,9.75,Korrodi Paul *,6
++,Sprecher Sandro *,*,10.00,Vestner Roman *,1
+o,Clopath Beat ***,***,8.50,Vestner Roman *,2
+o,Biäsch Christian *,*,8.50,Vestner Roman *,3
++,Hersche Daniel,Daniel,9.75,Vestner Roman *,4
++,Landolt Reto *,*,9.75,Vestner Roman *,5
+o,Kindlimann Fabian ***,***,8.50,Vestner Roman *,6
+o,Güntensperger Marcel *,*,8.50,Landolt Reto *,1
++,Salnajs Leo (1998),(1998),10.00,Landolt Reto *,2
+o,Eugster Ruedi **,**,8.50,Landolt Reto *,3
++,Wetter Dominik,Dominik,10.00,Landolt Reto *,4
+o,Vestner Roman *,*,8.50,Landolt Reto *,5
++,Ammann Rico *,*,10.00,Landolt Reto *,6
+o,Kuster Marcel **,**,8.50,Bühler Hannes *,1
++,Oertle Daniel,Daniel,9.75,Bühler Hannes *,2
+-,Good Marco *,*,9.00,Bühler Hannes *,3
++,Egli Martin,Martin,9.75,Bühler Hannes *,4
+o,Alpiger Nick **,**,8.50,Bühler Hannes *,5
++,Kammermann Dominik,Dominik,9.75,Bühler Hannes *,6
+-,Schneider Domenic **,**,8.75,Schläpfer Markus **,1
++,Jöhl Christian *,*,9.75,Schläpfer Markus **,2
++,Güntensperger Marcel *,*,10.00,Schläpfer Markus **,3
+o,Clopath Beat ***,***,8.50,Schläpfer Markus **,4
++,Bänziger Peter,Peter,9.75,Schläpfer Markus **,5
+o,Krähenbühl Tobias **,**,8.50,Schläpfer Markus **,6
++,Krähenbühl Lukas *,*,10.00,Coray Beda *,1
+o,Orlik Armon **,**,8.50,Coray Beda *,2
++,Wolfer Lukas,Lukas,9.75,Coray Beda *,3
+o,Imhof Andi ***,***,8.50,Coray Beda *,4
++,Fässler Patrick,Patrick,10.00,Coray Beda *,5
+o,Kuster Marcel **,**,8.50,Coray Beda *,6
++,Truniger Manuel *,*,9.75,Kuster Thomas *,1
+o,Bösch Daniel ***,***,8.50,Kuster Thomas *,2
++,Jörger Marc,Marc,10.00,Kuster Thomas *,3
+o,Schneider Mario **,**,8.50,Kuster Thomas *,4
++,Schwyn Adrian,Adrian,10.00,Kuster Thomas *,5
+o,Alpiger Nick **,**,8.50,Kuster Thomas *,6
++,Dändliker Hansheinrich,Hansheinrich,10.00,Breitenmoser Manuel,1
+-,Braun Mathias *,*,9.00,Breitenmoser Manuel,2
+o,Steiner Michael **,**,8.50,Breitenmoser Manuel,3
+-,Dörig Erich *,*,8.75,Breitenmoser Manuel,4
+-,Roth Lukas *,*,9.00,Breitenmoser Manuel,5
++,Biäsch Christian *,*,10.00,Breitenmoser Manuel,6
++,Räbsamen Marcel (2000),(2000),10.00,Koch Thomas,1
++,Roth Lukas *,*,9.75,Koch Thomas,2
+o,Bühler Ernst **,**,8.50,Koch Thomas,3
++,Krähenbühl Lukas *,*,9.75,Koch Thomas,4
+o,Rhyner Michael **,**,8.50,Koch Thomas,5
+o,Oertig Adrian **,**,8.50,Koch Thomas,6
++,Braun Mathias *,*,10.00,Näf Pius *,1
+o,Kindlimann Fabian ***,***,8.50,Näf Pius *,2
++,Raymann David *,*,9.75,Näf Pius *,3
++,Oertle Daniel,Daniel,9.75,Näf Pius *,4
+o,Kämpf Bernhard ***,***,8.50,Näf Pius *,5
+o,Oertig Dominik *,*,8.50,Näf Pius *,6
+-,Fausch Kjetil,Kjetil,9.00,Dändliker Shane,1
++,Bleiker Daniel,Daniel,10.00,Dändliker Shane,2
+o,Wickli Beat **,**,8.50,Dändliker Shane,3
++,Bleiker Reto *,*,10.00,Dändliker Shane,4
+o,Roth Martin *,*,8.50,Dändliker Shane,5
+-,Dörig Erich *,*,9.00,Dändliker Shane,6
+©,2017 Eidgenössischer Schwingerverba,Schwingerverba,nd,Dändliker Shane,7
++,Hämmerli Gian-Franco *,*,10.00,Notz Hans *,1
+o,Glaus Martin ***,***,8.50,Notz Hans *,2
+o,Schläpfer Matthias *,*,8.50,Notz Hans *,3
++,Harder Benj,Benj,10.00,Notz Hans *,4
+o,Good Marco *,*,8.75,Notz Hans *,5
++,Schlegel Sämi (2000),(2000),9.75,Notz Hans *,6
+o,Funk Nicola (1999),(1999),8.50,Hersche Daniel,1
++,Tremp Remo (1999),(1999),10.00,Hersche Daniel,2
+-,Scheiwiller Andreas *,*,8.75,Hersche Daniel,3
+o,Vestner Roman *,*,8.50,Hersche Daniel,4
++,Rütsche Stefan *,*,9.75,Hersche Daniel,5
++,Rüegg Fabian *,*,9.75,Hersche Daniel,6
++,Vollenweider Jeremy (1998) *,*,9.75,Steiner Michael **,1
+o,Bieri Christoph ***,***,8.75,Steiner Michael **,2
++,Breitenmoser Manuel,Manuel,9.75,Steiner Michael **,3
+o,Oertig Dominik *,*,8.50,Steiner Michael **,4
++,Raymann David *,*,9.75,Steiner Michael **,5
+-,Clopath Beat ***,***,8.75,Steiner Michael **,6
++,Lehmann Philipp (1999),(1999),9.75,Jörger Marc,1
+o,Bleiker Reto *,*,8.50,Jörger Marc,2
+o,Kuster Thomas *,*,8.50,Jörger Marc,3
++,Bleiker Roman,Roman,10.00,Jörger Marc,4
+o,Frick Andreas *,*,8.50,Jörger Marc,5
++,Truniger Manuel *,*,10.00,Jörger Marc,6
+o,Kammermann Thomas *,*,8.50,Scherer Christian *,1
++,Schudel Simon *,*,10.00,Scherer Christian *,2
++,Schlegel Sandro **,**,10.00,Scherer Christian *,3
+o,Notz Beni ***,***,8.50,Scherer Christian *,4
++,Fuster Sepp,Sepp,9.75,Scherer Christian *,5
+o,Fejzaj Naim *,*,8.50,Scherer Christian *,6
++,Good Marco *,*,9.75,Dumelin David *,1
+o,Leuppi Samir **,**,8.50,Dumelin David *,2
+o,Jöhl Christian *,*,8.50,Dumelin David *,3
++,Alder Armin,Armin,9.75,Dumelin David *,4
+o,Oertle Daniel,Daniel,8.75,Dumelin David *,5
++,Bernold Michael (1999),(1999),9.75,Dumelin David *,6
++,Elmer Daniel *,*,10.00,Koller Martin *,1
+o,Forrer Arnold ***,***,8.50,Koller Martin *,2
++,Schlegel Reto *,*,9.75,Koller Martin *,3
++,Bernold Christian *,*,9.75,Koller Martin *,4
+o,Glaus Martin ***,***,8.50,Koller Martin *,5
+o,Bless Michael ***,***,8.50,Koller Martin *,6
++,Steiner Michael (1998),(1998),9.75,Oertle Daniel,1
+o,Bühler Hannes *,*,8.50,Oertle Daniel,2
++,Bleiker Roman,Roman,10.00,Oertle Daniel,3
+o,Näf Pius *,*,8.50,Oertle Daniel,4
++,Dumelin David *,*,9.75,Oertle Daniel,5
+o,Bühler Ernst **,**,8.50,Oertle Daniel,6
++,Roth Lukas *,*,10.00,Dörig Erich *,1
+o,Rhyner Michael **,**,8.50,Dörig Erich *,2
+o,Hirt Pascal **,**,8.75,Dörig Erich *,3
+-,Breitenmoser Manuel,Manuel,8.75,Dörig Erich *,4
++,Fausch Kjetil,Kjetil,10.00,Dörig Erich *,5
+-,Dändliker Shane,Shane,9.00,Dörig Erich *,6
+,11.09.2017 21:35,21:35,Seite 3/,Dörig Erich *,7
+-,Schmucki Ivo,Ivo,9.00,Koch Reto,1
++,Fausch Kjetil,Kjetil,10.00,Koch Reto,2
+o,Oertig Dominik *,*,8.50,Koch Reto,3
+-,Kammermann Thomas *,*,8.75,Koch Reto,4
++,Bernold Michael (1999),(1999),10.00,Koch Reto,5
+o,Wey Nicola *,*,8.75,Koch Reto,6
++,Schwyn Patrick (1999),(1999),10.00,Fontana Michael,1
+-,Schmid Patrick *,*,8.75,Fontana Michael,2
+o,Rüegg Roman *,*,8.50,Fontana Michael,3
+o,Hämmerli Gian-Franco *,*,8.50,Fontana Michael,4
+-,Bischof Martin,Martin,8.75,Fontana Michael,5
++,Elmer Daniel *,*,10.00,Fontana Michael,6
+-,Wey Nicola *,*,8.75,Baumann Rico *,1
++,Hari Michi,Michi,9.75,Baumann Rico *,2
+o,Orlik Curdin **,**,8.50,Baumann Rico *,3
++,Salnajs Leo (1998),(1998),10.00,Baumann Rico *,4
+o,Krähenbühl Tobias **,**,8.50,Baumann Rico *,5
+-,Sprecher Sandro *,*,8.75,Baumann Rico *,6
++,Wild Thomas,Thomas,9.75,Dobler Mathias,1
+o,Schlegel Sämi (2000),(2000),8.50,Dobler Mathias,2
+o,Rütsche Stefan *,*,8.50,Dobler Mathias,3
+-,Wetter Silvan (2000),(2000),9.00,Dobler Mathias,4
+o,Holenstein Christian *,*,8.50,Dobler Mathias,5
++,Furrer Damian (1998),(1998),10.00,Dobler Mathias,6
++,Schmid Patrick *,*,10.00,Jöhl Christian *,1
+o,Schläpfer Markus **,**,8.50,Jöhl Christian *,2
++,Dumelin David *,*,9.75,Jöhl Christian *,3
+o,Fässler Andreas **,**,8.50,Jöhl Christian *,4
+o,Pﬁster Florian *,*,8.50,Jöhl Christian *,5
+-,Hämmerli Gian-Franco *,*,9.00,Jöhl Christian *,6
+o,Ammann Rico *,*,8.50,Rütsche Stefan *,1
+-,Wolfer Lukas,Lukas,8.75,Rütsche Stefan *,2
++,Dobler Mathias,Mathias,10.00,Rütsche Stefan *,3
+o,Schmid Patrick *,*,8.50,Rütsche Stefan *,4
+o,Hersche Daniel,Daniel,8.50,Rütsche Stefan *,5
++,Riedi Thomas,Thomas,10.00,Rütsche Stefan *,6
++,Giger Urs *,*,10.00,Bernold Edi **,1
+o,Hersche Martin **,**,8.50,Bernold Edi **,2
+o,Krähenbühl Lukas *,*,8.75,Bernold Edi **,3
+o,Wolfer Lukas,Lukas,8.50,Bernold Edi **,4
+o,Bucher Roland,Roland,8.50,Bernold Edi **,5
++,Schwyn Patrick (1999),(1999),10.00,Bernold Edi **,6
++,Inauen Andreas *,*,9.75,Bänziger Peter,1
+o,Brügger Stefan *,*,8.50,Bänziger Peter,2
+-,Kammermann Dominik,Dominik,9.00,Bänziger Peter,3
++,Burkhard Patrick *,*,9.75,Bänziger Peter,4
+o,Schläpfer Markus **,**,8.50,Bänziger Peter,5
+o,Schläpfer Matthias *,*,8.50,Bänziger Peter,6
+o,Notz Hans *,*,8.50,Hämmerli Gian-Franco *,1
++,Funk Nicola (1999),(1999),9.75,Hämmerli Gian-Franco *,2
+o,Horner Peter **,**,8.50,Hämmerli Gian-Franco *,3
++,Fontana Michael,Michael,9.75,Hämmerli Gian-Franco *,4
+o,Kammermann Dominik,Dominik,8.50,Hämmerli Gian-Franco *,5
+-,Jöhl Christian *,*,9.00,Hämmerli Gian-Franco *,6
+o,Bernold Michael (1999),(1999),8.50,Bucher Roland,1
+-,Bleiker Roman,Roman,9.00,Bucher Roland,2
+-,Bleiker Daniel,Daniel,8.75,Bucher Roland,3
++,Schmucki Ivo,Ivo,10.00,Bucher Roland,4
++,Bernold Edi **,**,10.00,Bucher Roland,5
+o,Rüegg Roman *,*,8.50,Bucher Roland,6
+-,Schlegel Sämi (2000),(2000),8.75,Lanter Christian (1998),1
+-,Alder Armin,Armin,8.75,Lanter Christian (1998),2
++,Steiner Michael (1998),(1998),10.00,Lanter Christian (1998),3
+o,Oertig Adrian **,**,8.50,Lanter Christian (1998),4
+o,Rüegg Roman *,*,8.50,Lanter Christian (1998),5
++,Bischof Martin,Martin,10.00,Lanter Christian (1998),6
+-,Notz Armin *,*,8.75,Streuli Martin *,1
+o,Giger Urs *,*,8.50,Streuli Martin *,2
++,Koller Fabian,Fabian,10.00,Streuli Martin *,3
++,Stahel Felix *,*,9.75,Streuli Martin *,4
+o,Orlik Curdin **,**,8.50,Streuli Martin *,5
+-,Krähenbühl Lukas *,*,8.75,Streuli Martin *,6
+-,Dändliker Shane,Shane,9.00,Fausch Kjetil,1
+o,Koch Reto,Reto,8.50,Fausch Kjetil,2
++,Funk Nicola (1999),(1999),9.75,Fausch Kjetil,3
+o,Horner Peter **,**,8.75,Fausch Kjetil,4
+o,Dörig Erich *,*,8.50,Fausch Kjetil,5
++,Marty Jaime (2000),(2000),9.75,Fausch Kjetil,6
++,Reichmuth Beat,Beat,9.75,Kammermann Dominik,1
+o,Ueltschi Patric *,*,8.75,Kammermann Dominik,2
+-,Bänziger Peter,Peter,8.75,Kammermann Dominik,3
+o,Battaglia Ursin **,**,8.75,Kammermann Dominik,4
++,Hämmerli Gian-Franco *,*,9.75,Kammermann Dominik,5
+o,Bühler Hannes *,*,8.50,Kammermann Dominik,6
+-,Lanter Christian (1998),(1998),8.75,Schlegel Sämi (2000),1
++,Dobler Mathias,Mathias,10.00,Schlegel Sämi (2000),2
++,Notz Armin *,*,10.00,Schlegel Sämi (2000),3
+o,Schnurrenberger Roman **,**,8.50,Schlegel Sämi (2000),4
+o,Fejzaj Naim *,*,8.50,Schlegel Sämi (2000),5
+o,Notz Hans *,*,8.50,Schlegel Sämi (2000),6
+-,Horner Peter **,**,8.75,Holenstein Christian *,1
+o,Krähenbühl Tobias **,**,8.50,Holenstein Christian *,2
+-,Marty Jaime (2000),(2000),8.75,Holenstein Christian *,3
++,Hari Michi,Michi,9.75,Holenstein Christian *,4
++,Dobler Mathias,Mathias,9.75,Holenstein Christian *,5
+o,Schlegel Sandro **,**,8.50,Holenstein Christian *,6
+-,Bleiker Reto *,*,8.75,Brügger Stefan *,1
++,Bänziger Peter,Peter,10.00,Brügger Stefan *,2
+o,Burkhalter Stefan ***,***,8.50,Brügger Stefan *,3
+o,Arztmann Beda,Beda,8.50,Brügger Stefan *,4
++,Furrer Damian (1998),(1998),9.75,Brügger Stefan *,5
+o,Haenni Stéphane **,**,8.50,Brügger Stefan *,6
+o,Bänziger Peter,Peter,8.50,Inauen Andreas *,1
++,Ulmann Fabian (1999),(1999),10.00,Inauen Andreas *,2
+-,Peng Mike ***,***,8.75,Inauen Andreas *,3
+o,Wey Nicola *,*,8.50,Inauen Andreas *,4
++,Riedi Thomas,Thomas,9.75,Inauen Andreas *,5
+o,Ackermann Remo *,*,8.50,Inauen Andreas *,6
+©,2017 Eidgenössischer Schwingerverba,Schwingerverba,nd,Inauen Andreas *,7
+o,Dörig Erich *,*,8.50,Roth Lukas *,1
+o,Koch Thomas,Thomas,8.50,Roth Lukas *,2
+-,Egli Martin,Martin,8.75,Roth Lukas *,3
++,Funk Nicola (1999),(1999),10.00,Roth Lukas *,4
++,Elmer Daniel *,*,10.00,Roth Lukas *,5
+-,Breitenmoser Manuel,Manuel,9.00,Roth Lukas *,6
+o,Näf Pius *,*,8.50,Braun Mathias *,1
+-,Breitenmoser Manuel,Manuel,9.00,Braun Mathias *,2
++,Elmer Adrian,Adrian,10.00,Braun Mathias *,3
+o,Vollenweider Jeremy (1998) *,*,8.50,Braun Mathias *,4
++,Scheiwiller Andreas *,*,10.00,Braun Mathias *,5
+o,Pﬁster Florian *,*,8.50,Braun Mathias *,6
+-,Brügger Stefan *,*,8.75,Bleiker Reto *,1
++,Jörger Marc,Marc,10.00,Bleiker Reto *,2
+o,Rychen Roger **,**,8.50,Bleiker Reto *,3
+o,Dändliker Shane,Shane,8.50,Bleiker Reto *,4
++,Kammermann Thomas *,*,9.75,Bleiker Reto *,5
+o,Odermatt Martin *,*,8.75,Bleiker Reto *,6
++,Horner Sämi,Sämi,9.75,Fuster Sepp,1
+o,Good Marco *,*,8.75,Fuster Sepp,2
+o,Vollenweider Jeremy (1998) *,*,8.50,Fuster Sepp,3
++,Ulmann Fabian (1999),(1999),9.75,Fuster Sepp,4
+o,Scherer Christian *,*,8.50,Fuster Sepp,5
+-,Raymann David *,*,9.00,Fuster Sepp,6
++,Keller Andreas *,*,10.00,Rüegg Fabian *,1
+-,Peng Mike ***,***,8.50,Rüegg Fabian *,2
++,Pianta Christian,Christian,10.00,Rüegg Fabian *,3
+o,Hersche Martin **,**,8.50,Rüegg Fabian *,4
+o,Vollenweider Jeremy (1998) *,*,8.50,Rüegg Fabian *,5
+o,Hersche Daniel,Daniel,8.75,Rüegg Fabian *,6
+o,Vestner Roman *,*,8.50,Sprecher Sandro *,1
++,Koller Fabian,Fabian,10.00,Sprecher Sandro *,2
+o,Roth Martin *,*,8.50,Sprecher Sandro *,3
++,Ueltschi Patric *,*,10.00,Sprecher Sandro *,4
+o,Eugster Ruedi **,**,8.50,Sprecher Sandro *,5
+-,Baumann Rico *,*,8.75,Sprecher Sandro *,6
++,Scherer Christian *,*,9.75,Kammermann Thomas *,1
+o,Burkhalter Stefan ***,***,8.50,Kammermann Thomas *,2
+-,Bischof Martin,Martin,8.75,Kammermann Thomas *,3
+-,Koch Reto,Reto,8.75,Kammermann Thomas *,4
+o,Bleiker Reto *,*,8.50,Kammermann Thomas *,5
++,Scheiwiller Andreas *,*,9.75,Kammermann Thomas *,6
+-,Elmer Adrian,Adrian,8.75,Fässler Patrick,1
++,Riedi Thomas,Thomas,9.75,Fässler Patrick,2
+o,Wey Nicola *,*,8.50,Fässler Patrick,3
++,Bickel Roman (1998) *,*,10.00,Fässler Patrick,4
+o,Coray Beda *,*,8.50,Fässler Patrick,5
+o,Battaglia Ursin **,**,8.50,Fässler Patrick,6
+o,Reber Marcel *,*,8.50,Raymann David *,1
++,Odermatt Michi,Michi,9.75,Raymann David *,2
+o,Näf Pius *,*,8.50,Raymann David *,3
++,Schnyder Christian,Christian,10.00,Raymann David *,4
+o,Steiner Michael **,**,8.50,Raymann David *,5
+-,Fuster Sepp,Sepp,8.75,Raymann David *,6
+,11.09.2017 21:35,21:35,Seite 4/,Raymann David *,7
++,Kobler Janosch (2000),(2000),9.75,Schwyn Adrian,1
+o,Ackermann Remo *,*,8.50,Schwyn Adrian,2
+-,Alder Armin,Armin,8.75,Schwyn Adrian,3
++,Elmer Daniel *,*,10.00,Schwyn Adrian,4
+o,Kuster Thomas *,*,8.50,Schwyn Adrian,5
+o,Hochholdinger Roman **,**,8.50,Schwyn Adrian,6
++,Ueltschi Patric *,*,10.00,Biäsch Christian *,1
+o,Schneider Mario **,**,8.50,Biäsch Christian *,2
++,Vestner Roman *,*,10.00,Biäsch Christian *,3
+o,Rhyner Michael **,**,8.50,Biäsch Christian *,4
+o,Horner Peter **,**,8.50,Biäsch Christian *,5
+o,Breitenmoser Manuel,Manuel,8.50,Biäsch Christian *,6
+o,Kindlimann Fabian ***,***,8.50,Dind Samuel **,1
++,Frick Andreas *,*,9.75,Dind Samuel **,2
++,Gwerder Andreas **,**,9.75,Dind Samuel **,3
+o,Rychen Roger **,**,8.50,Dind Samuel **,4
+o,Zbinden Marc *,*,8.50,Dind Samuel **,5
+-,Peng Mike ***,***,8.75,Dind Samuel **,6
+o,Rhyner Michael **,**,8.75,Peng Mike ***,1
+-,Rüegg Fabian *,*,8.75,Peng Mike ***,2
+-,Inauen Andreas *,*,8.75,Peng Mike ***,3
++,Schudel Simon *,*,10.00,Peng Mike ***,4
+-,Wey Nicola *,*,8.75,Peng Mike ***,5
+-,Dind Samuel **,**,8.75,Peng Mike ***,6
+o,Fontana Michael,Michael,8.50,Schwyn Patrick (1999),1
++,Weber Erwin (2000),(2000),10.00,Schwyn Patrick (1999),2
+o,Frick Andreas *,*,8.50,Schwyn Patrick (1999),3
+-,Rüegg Roman *,*,8.75,Schwyn Patrick (1999),4
+-,Marty Jaime (2000),(2000),8.75,Schwyn Patrick (1999),5
+o,Bernold Edi **,**,8.50,Schwyn Patrick (1999),6
++,Burkhard Patrick *,*,9.75,Scheiwiller Andreas *,1
+o,Battaglia Ursin **,**,8.50,Scheiwiller Andreas *,2
+-,Hersche Daniel,Daniel,8.75,Scheiwiller Andreas *,3
+-,Marty Jaime (2000),(2000),8.75,Scheiwiller Andreas *,4
+o,Braun Mathias *,*,8.50,Scheiwiller Andreas *,5
+o,Kammermann Thomas *,*,8.50,Scheiwiller Andreas *,6
+o,Bösch Daniel ***,***,8.50,von Ah Benji ***,1
++,Bühler Ernst **,**,10.00,von Ah Benji ***,2
++,Rhyner Michael **,**,10.00,von Ah Benji ***,3
+o,Giger Samuel (1998) **,**,8.50,von Ah Benji ***,4
+o,Fuster Sepp,Sepp,8.50,Horner Sämi,1
++,Steiner Michael (1998),(1998),9.75,Horner Sämi,2
+o,Burkhard Patrick *,*,8.50,Horner Sämi,3
+-,Bleiker Daniel,Daniel,8.75,Horner Sämi,4
++,Ott Damian (2000),(2000),9.75,Odermatt Michi,1
+o,Raymann David *,*,8.50,Odermatt Michi,2
+-,Schmucki Ivo,Ivo,8.75,Odermatt Michi,3
+o,Güntensperger Marcel *,*,8.50,Odermatt Michi,4
+o,Oertig Dominik *,*,8.50,Stahel Felix *,1
+-,Schnyder Christian,Christian,8.75,Stahel Felix *,2
++,Harder Benj,Benj,9.75,Stahel Felix *,3
+o,Streuli Martin *,*,8.50,Stahel Felix *,4
++,Weber Erwin (2000),(2000),10.00,Wolfer Lukas,1
+-,Rütsche Stefan *,*,8.75,Wolfer Lukas,2
+o,Coray Beda *,*,8.50,Wolfer Lukas,3
++,Bernold Edi **,**,9.75,Wolfer Lukas,4
+o,Giger Urs *,*,8.50,Wolfer Lukas,5
+o,Schmid Patrick *,*,8.50,Wolfer Lukas,6
++,Landolt Reto *,*,9.75,Güntensperger Marcel *,1
+o,Orlik Curdin **,**,8.50,Güntensperger Marcel *,2
+o,Schläpfer Markus **,**,8.50,Güntensperger Marcel *,3
++,Odermatt Michi,Michi,9.75,Güntensperger Marcel *,4
+o,Keller Andreas *,*,8.75,Güntensperger Marcel *,5
+o,Korrodi Paul *,*,8.75,Güntensperger Marcel *,6
+o,Coray Beda *,*,8.50,Krähenbühl Lukas *,1
++,Bischof Martin,Martin,9.75,Krähenbühl Lukas *,2
++,Bernold Edi **,**,9.75,Krähenbühl Lukas *,3
+o,Koch Thomas,Thomas,8.50,Krähenbühl Lukas *,4
+o,Hirt Pascal **,**,8.50,Krähenbühl Lukas *,5
+-,Streuli Martin *,*,8.75,Krähenbühl Lukas *,6
++,Pianta Christian,Christian,9.75,Bischof Martin,1
+o,Krähenbühl Lukas *,*,8.50,Bischof Martin,2
+-,Kammermann Thomas *,*,8.75,Bischof Martin,3
+-,Odermatt Christoph *,*,8.75,Bischof Martin,4
+-,Fontana Michael,Michael,8.75,Bischof Martin,5
+o,Lanter Christian (1998),(1998),8.50,Bischof Martin,6
+o,Lieberherr Michael (1999),(1999),8.50,Furrer Damian (1998),1
+o,Elmer Adrian,Adrian,8.50,Furrer Damian (1998),2
+-,Wetter Silvan (2000),(2000),9.00,Furrer Damian (1998),3
++,Räbsamen Marcel (2000),(2000),10.00,Furrer Damian (1998),4
+o,Brügger Stefan *,*,8.50,Furrer Damian (1998),5
+o,Dobler Mathias,Mathias,8.50,Furrer Damian (1998),6
+-,Alder Armin,Armin,8.75,Riedi Thomas,1
+o,Fässler Patrick,Patrick,8.50,Riedi Thomas,2
++,Tremp Remo (1999),(1999),10.00,Riedi Thomas,3
+o,Gwerder Andreas **,**,8.50,Riedi Thomas,4
+o,Inauen Andreas *,*,8.50,Riedi Thomas,5
+o,Rütsche Stefan *,*,8.50,Riedi Thomas,6
+o,Arztmann Beda,Beda,8.50,Egli Martin,1
++,Reichmuth Beat,Beat,9.75,Egli Martin,2
+-,Roth Lukas *,*,8.75,Egli Martin,3
+o,Bühler Hannes *,*,8.50,Egli Martin,4
+-,Streuli Martin *,*,8.75,Notz Armin *,1
+o,Odermatt Christoph *,*,8.50,Notz Armin *,2
+o,Schlegel Sämi (2000),(2000),8.50,Notz Armin *,3
++,Weber Erwin (2000),(2000),9.75,Notz Armin *,4
+o,Frick Andreas *,*,8.50,Rhyner Marco,1
+o,Lehmann Philipp (1999),(1999),8.50,Rhyner Marco,2
+-,Wetter Dominik,Dominik,8.75,Rhyner Marco,3
++,Gysel Hansruedi,Hansruedi,9.75,Rhyner Marco,4
++,Tremp Remo (1999),(1999),9.75,Wetter Dominik,1
+o,Truniger Manuel *,*,8.50,Wetter Dominik,2
+-,Rhyner Marco,Marco,8.75,Wetter Dominik,3
+o,Landolt Reto *,*,8.50,Wetter Dominik,4
+©,2017 Eidgenössischer Schwingerverba,Schwingerverba,nd,Wetter Dominik,5
++,Rütsche Stefan *,*,10.00,Ammann Rico *,1
+o,Zwyssig Raphael ***,***,8.50,Ammann Rico *,2
++,Lieberherr Michael (1999),(1999),10.00,Ammann Rico *,3
+o,Kuster Marcel **,**,8.50,Ammann Rico *,4
+o,Schnurrenberger Roman **,**,8.50,Ammann Rico *,5
+o,Landolt Reto *,*,8.50,Ammann Rico *,6
+o,Kuster Thomas *,*,8.50,Truniger Manuel *,1
++,Wetter Dominik,Dominik,10.00,Truniger Manuel *,2
+o,Clopath Beat ***,***,8.50,Truniger Manuel *,3
++,Lehmann Philipp (1999),(1999),9.75,Truniger Manuel *,4
+o,Reber Marcel *,*,8.50,Truniger Manuel *,5
+o,Jörger Marc,Marc,8.75,Truniger Manuel *,6
++,Bucher Roland,Roland,9.75,Bernold Michael (1999),1
++,Burkhard Patrick *,*,9.75,Bernold Michael (1999),2
+o,Kuster Marcel **,**,8.50,Bernold Michael (1999),3
+o,Fejzaj Naim *,*,8.50,Bernold Michael (1999),4
+o,Koch Reto,Reto,8.50,Bernold Michael (1999),5
+o,Dumelin David *,*,8.75,Bernold Michael (1999),6
++,Lozza Roman,Roman,9.75,Marty Jaime (2000),1
+o,Korrodi Paul *,*,8.50,Marty Jaime (2000),2
+-,Holenstein Christian *,*,8.75,Marty Jaime (2000),3
+-,Scheiwiller Andreas *,*,8.75,Marty Jaime (2000),4
+-,Schwyn Patrick (1999),(1999),8.75,Marty Jaime (2000),5
+o,Fausch Kjetil,Kjetil,8.50,Marty Jaime (2000),6
+o,Koller Martin *,*,8.75,Elmer Daniel *,1
+o,Oettli Marco *,*,8.75,Elmer Daniel *,2
++,Salnajs Leo (1998),(1998),9.75,Elmer Daniel *,3
+o,Schwyn Adrian,Adrian,8.75,Elmer Daniel *,4
+o,Roth Lukas *,*,8.50,Elmer Daniel *,5
+o,Fontana Michael,Michael,8.50,Elmer Daniel *,6
++,Raymann David *,*,9.75,Reber Marcel *,1
+o,Notz Beni ***,***,8.50,Reber Marcel *,2
++,Ueltschi Patric *,*,10.00,Reber Marcel *,3
+o,Wickli Beat **,**,8.50,Reber Marcel *,4
++,Truniger Manuel *,*,10.00,Reber Marcel *,5
+-,Fässler Patrick,Patrick,8.75,Elmer Adrian,1
++,Furrer Damian (1998),(1998),9.75,Elmer Adrian,2
+o,Braun Mathias *,*,8.50,Elmer Adrian,3
+o,Zbinden Marc *,*,8.50,Elmer Adrian,4
+o,Schlegel Sandro **,**,8.50,Odermatt Christoph *,1
++,Notz Armin *,*,9.75,Odermatt Christoph *,2
+o,Krähenbühl Tobias **,**,8.50,Odermatt Christoph *,3
+-,Bischof Martin,Martin,8.75,Odermatt Christoph *,4
++,Bleiker Daniel,Daniel,9.75,Schnyder Christian,1
+-,Stahel Felix *,*,8.75,Schnyder Christian,2
+o,Schudel Simon *,*,8.50,Schnyder Christian,3
+o,Raymann David *,*,8.50,Schnyder Christian,4
+o,Bernold Christian *,*,8.75,Bickel Roman (1998) *,1
++,Büsser André,André,9.75,Bickel Roman (1998) *,2
+o,Glaus Martin ***,***,8.50,Bickel Roman (1998) *,3
+o,Fässler Patrick,Patrick,8.50,Bickel Roman (1998) *,4
+,11.09.2017 21:35,21:35,Seite 5/,Bickel Roman (1998) *,5
+o,Scheiwiller Andreas *,*,8.50,Burkhard Patrick *,1
+o,Bernold Michael (1999),(1999),8.75,Burkhard Patrick *,2
++,Horner Sämi,Sämi,9.75,Burkhard Patrick *,3
+o,Bänziger Peter,Peter,8.50,Burkhard Patrick *,4
++,Bleiker Roman,Roman,10.00,Koller Fabian,1
+o,Sprecher Sandro *,*,8.50,Koller Fabian,2
+o,Streuli Martin *,*,8.50,Koller Fabian,3
+o,Knechtle Martin **,**,8.50,Koller Fabian,4
+o,Bischof Martin,Martin,8.50,Pianta Christian,1
++,Räbsamen Marcel (2000),(2000),10.00,Pianta Christian,2
+o,Rüegg Fabian *,*,8.50,Pianta Christian,3
+o,Good Marco *,*,8.50,Pianta Christian,4
+o,Schlegel Reto *,*,8.50,Schudel Simon *,1
+o,Scherer Christian *,*,8.50,Schudel Simon *,2
++,Schnyder Christian,Christian,10.00,Schudel Simon *,3
+o,Peng Mike ***,***,8.50,Schudel Simon *,4
+o,Dobler Mathias,Mathias,8.50,Wild Thomas,1
+o,Dändliker Hansheinrich,Hansheinrich,8.75,Wild Thomas,2
++,Furrer Matthias,Matthias,9.75,Wild Thomas,3
+o,Hochholdinger Roman **,**,8.50,Wild Thomas,4
++,Hersche Daniel,Daniel,9.75,Funk Nicola (1999),1
+o,Hämmerli Gian-Franco *,*,8.50,Funk Nicola (1999),2
+o,Fausch Kjetil,Kjetil,8.50,Funk Nicola (1999),3
+o,Roth Lukas *,*,8.50,Funk Nicola (1999),4
+o,Odermatt Michi,Michi,8.50,Ott Damian (2000),1
++,Gysel Hansruedi,Hansruedi,9.75,Ott Damian (2000),2
+o,Schmid Patrick *,*,8.50,Ott Damian (2000),3
+o,Keller Andreas *,*,8.50,Ott Damian (2000),4
+-,Koch Reto,Reto,9.00,Schmucki Ivo,1
+-,Wey Nicola *,*,8.75,Schmucki Ivo,2
+-,Odermatt Michi,Michi,8.75,Schmucki Ivo,3
+o,Bucher Roland,Roland,8.50,Schmucki Ivo,4
+o,Schnyder Christian,Christian,8.50,Bleiker Daniel,1
+o,Dändliker Shane,Shane,8.50,Bleiker Daniel,2
+-,Bucher Roland,Roland,8.75,Bleiker Daniel,3
+-,Horner Sämi,Sämi,8.75,Bleiker Daniel,4
+o,Koch Thomas,Thomas,8.50,Räbsamen Marcel (2000),1
+o,Pianta Christian,Christian,8.50,Räbsamen Marcel (2000),2
+-,Gysel Hansruedi,Hansruedi,8.75,Räbsamen Marcel (2000),3
+o,Furrer Damian (1998),(1998),8.50,Räbsamen Marcel (2000),4
+o,Pﬁster Florian *,*,8.75,Oettli Marco *,1
++,Elmer Daniel *,*,10.00,Oettli Marco *,2
+o,Zwyssig Raphael ***,***,8.50,Oettli Marco *,3
+o,Breitenmoser Manuel,Manuel,8.50,Dändliker Hansheinrich,1
++,Wild Thomas,Thomas,10.00,Dändliker Hansheinrich,2
+o,Knechtle Martin **,**,8.50,Dändliker Hansheinrich,3
+o,Schlegel Reto *,*,8.50,Dändliker Hansheinrich,4
++,Furrer Damian (1998),(1998),10.00,Lieberherr Michael (1999),1
+o,Schläpfer Matthias *,*,8.50,Lieberherr Michael (1999),2
+o,Ammann Rico *,*,8.50,Lieberherr Michael (1999),3
+o,Korrodi Paul *,*,8.50,Lieberherr Michael (1999),4
+o,Kammermann Dominik,Dominik,8.50,Reichmuth Beat,1
+o,Egli Martin,Martin,8.50,Reichmuth Beat,2
+o,Weber Erwin (2000),(2000),8.50,Reichmuth Beat,3
++,Steiner Michael (1998),(1998),10.00,Reichmuth Beat,4
++,Gysel Hansruedi,Hansruedi,10.00,Ulmann Fabian (1999),1
+o,Inauen Andreas *,*,8.50,Ulmann Fabian (1999),2
+o,Schneider Domenic **,**,8.50,Ulmann Fabian (1999),3
+o,Fuster Sepp,Sepp,8.50,Ulmann Fabian (1999),4
+o,Vollmeier Sandro,Sandro,8.50,Bürgler Patrick,1
++,Wetter Silvan (2000),(2000),9.75,Bürgler Patrick,2
+o,Hochholdinger Roman **,**,8.50,Bürgler Patrick,3
+o,Pﬁster Florian *,*,8.50,Bürgler Patrick,4
++,Harder Benj,Benj,9.75,Hari Michi,1
+o,Baumann Rico *,*,8.50,Hari Michi,2
+o,Bernold Christian *,*,8.50,Hari Michi,3
+o,Holenstein Christian *,*,8.50,Hari Michi,4
+o,Wetter Dominik,Dominik,8.50,Tremp Remo (1999),1
+o,Hersche Daniel,Daniel,8.50,Tremp Remo (1999),2
+o,Riedi Thomas,Thomas,8.50,Tremp Remo (1999),3
++,Furrer Matthias,Matthias,9.75,Tremp Remo (1999),4
+o,Salnajs Leo (1998),(1998),8.50,Wetter Silvan (2000),1
+o,Bürgler Patrick,Patrick,8.50,Wetter Silvan (2000),2
+-,Furrer Damian (1998),(1998),9.00,Wetter Silvan (2000),3
+-,Dobler Mathias,Mathias,9.00,Wetter Silvan (2000),4
+o,Koller Fabian,Fabian,8.50,Bleiker Roman,1
+-,Bucher Roland,Roland,9.00,Bleiker Roman,2
+o,Oertle Daniel,Daniel,8.50,Bleiker Roman,3
+o,Jörger Marc,Marc,8.50,Bleiker Roman,4
+o,Büsser André,André,8.50,Furrer Matthias,1
+o,Lozza Roman,Roman,8.50,Furrer Matthias,2
+o,Wild Thomas,Thomas,8.50,Furrer Matthias,3
+o,Tremp Remo (1999),(1999),8.50,Furrer Matthias,4
++,Bürgler Patrick,Patrick,10.00,Vollmeier Sandro,1
+o,Keller Andreas *,*,8.50,Vollmeier Sandro,2
+©,2017 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Hari Michi,Michi,8.50,Harder Benj,1
++,Lehmann Philipp (1999),(1999),10.00,Harder Benj,2
+o,Stahel Felix *,*,8.50,Harder Benj,3
+o,Notz Hans *,*,8.50,Harder Benj,4
+o,Marty Jaime (2000),(2000),8.50,Lozza Roman,1
++,Furrer Matthias,Matthias,10.00,Lozza Roman,2
+o,Odermatt Martin *,*,8.50,Lozza Roman,3
+o,Schlegel Sandro **,**,8.50,Lozza Roman,4
++,Wetter Silvan (2000),(2000),10.00,Salnajs Leo (1998),1
+o,Landolt Reto *,*,8.50,Salnajs Leo (1998),2
+o,Elmer Daniel *,*,8.50,Salnajs Leo (1998),3
+o,Baumann Rico *,*,8.50,Salnajs Leo (1998),4
+o,Wolfer Lukas,Lukas,8.50,Weber Erwin (2000),1
+o,Schwyn Patrick (1999),(1999),8.50,Weber Erwin (2000),2
++,Reichmuth Beat,Beat,10.00,Weber Erwin (2000),3
+o,Notz Armin *,*,8.50,Weber Erwin (2000),4
++,Furrer Matthias,Matthias,9.75,Büsser André,1
+o,Bickel Roman (1998) *,*,8.50,Büsser André,2
+o,Zbinden Marc *,*,8.50,Büsser André,3
+o,Ackermann Remo *,*,8.50,Büsser André,4
+o,Jörger Marc,Marc,8.50,Lehmann Philipp (1999),1
+o,Harder Benj,Benj,8.50,Lehmann Philipp (1999),2
++,Rhyner Marco,Marco,9.75,Lehmann Philipp (1999),3
+o,Truniger Manuel *,*,8.50,Lehmann Philipp (1999),4
+o,Biäsch Christian *,*,8.50,Ueltschi Patric *,1
++,Kammermann Dominik,Dominik,9.75,Ueltschi Patric *,2
+o,Reber Marcel *,*,8.50,Ueltschi Patric *,3
+o,Sprecher Sandro *,*,8.50,Ueltschi Patric *,4
+-,Riedi Thomas,Thomas,8.75,Alder Armin,1
+-,Lanter Christian (1998),(1998),8.75,Alder Armin,2
+-,Schwyn Adrian,Adrian,8.75,Alder Armin,3
+o,Dumelin David *,*,8.50,Alder Armin,4
+o,Ulmann Fabian (1999),(1999),8.50,Gysel Hansruedi,1
+o,Ott Damian (2000),(2000),8.50,Gysel Hansruedi,2
+-,Räbsamen Marcel (2000),(2000),8.75,Gysel Hansruedi,3
+o,Rhyner Marco,Marco,8.50,Gysel Hansruedi,4
+o,Oertle Daniel,Daniel,8.50,Steiner Michael (1998),1
+o,Horner Sämi,Sämi,8.50,Steiner Michael (1998),2
+o,Lanter Christian (1998),(1998),8.50,Steiner Michael (1998),3
+o,Reichmuth Beat,Beat,8.50,Steiner Michael (1998),4
+o,Schwyn Adrian,Adrian,8.75,Kobler Janosch (2000),1
+,11.09.2017 21:35,21:35,Seite 6/,Kobler Janosch (2000),2

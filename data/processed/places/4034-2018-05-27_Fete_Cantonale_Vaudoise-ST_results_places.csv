@@ -1,0 +1,124 @@
+place,name,points,level
+1,Gapany Benjamin **,58.75,**
+2 c,Guisolan Marc **,58.25,**
+4,Kramer Lario **,57.75,**
+6,Matthey Mickaël **,57.00,**
+7 c,Rapin Florent,56.75,Florent
+7 f,Cardinaux Victor **,56.75,**
+2 a,Gottofrey Marc **,58.25,**
+3 a,Borcard Johann **,58.00,**
+5 a,Moser Steven **,57.50,**
+7 a,Colò Kilian,56.75,Kilian
+7 d,Roch Vincent **,56.75,**
+7 g,Hofer Sven *,56.75,*
+2 b,Piemontesi Pascal **,58.25,**
+3 b,Haenni Stéphane **,58.00,**
+5 b,Dousse Michel **,57.50,**
+7 b,Dind Samuel **,56.75,**
+7 e,Barras André *,56.75,*
+7 h,Varone Luc,56.75,Luc
+8 a,Derron Julien *,56.50,*
+9 a,Brodard Augustin **,56.25,**
+10 a,Cotting Alexandre,56.00,Alexandre
+12 a,Dubey Gaël,55.50,Gaël
+12 d,Derron Cédric *,55.50,*
+12 g,Ledermann Michael (2000),55.50,(2000)
+12 j,Cotting Florian,55.50,Florian
+12 m,Lerch Jimmy *,55.50,*
+12 p,Valvini Maxime,55.50,Maxime
+8 b,Emonet Frédéric **,56.50,**
+9 b,Mauron Olivier *,56.25,*
+10 b,Emonet Fabien **,56.00,**
+12 b,Gottofrey Luc *,55.50,*
+12 e,Ducrest Etienne *,55.50,*
+12 h,Monney Branighan,55.50,Branighan
+12 k,Kilchoer Alain *,55.50,*
+12 n,Lötscher Adrian *,55.50,*
+12 q,Wieland Janis *,55.50,*
+8 c,Mollet Ivan *,56.50,*
+9 c,Loup Alexandre *,56.25,*
+11,Golliard Steve,55.75,Steve
+12 c,Balimann Fabian,55.50,Fabian
+12 f,Kohler Matthias,55.50,Matthias
+12 i,Niederberger Nicola (2000),55.50,(2000)
+12 l,Kyburz Silas,55.50,Silas
+12 o,Perret Loïc (2002),55.50,(2002)
+12 r,Minder Florian **,55.50,**
+13 a,Beliakov Alexandre,55.25,Alexandre
+13 d,Ambresin Cyril **,55.25,**
+13 g,Choﬄon Anthony,55.25,Anthony
+13 j,Fankhauser Yanik (2002),55.25,(2002)
+13 m,Parvex Yannick *,55.25,*
+14 c,Borcard Clovis,55.00,Clovis
+14 f,Maridor Loïc,55.00,Loïc
+14 i,Roth Simon (2000),55.00,(2000)
+15 b,Giroud Jonathan **,54.75,**
+13 b,Dorsaz Théo,55.25,Théo
+13 e,Beaud Eric,55.25,Eric
+13 h,Crettaz Olivier *,55.25,*
+13 k,Hayoz Quentin *,55.25,*
+14 a,Burri Flemming,55.00,Flemming
+14 d,Dind Clément,55.00,Clément
+14 g,Martin Steve,55.00,Steve
+14 j,Wieland Timon,55.00,Timon
+15 c,Kramer Dorian *,54.75,*
+13 c,Kolly Elmar (2002),55.25,(2002)
+13 f,Bersier Jean-Jacques *,55.25,*
+13 i,Délitroz Lucien,55.25,Lucien
+13 l,Loup Grégoire (2000),55.25,(2000)
+14 b,Blanchard Benjamin,55.00,Benjamin
+14 e,Germanier Joel (2000),55.00,(2000)
+14 h,Pittet Guillaume,55.00,Guillaume
+15 a,Fercher Alain,54.75,Alain
+15 d,Pürro Tobias,54.75,Tobias
+15 e,Schöpfer Dio **,54.75,**
+15 h,Mollet Adrian,54.75,Adrian
+16 b,Grossenbacher Simon (2002),54.50,(2002)
+16 e,Tschachtli Sven (2002),54.50,(2002)
+17 b,Dormond Noa,54.25,Noa
+18 a,Blanchette Nicolas,54.00,Nicolas
+18 d,Z'Rotz Roman,54.00,Roman
+18 g,Vallotton Jason,54.00,Jason
+19 c,Borcard Guillaume,53.75,Guillaume
+15 f,Steiner Pirmin,54.75,Pirmin
+15 i,Schläﬂi Hugo (2002),54.75,(2002)
+16 c,Zimmermann Mario *,54.50,*
+16 f,Vonlanthen Alexandre,54.50,Alexandre
+17 c,Cochrane Benjamin,54.25,Benjamin
+18 b,Cottier Marco (2000),54.00,(2000)
+18 e,Aeschbacher Ivo (2001),54.00,(2001)
+19 a,Philipona Nicolas,53.75,Nicolas
+19 d,Lachavanne Noé,53.75,Noé
+15 g,Esseiva Olivier,54.75,Olivier
+16 a,Balimann Sandro (2001),54.50,(2001)
+16 d,Fankhauser Hans (2001),54.50,(2001)
+17 a,Ganière William,54.25,William
+17 d,Wieland Micha,54.25,Micha
+18 c,Jeannin Jess (2000),54.00,(2000)
+18 f,François Théo (2000),54.00,(2000)
+19 b,Ritler Nicolas,53.75,Nicolas
+19 e,Mosimann Quentin,53.75,Quentin
+19 f,Pellet Adrian,53.75,Adrian
+19 i,Sahli Kaïk,53.75,Kaïk
+20 a,Crettaz Julien,53.50,Julien
+20 d,Squaratti Yannick,53.50,Yannick
+20 g,Walzer Mickäel,53.50,Mickäel
+23,Goy Sébastien,52.50,Sébastien
+24 c,Lambert Ousama,52.25,Ousama
+25 b,Perrier Kilian (2001),51.00,(2001)
+* Kan,nal- bzw. Gauverbandskranzschwin,ger ** T,Gauverbandskranzschwin
+19 g,Poncet Alexandre,53.75,Alexandre
+19 j,Turin Antoine (2001),53.75,(2001)
+20 b,Denis Frédéric,53.50,Frédéric
+20 e,Terrettaz Lionel,53.50,Lionel
+21,Dorsaz Alexandre *,53.25,*
+24 a,Brun Pascal,52.25,Pascal
+24 d,Lopes Semedo Mauro (2001),52.25,(2001)
+25 c,Rouge Dany (2002),51.00,(2002)
+lverb,dskranzschwinger *** Eidg. Kranzs,chwinge,Kranzs
+19 h,Quartenoud Samuel,53.75,Samuel
+20 c,Longchamp Samuel,53.50,Samuel
+20 f,Vionnet Julien (2000),53.50,(2000)
+22,Bovay Bruno,53.00,Bruno
+24 b,Giuliani Johann (2002),52.25,(2002)
+25 a,Juan Liam (2002),51.00,(2002)

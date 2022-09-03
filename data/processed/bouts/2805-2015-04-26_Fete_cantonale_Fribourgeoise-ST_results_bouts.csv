@@ -1,0 +1,723 @@
+result,name,level,points,placed_fighter,fight_round
++,Gapany Benjamin **,**,10.00,Sempach Matthias ***,1
++,Cropt Harald **,**,10.00,Sempach Matthias ***,2
++,Guisolan Marc **,**,9.75,Sempach Matthias ***,3
++,Brodard Simon **,**,10.00,Sempach Matthias ***,4
++,Häni William **,**,9.75,Sempach Matthias ***,5
++,Guisolan Marc **,**,10.00,Sempach Matthias ***,6
++,Hayoz Quentin,Quentin,10.00,Duplan Steve (1997),1
++,Roch Vincent *,*,10.00,Duplan Steve (1997),2
+-,Casarico Fabio,Fabio,9.00,Duplan Steve (1997),3
++,Brand Andreas *,*,9.75,Duplan Steve (1997),4
+o,Guisolan Marc **,**,8.50,Duplan Steve (1997),5
++,Boschung Michaël,Michaël,10.00,Duplan Steve (1997),6
+-,Borcard Johann *,*,8.75,Gottofrey Marc *,1
++,Loup Alexandre (1997),(1997),10.00,Gottofrey Marc *,2
+-,Liaudat Rudy *,*,8.75,Gottofrey Marc *,3
++,Ducry Antoine,Antoine,9.75,Gottofrey Marc *,4
++,Emonet Frédéric *,*,10.00,Gottofrey Marc *,5
++,Hayoz Paul (1998),(1998),9.75,Gottofrey Marc *,6
++,Heiniger Vincent *,*,9.75,Overney Olivier *,1
+-,Studer Stefan **,**,8.75,Overney Olivier *,2
++,Barras François (1998),(1998),9.75,Overney Olivier *,3
++,Delabays Alexandre,Alexandre,9.75,Overney Olivier *,4
++,Derron Cédric *,*,9.75,Overney Olivier *,5
+-,Borcard Johann *,*,9.00,Overney Olivier *,6
+o,Guisolan Marc **,**,8.50,Kropf Thomas *,1
++,Mauron Olivier *,*,10.00,Kropf Thomas *,2
++,Gothuey Jean-Pierre *,*,10.00,Kropf Thomas *,3
+o,Gapany Benjamin **,**,8.50,Kropf Thomas *,4
++,Mosimann Vincent *,*,10.00,Kropf Thomas *,5
++,Piemontesi Pascal **,**,9.75,Kropf Thomas *,6
++,Gothuey Jean-Pierre *,*,9.75,Mauron Olivier *,1
+o,Kropf Thomas *,*,8.50,Mauron Olivier *,2
++,Dind Clément,Clément,10.00,Mauron Olivier *,3
++,Schwander Severin,Severin,10.00,Mauron Olivier *,4
+o,Piemontesi Pascal **,**,8.50,Mauron Olivier *,5
++,Pasche Bernard **,**,9.75,Mauron Olivier *,6
+-,Pellet Michael **,**,8.75,Studer Stefan **,1
+-,Overney Olivier *,*,9.00,Studer Stefan **,2
++,Oppliger Adrian,Adrian,10.00,Studer Stefan **,3
+-,Matthey Mickaël **,**,8.75,Studer Stefan **,4
++,Dubey Gaël,Gaël,10.00,Studer Stefan **,5
++,Roch Vincent *,*,10.00,Studer Stefan **,6
+-,Barras André,André,8.75,Kramer Lario (1998),1
++,Blanchard Benjamin (1997),(1997),9.75,Kramer Lario (1998),2
+-,Moser Steven **,**,8.75,Kramer Lario (1998),3
++,Zosso Fabian (1998),(1998),10.00,Kramer Lario (1998),4
+-,Remy Guillaume **,**,9.00,Kramer Lario (1998),5
++,Emonet Fabien,Fabien,10.00,Kramer Lario (1998),6
+-,Gottofrey Marc *,*,8.75,Borcard Johann *,1
++,Dorsaz Théo (1998),(1998),10.00,Borcard Johann *,2
++,Heiniger Vincent *,*,9.75,Borcard Johann *,3
++,Minder Florian,Florian,10.00,Borcard Johann *,4
+o,Niederberger Joel **,**,8.50,Borcard Johann *,5
+-,Overney Olivier *,*,9.00,Borcard Johann *,6
++,Matthey Mickaël **,**,9.75,Käser Remo **,1
++,Dind Samuel **,**,9.75,Käser Remo **,2
+-,Piemontesi Pascal **,**,9.00,Käser Remo **,3
++,Pellet Michael **,**,9.75,Käser Remo **,4
++,Gapany Benjamin **,**,9.75,Käser Remo **,5
++,Brodard Augustin **,**,9.75,Käser Remo **,6
+-,Piemontesi Pascal **,**,8.75,Brodard Simon **,1
++,Boschung Michaël,Michaël,10.00,Brodard Simon **,2
++,Sonnay Thomas **,**,10.00,Brodard Simon **,3
+o,Sempach Matthias ***,***,8.50,Brodard Simon **,4
++,Chèvre Bernard,Bernard,10.00,Brodard Simon **,5
++,Oppliger Adrian,Adrian,10.00,Brodard Simon **,6
+o,von Büren Stephan *,*,8.50,Moser Steven **,1
++,Cressier Gaetan,Gaetan,9.75,Moser Steven **,2
+-,Kramer Lario (1998),(1998),9.00,Moser Steven **,3
++,Pasche Bernard **,**,9.75,Moser Steven **,4
++,Parvex François **,**,10.00,Moser Steven **,5
++,Heiniger Vincent *,*,10.00,Moser Steven **,6
+-,Giroud Jonathan **,**,8.75,Kropf Rolf **,1
++,Chèvre Bernard,Bernard,9.75,Kropf Rolf **,2
++,Hayoz Paul (1998),(1998),10.00,Kropf Rolf **,3
++,Dind Samuel **,**,9.75,Kropf Rolf **,4
+-,Cropt Harald **,**,8.75,Kropf Rolf **,5
++,Derron Julien (1997),(1997),9.75,Kropf Rolf **,6
+o,Sempach Matthias ***,***,8.50,Gapany Benjamin **,1
++,Wicky Jonathan,Jonathan,9.75,Gapany Benjamin **,2
++,Aladenise Jonathan,Jonathan,10.00,Gapany Benjamin **,3
++,Kropf Thomas *,*,10.00,Gapany Benjamin **,4
+o,Käser Remo **,**,8.50,Gapany Benjamin **,5
++,Schwander Severin,Severin,10.00,Gapany Benjamin **,6
++,Schafer Claudio *,*,9.75,Emonet Frédéric *,1
+o,Sonnay Thomas **,**,8.50,Emonet Frédéric *,2
++,Borcard Clovis (1999),(1999),10.00,Emonet Frédéric *,3
+o,Gottofrey Marc *,*,8.50,Emonet Frédéric *,4
++,Rossy Yannick,Yannick,10.00,Emonet Frédéric *,5
++,Schafer Damien,Damien,9.75,Cardinaux Victor,1
+o,Brand Andreas *,*,8.50,Cardinaux Victor,2
++,Gassmann Simon,Simon,9.75,Cardinaux Victor,3
+-,Liaudat Rudy *,*,8.75,Cardinaux Victor,4
++,Forster Sämi (1997),(1997),9.75,Cardinaux Victor,5
++,Remy Guillaume **,**,9.75,Cardinaux Victor,6
+o,Quiot Didier,Didier,8.50,Gassmann Simon,1
++,Pouye Diey,Diey,9.75,Gassmann Simon,2
+o,Cardinaux Victor,Victor,8.50,Gassmann Simon,3
++,Barras François (1998),(1998),9.75,Gassmann Simon,4
++,Kramer Dorian (1999),(1999),9.75,Gassmann Simon,5
++,Giroud Jonathan **,**,9.75,Gassmann Simon,6
+-,Kramer Lario (1998),(1998),8.75,Barras André,1
++,Pellet Adrian (1997),(1997),10.00,Barras André,2
+o,Droxler Jonathan *,*,8.75,Barras André,3
+o,Zimmermann Mario,Mario,8.50,Barras André,4
++,Mariéthoz Grégory (1999),(1999),10.00,Barras André,5
++,Balimann Fabian (1998),(1998),10.00,Barras André,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Barras André,7
++,Mosimann Vincent *,*,10.00,Casarico Fabio,1
++,Parvex François **,**,10.00,Casarico Fabio,2
+-,Duplan Steve (1997),(1997),9.00,Casarico Fabio,3
++,Riedo Fredy,Fredy,10.00,Casarico Fabio,4
+o,von Büren Stephan *,*,8.50,Casarico Fabio,5
++,Delabays Alexandre,Alexandre,10.00,Casarico Fabio,6
++,Kropf Thomas *,*,10.00,Guisolan Marc **,1
++,Droxler Jonathan *,*,9.75,Guisolan Marc **,2
+o,Sempach Matthias ***,***,8.50,Guisolan Marc **,3
++,Boschung Markus,Markus,10.00,Guisolan Marc **,4
++,Duplan Steve (1997),(1997),10.00,Guisolan Marc **,5
+o,Sempach Matthias ***,***,8.75,Guisolan Marc **,6
++,Moser Steven **,**,9.75,von Büren Stephan *,1
+-,Brodard Augustin **,**,9.00,von Büren Stephan *,2
++,Brand Andreas *,*,9.75,von Büren Stephan *,3
+-,Niederberger Joel **,**,8.75,von Büren Stephan *,4
++,Casarico Fabio,Fabio,9.75,von Büren Stephan *,5
++,Berset Julien *,*,9.75,von Büren Stephan *,6
+-,Droxler Jonathan *,*,8.75,Häni William **,1
++,Pasche Bernard **,**,10.00,Häni William **,2
++,Hayoz Quentin,Quentin,9.75,Häni William **,3
++,Berset Julien *,*,9.75,Häni William **,4
+o,Sempach Matthias ***,***,8.50,Häni William **,5
++,Egger Pierre (1999),(1999),10.00,Häni William **,6
+-,Studer Stefan **,**,8.75,Pellet Michael **,1
++,Forster Sämi (1997),(1997),10.00,Pellet Michael **,2
++,Mosimann Vincent *,*,9.75,Pellet Michael **,3
+o,Käser Remo **,**,8.50,Pellet Michael **,4
++,Boschung Michaël,Michaël,9.75,Pellet Michael **,5
++,Droxler Jonathan *,*,9.75,Pellet Michael **,6
++,Niederberger Joel **,**,9.75,Dind Samuel **,1
+o,Käser Remo **,**,8.50,Dind Samuel **,2
++,Lützelschwab Luc (1999),(1999),10.00,Dind Samuel **,3
+o,Kropf Rolf **,**,8.50,Dind Samuel **,4
++,Hayoz Quentin,Quentin,9.75,Dind Samuel **,5
++,Gothuey Jean-Pierre *,*,10.00,Dind Samuel **,6
++,Arnold Christian,Christian,10.00,Zimmermann Mario,1
+-,Giroud Jonathan **,**,8.75,Zimmermann Mario,2
+-,Berset Cyril,Cyril,8.75,Zimmermann Mario,3
++,Barras André,André,10.00,Zimmermann Mario,4
+-,Liaudat Rudy *,*,8.75,Zimmermann Mario,5
++,Dind Clément,Clément,10.00,Zimmermann Mario,6
++,Vieux Sylvain *,*,9.75,Brodard Augustin **,1
+-,von Büren Stephan *,*,9.00,Brodard Augustin **,2
++,Pürro Christian (1999),(1999),10.00,Brodard Augustin **,3
+-,Rossy Yannick,Yannick,8.75,Brodard Augustin **,4
++,Minder Florian,Florian,10.00,Brodard Augustin **,5
+o,Käser Remo **,**,8.50,Brodard Augustin **,6
+-,Dubey Gaël,Gaël,8.75,Parvex Yannick,1
+-,Tenthorey Matthieu,Matthieu,8.75,Parvex Yannick,2
+o,Curty Alexandre,Alexandre,8.50,Parvex Yannick,3
++,Menoud Timothée (1999),(1999),10.00,Parvex Yannick,4
++,Vonlanthen Alexandre,Alexandre,10.00,Parvex Yannick,5
++,Pharisa Loic,Loic,9.75,Parvex Yannick,6
+,24.09.2021 19:25,19:25,Seite 1/,Parvex Yannick,7
+o,Dind Samuel **,**,8.50,Niederberger Joel **,1
++,Dubey Gaël,Gaël,10.00,Niederberger Joel **,2
+-,von Büren Stephan *,*,8.75,Niederberger Joel **,3
++,Borcard Johann *,*,9.75,Niederberger Joel **,4
+-,Cropt Harald **,**,8.75,Niederberger Joel **,5
+-,Brodard Simon **,**,8.75,Piemontesi Pascal **,1
++,Ducrest Etienne (1998),(1998),10.00,Piemontesi Pascal **,2
+-,Käser Remo **,**,8.75,Piemontesi Pascal **,3
++,Ducrest Romain,Romain,9.75,Piemontesi Pascal **,4
++,Mauron Olivier *,*,9.75,Piemontesi Pascal **,5
+o,Kropf Thomas *,*,8.50,Piemontesi Pascal **,6
+o,Cropt Harald **,**,8.50,Derron Cédric *,1
++,Schwander Severin,Severin,9.75,Derron Cédric *,2
++,Skryapnik Oleg,Oleg,9.75,Derron Cédric *,3
++,Remy Guillaume **,**,10.00,Derron Cédric *,4
+o,Overney Olivier *,*,8.50,Derron Cédric *,5
+-,Matthey Mickaël **,**,9.00,Derron Cédric *,6
++,Fuchs Yannick (1998),(1998),10.00,Ducrest Romain,1
+o,Loup Alexandre (1997),(1997),8.50,Ducrest Romain,2
++,Schöpfer Dio (1997),(1997),10.00,Ducrest Romain,3
+o,Piemontesi Pascal **,**,8.50,Ducrest Romain,4
+o,Heiniger Vincent *,*,8.50,Ducrest Romain,5
++,Dubey Gaël,Gaël,10.00,Ducrest Romain,6
++,Ducrest Romain,Romain,9.75,Loup Alexandre (1997),1
+o,Gottofrey Marc *,*,8.50,Loup Alexandre (1997),2
++,Berger Dilan (1998),(1998),10.00,Loup Alexandre (1997),3
+o,Schafer Claudio *,*,8.50,Loup Alexandre (1997),4
+-,Brand Andreas *,*,8.75,Loup Alexandre (1997),5
+-,Leuenberger Marc,Marc,8.75,Derron Julien (1997),1
++,Dufey Gil (1997),(1997),9.75,Derron Julien (1997),2
+o,Pasche Bernard **,**,8.50,Derron Julien (1997),3
++,Roulet Denis,Denis,10.00,Derron Julien (1997),4
++,Buchs Julien (1999),(1999),9.75,Derron Julien (1997),5
+o,Kropf Rolf **,**,8.50,Derron Julien (1997),6
+o,Cardinaux Victor,Victor,8.50,Schafer Damien,1
++,Capt Stéphane,Stéphane,9.75,Schafer Damien,2
++,Buchs Julien (1999),(1999),10.00,Schafer Damien,3
+o,Cropt Harald **,**,8.50,Schafer Damien,4
+o,Schwander Severin,Severin,8.50,Schafer Damien,5
++,Burri Flemming,Flemming,10.00,Schafer Damien,6
++,Aladenise Jonathan,Jonathan,9.75,Boschung Michaël,1
+o,Brodard Simon **,**,8.50,Boschung Michaël,2
++,Martin Jérémy (1998),(1998),10.00,Boschung Michaël,3
+o,Pellet Michael **,**,8.50,Boschung Michaël,4
+o,Duplan Steve (1997),(1997),8.50,Boschung Michaël,5
+-,Parvex François **,**,9.00,Minder Florian,1
++,Cotting Florian,Florian,10.00,Minder Florian,2
++,Vaucher Rémy (1999),(1999),10.00,Minder Florian,3
+o,Borcard Johann *,*,8.75,Minder Florian,4
+o,Brodard Augustin **,**,8.75,Minder Florian,5
+-,Mosimann Vincent *,*,8.75,Minder Florian,6
++,Derron Cédric *,*,10.00,Cropt Harald **,1
+o,Sempach Matthias ***,***,8.50,Cropt Harald **,2
++,Quiot Didier,Didier,10.00,Cropt Harald **,3
++,Schafer Damien,Damien,9.75,Cropt Harald **,4
+-,Kropf Rolf **,**,8.75,Cropt Harald **,5
+-,Niederberger Joel **,**,8.75,Cropt Harald **,6
+o,Schwander Severin,Severin,8.50,Kilchoer Alain,1
++,Leuenberger Marc,Marc,10.00,Kilchoer Alain,2
+-,Schafer Claudio *,*,8.75,Kilchoer Alain,3
++,Ruch Florian (1997),(1997),9.75,Kilchoer Alain,4
+o,Droxler Jonathan *,*,8.50,Kilchoer Alain,5
++,Rohrbach Sylvain (1997),(1997),10.00,Kilchoer Alain,6
+o,Overney Olivier *,*,8.50,Heiniger Vincent *,1
++,Riedo Fredy,Fredy,10.00,Heiniger Vincent *,2
+o,Borcard Johann *,*,8.50,Heiniger Vincent *,3
++,Vonlanthen Alexandre,Alexandre,10.00,Heiniger Vincent *,4
++,Ducrest Romain,Romain,10.00,Heiniger Vincent *,5
+o,Moser Steven **,**,8.50,Heiniger Vincent *,6
++,Dind Clément,Clément,9.75,Delabays Alexandre,1
+o,Liaudat Rudy *,*,8.50,Delabays Alexandre,2
++,Taillard Virgile (1998),(1998),10.00,Delabays Alexandre,3
+o,Overney Olivier *,*,8.50,Delabays Alexandre,4
+o,Casarico Fabio,Fabio,8.75,Delabays Alexandre,5
+-,Dufey Gil (1997),(1997),8.75,Hayoz Paul (1998),1
++,Mariéthoz Grégory (1999),(1999),9.75,Hayoz Paul (1998),2
+o,Kropf Rolf **,**,8.50,Hayoz Paul (1998),3
++,Capt Stéphane,Stéphane,10.00,Hayoz Paul (1998),4
++,Boschung Markus,Markus,9.75,Hayoz Paul (1998),5
+o,Gottofrey Marc *,*,8.50,Hayoz Paul (1998),6
++,Kilchoer Alain,Alain,9.75,Schwander Severin,1
+o,Derron Cédric *,*,8.50,Schwander Severin,2
++,Gauch Bastien,Bastien,10.00,Schwander Severin,3
+o,Mauron Olivier *,*,8.50,Schwander Severin,4
++,Schafer Damien,Damien,10.00,Schwander Severin,5
+o,Gapany Benjamin **,**,8.50,Schwander Severin,6
+o,Chèvre Bernard,Bernard,8.50,Oppliger Adrian,1
++,Rohrbach Sylvain (1997),(1997),10.00,Oppliger Adrian,2
+o,Studer Stefan **,**,8.50,Oppliger Adrian,3
++,Berger Alan (1998),(1998),10.00,Oppliger Adrian,4
++,Skryapnik Oleg,Oleg,9.75,Oppliger Adrian,5
+o,Brodard Simon **,**,8.50,Oppliger Adrian,6
+-,Brand Andreas *,*,8.75,Liaudat Rudy *,1
++,Delabays Alexandre,Alexandre,10.00,Liaudat Rudy *,2
+-,Gottofrey Marc *,*,8.75,Liaudat Rudy *,3
+-,Cardinaux Victor,Victor,8.75,Liaudat Rudy *,4
+-,Zimmermann Mario,Mario,9.00,Liaudat Rudy *,5
++,Von Niederhäusern Martin,Martin,10.00,Liaudat Rudy *,6
+-,Vonlanthen Alexandre,Alexandre,8.75,Skryapnik Oleg,1
++,Curty Alexandre,Alexandre,9.75,Skryapnik Oleg,2
+o,Derron Cédric *,*,8.50,Skryapnik Oleg,3
++,Tenthorey Matthieu,Matthieu,9.75,Skryapnik Oleg,4
+o,Oppliger Adrian,Adrian,8.50,Skryapnik Oleg,5
++,Wicky Jonathan,Jonathan,9.75,Skryapnik Oleg,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Skryapnik Oleg,7
+-,Barras David *,*,9.00,Berset Julien *,1
++,Rossy Yannick,Yannick,9.75,Berset Julien *,2
++,Berger Alan (1998),(1998),10.00,Berset Julien *,3
+o,Häni William **,**,8.50,Berset Julien *,4
++,Wicky Jonathan,Jonathan,10.00,Berset Julien *,5
+o,von Büren Stephan *,*,8.50,Berset Julien *,6
++,Crettaz Olivier,Olivier,9.75,Ducry Antoine,1
+-,Matthey Mickaël **,**,8.75,Ducry Antoine,2
++,Dorsaz Théo (1998),(1998),10.00,Ducry Antoine,3
+o,Gottofrey Marc *,*,8.75,Ducry Antoine,4
+o,Gothuey Jean-Pierre *,*,8.50,Ducry Antoine,5
++,Buchs Julien (1999),(1999),9.75,Ducry Antoine,6
+o,Duplan Steve (1997),(1997),8.75,Hayoz Quentin,1
++,Arnold Christian,Christian,10.00,Hayoz Quentin,2
+o,Häni William **,**,8.50,Hayoz Quentin,3
++,Blanchard Benjamin (1997),(1997),10.00,Hayoz Quentin,4
+o,Dind Samuel **,**,8.50,Hayoz Quentin,5
++,Chèvre Bernard,Bernard,9.75,Hayoz Quentin,6
+-,Minder Florian,Florian,8.75,Parvex François **,1
+o,Casarico Fabio,Fabio,8.50,Parvex François **,2
++,Rappo Yann (1998),(1998),9.75,Parvex François **,3
++,Burri Flemming,Flemming,10.00,Parvex François **,4
+o,Moser Steven **,**,8.50,Parvex François **,5
++,Vonlanthen Marc,Marc,9.75,Parvex François **,6
+-,Häni William **,**,8.75,Droxler Jonathan *,1
+o,Guisolan Marc **,**,8.50,Droxler Jonathan *,2
++,Barras André,André,9.75,Droxler Jonathan *,3
++,Kramer Dorian (1999),(1999),10.00,Droxler Jonathan *,4
++,Kilchoer Alain,Alain,9.75,Droxler Jonathan *,5
+o,Pellet Michael **,**,8.50,Droxler Jonathan *,6
++,Reichenbach Ryan (1999),(1999),10.00,Schöpfer Dio (1997),1
+o,Mosimann Vincent *,*,8.50,Schöpfer Dio (1997),2
+o,Ducrest Romain,Romain,8.50,Schöpfer Dio (1997),3
++,Rohrbach Sylvain (1997),(1997),10.00,Schöpfer Dio (1997),4
+o,Brand Andreas *,*,8.50,Schöpfer Dio (1997),5
++,Forster Sämi (1997),(1997),9.75,Schöpfer Dio (1997),6
+o,Mauron Olivier *,*,8.50,Gothuey Jean-Pierre *,1
++,Gauch Bastien,Bastien,10.00,Gothuey Jean-Pierre *,2
+o,Kropf Thomas *,*,8.50,Gothuey Jean-Pierre *,3
++,Forster Sämi (1997),(1997),9.75,Gothuey Jean-Pierre *,4
++,Ducry Antoine,Antoine,10.00,Gothuey Jean-Pierre *,5
+o,Dind Samuel **,**,8.50,Gothuey Jean-Pierre *,6
+-,Burgy Matt (1999),(1999),8.75,Egger Pierre (1999),1
+-,Berger Dilan (1998),(1998),9.00,Egger Pierre (1999),2
+-,Burgy Frank (1997),(1997),9.00,Egger Pierre (1999),3
++,Pürro Christian (1999),(1999),10.00,Egger Pierre (1999),4
++,Quiot Didier,Didier,10.00,Egger Pierre (1999),5
+o,Häni William **,**,8.50,Egger Pierre (1999),6
++,Ruch Florian (1997),(1997),9.75,Rossy Yannick,1
+o,Berset Julien *,*,8.50,Rossy Yannick,2
++,Cressier Gaetan,Gaetan,9.75,Rossy Yannick,3
+-,Brodard Augustin **,**,8.75,Rossy Yannick,4
++,Burri Flemming,Flemming,9.75,Rossy Yannick,5
+o,Emonet Frédéric *,*,8.50,Rossy Yannick,6
+,24.09.2021 19:25,19:25,Seite 2/,Rossy Yannick,7
++,Chautems Mike,Mike,10.00,Vaucher Rémy (1999),1
+o,Rappo Yann (1998),(1998),8.50,Vaucher Rémy (1999),2
+o,Minder Florian,Florian,8.50,Vaucher Rémy (1999),3
++,Pürro Fabrice (1999),(1999),9.75,Vaucher Rémy (1999),4
+o,Kolly Gaëtan (1998),(1998),8.50,Vaucher Rémy (1999),5
++,Kramer Dorian (1999),(1999),9.75,Vaucher Rémy (1999),6
++,Vonlanthen Marc,Marc,10.00,Bugnon Cédric,1
++,Pürro Tobias (1997),(1997),9.75,Bugnon Cédric,2
+o,Matthey Mickaël **,**,8.50,Bugnon Cédric,3
+o,Boschung Michaël,Michaël,8.50,Bugnon Cédric,4
+o,Delabays Alexandre,Alexandre,8.50,Bugnon Cédric,5
++,Rappo Yann (1998),(1998),9.75,Bugnon Cédric,6
++,Reymond Jessy (1998),(1998),9.75,Balimann Fabian (1998),1
++,Quiot Didier,Didier,9.75,Balimann Fabian (1998),2
+o,Remy Guillaume **,**,8.50,Balimann Fabian (1998),3
++,Rappo Yann (1998),(1998),9.75,Balimann Fabian (1998),4
+o,Giroud Jonathan **,**,8.50,Balimann Fabian (1998),5
+o,Barras André,André,8.50,Balimann Fabian (1998),6
+-,Curty Alexandre,Alexandre,8.75,Burgy Frank (1997),1
+-,Menoud Timothée (1999),(1999),8.75,Burgy Frank (1997),2
+-,Egger Pierre (1999),(1999),8.75,Burgy Frank (1997),3
++,Berger Dilan (1998),(1998),10.00,Burgy Frank (1997),4
+o,Gauch Bastien,Bastien,8.50,Burgy Frank (1997),5
++,Blanchard Benjamin (1997),(1997),10.00,Burgy Frank (1997),6
++,Tenthorey Matthieu,Matthieu,9.75,Gauch Bastien,1
+o,Gothuey Jean-Pierre *,*,8.50,Gauch Bastien,2
+o,Schwander Severin,Severin,8.50,Gauch Bastien,3
+-,Dind Clément,Clément,9.00,Gauch Bastien,4
++,Burgy Frank (1997),(1997),10.00,Gauch Bastien,5
+-,Leuenberger Marc,Marc,9.00,Gauch Bastien,6
+-,Skryapnik Oleg,Oleg,8.75,Vonlanthen Alexandre,1
+-,Pharisa Loic,Loic,8.75,Vonlanthen Alexandre,2
++,Burgy Matt (1999),(1999),10.00,Vonlanthen Alexandre,3
+o,Heiniger Vincent *,*,8.50,Vonlanthen Alexandre,4
+o,Parvex Yannick,Yannick,8.50,Vonlanthen Alexandre,5
++,Zosso Fabian (1998),(1998),10.00,Vonlanthen Alexandre,6
+o,Cressier Gaetan,Gaetan,8.50,Boschung Markus,1
++,Roulet Denis,Denis,10.00,Boschung Markus,2
++,Arnold Christian,Christian,10.00,Boschung Markus,3
+o,Guisolan Marc **,**,8.50,Boschung Markus,4
+o,Hayoz Paul (1998),(1998),8.50,Boschung Markus,5
+-,Lützelschwab Luc (1999),(1999),9.00,Boschung Markus,6
+-,Liaudat Rudy *,*,8.75,Brand Andreas *,1
++,Cardinaux Victor,Victor,10.00,Brand Andreas *,2
+o,von Büren Stephan *,*,8.50,Brand Andreas *,3
+o,Duplan Steve (1997),(1997),8.50,Brand Andreas *,4
++,Schöpfer Dio (1997),(1997),9.75,Brand Andreas *,5
+-,Loup Alexandre (1997),(1997),8.75,Brand Andreas *,6
+o,Sonnay Thomas **,**,8.50,Roch Vincent *,1
+o,Duplan Steve (1997),(1997),8.50,Roch Vincent *,2
++,Croisier Anthony,Anthony,10.00,Roch Vincent *,3
++,Giroud Jonathan **,**,9.75,Roch Vincent *,4
++,Berset Cyril,Cyril,9.75,Roch Vincent *,5
+o,Studer Stefan **,**,8.50,Roch Vincent *,6
++,Délitroz Lucien (1999),(1999),9.75,Vonlanthen Marc,1
++,Pürro Tobias (1997),(1997),9.75,Vonlanthen Marc,2
+o,Mosimann Vincent *,*,8.50,Vonlanthen Marc,3
++,Rappo Yann (1998),(1998),9.75,Vonlanthen Marc,4
+o,Parvex François **,**,8.50,Vonlanthen Marc,5
+o,Käser Remo **,**,8.50,Matthey Mickaël **,1
+-,Ducry Antoine,Antoine,8.75,Matthey Mickaël **,2
+-,Studer Stefan **,**,8.75,Matthey Mickaël **,3
++,Pürro Tobias (1997),(1997),9.75,Matthey Mickaël **,4
+-,Derron Cédric *,*,9.00,Matthey Mickaël **,5
++,Roulet Denis,Denis,10.00,Berset Cyril,1
+-,Schafer Claudio *,*,8.75,Berset Cyril,2
+-,Zimmermann Mario,Mario,8.75,Berset Cyril,3
++,Mariéthoz Grégory (1999),(1999),9.75,Berset Cyril,4
+o,Roch Vincent *,*,8.50,Berset Cyril,5
+-,Riedo Fredy,Fredy,9.00,Berset Cyril,6
+-,Mariéthoz Grégory (1999),(1999),9.00,Pharisa Loic,1
+-,Vonlanthen Alexandre,Alexandre,8.75,Pharisa Loic,2
++,Dufey Gil (1997),(1997),9.75,Pharisa Loic,3
+-,Vieux Sylvain *,*,8.75,Pharisa Loic,4
++,Pellet Adrian (1997),(1997),9.75,Pharisa Loic,5
+o,Parvex Yannick,Yannick,8.50,Pharisa Loic,6
+-,Capt Stéphane,Stéphane,8.75,Von Niederhäusern Martin,1
+o,Dind Clément,Clément,8.75,Von Niederhäusern Martin,2
+o,Rohrbach Sylvain (1997),(1997),8.75,Von Niederhäusern Martin,3
++,Burgy Matt (1999),(1999),9.75,Von Niederhäusern Martin,4
++,Cotting Florian,Florian,10.00,Von Niederhäusern Martin,5
+o,Liaudat Rudy *,*,8.50,Von Niederhäusern Martin,6
+o,Emonet Frédéric *,*,8.50,Schafer Claudio *,1
+-,Berset Cyril,Cyril,8.75,Schafer Claudio *,2
+-,Kilchoer Alain,Alain,8.75,Schafer Claudio *,3
++,Loup Alexandre (1997),(1997),9.75,Schafer Claudio *,4
+-,Leuenberger Marc,Marc,8.75,Schafer Claudio *,5
++,Kolly Gaëtan (1998),(1998),9.75,Schafer Claudio *,6
+o,Pasche Bernard **,**,8.50,Remy Guillaume **,1
++,Buchs Julien (1999),(1999),9.75,Remy Guillaume **,2
++,Balimann Fabian (1998),(1998),10.00,Remy Guillaume **,3
+o,Derron Cédric *,*,8.50,Remy Guillaume **,4
+-,Kramer Lario (1998),(1998),9.00,Remy Guillaume **,5
+o,Cardinaux Victor,Victor,8.50,Remy Guillaume **,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Remy Guillaume **,7
++,Remy Guillaume **,**,9.75,Pasche Bernard **,1
+o,Häni William **,**,8.50,Pasche Bernard **,2
++,Derron Julien (1997),(1997),9.75,Pasche Bernard **,3
+o,Moser Steven **,**,8.50,Pasche Bernard **,4
++,Emonet Fabien,Fabien,10.00,Pasche Bernard **,5
+o,Mauron Olivier *,*,8.50,Pasche Bernard **,6
+o,Lützelschwab Luc (1999),(1999),8.50,Kolly Gaëtan (1998),1
++,Goy Sébastien,Sébastien,9.75,Kolly Gaëtan (1998),2
+o,Riedo Fredy,Fredy,8.50,Kolly Gaëtan (1998),3
++,Ruch Florian (1997),(1997),9.75,Kolly Gaëtan (1998),4
++,Vaucher Rémy (1999),(1999),9.75,Kolly Gaëtan (1998),5
+o,Schafer Claudio *,*,8.50,Kolly Gaëtan (1998),6
+-,Derron Julien (1997),(1997),8.75,Leuenberger Marc,1
+o,Kilchoer Alain,Alain,8.50,Leuenberger Marc,2
++,Crettaz Olivier,Olivier,9.75,Leuenberger Marc,3
++,Curty Alexandre,Alexandre,10.00,Leuenberger Marc,4
+-,Schafer Claudio *,*,8.75,Leuenberger Marc,5
+-,Gauch Bastien,Bastien,9.00,Leuenberger Marc,6
++,Rohrbach Sylvain (1997),(1997),10.00,Riedo Fredy,1
+o,Heiniger Vincent *,*,8.50,Riedo Fredy,2
++,Kolly Gaëtan (1998),(1998),10.00,Riedo Fredy,3
+o,Casarico Fabio,Fabio,8.50,Riedo Fredy,4
+-,Lützelschwab Luc (1999),(1999),8.75,Riedo Fredy,5
+-,Berset Cyril,Cyril,9.00,Riedo Fredy,6
++,Kolly Gaëtan (1998),(1998),9.75,Lützelschwab Luc (1999),1
+-,Barras François (1998),(1998),8.75,Lützelschwab Luc (1999),2
+o,Dind Samuel **,**,8.50,Lützelschwab Luc (1999),3
++,Martin Jérémy (1998),(1998),9.75,Lützelschwab Luc (1999),4
+-,Riedo Fredy,Fredy,8.75,Lützelschwab Luc (1999),5
+-,Boschung Markus,Markus,9.00,Lützelschwab Luc (1999),6
+o,Delabays Alexandre,Alexandre,8.50,Dind Clément,1
++,Von Niederhäusern Martin,Martin,10.00,Dind Clément,2
+o,Mauron Olivier *,*,8.50,Dind Clément,3
+-,Gauch Bastien,Bastien,9.00,Dind Clément,4
++,Zosso Fabian (1998),(1998),10.00,Dind Clément,5
+o,Zimmermann Mario,Mario,8.50,Dind Clément,6
+-,Kropf Rolf **,**,8.75,Giroud Jonathan **,1
+-,Zimmermann Mario,Mario,8.75,Giroud Jonathan **,2
++,Emonet Fabien,Fabien,10.00,Giroud Jonathan **,3
+o,Roch Vincent *,*,8.50,Giroud Jonathan **,4
++,Balimann Fabian (1998),(1998),9.75,Giroud Jonathan **,5
+o,Gassmann Simon,Simon,8.50,Giroud Jonathan **,6
++,Oppliger Adrian,Adrian,10.00,Chèvre Bernard,1
+o,Kropf Rolf **,**,8.50,Chèvre Bernard,2
+-,Ruch Florian (1997),(1997),8.75,Chèvre Bernard,3
++,Ducrest Etienne (1998),(1998),10.00,Chèvre Bernard,4
+o,Brodard Simon **,**,8.50,Chèvre Bernard,5
+o,Hayoz Quentin,Quentin,8.50,Chèvre Bernard,6
+,24.09.2021 19:25,19:25,Seite 3/,Chèvre Bernard,7
++,Croisier Anthony,Anthony,10.00,Emonet Fabien,1
+o,Giroud Jonathan **,**,8.50,Emonet Fabien,2
++,Pellet Adrian (1997),(1997),10.00,Emonet Fabien,3
+o,Pasche Bernard **,**,8.50,Emonet Fabien,4
+o,Kramer Lario (1998),(1998),8.50,Emonet Fabien,5
+o,Casarico Fabio,Fabio,8.50,Mosimann Vincent *,1
++,Schöpfer Dio (1997),(1997),10.00,Mosimann Vincent *,2
+o,Pellet Michael **,**,8.50,Mosimann Vincent *,3
++,Vonlanthen Marc,Marc,9.75,Mosimann Vincent *,4
+o,Kropf Thomas *,*,8.50,Mosimann Vincent *,5
+-,Minder Florian,Florian,8.75,Mosimann Vincent *,6
++,Gassmann Simon,Simon,10.00,Quiot Didier,1
+o,Balimann Fabian (1998),(1998),8.50,Quiot Didier,2
+o,Cropt Harald **,**,8.50,Quiot Didier,3
++,Dorsaz Théo (1998),(1998),10.00,Quiot Didier,4
+o,Egger Pierre (1999),(1999),8.50,Quiot Didier,5
++,Croisier Anthony,Anthony,9.75,Wicky Jonathan,1
+o,Gapany Benjamin **,**,8.50,Wicky Jonathan,2
++,Taillard Virgile (1998),(1998),10.00,Wicky Jonathan,3
+o,Berset Julien *,*,8.50,Wicky Jonathan,4
+o,Skryapnik Oleg,Oleg,8.50,Wicky Jonathan,5
++,Berger Alan (1998),(1998),9.75,Kramer Dorian (1999),1
+o,Ducrest Etienne (1998),(1998),8.50,Kramer Dorian (1999),2
++,Bongard Jérôme,Jérôme,9.75,Kramer Dorian (1999),3
+o,Droxler Jonathan *,*,8.50,Kramer Dorian (1999),4
+o,Gassmann Simon,Simon,8.50,Kramer Dorian (1999),5
+o,Vaucher Rémy (1999),(1999),8.50,Kramer Dorian (1999),6
+-,Menoud Timothée (1999),(1999),8.75,Zosso Fabian (1998),1
+o,Dubey Gaël,Gaël,8.50,Zosso Fabian (1998),2
++,Goy Sébastien,Sébastien,10.00,Zosso Fabian (1998),3
+o,Kramer Lario (1998),(1998),8.50,Zosso Fabian (1998),4
+o,Dind Clément,Clément,8.50,Zosso Fabian (1998),5
+o,Vonlanthen Alexandre,Alexandre,8.50,Zosso Fabian (1998),6
++,Pouye Diey,Diey,9.75,Ducrest Etienne (1998),1
+o,Piemontesi Pascal **,**,8.50,Ducrest Etienne (1998),2
++,Kramer Dorian (1999),(1999),9.75,Ducrest Etienne (1998),3
+o,Chèvre Bernard,Bernard,8.50,Ducrest Etienne (1998),4
+-,Hayoz Paul (1998),(1998),8.75,Dufey Gil (1997),1
+o,Derron Julien (1997),(1997),8.50,Dufey Gil (1997),2
+o,Pharisa Loic,Loic,8.50,Dufey Gil (1997),3
++,Zimmermann Joël (1997),(1997),9.75,Dufey Gil (1997),4
+-,Von Niederhäusern Martin,Martin,8.75,Capt Stéphane,1
+o,Schafer Damien,Damien,8.50,Capt Stéphane,2
++,Zimmermann Joël (1997),(1997),9.75,Capt Stéphane,3
+o,Hayoz Paul (1998),(1998),8.50,Capt Stéphane,4
++,Duc Grégory,Grégory,9.75,Barras François (1998),1
+-,Lützelschwab Luc (1999),(1999),8.75,Barras François (1998),2
+o,Overney Olivier *,*,8.50,Barras François (1998),3
+o,Gassmann Simon,Simon,8.50,Barras François (1998),4
+o,Riedo Fredy,Fredy,8.50,Rohrbach Sylvain (1997),1
+o,Oppliger Adrian,Adrian,8.50,Rohrbach Sylvain (1997),2
++,Von Niederhäusern Martin,Martin,10.00,Rohrbach Sylvain (1997),3
+o,Schöpfer Dio (1997),(1997),8.75,Rohrbach Sylvain (1997),4
++,Blanchard Benjamin (1997),(1997),9.75,Rohrbach Sylvain (1997),5
+o,Kilchoer Alain,Alain,8.50,Rohrbach Sylvain (1997),6
++,Pürro Tobias (1997),(1997),0.25,Rohrbach Sylvain (1997),7
+-,Parvex Yannick,Yannick,8.75,Dubey Gaël,1
++,Zosso Fabian (1998),(1998),9.75,Dubey Gaël,2
+o,Niederberger Joel **,**,8.50,Dubey Gaël,3
++,Duc Grégory,Grégory,10.00,Dubey Gaël,4
+o,Studer Stefan **,**,8.50,Dubey Gaël,5
+o,Ducrest Romain,Romain,8.50,Dubey Gaël,6
++,Goy Sébastien,Sébastien,10.00,Pürro Tobias (1997),1
+o,Vonlanthen Marc,Marc,8.50,Pürro Tobias (1997),2
++,Daves Maxime (1997),(1997),10.00,Pürro Tobias (1997),3
+o,Matthey Mickaël **,**,8.50,Pürro Tobias (1997),4
+o,Rohrbach Sylvain (1997),(1997),8.50,Pürro Tobias (1997),5
++,Taillard Virgile (1998),(1998),9.75,Rappo Yann (1998),1
++,Vaucher Rémy (1999),(1999),10.00,Rappo Yann (1998),2
+o,Parvex François **,**,8.50,Rappo Yann (1998),3
+o,Balimann Fabian (1998),(1998),8.50,Rappo Yann (1998),4
+o,Vonlanthen Marc,Marc,8.50,Rappo Yann (1998),5
+-,Pharisa Loic,Loic,9.00,Mariéthoz Grégory (1999),1
+o,Hayoz Paul (1998),(1998),8.50,Mariéthoz Grégory (1999),2
++,Menoud Timothée (1999),(1999),10.00,Mariéthoz Grégory (1999),3
+o,Berset Cyril,Cyril,8.50,Mariéthoz Grégory (1999),4
+o,Barras André,André,8.50,Mariéthoz Grégory (1999),5
+-,Pellet Adrian (1997),(1997),8.75,Mariéthoz Grégory (1999),6
+o,Rossy Yannick,Yannick,8.50,Ruch Florian (1997),1
++,Crettaz Olivier,Olivier,10.00,Ruch Florian (1997),2
+-,Chèvre Bernard,Bernard,8.75,Ruch Florian (1997),3
+o,Kilchoer Alain,Alain,8.50,Ruch Florian (1997),4
+o,Kolly Gaëtan (1998),(1998),8.50,Ruch Florian (1997),5
+o,Cotting Florian,Florian,8.50,Ruch Florian (1997),6
+o,Gauch Bastien,Bastien,8.50,Tenthorey Matthieu,1
+-,Parvex Yannick,Yannick,8.75,Tenthorey Matthieu,2
++,Pouye Diey,Diey,9.75,Tenthorey Matthieu,3
+o,Skryapnik Oleg,Oleg,8.50,Tenthorey Matthieu,4
+-,Burgy Frank (1997),(1997),8.75,Curty Alexandre,1
+o,Skryapnik Oleg,Oleg,8.50,Curty Alexandre,2
++,Parvex Yannick,Yannick,9.75,Curty Alexandre,3
+o,Leuenberger Marc,Marc,8.50,Curty Alexandre,4
++,Egger Fabio (1999),(1999),9.75,Borcard Clovis (1999),1
+-,Pürro Christian (1999),(1999),8.75,Borcard Clovis (1999),2
+o,Emonet Frédéric *,*,8.50,Borcard Clovis (1999),3
+o,Buchs Julien (1999),(1999),8.50,Borcard Clovis (1999),4
+o,Boschung Michaël,Michaël,8.50,Aladenise Jonathan,1
++,Reichenbach Ryan (1999),(1999),9.75,Aladenise Jonathan,2
+o,Gapany Benjamin **,**,8.50,Aladenise Jonathan,3
+-,Bongard Jérôme,Jérôme,8.75,Aladenise Jonathan,4
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Aladenise Jonathan,5
++,Martin Jérémy (1998),(1998),9.75,Cotting Florian,1
+o,Minder Florian,Florian,8.50,Cotting Florian,2
+-,Vieux Sylvain *,*,8.75,Cotting Florian,3
+-,Cressier Gaetan,Gaetan,8.75,Cotting Florian,4
+o,Von Niederhäusern Martin,Martin,8.50,Cotting Florian,5
++,Ruch Florian (1997),(1997),9.75,Cotting Florian,6
++,Daves Maxime (1997),(1997),9.75,Burri Flemming,1
+-,Vieux Sylvain *,*,8.75,Burri Flemming,2
++,Pürro Fabrice (1999),(1999),10.00,Burri Flemming,3
+o,Parvex François **,**,8.50,Burri Flemming,4
+o,Rossy Yannick,Yannick,8.50,Burri Flemming,5
+o,Schafer Damien,Damien,8.50,Burri Flemming,6
++,Cotting Fabien (1999),(1999),10.00,Buchs Julien (1999),1
+o,Remy Guillaume **,**,8.50,Buchs Julien (1999),2
+o,Schafer Damien,Damien,8.50,Buchs Julien (1999),3
++,Borcard Clovis (1999),(1999),10.00,Buchs Julien (1999),4
+o,Derron Julien (1997),(1997),8.50,Buchs Julien (1999),5
+o,Ducry Antoine,Antoine,8.50,Buchs Julien (1999),6
++,Bongard Jérôme,Jérôme,10.00,Forster Sämi (1997),1
+o,Pellet Michael **,**,8.50,Forster Sämi (1997),2
++,Daves Maxime (1997),(1997),9.75,Forster Sämi (1997),3
+o,Gothuey Jean-Pierre *,*,8.50,Forster Sämi (1997),4
+o,Cardinaux Victor,Victor,8.50,Forster Sämi (1997),5
+o,Schöpfer Dio (1997),(1997),8.50,Forster Sämi (1997),6
+-,Berger Dilan (1998),(1998),8.75,Pellet Adrian (1997),1
+o,Barras André,André,8.50,Pellet Adrian (1997),2
++,Délitroz Lucien (1999),(1999),10.00,Pellet Adrian (1997),3
+o,Emonet Fabien,Fabien,8.50,Pellet Adrian (1997),4
+o,Pharisa Loic,Loic,8.50,Pellet Adrian (1997),5
+-,Mariéthoz Grégory (1999),(1999),8.75,Pellet Adrian (1997),6
+-,Zimmermann Joël (1997),(1997),8.75,Blanchard Benjamin (1997),1
+o,Kramer Lario (1998),(1998),8.50,Blanchard Benjamin (1997),2
++,Reichenbach Ryan (1999),(1999),10.00,Blanchard Benjamin (1997),3
+o,Hayoz Quentin,Quentin,8.50,Blanchard Benjamin (1997),4
+o,Rohrbach Sylvain (1997),(1997),8.50,Blanchard Benjamin (1997),5
+o,Burgy Frank (1997),(1997),8.50,Blanchard Benjamin (1997),6
++,Délitroz Lucien (1999),(1999),9.75,Pürro Christian (1999),1
+-,Borcard Clovis (1999),(1999),8.75,Pürro Christian (1999),2
+o,Brodard Augustin **,**,8.50,Pürro Christian (1999),3
+o,Egger Pierre (1999),(1999),8.50,Pürro Christian (1999),4
++,Boschung Markus,Markus,9.75,Cressier Gaetan,1
+o,Moser Steven **,**,8.50,Cressier Gaetan,2
+o,Rossy Yannick,Yannick,8.50,Cressier Gaetan,3
+-,Cotting Florian,Florian,8.75,Cressier Gaetan,4
+o,Forster Sämi (1997),(1997),8.50,Bongard Jérôme,1
++,Reymond Jessy (1998),(1998),9.75,Bongard Jérôme,2
+o,Kramer Dorian (1999),(1999),8.50,Bongard Jérôme,3
+-,Aladenise Jonathan,Jonathan,8.75,Bongard Jérôme,4
+o,Dorsaz Théo (1998),(1998),8.50,Pürro Fabrice (1999),1
++,Duc Grégory,Grégory,10.00,Pürro Fabrice (1999),2
+o,Burri Flemming,Flemming,8.50,Pürro Fabrice (1999),3
+o,Vaucher Rémy (1999),(1999),8.50,Pürro Fabrice (1999),4
+,24.09.2021 19:25,19:25,Seite 4/,Pürro Fabrice (1999),5
+o,Ducrest Etienne (1998),(1998),8.50,Pouye Diey,1
+o,Gassmann Simon,Simon,8.50,Pouye Diey,2
+o,Tenthorey Matthieu,Matthieu,8.50,Pouye Diey,3
++,Goy Sébastien,Sébastien,10.00,Pouye Diey,4
+o,Pürro Christian (1999),(1999),8.50,Délitroz Lucien (1999),1
+o,Vonlanthen Marc,Marc,8.50,Délitroz Lucien (1999),2
+o,Pellet Adrian (1997),(1997),8.50,Délitroz Lucien (1999),3
++,Egger Fabio (1999),(1999),10.00,Délitroz Lucien (1999),4
+o,Buchs Julien (1999),(1999),8.50,Cotting Fabien (1999),1
+o,Berger Alan (1998),(1998),8.50,Cotting Fabien (1999),2
+o,Arnold Christian,Christian,8.50,Cotting Fabien (1999),3
++,Reichenbach Ryan (1999),(1999),10.00,Cotting Fabien (1999),4
+o,Rappo Yann (1998),(1998),8.50,Taillard Virgile (1998),1
++,Fuchs Yannick (1998),(1998),9.75,Taillard Virgile (1998),2
+o,Delabays Alexandre,Alexandre,8.50,Taillard Virgile (1998),3
+o,Wicky Jonathan,Jonathan,8.50,Taillard Virgile (1998),4
+o,Burri Flemming,Flemming,8.50,Daves Maxime (1997),1
++,Egger Fabio (1999),(1999),9.75,Daves Maxime (1997),2
+o,Forster Sämi (1997),(1997),8.50,Daves Maxime (1997),3
+o,Pürro Tobias (1997),(1997),8.50,Daves Maxime (1997),4
+-,Zosso Fabian (1998),(1998),8.75,Menoud Timothée (1999),1
+-,Burgy Frank (1997),(1997),8.75,Menoud Timothée (1999),2
+o,Mariéthoz Grégory (1999),(1999),8.50,Menoud Timothée (1999),3
+o,Parvex Yannick,Yannick,8.50,Menoud Timothée (1999),4
+o,Ducrest Romain,Romain,8.50,Fuchs Yannick (1998),1
+o,Taillard Virgile (1998),(1998),8.50,Fuchs Yannick (1998),2
+-,Reymond Jessy (1998),(1998),8.75,Fuchs Yannick (1998),3
+o,Croisier Anthony,Anthony,8.50,Fuchs Yannick (1998),4
+o,Borcard Clovis (1999),(1999),8.50,Egger Fabio (1999),1
+o,Daves Maxime (1997),(1997),8.50,Egger Fabio (1999),2
+o,Duc Grégory,Grégory,8.50,Egger Fabio (1999),3
+o,Délitroz Lucien (1999),(1999),8.50,Egger Fabio (1999),4
+o,Balimann Fabian (1998),(1998),8.50,Reymond Jessy (1998),1
+o,Bongard Jérôme,Jérôme,8.50,Reymond Jessy (1998),2
+-,Fuchs Yannick (1998),(1998),8.75,Reymond Jessy (1998),3
+o,Cotting Florian,Florian,8.50,Martin Jérémy (1998),1
++,Chautems Mike,Mike,10.00,Martin Jérémy (1998),2
+o,Boschung Michaël,Michaël,8.50,Martin Jérémy (1998),3
+o,Lützelschwab Luc (1999),(1999),8.50,Martin Jérémy (1998),4
+o,Wicky Jonathan,Jonathan,8.50,Croisier Anthony,1
+o,Emonet Fabien,Fabien,8.50,Croisier Anthony,2
+o,Roch Vincent *,*,8.50,Croisier Anthony,3
++,Fuchs Yannick (1998),(1998),10.00,Croisier Anthony,4
+o,Kramer Dorian (1999),(1999),8.50,Berger Alan (1998),1
++,Cotting Fabien (1999),(1999),10.00,Berger Alan (1998),2
+o,Berset Julien *,*,8.50,Berger Alan (1998),3
+o,Oppliger Adrian,Adrian,8.50,Berger Alan (1998),4
+o,Berset Cyril,Cyril,8.50,Roulet Denis,1
+o,Boschung Markus,Markus,8.50,Roulet Denis,2
++,Chautems Mike,Mike,9.75,Roulet Denis,3
+o,Derron Julien (1997),(1997),8.50,Roulet Denis,4
+o,Brodard Augustin **,**,8.50,Vieux Sylvain *,1
+-,Burri Flemming,Flemming,8.75,Vieux Sylvain *,2
+-,Cotting Florian,Florian,8.75,Vieux Sylvain *,3
+-,Pharisa Loic,Loic,8.75,Vieux Sylvain *,4
+-,Egger Pierre (1999),(1999),8.75,Burgy Matt (1999),1
+-,Zimmermann Joël (1997),(1997),8.75,Burgy Matt (1999),2
+o,Vonlanthen Alexandre,Alexandre,8.50,Burgy Matt (1999),3
+o,Von Niederhäusern Martin,Martin,8.50,Burgy Matt (1999),4
+o,Schöpfer Dio (1997),(1997),8.50,Reichenbach Ryan (1999),1
+o,Aladenise Jonathan,Jonathan,8.50,Reichenbach Ryan (1999),2
+o,Blanchard Benjamin (1997),(1997),8.50,Reichenbach Ryan (1999),3
+o,Cotting Fabien (1999),(1999),8.50,Reichenbach Ryan (1999),4
+o,Vaucher Rémy (1999),(1999),8.50,Chautems Mike,1
+o,Martin Jérémy (1998),(1998),8.50,Chautems Mike,2
+o,Roulet Denis,Denis,8.50,Chautems Mike,3
+o,Crettaz Olivier,Olivier,8.50,Chautems Mike,4
+-,Berset Julien *,*,9.00,Barras David *,1
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Barras François (1998),(1998),8.50,Duc Grégory,1
+o,Pürro Fabrice (1999),(1999),8.50,Duc Grégory,2
++,Egger Fabio (1999),(1999),10.00,Duc Grégory,3
+o,Dubey Gaël,Gaël,8.50,Duc Grégory,4
+o,Ducry Antoine,Antoine,8.50,Crettaz Olivier,1
+o,Ruch Florian (1997),(1997),8.50,Crettaz Olivier,2
+o,Leuenberger Marc,Marc,8.50,Crettaz Olivier,3
++,Chautems Mike,Mike,10.00,Crettaz Olivier,4
+o,Zimmermann Mario,Mario,8.50,Arnold Christian,1
+o,Hayoz Quentin,Quentin,8.50,Arnold Christian,2
++,Cotting Fabien (1999),(1999),10.00,Arnold Christian,3
+o,Boschung Markus,Markus,8.50,Arnold Christian,4
++,Pürro Fabrice (1999),(1999),9.75,Dorsaz Théo (1998),1
+o,Borcard Johann *,*,8.50,Dorsaz Théo (1998),2
+o,Ducry Antoine,Antoine,8.50,Dorsaz Théo (1998),3
+o,Quiot Didier,Didier,8.50,Dorsaz Théo (1998),4
+-,Blanchard Benjamin (1997),(1997),8.75,Zimmermann Joël (1997),1
+-,Burgy Matt (1999),(1999),8.75,Zimmermann Joël (1997),2
+o,Capt Stéphane,Stéphane,8.50,Zimmermann Joël (1997),3
+o,Dufey Gil (1997),(1997),8.50,Zimmermann Joël (1997),4
+-,Pellet Adrian (1997),(1997),8.75,Berger Dilan (1998),1
+-,Egger Pierre (1999),(1999),8.75,Berger Dilan (1998),2
+o,Loup Alexandre (1997),(1997),8.50,Berger Dilan (1998),3
+o,Burgy Frank (1997),(1997),8.50,Berger Dilan (1998),4
+o,Pürro Tobias (1997),(1997),8.50,Goy Sébastien,1
+o,Kolly Gaëtan (1998),(1998),8.50,Goy Sébastien,2
+o,Zosso Fabian (1998),(1998),8.50,Goy Sébastien,3
+o,Pouye Diey,Diey,8.50,Goy Sébastien,4
++,Roch Vincent *,*,9.75,Sonnay Thomas **,1
++,Emonet Frédéric *,*,9.75,Sonnay Thomas **,2
+o,Brodard Simon **,**,8.50,Sonnay Thomas **,3
+,24.09.2021 19:25,19:25,Seite 5/,Sonnay Thomas **,4

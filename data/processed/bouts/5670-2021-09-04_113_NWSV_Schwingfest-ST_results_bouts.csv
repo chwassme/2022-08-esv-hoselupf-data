@@ -1,0 +1,593 @@
+result,name,level,points,placed_fighter,fight_round
++,Suppiger René ***,***,10.00,Döbeli Andreas ***,1
++,Stüdeli Thomas **,**,10.00,Döbeli Andreas ***,2
+-,Wenger Kilian ***,***,8.75,Döbeli Andreas ***,3
++,Schmutz Simon *,*,10.00,Döbeli Andreas ***,4
++,Matthey Mickaël **,**,10.00,Döbeli Andreas ***,5
++,Räbmatter Patrick ***,***,10.00,Döbeli Andreas ***,6
++,Imobersteg Matthias **,**,10.00,Odermatt Adrian *,1
+-,Duplan Steve ***,***,8.75,Odermatt Adrian *,2
++,Joho Pascal (2004),(2004),10.00,Odermatt Adrian *,3
+o,Kindlimann Fabian ***,***,8.50,Odermatt Adrian *,4
++,Roth Tim (2004),(2004),10.00,Odermatt Adrian *,5
++,Mangold Michael **,**,10.00,Odermatt Adrian *,6
+o,Duplan Steve ***,***,8.50,Hermann Oliver **,1
++,Christ Dario (2003) *,*,10.00,Hermann Oliver **,2
++,Frank Marius (2004),(2004),9.75,Hermann Oliver **,3
+o,Schurtenberger Sven ***,***,8.75,Hermann Oliver **,4
++,Ancona Enea (2004),(2004),9.75,Hermann Oliver **,5
++,Grieder Nonda,Nonda,10.00,Hermann Oliver **,6
++,Kindlimann Fabian ***,***,9.75,Erb Roger **,1
++,Joho Philip *,*,9.75,Erb Roger **,2
+-,Leuppi Samir ***,***,8.75,Erb Roger **,3
+o,Joho Pascal (2004),(2004),8.50,Erb Roger **,4
++,Stoll Thomas *,*,10.00,Erb Roger **,5
++,Roth Tim (2004),(2004),9.75,Erb Roger **,6
++,Stegmüller Klemens *,*,10.00,Schmid Samuel **,1
+o,Matthey Mickaël **,**,8.50,Schmid Samuel **,2
++,Stark Urban,Urban,9.75,Schmid Samuel **,3
++,Duplan Steve ***,***,10.00,Schmid Samuel **,4
+o,Leuppi Samir ***,***,8.50,Schmid Samuel **,5
++,Streich Sascha,Sascha,9.75,Schmid Samuel **,6
+o,Erb Roger **,**,8.50,Kindlimann Fabian ***,1
++,Bader Fabian *,*,10.00,Kindlimann Fabian ***,2
++,Imobersteg Matthias **,**,10.00,Kindlimann Fabian ***,3
++,Odermatt Adrian *,*,10.00,Kindlimann Fabian ***,4
+-,Schurtenberger Sven ***,***,8.75,Kindlimann Fabian ***,5
+-,Vieira Tiago **,**,8.75,Kindlimann Fabian ***,6
+-,Matthey Mickaël **,**,9.00,Brun Samuel **,1
++,Lisser Daniel *,*,10.00,Brun Samuel **,2
++,Hasler Luis,Luis,9.75,Brun Samuel **,3
+o,Wenger Kilian ***,***,8.50,Brun Samuel **,4
++,Joho Pascal (2004),(2004),10.00,Brun Samuel **,5
+-,Hügli Kaj **,**,8.75,Brun Samuel **,6
+-,Schurtenberger Sven ***,***,8.75,Räbmatter Patrick ***,1
++,Ris Jörn *,*,10.00,Räbmatter Patrick ***,2
++,Gerber Christian ***,***,10.00,Räbmatter Patrick ***,3
++,Joho Philip *,*,10.00,Räbmatter Patrick ***,4
++,Wenger Kilian ***,***,9.75,Räbmatter Patrick ***,5
+o,Döbeli Andreas ***,***,8.75,Räbmatter Patrick ***,6
+-,Räbmatter Patrick ***,***,8.75,Schurtenberger Sven ***,1
++,Brand Christian **,**,10.00,Schurtenberger Sven ***,2
++,Henzer Andreas **,**,9.75,Schurtenberger Sven ***,3
++,Hermann Oliver **,**,9.75,Schurtenberger Sven ***,4
+-,Kindlimann Fabian ***,***,8.75,Schurtenberger Sven ***,5
++,Mangold Martin *,*,10.00,Schurtenberger Sven ***,6
++,Vogel Remo *,*,10.00,Bader Fabian *,1
+o,Kindlimann Fabian ***,***,8.50,Bader Fabian *,2
++,Gfeller Joel (2005),(2005),10.00,Bader Fabian *,3
++,Schmid David ***,***,9.75,Bader Fabian *,4
+o,Strebel Joel ***,***,8.50,Bader Fabian *,5
++,Huser Roman,Roman,10.00,Bader Fabian *,6
++,Mangold Martin *,*,9.75,Brand Christian **,1
+o,Schurtenberger Sven ***,***,8.50,Brand Christian **,2
++,Graber Colin,Colin,9.75,Brand Christian **,3
+-,Suppiger René ***,***,8.75,Brand Christian **,4
++,Suter Jonas (2003),(2003),10.00,Brand Christian **,5
++,Joho Pascal (2004),(2004),9.75,Brand Christian **,6
+o,Leuppi Samir ***,***,8.50,Schmid David ***,1
++,Probst Gabriel **,**,10.00,Schmid David ***,2
++,Matthey Mickaël **,**,9.75,Schmid David ***,3
+o,Bader Fabian *,*,8.50,Schmid David ***,4
++,Christ Dario (2003) *,*,10.00,Schmid David ***,5
++,Reinhard Adrian *,*,9.75,Schmid David ***,6
++,Schmutz Adrian *,*,10.00,Hügli Kaj **,1
+-,Suppiger René ***,***,8.75,Hügli Kaj **,2
++,Grieder Nonda,Nonda,10.00,Hügli Kaj **,3
+o,Leuppi Samir ***,***,8.50,Hügli Kaj **,4
++,Stark Urban,Urban,10.00,Hügli Kaj **,5
+-,Brun Samuel **,**,8.75,Hügli Kaj **,6
+-,Reinhard Adrian *,*,9.00,Schmutz Simon *,1
++,Strebel Dominic (2005),(2005),10.00,Schmutz Simon *,2
++,Nussbaumer Gabriel,Gabriel,9.75,Schmutz Simon *,3
+o,Döbeli Andreas ***,***,8.50,Schmutz Simon *,4
++,Hasler Luis,Luis,10.00,Schmutz Simon *,5
+o,Matthey Mickaël **,**,8.75,Schmutz Simon *,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Schmutz Simon *,7
++,Schmid David ***,***,9.75,Leuppi Samir ***,1
++,Mangold Michael **,**,10.00,Leuppi Samir ***,2
+-,Erb Roger **,**,8.75,Leuppi Samir ***,3
++,Hügli Kaj **,**,10.00,Leuppi Samir ***,4
++,Schmid Samuel **,**,10.00,Leuppi Samir ***,5
+-,Strebel Joel ***,***,8.75,Leuppi Samir ***,6
++,Strebel Joel ***,***,10.00,Wenger Kilian ***,1
++,Vieira Tiago **,**,9.75,Wenger Kilian ***,2
+-,Döbeli Andreas ***,***,8.75,Wenger Kilian ***,3
++,Brun Samuel **,**,10.00,Wenger Kilian ***,4
+o,Räbmatter Patrick ***,***,8.50,Wenger Kilian ***,5
++,Stoll Simon **,**,10.00,Wenger Kilian ***,6
+o,Wenger Kilian ***,***,8.50,Strebel Joel ***,1
++,Stoll Thomas *,*,10.00,Strebel Joel ***,2
++,Duplan Steve ***,***,9.75,Strebel Joel ***,3
++,Stüdeli Thomas **,**,9.75,Strebel Joel ***,4
++,Bader Fabian *,*,9.75,Strebel Joel ***,5
+-,Leuppi Samir ***,***,8.75,Strebel Joel ***,6
++,Küng Marco *,*,9.75,Stüdeli Thomas **,1
+o,Döbeli Andreas ***,***,8.50,Stüdeli Thomas **,2
++,Regenass Beat,Beat,9.75,Stüdeli Thomas **,3
+o,Strebel Joel ***,***,8.50,Stüdeli Thomas **,4
++,Stocker Niklas (2005),(2005),10.00,Stüdeli Thomas **,5
++,Stark Urban,Urban,10.00,Stüdeli Thomas **,6
++,Scherrer Johann **,**,10.00,Vieira Tiago **,1
+o,Wenger Kilian ***,***,8.50,Vieira Tiago **,2
+-,Streich Sascha,Sascha,8.75,Vieira Tiago **,3
++,Ancona Enea (2004),(2004),10.00,Vieira Tiago **,4
++,Imobersteg Matthias **,**,10.00,Vieira Tiago **,5
+-,Kindlimann Fabian ***,***,8.75,Vieira Tiago **,6
+-,Gerber Christian ***,***,8.75,Henzer Andreas **,1
++,Vogt Marco (2003),(2003),10.00,Henzer Andreas **,2
+o,Schurtenberger Sven ***,***,8.50,Henzer Andreas **,3
++,Frank Marius (2004),(2004),10.00,Henzer Andreas **,4
+-,Reinhard Adrian *,*,8.75,Henzer Andreas **,5
++,Schwegler Dominik,Dominik,10.00,Henzer Andreas **,6
+-,Brun Samuel **,**,9.00,Matthey Mickaël **,1
++,Schmid Samuel **,**,10.00,Matthey Mickaël **,2
+o,Schmid David ***,***,8.75,Matthey Mickaël **,3
++,Nussbaumer Dominik,Dominik,10.00,Matthey Mickaël **,4
+o,Döbeli Andreas ***,***,8.50,Matthey Mickaël **,5
++,Schmutz Simon *,*,9.75,Matthey Mickaël **,6
+,16.10.2021 04:54,04:54,Seite 1/,Matthey Mickaël **,7
++,Lisser Daniel *,*,10.00,Hasler Luis,1
++,Abt Robin,Robin,10.00,Hasler Luis,2
+o,Brun Samuel **,**,8.75,Hasler Luis,3
+o,Odermatt Jonas (2004),(2004),8.75,Hasler Luis,4
+o,Schmutz Simon *,*,8.50,Hasler Luis,5
++,Büttler Gian,Gian,10.00,Hasler Luis,6
+-,Henzer Andreas **,**,8.75,Gerber Christian ***,1
++,Stoll Simon **,**,10.00,Gerber Christian ***,2
+o,Räbmatter Patrick ***,***,8.50,Gerber Christian ***,3
+-,Mangold Michael **,**,8.75,Gerber Christian ***,4
++,Kohler Adrian *,*,9.75,Gerber Christian ***,5
++,Ris Jörn *,*,10.00,Gerber Christian ***,6
++,Schick Janis (2003),(2003),9.75,Schwegler Dominik,1
+-,Kohler Adrian *,*,8.75,Schwegler Dominik,2
++,Hengartner Tobias (2003),(2003),9.75,Schwegler Dominik,3
+-,Schmutz Adrian *,*,8.75,Schwegler Dominik,4
++,Nussbaumer Dominik,Dominik,10.00,Schwegler Dominik,5
+o,Henzer Andreas **,**,8.50,Schwegler Dominik,6
++,Ris Jörn *,*,9.75,Joho Philip *,1
+o,Erb Roger **,**,8.50,Joho Philip *,2
++,Christ Marino (2005),(2005),10.00,Joho Philip *,3
+o,Räbmatter Patrick ***,***,8.50,Joho Philip *,4
+-,Streich Sascha,Sascha,8.75,Joho Philip *,5
++,Scherrer Johann **,**,10.00,Joho Philip *,6
++,Büttler Gian,Gian,9.75,Joho Pascal (2004),1
++,Späti Jan,Jan,10.00,Joho Pascal (2004),2
+o,Odermatt Adrian *,*,8.75,Joho Pascal (2004),3
++,Erb Roger **,**,10.00,Joho Pascal (2004),4
+o,Brun Samuel **,**,8.50,Joho Pascal (2004),5
+o,Brand Christian **,**,8.50,Joho Pascal (2004),6
++,Gisin Yanic,Yanic,9.75,Roth Tim (2004),1
+-,Scherrer Johann **,**,8.75,Roth Tim (2004),2
++,Stegmüller Klemens *,*,9.75,Roth Tim (2004),3
++,Hengartner Tobias (2003),(2003),10.00,Roth Tim (2004),4
+o,Odermatt Adrian *,*,8.50,Roth Tim (2004),5
+o,Erb Roger **,**,8.50,Roth Tim (2004),6
+o,Gfeller Joel (2005),(2005),8.50,Hermann Lukas,1
++,Wiedmer Lukas,Lukas,9.75,Hermann Lukas,2
+o,Frank Marius (2004),(2004),8.50,Hermann Lukas,3
+o,Abt Robin,Robin,8.50,Hermann Lukas,4
++,Rickenbacher Cedric,Cedric,10.00,Hermann Lukas,5
++,Nyﬀenegger Florian,Florian,10.00,Hermann Lukas,6
+o,Bader Fabian *,*,8.50,Vogel Remo *,1
+-,Hengartner Tobias (2003),(2003),9.00,Vogel Remo *,2
+-,Odermatt Jonas (2004),(2004),8.75,Vogel Remo *,3
++,Späti Jan,Jan,9.75,Vogel Remo *,4
+-,Büttler Gian,Gian,9.00,Vogel Remo *,5
++,Burkhardt Roy,Roy,10.00,Vogel Remo *,6
++,Probst Gabriel **,**,10.00,Vogel Remo *,7
+o,Hügli Kaj **,**,8.50,Schmutz Adrian *,1
+-,Graber Colin,Colin,8.75,Schmutz Adrian *,2
++,Schärer Nico (2004),(2004),10.00,Schmutz Adrian *,3
+-,Schwegler Dominik,Dominik,8.75,Schmutz Adrian *,4
++,Dünner Tobias (2005),(2005),9.75,Schmutz Adrian *,5
++,Suter Jonas (2003),(2003),10.00,Schmutz Adrian *,6
++,Jehle Aaron (2005),(2005),10.00,Bachmann Sämi,1
+-,Widmer David **,**,8.75,Bachmann Sämi,2
+o,Mangold Michael **,**,8.50,Bachmann Sämi,3
+-,Graber Colin,Colin,8.75,Bachmann Sämi,4
++,Steger Robert,Robert,9.75,Bachmann Sämi,5
++,Gfeller Joel (2005),(2005),10.00,Bachmann Sämi,6
++,Reimann Marco *,*,10.00,Stoll Simon **,1
+o,Gerber Christian ***,***,8.50,Stoll Simon **,2
+-,Dünner Tobias (2005),(2005),8.75,Stoll Simon **,3
++,Grieder Nonda,Nonda,10.00,Stoll Simon **,4
++,Schreiber Raphael (2004),(2004),9.75,Stoll Simon **,5
+o,Wenger Kilian ***,***,8.50,Stoll Simon **,6
+o,Müller Christian,Christian,8.50,Huser Roman,1
+-,Büttler Gian,Gian,8.75,Huser Roman,2
++,Furter Jannis (2004),(2004),9.75,Huser Roman,3
++,Hengartner Jonas (2005),(2005),10.00,Huser Roman,4
++,Küng Marco *,*,10.00,Huser Roman,5
+o,Bader Fabian *,*,8.50,Huser Roman,6
++,Christ Dario (2003) *,*,10.00,Grieder Nonda,1
++,Stocker Niklas (2005),(2005),10.00,Grieder Nonda,2
+o,Hügli Kaj **,**,8.50,Grieder Nonda,3
+o,Stoll Simon **,**,8.50,Grieder Nonda,4
++,Gfeller Joel (2005),(2005),9.75,Grieder Nonda,5
+o,Hermann Oliver **,**,8.75,Grieder Nonda,6
+-,Rickenbacher Cedric,Cedric,8.75,Böni Ralf (2004),1
+o,Ancona Enea (2004),(2004),8.50,Böni Ralf (2004),2
+o,Stampﬂi Simon (2004),(2004),8.50,Böni Ralf (2004),3
++,Thommen Nick,Nick,9.75,Böni Ralf (2004),4
++,Wiedmer Lukas,Lukas,10.00,Böni Ralf (2004),5
++,Schick Janis (2003),(2003),9.75,Böni Ralf (2004),6
++,Halbeisen Florian (2005),(2005),10.00,Frank Marius (2004),1
++,Hermann Lukas,Lukas,9.75,Frank Marius (2004),2
+o,Hermann Oliver **,**,8.50,Frank Marius (2004),3
+o,Henzer Andreas **,**,8.50,Frank Marius (2004),4
+o,Nussbaumer Gabriel,Gabriel,8.50,Frank Marius (2004),5
++,Nussbaumer Dominik,Dominik,9.75,Frank Marius (2004),6
++,Abt Robin,Robin,10.00,Frank Marius (2004),7
++,Regenass Reto,Reto,10.00,Schärer Nico (2004),1
+o,Odermatt Jonas (2004),(2004),8.50,Schärer Nico (2004),2
+o,Schmutz Adrian *,*,8.50,Schärer Nico (2004),3
++,Hengartner Jonas (2005),(2005),9.75,Schärer Nico (2004),4
+o,Stegmüller Klemens *,*,8.50,Schärer Nico (2004),5
++,Caviezel Nicolas (2003),(2003),9.75,Schärer Nico (2004),6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Schärer Nico (2004),7
++,Dobler Florian,Florian,10.00,Graber Colin,1
+-,Schmutz Adrian *,*,8.75,Graber Colin,2
+o,Brand Christian **,**,8.50,Graber Colin,3
+-,Bachmann Sämi,Sämi,8.75,Graber Colin,4
++,Späti Jan,Jan,9.75,Graber Colin,5
++,Imobersteg Matthias **,**,10.00,Graber Colin,6
++,Kohler Adrian *,*,10.00,Mangold Michael **,1
+o,Leuppi Samir ***,***,8.75,Mangold Michael **,2
++,Bachmann Sämi,Sämi,9.75,Mangold Michael **,3
+-,Gerber Christian ***,***,8.75,Mangold Michael **,4
++,Odermatt Jonas (2004),(2004),10.00,Mangold Michael **,5
+o,Odermatt Adrian *,*,8.50,Mangold Michael **,6
+o,Mangold Michael **,**,8.50,Kohler Adrian *,1
+-,Schwegler Dominik,Dominik,8.75,Kohler Adrian *,2
++,Strebel Dominic (2005),(2005),10.00,Kohler Adrian *,3
++,Dünner Tobias (2005),(2005),9.75,Kohler Adrian *,4
+o,Gerber Christian ***,***,8.50,Kohler Adrian *,5
++,Schreiber Raphael (2004),(2004),10.00,Kohler Adrian *,6
+o,Joho Philip *,*,8.75,Ris Jörn *,1
+o,Räbmatter Patrick ***,***,8.50,Ris Jörn *,2
++,Abt Robin,Robin,10.00,Ris Jörn *,3
++,Gisin Yanic,Yanic,9.75,Ris Jörn *,4
++,Strebel Dominic (2005),(2005),10.00,Ris Jörn *,5
+o,Gerber Christian ***,***,8.50,Ris Jörn *,6
+-,Widmer David **,**,8.75,Stoll Thomas *,1
+o,Strebel Joel ***,***,8.50,Stoll Thomas *,2
++,Reinhard Roman (2005),(2005),10.00,Stoll Thomas *,3
++,Nussbaumer Gabriel,Gabriel,9.75,Stoll Thomas *,4
+o,Erb Roger **,**,8.50,Stoll Thomas *,5
++,Stocker Niklas (2005),(2005),9.75,Stoll Thomas *,6
++,Steger Robert,Robert,9.75,Stark Urban,1
++,Reimann Marco *,*,10.00,Stark Urban,2
+o,Schmid Samuel **,**,8.50,Stark Urban,3
++,Stocker Niklas (2005),(2005),10.00,Stark Urban,4
+o,Hügli Kaj **,**,8.50,Stark Urban,5
+o,Stüdeli Thomas **,**,8.50,Stark Urban,6
+o,Grieder Nonda,Nonda,8.50,Christ Dario (2003) *,1
+o,Hermann Oliver **,**,8.50,Christ Dario (2003) *,2
++,Suter Jonas (2003),(2003),10.00,Christ Dario (2003) *,3
++,Kulmer Nick (2004),(2004),10.00,Christ Dario (2003) *,4
+o,Schmid David ***,***,8.50,Christ Dario (2003) *,5
++,Nussbaumer Gabriel,Gabriel,9.75,Christ Dario (2003) *,6
+o,Brand Christian **,**,8.50,Mangold Martin *,1
++,Nussbaumer Dominik,Dominik,9.75,Mangold Martin *,2
+o,Suppiger René ***,***,8.50,Mangold Martin *,3
++,Nyﬀenegger Florian,Florian,9.75,Mangold Martin *,4
++,Christ Marino (2005),(2005),10.00,Mangold Martin *,5
+o,Schurtenberger Sven ***,***,8.50,Mangold Martin *,6
+,16.10.2021 04:54,04:54,Seite 2/,Mangold Martin *,7
++,Böni Ralf (2004),(2004),9.75,Ancona Enea (2004),1
+o,Imobersteg Matthias **,**,8.50,Ancona Enea (2004),2
++,Halbeisen Florian (2005),(2005),10.00,Ancona Enea (2004),3
+o,Vieira Tiago **,**,8.50,Ancona Enea (2004),4
+o,Hermann Oliver **,**,8.50,Ancona Enea (2004),5
++,Dünner Tobias (2005),(2005),9.75,Ancona Enea (2004),6
++,Schreiber Raphael (2004),(2004),10.00,Streich Sascha,1
+-,Reinhard Adrian *,*,8.75,Streich Sascha,2
+-,Vieira Tiago **,**,8.75,Streich Sascha,3
++,Müller Christian,Christian,10.00,Streich Sascha,4
+-,Joho Philip *,*,8.75,Streich Sascha,5
+o,Schmid Samuel **,**,8.50,Streich Sascha,6
+-,Nyﬀenegger Florian,Florian,9.00,Späti Jan,1
+o,Joho Pascal (2004),(2004),8.50,Späti Jan,2
++,Maltsev Stepan (2005),(2005),9.75,Späti Jan,3
+o,Vogel Remo *,*,8.75,Späti Jan,4
+o,Graber Colin,Colin,8.75,Späti Jan,5
++,Reinhard Roman (2005),(2005),10.00,Späti Jan,6
+-,Odermatt Jonas (2004),(2004),8.75,Vogt Fredy,1
++,Rickenbacher Cedric,Cedric,9.75,Vogt Fredy,2
+-,Widmer David **,**,8.75,Vogt Fredy,3
+-,Küng Marco *,*,8.75,Vogt Fredy,4
+o,Fricker Ivo,Ivo,8.50,Vogt Fredy,5
++,Furter Jannis (2004),(2004),10.00,Vogt Fredy,6
++,Wiedmer Lukas,Lukas,10.00,Strebel Dominic (2005),1
+o,Schmutz Simon *,*,8.50,Strebel Dominic (2005),2
+o,Kohler Adrian *,*,8.50,Strebel Dominic (2005),3
++,Regenass Reto,Reto,9.75,Strebel Dominic (2005),4
+o,Ris Jörn *,*,8.50,Strebel Dominic (2005),5
+-,Regenass Beat,Beat,9.00,Strebel Dominic (2005),6
+-,Fricker Ivo,Ivo,8.75,Burkhardt Roy,1
+o,Dünner Tobias (2005),(2005),8.50,Burkhardt Roy,2
+o,Büttler Gian,Gian,8.50,Burkhardt Roy,3
++,Furter Jannis (2004),(2004),10.00,Burkhardt Roy,4
++,Reimann Marco *,*,10.00,Burkhardt Roy,5
+o,Vogel Remo *,*,8.50,Burkhardt Roy,6
++,Christ Marino (2005),(2005),9.75,Regenass Beat,1
++,Fricker Ivo,Ivo,9.75,Regenass Beat,2
+o,Stüdeli Thomas **,**,8.50,Regenass Beat,3
+o,Reinhard Adrian *,*,8.50,Regenass Beat,4
+o,Scherrer Johann **,**,8.50,Regenass Beat,5
+-,Strebel Dominic (2005),(2005),9.00,Regenass Beat,6
+o,Graber Colin,Colin,8.50,Dobler Florian,1
+o,Gfeller Joel (2005),(2005),8.50,Dobler Florian,2
+o,Fricker Ivo,Ivo,8.50,Dobler Florian,3
++,Halbeisen Florian (2005),(2005),10.00,Dobler Florian,4
++,Maltsev Stepan (2005),(2005),10.00,Dobler Florian,5
+o,Widmer David **,**,8.50,Dobler Florian,6
++,Kulmer Nick (2004),(2004),9.75,Abt Robin,1
+o,Hasler Luis,Luis,8.50,Abt Robin,2
+o,Ris Jörn *,*,8.50,Abt Robin,3
++,Hermann Lukas,Lukas,9.75,Abt Robin,4
+-,Probst Gabriel **,**,8.75,Abt Robin,5
+o,Frank Marius (2004),(2004),8.50,Abt Robin,6
+-,Vogt Fredy,Fredy,8.75,Odermatt Jonas (2004),1
++,Schärer Nico (2004),(2004),10.00,Odermatt Jonas (2004),2
+-,Vogel Remo *,*,8.75,Odermatt Jonas (2004),3
++,Hasler Luis,Luis,10.00,Odermatt Jonas (2004),4
+o,Mangold Michael **,**,8.50,Odermatt Jonas (2004),5
+-,Stegmüller Klemens *,*,9.00,Odermatt Jonas (2004),6
+-,Schmutz Simon *,*,9.00,Reinhard Adrian *,1
+-,Streich Sascha,Sascha,8.75,Reinhard Adrian *,2
++,Schick Janis (2003),(2003),9.75,Reinhard Adrian *,3
++,Regenass Beat,Beat,10.00,Reinhard Adrian *,4
+-,Henzer Andreas **,**,8.75,Reinhard Adrian *,5
+o,Schmid David ***,***,8.50,Reinhard Adrian *,6
+-,Probst Gabriel **,**,8.75,Nussbaumer Gabriel,1
++,Caviezel Nicolas (2003),(2003),10.00,Nussbaumer Gabriel,2
+o,Schmutz Simon *,*,8.75,Nussbaumer Gabriel,3
+o,Stoll Thomas *,*,8.50,Nussbaumer Gabriel,4
++,Frank Marius (2004),(2004),10.00,Nussbaumer Gabriel,5
+o,Christ Dario (2003) *,*,8.75,Nussbaumer Gabriel,6
+o,Vieira Tiago **,**,8.50,Scherrer Johann **,1
+-,Roth Tim (2004),(2004),8.75,Scherrer Johann **,2
++,Müller Christian,Christian,10.00,Scherrer Johann **,3
+-,Gfeller Joel (2005),(2005),8.75,Scherrer Johann **,4
++,Regenass Beat,Beat,10.00,Scherrer Johann **,5
+o,Joho Philip *,*,8.50,Scherrer Johann **,6
+-,Späti Jan,Jan,9.00,Nyﬀenegger Florian,1
+o,Schick Janis (2003),(2003),8.50,Nyﬀenegger Florian,2
++,Vogt Sandro (2004),(2004),9.75,Nyﬀenegger Florian,3
+o,Mangold Martin *,*,8.50,Nyﬀenegger Florian,4
++,Vogt Marco (2003),(2003),10.00,Nyﬀenegger Florian,5
+o,Hermann Lukas,Lukas,8.50,Nyﬀenegger Florian,6
+o,Stüdeli Thomas **,**,8.50,Küng Marco *,1
++,Hengartner Jonas (2005),(2005),9.75,Küng Marco *,2
+-,Vogt Marco (2003),(2003),8.75,Küng Marco *,3
+-,Vogt Fredy,Fredy,8.75,Küng Marco *,4
+o,Huser Roman,Roman,8.50,Küng Marco *,5
++,Vogt Sandro (2004),(2004),9.75,Küng Marco *,6
++,Hermann Lukas,Lukas,9.75,Gfeller Joel (2005),1
++,Dobler Florian,Florian,10.00,Gfeller Joel (2005),2
+o,Bader Fabian *,*,8.50,Gfeller Joel (2005),3
+-,Scherrer Johann **,**,8.75,Gfeller Joel (2005),4
+o,Grieder Nonda,Nonda,8.50,Gfeller Joel (2005),5
+o,Bachmann Sämi,Sämi,8.50,Gfeller Joel (2005),6
+-,Vogt Sandro (2004),(2004),8.75,Suter Jonas (2003),1
++,Regenass Reto,Reto,9.75,Suter Jonas (2003),2
+o,Christ Dario (2003) *,*,8.50,Suter Jonas (2003),3
++,Vogt Marco (2003),(2003),9.75,Suter Jonas (2003),4
+o,Brand Christian **,**,8.50,Suter Jonas (2003),5
+o,Schmutz Adrian *,*,8.50,Suter Jonas (2003),6
+o,Dünner Tobias (2005),(2005),8.50,Thommen Nick,1
+o,Schreiber Raphael (2004),(2004),8.50,Thommen Nick,2
+o,Steger Robert,Robert,8.50,Thommen Nick,3
+o,Böni Ralf (2004),(2004),8.50,Thommen Nick,4
++,Halbeisen Florian (2005),(2005),9.75,Thommen Nick,5
++,Nussbaumer Joschua (2003),(2003),10.00,Thommen Nick,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Thommen Nick,7
+o,Regenass Beat,Beat,8.50,Christ Marino (2005),1
++,Kulmer Nick (2004),(2004),9.75,Christ Marino (2005),2
+o,Joho Philip *,*,8.50,Christ Marino (2005),3
++,Maltsev Stepan (2005),(2005),9.75,Christ Marino (2005),4
+o,Mangold Martin *,*,8.50,Christ Marino (2005),5
++,Gisin Yanic,Yanic,9.75,Christ Marino (2005),6
+o,Schmid Samuel **,**,8.50,Stegmüller Klemens *,1
++,Müller Christian,Christian,9.75,Stegmüller Klemens *,2
+o,Roth Tim (2004),(2004),8.50,Stegmüller Klemens *,3
+-,Fricker Ivo,Ivo,9.00,Stegmüller Klemens *,4
++,Schärer Nico (2004),(2004),10.00,Stegmüller Klemens *,5
+-,Odermatt Jonas (2004),(2004),9.00,Stegmüller Klemens *,6
+-,Stoll Thomas *,*,8.75,Widmer David **,1
+-,Bachmann Sämi,Sämi,8.75,Widmer David **,2
+-,Vogt Fredy,Fredy,8.75,Widmer David **,3
+o,Büttler Gian,Gian,8.50,Widmer David **,4
++,Stampﬂi Simon (2004),(2004),9.75,Widmer David **,5
++,Dobler Florian,Florian,10.00,Widmer David **,6
+o,Joho Pascal (2004),(2004),8.50,Büttler Gian,1
+-,Huser Roman,Roman,8.75,Büttler Gian,2
++,Burkhardt Roy,Roy,9.75,Büttler Gian,3
++,Widmer David **,**,9.75,Büttler Gian,4
+-,Vogel Remo *,*,9.00,Büttler Gian,5
+o,Hasler Luis,Luis,8.50,Büttler Gian,6
++,Herrmann Daniel (2003),(2003),9.75,Hengartner Jonas (2005),1
+o,Küng Marco *,*,8.50,Hengartner Jonas (2005),2
+o,Huser Roman,Roman,8.50,Hengartner Jonas (2005),3
+o,Schärer Nico (2004),(2004),8.50,Hengartner Jonas (2005),4
+-,Reinhard Roman (2005),(2005),9.00,Hengartner Jonas (2005),5
++,Steger Robert,Robert,10.00,Hengartner Jonas (2005),6
+o,Streich Sascha,Sascha,8.50,Schreiber Raphael (2004),1
++,Thommen Nick,Nick,9.75,Schreiber Raphael (2004),2
+-,Lisser Daniel *,*,8.75,Schreiber Raphael (2004),3
++,Schick Janis (2003),(2003),10.00,Schreiber Raphael (2004),4
+o,Stoll Simon **,**,8.50,Schreiber Raphael (2004),5
+o,Kohler Adrian *,*,8.50,Schreiber Raphael (2004),6
+-,Furter Jannis (2004),(2004),8.75,Caviezel Nicolas (2003),1
+o,Nussbaumer Gabriel,Gabriel,8.50,Caviezel Nicolas (2003),2
+o,Nussbaumer Dominik,Dominik,8.50,Caviezel Nicolas (2003),3
++,Herrmann Daniel (2003),(2003),10.00,Caviezel Nicolas (2003),4
++,Jehle Aaron (2005),(2005),9.75,Caviezel Nicolas (2003),5
+o,Schärer Nico (2004),(2004),8.50,Caviezel Nicolas (2003),6
++,Thommen Nick,Nick,9.75,Dünner Tobias (2005),1
++,Burkhardt Roy,Roy,9.75,Dünner Tobias (2005),2
+-,Stoll Simon **,**,8.75,Dünner Tobias (2005),3
+o,Kohler Adrian *,*,8.50,Dünner Tobias (2005),4
+o,Schmutz Adrian *,*,8.50,Dünner Tobias (2005),5
+o,Ancona Enea (2004),(2004),8.50,Dünner Tobias (2005),6
++,Nussbaumer Joschua (2003),(2003),10.00,Stocker Niklas (2005),1
+o,Grieder Nonda,Nonda,8.50,Stocker Niklas (2005),2
++,Probst Gabriel **,**,9.75,Stocker Niklas (2005),3
+o,Stark Urban,Urban,8.50,Stocker Niklas (2005),4
+o,Stüdeli Thomas **,**,8.50,Stocker Niklas (2005),5
+o,Stoll Thomas *,*,8.50,Stocker Niklas (2005),6
+,16.10.2021 04:54,04:54,Seite 3/,Stocker Niklas (2005),7
++,Stampﬂi Simon (2004),(2004),9.75,Nussbaumer Dominik,1
+o,Mangold Martin *,*,8.50,Nussbaumer Dominik,2
++,Caviezel Nicolas (2003),(2003),10.00,Nussbaumer Dominik,3
+o,Matthey Mickaël **,**,8.50,Nussbaumer Dominik,4
+o,Schwegler Dominik,Dominik,8.50,Nussbaumer Dominik,5
+o,Frank Marius (2004),(2004),8.50,Nussbaumer Dominik,6
+o,Odermatt Adrian *,*,8.50,Imobersteg Matthias **,1
++,Ancona Enea (2004),(2004),9.75,Imobersteg Matthias **,2
+o,Kindlimann Fabian ***,***,8.50,Imobersteg Matthias **,3
++,Steger Robert,Robert,9.75,Imobersteg Matthias **,4
+o,Vieira Tiago **,**,8.50,Imobersteg Matthias **,5
+o,Graber Colin,Colin,8.50,Imobersteg Matthias **,6
+-,Nussbaumer Gabriel,Gabriel,8.75,Probst Gabriel **,1
+o,Schmid David ***,***,8.50,Probst Gabriel **,2
+o,Stocker Niklas (2005),(2005),8.75,Probst Gabriel **,3
++,Jehle Aaron (2005),(2005),10.00,Probst Gabriel **,4
+-,Abt Robin,Robin,8.75,Probst Gabriel **,5
+o,Vogel Remo *,*,8.50,Probst Gabriel **,6
+o,Stoll Simon **,**,8.50,Reimann Marco *,1
+o,Stark Urban,Urban,8.50,Reimann Marco *,2
+-,Gisin Yanic,Yanic,8.75,Reimann Marco *,3
+-,Stampﬂi Simon (2004),(2004),8.75,Reimann Marco *,4
+o,Burkhardt Roy,Roy,8.50,Reimann Marco *,5
++,Regenass Reto,Reto,10.00,Reimann Marco *,6
++,Reinhard Roman (2005),(2005),9.75,Vogt Marco (2003),1
+o,Henzer Andreas **,**,8.50,Vogt Marco (2003),2
+-,Küng Marco *,*,8.75,Vogt Marco (2003),3
+o,Suter Jonas (2003),(2003),8.75,Vogt Marco (2003),4
+o,Nyﬀenegger Florian,Florian,8.50,Vogt Marco (2003),5
+o,Jehle Aaron (2005),(2005),8.75,Vogt Marco (2003),6
+o,Hengartner Tobias (2003),(2003),8.50,Maltsev Stepan (2005),1
++,Nussbaumer Joschua (2003),(2003),10.00,Maltsev Stepan (2005),2
+o,Späti Jan,Jan,8.50,Maltsev Stepan (2005),3
+o,Christ Marino (2005),(2005),8.50,Maltsev Stepan (2005),4
+o,Dobler Florian,Florian,8.50,Maltsev Stepan (2005),5
+-,Rickenbacher Cedric,Cedric,8.75,Maltsev Stepan (2005),6
+o,Frank Marius (2004),(2004),8.50,Halbeisen Florian (2005),1
+o,Regenass Reto,Reto,8.50,Halbeisen Florian (2005),2
+o,Ancona Enea (2004),(2004),8.50,Halbeisen Florian (2005),3
+o,Dobler Florian,Florian,8.50,Halbeisen Florian (2005),4
+o,Thommen Nick,Nick,8.50,Halbeisen Florian (2005),5
++,Herrmann Daniel (2003),(2003),10.00,Halbeisen Florian (2005),6
+-,Burkhardt Roy,Roy,8.75,Fricker Ivo,1
+o,Regenass Beat,Beat,8.25,Fricker Ivo,2
++,Dobler Florian,Florian,10.00,Fricker Ivo,3
+-,Stegmüller Klemens *,*,9.00,Fricker Ivo,4
++,Vogt Fredy,Fredy,9.75,Fricker Ivo,5
++,Hermann Oliver **,**,10.00,Duplan Steve ***,1
+-,Odermatt Adrian *,*,8.75,Duplan Steve ***,2
+o,Strebel Joel ***,***,8.50,Duplan Steve ***,3
+o,Schmid Samuel **,**,8.50,Duplan Steve ***,4
+o,Bachmann Sämi,Sämi,8.50,Jehle Aaron (2005),1
+o,Gisin Yanic,Yanic,8.75,Jehle Aaron (2005),2
++,Wiedmer Lukas,Lukas,9.75,Jehle Aaron (2005),3
+o,Probst Gabriel **,**,8.50,Jehle Aaron (2005),4
+o,Caviezel Nicolas (2003),(2003),8.50,Jehle Aaron (2005),5
++,Vogt Marco (2003),(2003),9.75,Jehle Aaron (2005),6
+o,Vogt Marco (2003),(2003),8.50,Reinhard Roman (2005),1
++,Herrmann Daniel (2003),(2003),10.00,Reinhard Roman (2005),2
+o,Stoll Thomas *,*,8.50,Reinhard Roman (2005),3
+-,Hengartner Jonas (2005),(2005),9.00,Reinhard Roman (2005),4
+-,Regenass Reto,Reto,9.00,Reinhard Roman (2005),5
+o,Späti Jan,Jan,8.50,Reinhard Roman (2005),6
+o,Nussbaumer Dominik,Dominik,8.50,Stampﬂi Simon (2004),1
+-,Steger Robert,Robert,8.75,Stampﬂi Simon (2004),2
++,Böni Ralf (2004),(2004),9.75,Stampﬂi Simon (2004),3
+-,Reimann Marco *,*,8.75,Stampﬂi Simon (2004),4
+o,Widmer David **,**,8.50,Stampﬂi Simon (2004),5
+-,Gisin Yanic,Yanic,8.75,Stampﬂi Simon (2004),6
+o,Roth Tim (2004),(2004),8.50,Gisin Yanic,1
++,Jehle Aaron (2005),(2005),10.00,Gisin Yanic,2
+-,Reimann Marco *,*,8.75,Gisin Yanic,3
+o,Ris Jörn *,*,8.50,Gisin Yanic,4
+-,Stampﬂi Simon (2004),(2004),8.75,Gisin Yanic,5
+o,Christ Marino (2005),(2005),8.50,Gisin Yanic,6
+o,Stark Urban,Urban,8.50,Steger Robert,1
+-,Stampﬂi Simon (2004),(2004),8.75,Steger Robert,2
++,Thommen Nick,Nick,10.00,Steger Robert,3
+o,Imobersteg Matthias **,**,8.50,Steger Robert,4
+o,Bachmann Sämi,Sämi,8.50,Steger Robert,5
+o,Hengartner Jonas (2005),(2005),8.50,Steger Robert,6
+o,Strebel Dominic (2005),(2005),8.50,Wiedmer Lukas,1
+o,Hermann Lukas,Lukas,8.50,Wiedmer Lukas,2
+o,Jehle Aaron (2005),(2005),8.50,Wiedmer Lukas,3
++,Nussbaumer Joschua (2003),(2003),9.75,Wiedmer Lukas,4
+o,Böni Ralf (2004),(2004),8.50,Wiedmer Lukas,5
+-,Kulmer Nick (2004),(2004),8.75,Wiedmer Lukas,6
+o,Stocker Niklas (2005),(2005),8.50,Nussbaumer Joschua (2003),1
+o,Maltsev Stepan (2005),(2005),8.50,Nussbaumer Joschua (2003),2
+-,Herrmann Daniel (2003),(2003),8.75,Nussbaumer Joschua (2003),3
+o,Wiedmer Lukas,Lukas,8.50,Nussbaumer Joschua (2003),4
+o,Furter Jannis (2004),(2004),8.50,Nussbaumer Joschua (2003),5
+o,Thommen Nick,Nick,8.50,Nussbaumer Joschua (2003),6
++,Maltsev Stepan (2005),(2005),9.75,Hengartner Tobias (2003),1
+-,Vogel Remo *,*,9.00,Hengartner Tobias (2003),2
+o,Schwegler Dominik,Dominik,8.75,Hengartner Tobias (2003),3
+o,Roth Tim (2004),(2004),8.75,Hengartner Tobias (2003),4
++,Huser Roman,Roman,10.00,Müller Christian,1
+o,Stegmüller Klemens *,*,8.50,Müller Christian,2
+o,Scherrer Johann **,**,8.50,Müller Christian,3
+o,Streich Sascha,Sascha,8.50,Müller Christian,4
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Schwegler Dominik,Dominik,8.50,Schick Janis (2003),1
++,Nyﬀenegger Florian,Florian,9.75,Schick Janis (2003),2
+o,Reinhard Adrian *,*,8.50,Schick Janis (2003),3
+o,Schreiber Raphael (2004),(2004),8.50,Schick Janis (2003),4
++,Kulmer Nick (2004),(2004),9.75,Schick Janis (2003),5
+o,Böni Ralf (2004),(2004),8.50,Schick Janis (2003),6
+-,Suter Jonas (2003),(2003),8.75,Vogt Sandro (2004),1
+-,Furter Jannis (2004),(2004),8.75,Vogt Sandro (2004),2
+o,Nyﬀenegger Florian,Florian,8.75,Vogt Sandro (2004),3
+o,Rickenbacher Cedric,Cedric,8.50,Vogt Sandro (2004),4
++,Herrmann Daniel (2003),(2003),10.00,Vogt Sandro (2004),5
+o,Küng Marco *,*,8.50,Vogt Sandro (2004),6
+-,Böni Ralf (2004),(2004),8.75,Rickenbacher Cedric,1
+o,Vogt Fredy,Fredy,8.50,Rickenbacher Cedric,2
+o,Kulmer Nick (2004),(2004),8.50,Rickenbacher Cedric,3
++,Vogt Sandro (2004),(2004),9.75,Rickenbacher Cedric,4
+o,Hermann Lukas,Lukas,8.50,Rickenbacher Cedric,5
+-,Maltsev Stepan (2005),(2005),9.00,Rickenbacher Cedric,6
+-,Caviezel Nicolas (2003),(2003),8.75,Furter Jannis (2004),1
+-,Vogt Sandro (2004),(2004),8.75,Furter Jannis (2004),2
+o,Huser Roman,Roman,8.50,Furter Jannis (2004),3
+o,Burkhardt Roy,Roy,8.50,Furter Jannis (2004),4
++,Nussbaumer Joschua (2003),(2003),10.00,Furter Jannis (2004),5
+o,Vogt Fredy,Fredy,8.50,Furter Jannis (2004),6
+o,Schärer Nico (2004),(2004),8.50,Regenass Reto,1
+o,Suter Jonas (2003),(2003),8.50,Regenass Reto,2
++,Halbeisen Florian (2005),(2005),9.75,Regenass Reto,3
+o,Strebel Dominic (2005),(2005),8.50,Regenass Reto,4
+-,Reinhard Roman (2005),(2005),9.00,Regenass Reto,5
+o,Reimann Marco *,*,8.50,Regenass Reto,6
+o,Abt Robin,Robin,8.50,Kulmer Nick (2004),1
+o,Christ Marino (2005),(2005),8.50,Kulmer Nick (2004),2
++,Rickenbacher Cedric,Cedric,9.75,Kulmer Nick (2004),3
+o,Christ Dario (2003) *,*,8.50,Kulmer Nick (2004),4
+o,Schick Janis (2003),(2003),8.50,Kulmer Nick (2004),5
+-,Wiedmer Lukas,Lukas,8.75,Kulmer Nick (2004),6
+o,Hengartner Jonas (2005),(2005),8.50,Herrmann Daniel (2003),1
+o,Reinhard Roman (2005),(2005),8.50,Herrmann Daniel (2003),2
+-,Nussbaumer Joschua (2003),(2003),8.75,Herrmann Daniel (2003),3
+o,Caviezel Nicolas (2003),(2003),8.50,Herrmann Daniel (2003),4
+o,Vogt Sandro (2004),(2004),8.50,Herrmann Daniel (2003),5
+o,Halbeisen Florian (2005),(2005),8.50,Herrmann Daniel (2003),6
+o,Döbeli Andreas ***,***,8.75,Suppiger René ***,1
+-,Hügli Kaj **,**,8.75,Suppiger René ***,2
++,Mangold Martin *,*,9.75,Suppiger René ***,3
+-,Brand Christian **,**,8.75,Suppiger René ***,4
+o,Hasler Luis,Luis,8.50,Lisser Daniel *,1
+o,Brun Samuel **,**,8.50,Lisser Daniel *,2
+-,Schreiber Raphael (2004),(2004),8.75,Lisser Daniel *,3
+,16.10.2021 04:54,04:54,Seite 4/,Lisser Daniel *,4

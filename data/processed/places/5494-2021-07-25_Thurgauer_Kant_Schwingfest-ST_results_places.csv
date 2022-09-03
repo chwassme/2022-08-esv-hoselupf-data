@@ -1,0 +1,127 @@
+place,name,points,level
+1 a,Giger Samuel ***,58.25,***
+2 b,Kuster Thomas *,58.00,*
+5 a,Schneider Domenic ***,57.25,***
+6 a,Schneider Mario **,57.00,**
+6 d,Koller Silvan,57.00,Silvan
+6 g,Koller Fabian *,57.00,*
+7 b,Arztmann Beda **,56.75,**
+7 e,Kolb Pirmin *,56.75,*
+1 b,Schlegel Werner **,58.25,**
+3,Giger Urs *,57.75,*
+5 b,Oettli Marco **,57.25,**
+6 b,Schäppi Urs *,57.00,*
+6 e,Bernold Christian **,57.00,**
+6 h,Dändliker Shane **,57.00,**
+7 c,Krähenbühl Tobias ***,56.75,***
+7 f,Burkhalter Stefan ***,56.75,***
+2 a,Ott Damian **,58.00,**
+4,Hugelshofer Lars *,57.50,*
+5 c,Leuppi Samir ***,57.25,***
+6 c,Rüegg Fabian *,57.00,*
+6 f,Ackermann Remo *,57.00,*
+7 a,Notz Beni ***,56.75,***
+7 d,Kolb This (2003) *,56.75,*
+8,Kobler Janosch,56.25,Janosch
+9 a,Schild Cornel (2004),56.00,(2004)
+9 d,Kammermann Dominik,56.00,Dominik
+10 b,Fausch Kjetil *,55.75,*
+11 a,Krähenbühl Lukas *,55.50,*
+11 d,Reichmuth Beat,55.50,Beat
+11 g,Lengacher Gian (2003),55.50,(2003)
+11 j,Steiner Michael **,55.50,**
+11 m,Funk Nicola *,55.50,*
+12 a,Odermatt Michi,55.25,Michi
+9 b,Notz Armin *,56.00,*
+9 e,Kiser Aron,56.00,Aron
+10 c,Bürgler Patrick *,55.75,*
+11 b,Keller Lukas,55.50,Lukas
+11 e,Nägeli Marco **,55.50,**
+11 h,Keller Manuel *,55.50,*
+11 k,Mösli Marcel,55.50,Marcel
+11 n,Buchmann Michael,55.50,Michael
+12 b,Ulmann Fabian *,55.25,*
+9 c,Oettli Silvio *,56.00,*
+10 a,Fuster Arjuna (2003),55.75,(2003)
+10 d,Dumelin David **,55.75,**
+11 c,Galli Cedric,55.50,Cedric
+11 f,Leuppi Karim *,55.50,*
+11 i,Baumann Rico *,55.50,*
+11 l,Keller Dominic,55.50,Dominic
+11 o,Thiemann Fabrice,55.50,Fabrice
+12 c,Schmid Michael,55.25,Michael
+12 d,Straub Paul,55.25,Paul
+12 g,Raschle Urban (2003),55.25,(2003)
+12 j,Landolt Cla,55.25,Cla
+12 m,Burkhalter Thomas (2003) *,55.25,*
+12 p,Ammann Rico *,55.25,*
+13 b,Stadelmann Patrick,55.00,Patrick
+13 e,Schnurrenberger Roman **,55.00,**
+15 a,Imhof Gregor,54.50,Gregor
+16 a,Vollenweider Loïc (2004),54.25,(2004)
+12 e,Signer Tobias (2004),55.25,(2004)
+12 h,Müller Christian,55.25,Christian
+12 k,Kühne Cyrill (2004),55.25,(2004)
+12 n,Blaser Niklas *,55.25,*
+12 q,Fuster Sepp *,55.25,*
+13 c,Fässler Michael,55.00,Michael
+14 a,Scherrer Pascal,54.75,Pascal
+15 b,Studerus Jan,54.50,Jan
+16 b,Neﬀ Florian *,54.25,*
+12 f,Rieser Fabian,55.25,Fabian
+12 i,Mettler Valentin *,55.25,*
+12 l,Flück Bruno,55.25,Bruno
+12 o,Anliker Andri (2003),55.25,(2003)
+13 a,Götti Samuel,55.00,Samuel
+13 d,Dünner Zyan,55.00,Zyan
+14 b,Bucher Roman (2003),54.75,(2003)
+15 c,Bischof Martin,54.50,Martin
+16 c,Kiener Raphael,54.25,Raphael
+16 d,Peter Philipp,54.25,Philipp
+17 a,Stauﬀacher Martin,54.00,Martin
+17 d,Gerig Marcel,54.00,Marcel
+17 g,Fallegger Marc (2003),54.00,(2003)
+18 a,Zemp Stefan,53.75,Stefan
+18 d,Vetterli Sven (2003),53.75,(2003)
+18 g,Meier Christian (2003),53.75,(2003)
+18 j,Knup Stephan,53.75,Stephan
+19 b,Müggler Silvan,53.50,Silvan
+16 e,Koller Andreas,54.25,Andreas
+17 b,Magani Flurin,54.00,Flurin
+17 e,Bachmann Oliver (2004),54.00,(2004)
+17 h,Anliker Nino (2005),54.00,(2005)
+18 b,Weder Yanick (2003),53.75,(2003)
+18 e,Rickenmann Ramon,53.75,Ramon
+18 h,Lieberherr Michael,53.75,Michael
+18 k,Ackermann Roman,53.75,Roman
+19 c,Mock Marco,53.50,Marco
+16 f,Hinrichs Silvio (2004),54.25,(2004)
+17 c,Lüönd Remo (2003),54.00,(2003)
+17 f,Inauen Maurus (2003),54.00,(2003)
+17 i,Tritten Robin,54.00,Robin
+18 c,Walser Simon (2004),53.75,(2004)
+18 f,Müller Fabian,53.75,Fabian
+18 i,Lenherr Jonas (2005),53.75,(2005)
+19 a,Wolfer David (2003),53.50,(2003)
+19 d,Kern Sven (2003),53.50,(2003)
+19 e,Hangartner Maurice (2003),53.50,(2003)
+20 c,Egli Joel,53.00,Joel
+22,Stadelmann Lukas (2004),52.50,(2004)
+23 c,Bernhardsgrütter Stefan (2005,)52.25,(2005
+25,Vollmeier Sandro,45.25,Sandro
+27 b,Schegg Daniel,35.50,Daniel
+29,Bickel Roman *,17.00,*
+* Kan,nal- bzw. Gauverbandskranzschwin,ger ** T,Gauverbandskranzschwin
+20 a,Schiegg Raphael (2005),53.00,(2005)
+21 a,Spörndli Cyril (2003),52.75,(2003)
+23 a,Zemp Fabian (2004),52.25,(2004)
+23 d,Arnold Lukas,52.25,Lukas
+26,Rust Emanuel,42.50,Emanuel
+27 c,Bordos Ion,35.50,Ion
+lverb,dskranzschwinger *** Eidg. Kranzs,chwinge,Kranzs
+20 b,Hollenstein Mathias,53.00,Mathias
+21 b,Baumann Nico,52.75,Nico
+23 b,Meier Adrian (2005),52.25,(2005)
+24,Krucker Roman (2004),51.00,(2004)
+27 a,Bader Sandro,35.50,Sandro
+28,Oertig Simon *,17.25,*

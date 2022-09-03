@@ -1,0 +1,808 @@
+result,name,level,points,placed_fighter,fight_round
+o,Burkhalter Stefan,,8.50,Wenger Kilian ,1
++,Röthlisberger Simon,,10.00,Wenger Kilian ,2
++,Kläy Jean-Philippe,,10.00,Wenger Kilian ,3
++,Dick Christian,,10.00,Wenger Kilian ,4
++,Salzmann Beat,,10.00,Wenger Kilian ,5
++,Glarner Matthias,,10.00,Wenger Kilian ,6
++,Krebs Andreas,,10.00,Glarner Matthias ,1
+-,Burkhalter Stefan,,8.75,Glarner Matthias ,2
++,Kestenholz Christian,,10.00,Glarner Matthias ,3
++,Notter Thomas,,9.75,Glarner Matthias ,4
++,Bless Michael,,9.75,Glarner Matthias ,5
+o,Wenger Kilian,,8.75,Glarner Matthias ,6
++,Gerber Christian,,9.75,Gnägi Florian ,1
+o,Zbinden Stefan,,8.75,Gnägi Florian ,2
++,Zaugg Res,,10.00,Gnägi Florian ,3
++,Kestenholz Christian,,10.00,Gnägi Florian ,4
+-,Sempach Thomas,,8.75,Gnägi Florian ,5
++,Leuenberger Michael,,9.75,Gnägi Florian ,6
+-,Zbinden Stefan,,8.75,Anderegg Simon ,1
++,Aeschbacher Matthias,,10.00,Anderegg Simon ,2
+-,Bless Michael,,8.75,Anderegg Simon ,3
++,Röthlisberger Simon,,9.75,Anderegg Simon ,4
++,Staub Mael,,9.75,Anderegg Simon ,5
++,Wiedmer Mathias,,9.75,Anderegg Simon ,6
++,Wenger Kilian,,9.75,Burkhalter Stefan ,1
+-,Glarner Matthias,,8.75,Burkhalter Stefan ,2
+-,Zaugg Thomas,,8.75,Burkhalter Stefan ,3
++,Gerber Christian,,9.75,Burkhalter Stefan ,4
++,Kohler Rolf,,9.75,Burkhalter Stefan ,5
++,Moser Michael,,9.75,Burkhalter Stefan ,6
+-,Zaugg Thomas,,9.00,von Ah Benji ,1
++,Marti Stefan,,9.75,von Ah Benji ,2
+-,Lauper Hansruedi,,8.75,von Ah Benji ,3
++,Lengacher Jonas,,10.00,von Ah Benji ,4
++,Schenkel Adrian,,9.75,von Ah Benji ,5
+-,Graber Willy,,9.00,von Ah Benji ,6
+-,Sempach Matthias,,8.75,Bless Michael ,1
++,Kohler David,,10.00,Bless Michael ,2
+-,Anderegg Simon,,9.00,Bless Michael ,3
++,Kämpf Bernhard,,10.00,Bless Michael ,4
+o,Glarner Matthias,,8.50,Bless Michael ,5
++,Schmid Reto,,10.00,Bless Michael ,6
+-,Luginbühl Simon,,9.00,Kläy Jean-Philippe ,1
++,Spring Marc,,10.00,Kläy Jean-Philippe ,2
+o,Wenger Kilian,,8.50,Kläy Jean-Philippe ,3
++,Moser Michael,,10.00,Kläy Jean-Philippe ,4
++,Kestenholz Christian,,9.75,Kläy Jean-Philippe ,5
+-,Kämpf Bernhard,,8.75,Kläy Jean-Philippe ,6
++,Flühmann Michel,,9.75,Gäggeler Adrian ,1
+-,Tellenbach Martin,,8.75,Gäggeler Adrian ,2
+-,Zenger Michael,,8.75,Gäggeler Adrian ,3
++,Blaser Jan,,10.00,Gäggeler Adrian ,4
+o,Kämpf Bernhard,,8.50,Gäggeler Adrian ,5
++,Bohren Ruedi,,10.00,Gäggeler Adrian ,6
+-,Lengacher Jonas,,8.75,Bloch Dominik ,1
++,Bremgartner Marcel,,10.00,Bloch Dominik ,2
++,Schenkel Remo,,10.00,Bloch Dominik ,3
+o,Zaugg Thomas,,8.50,Bloch Dominik ,4
++,von Weissenfluh Kevin,,10.00,Bloch Dominik ,5
+o,Lauper Hansruedi,,8.50,Bloch Dominik ,6
+-,Camenzind Ivan,,8.75,Urfer Simon ,1
++,Zürcher Kurt,,9.75,Urfer Simon ,2
+-,Schütz Urs,,8.75,Urfer Simon ,3
++,Fankhauser Hans-Jakob,,9.75,Urfer Simon ,4
+o,Blatter Samuel,,8.50,Urfer Simon ,5
++,von Büren Stephan,,10.00,Urfer Simon ,6
++,Haldimann Markus,,9.75,Kohler David ,1
+o,Bless Michael,,8.50,Kohler David ,2
++,Habegger Jürg,,10.00,Kohler David ,3
+-,Krebs Andreas,,8.75,Kohler David ,4
+-,Jampen Simon,,8.75,Kohler David ,5
++,Gehrig Damian,,9.75,Kohler David ,6
+-,Schütz Urs,,8.75,Leuenberger Michael ,1
+o,Kämpf Simon,,8.50,Leuenberger Michael ,2
++,Graber Bruno,,9.75,Leuenberger Michael ,3
++,von Känel Daniel,,10.00,Leuenberger Michael ,4
++,Meuter Adrian,,10.00,Leuenberger Michael ,5
+o,Gnägi Florian,,8.50,Leuenberger Michael ,6
+-,Wittwer René,,9.00,Aeschbacher Jakob ,1
++,Oester Thomas,,9.75,Aeschbacher Jakob ,2
+o,Sempach Matthias,,8.50,Aeschbacher Jakob ,3
++,Rolli Martin,,9.75,Aeschbacher Jakob ,4
+o,Kämpf Simon,,8.50,Aeschbacher Jakob ,5
++,Haldimann Martin,,10.00,Aeschbacher Jakob ,6
++,Wälti Christoph,,10.00,Spring Marc ,1
+o,Kläy Jean-Philippe,,8.50,Spring Marc ,2
++,Fink Beat,,10.00,Spring Marc ,3
+o,Salzmann Beat,,8.50,Spring Marc ,4
+o,Gerber Christian,,8.50,Spring Marc ,5
++,Habegger Jürg,,10.00,Spring Marc ,6
+-,Burger Fredy,,8.75,Lauener Thomas ,1
++,Weyermann Michael,,10.00,Lauener Thomas ,2
+-,Schenkel Adrian,,9.00,Lauener Thomas ,3
+-,Quartenoud Maxime,,9.00,Lauener Thomas ,4
+o,Bohner Simon,,8.75,Lauener Thomas ,5
++,Schenkel Remo,,10.00,Lauener Thomas ,6
+o,Röthlisberger Simon,,8.50,Rolli Martin ,1
++,Fankhauser Reto,,9.75,Rolli Martin ,2
++,Stämpfli Lorenz,,10.00,Rolli Martin ,3
+o,Aeschbacher Jakob,,8.50,Rolli Martin ,4
+-,Oester Thomas,,8.75,Rolli Martin ,5
++,Wiedmer Thomas,,9.75,Rolli Martin ,6
++,Rolli Martin,,10.00,Röthlisberger Simon ,1
+o,Wenger Kilian,,8.50,Röthlisberger Simon ,2
++,Reusser Philipp,,10.00,Röthlisberger Simon ,3
+o,Anderegg Simon,,8.50,Röthlisberger Simon ,4
++,Müllener Armin,,9.75,Röthlisberger Simon ,5
+o,Sempach Thomas,,8.50,Röthlisberger Simon ,6
++,Jampen Simon,,9.75,Wüthrich Niklaus ,1
+o,Krebs Andreas,,8.50,Wüthrich Niklaus ,2
++,Bremgartner Marcel,,10.00,Wüthrich Niklaus ,3
+o,Lauper Hansruedi,,8.50,Wüthrich Niklaus ,4
++,Thomet Adrian,,9.75,Wüthrich Niklaus ,5
+o,Schenkel Adrian,,8.50,Wüthrich Niklaus ,6
+-,Fankhauser Kurt,,8.75,Blatter Samuel ,1
++,Kropf Thomas,,10.00,Blatter Samuel ,2
+-,Zindel Thomas,,8.75,Blatter Samuel ,3
+-,Bohner Simon,,9.00,Blatter Samuel ,4
++,Urfer Simon,,10.00,Blatter Samuel ,5
+o,Zbinden Stefan,,8.50,Blatter Samuel ,6
+-,Ruch Florian,,8.75,Zenger Michael ,1
+-,Quartenoud Maxime,,8.75,Zenger Michael ,2
+-,Gäggeler Adrian,,8.75,Zenger Michael ,3
++,Weyermann Florian,,10.00,Zenger Michael ,4
+o,Krebs Andreas,,8.50,Zenger Michael ,5
++,Fankhauser Reto,,10.00,Zenger Michael ,6
+-,Gilgen Pierre,,9.00,Gehrig Damian ,1
+o,Kämpf Bernhard,,8.75,Gehrig Damian ,2
++,Heeb Thierry,,9.75,Gehrig Damian ,3
+o,Schmid Reto,,8.50,Gehrig Damian ,4
++,Pulver Thomas,,10.00,Gehrig Damian ,5
+o,Kohler David,,8.75,Gehrig Damian ,6
+o,Kobel Lorenz,,8.50,Kappeler Ruedi ,1
+-,Zbinden Reto,,8.75,Kappeler Ruedi ,2
+-,Weyermann Florian,,8.75,Kappeler Ruedi ,3
++,Messer Marco,,10.00,Kappeler Ruedi ,4
++,Flühmann Michel,,9.75,Kappeler Ruedi ,5
+-,Wälti Christoph,,8.75,Kappeler Ruedi ,6
++,Heeb Thierry,,10.00,Kämpf Lorenz ,1
+o,Lauper Hansruedi,,8.50,Kämpf Lorenz ,2
+-,Pulver Thomas,,8.75,Kämpf Lorenz ,3
+o,Wiedmer Mathias,,8.50,Kämpf Lorenz ,4
+-,Blaser Jan,,8.75,Kämpf Lorenz ,5
++,Fankhauser Hans-Jakob,,10.00,Kämpf Lorenz ,6
+o,Zaugg Res,,8.50,Staub Mael ,1
++,Kobel Lorenz,,9.75,Staub Mael ,2
++,Schenk Patrick,,10.00,Staub Mael ,3
+o,Kohler Rolf,,8.75,Staub Mael ,4
+o,Anderegg Simon,,8.50,Staub Mael ,5
+-,Reust Markus,,9.00,Staub Mael ,6
+-,Lauener Thomas,,8.75,Burger Fredy ,1
++,Brügger Christoph,,9.75,Burger Fredy ,2
+o,Luginbühl Simon,,8.50,Burger Fredy ,3
++,Niederhäuser Martin,,9.75,Burger Fredy ,4
+-,Kobel Lorenz,,8.75,Burger Fredy ,5
+-,Stämpfli Lorenz,,8.75,Burger Fredy ,6
+o,Kohler David,,8.50,Haldimann Markus ,1
+-,Scheuner Michael,,8.75,Haldimann Markus ,2
++,Jampen Simon,,9.75,Haldimann Markus ,3
++,Kropf Thomas,,10.00,Haldimann Markus ,4
+-,Tschachtli Stephan,,8.75,Haldimann Markus ,5
+o,Luginbühl Simon,,8.50,Haldimann Markus ,6
+o,Reust Markus,,8.75,Stämpfli Lorenz ,1
++,Flühmann Michel,,9.75,Stämpfli Lorenz ,2
+o,Rolli Martin,,8.75,Stämpfli Lorenz ,3
++,Salzmann Simon,,9.75,Stämpfli Lorenz ,4
+o,Moser Michael,,8.50,Stämpfli Lorenz ,5
+-,Burger Fredy,,8.75,Stämpfli Lorenz ,6
+o,Wittwer Josias,,8.50,Gerber Marco ,1
++,Allenbach Björn,,10.00,Gerber Marco ,2
+-,Gilgen Pierre,,9.00,Gerber Marco ,3
+o,Meuter Adrian,,8.50,Gerber Marco ,4
++,Niederhäuser Martin,,9.75,Gerber Marco ,5
+o,Wittwer René,,8.50,Gerber Marco ,6
+-,Lauper Hansruedi,,8.75,Zindel Thomas ,1
+-,Salzmann Beat,,9.00,Zindel Thomas ,2
+-,Blatter Samuel,,8.75,Zindel Thomas ,3
+-,Fankhauser Kurt,,9.00,Zindel Thomas ,4
++,Blaser Roman,,10.00,Zindel Thomas ,5
+-,Krebs Andreas,,8.75,Zindel Thomas ,6
+o,Reusser Philipp,,8.50,Walther Tobias ,1
++,Gehrig Philipp,,9.75,Walther Tobias ,2
+-,Blaser Roman,,8.75,Walther Tobias ,3
+o,Scheuner Michael,,8.50,Walther Tobias ,4
++,Fankhauser Hans-Jakob,,10.00,Walther Tobias ,5
+o,Graber Bruno,,8.50,Walther Tobias ,6
++,Michel Jonas,,9.75,Leuenberger Thomas ,1
++,Luginbühl Simon,,9.75,Leuenberger Thomas ,2
+o,Kämpf Bernhard,,8.50,Leuenberger Thomas ,3
+o,Luginbühl Hanspeter,,8.50,Leuenberger Thomas ,4
+o,Schenk Patrick,,8.50,Leuenberger Thomas ,5
+-,Scheuner Michael,,9.00,Leuenberger Thomas ,6
+o,Wiedmer Thomas,,8.50,von Känel Daniel ,1
++,Mosimann Fabian,,10.00,von Känel Daniel ,2
+o,Tellenbach Martin,,8.50,von Känel Daniel ,3
+o,Leuenberger Michael,,8.50,von Känel Daniel ,4
+o,Weyermann Michael,,8.50,von Känel Daniel ,5
++,Flühmann Michel,,10.00,von Känel Daniel ,6
++,Nägeli Niklaus,,10.00,Fink Beat ,1
+o,Ruch Florian,,8.50,Fink Beat ,2
+o,Spring Marc,,8.50,Fink Beat ,3
+o,Thomet Adrian,,8.50,Fink Beat ,4
++,Aebi Roger,,10.00,Fink Beat ,5
+o,Oester Thomas,,8.50,Fink Beat ,6
++,Fankhauser Hans-Jakob,,9.75,Schenkel Remo ,1
++,Kocher Beat,,9.75,Schenkel Remo ,2
+o,Bloch Dominik,,8.50,Schenkel Remo ,3
+o,Roschi Ruedi,,8.50,Schenkel Remo ,4
+-,Quartenoud Maxime,,8.75,Schenkel Remo ,5
+o,Lauener Thomas,,8.50,Schenkel Remo ,6
+o,Leuenberger Thomas,,8.50,Michel Jonas ,1
++,Aebi Roger,,10.00,Michel Jonas ,2
+-,Haldimann Martin,,8.75,Michel Jonas ,3
+-,Zbinden Reto,,8.75,Michel Jonas ,4
+-,Waber Lorenz,,8.75,Michel Jonas ,5
+-,Graber Alfred,,8.75,Michel Jonas ,6
++,Zbinden Reto,,9.75,Fankhauser Reto ,1
+o,Rolli Martin,,8.75,Fankhauser Reto ,2
+o,Wittwer René,,8.50,Fankhauser Reto ,3
+-,Kämpf Marcel,,8.75,Fankhauser Reto ,4
+-,Camenzind Ivan,,9.00,Fankhauser Reto ,5
+o,Zenger Michael,,8.50,Fankhauser Reto ,6
++,Jenzer Janick,,10.00,Graber Bänz ,1
+o,Habegger Jürg,,8.75,Graber Bänz ,2
+o,Roschi Ruedi,,8.50,Graber Bänz ,3
+o,Oester Thomas,,8.50,Graber Bänz ,4
+o,Wiedmer Thomas,,8.50,Graber Bänz ,5
+-,Nägeli Niklaus,,8.75,Graber Bänz ,6
+o,Gäggeler Adrian,,8.50,Flühmann Michel ,1
+o,Stämpfli Lorenz,,8.50,Flühmann Michel ,2
++,Stucki Daniel,,10.00,Flühmann Michel ,3
+o,Kämpf Alexander,,8.75,Flühmann Michel ,4
+o,Kappeler Ruedi,,8.50,Flühmann Michel ,5
+o,von Känel Daniel,,8.75,Flühmann Michel ,6
+o,Fink Beat,,8.50,Nägeli Niklaus ,1
++,Stucki Daniel,,9.75,Nägeli Niklaus ,2
+o,Fankhauser Hans-Jakob,,8.50,Nägeli Niklaus ,3
+o,Schenk Patrick,,8.75,Nägeli Niklaus ,4
+o,Reusser Philipp,,8.50,Nägeli Niklaus ,5
+-,Graber Bänz,,8.75,Nägeli Niklaus ,6
+o,Aebi Roger,,8.50,Klossner Adrian ,1
+-,Schmid Lars,,8.75,Klossner Adrian ,2
+o,Scheidegger Markus,,8.50,Klossner Adrian ,3
++,Gehrig Philipp,,9.75,Klossner Adrian ,4
+o,Graber Alfred,,8.50,Klossner Adrian ,5
+o,Blaser Jan,,8.50,Klossner Adrian ,6
++,Gerber Marco,,9.75,Wittwer Josias ,1
+o,Lanz Christian,,8.50,Wittwer Josias ,2
+o,Brönnimann Ronny,,8.50,Wittwer Josias ,3
+o,"Jampen Simon 
+ausgeschieden ausgeschieden",,8.50,Wittwer Josias ,4
+-,Gehrig Damian,,8.75,Gilgen Pierre ,1
+o,Haldimann Martin,,8.50,Gilgen Pierre ,2
+-,Gerber Marco,,8.75,Gilgen Pierre ,3
+-,Allenbach Björn ausgeschieden ausgeschieden,,8.75,Gilgen Pierre ,4
+-,Weyermann Florian,,8.75,Kocher Beat ,1
+o,Schenkel Remo,,8.50,Kocher Beat ,2
+o,Christen Rafael,,8.50,Kocher Beat ,3
+-,Bremgartner Marcel ausgeschieden ausgeschieden,,8.75,Kocher Beat ,4
+o,Pulver Thomas,,8.50,Schmid Lars ,1
+-,Klossner Adrian,,8.75,Schmid Lars ,2
+o,von Weissenfluh Kevin,,8.50,Schmid Lars ,3
+o,Leuenberger Michael ausgeschieden ausgeschieden,,8.50,Schmid Lars ,4
+o,Aeschbacher Matthias,,8.50,Bremgartner Marcel ,1
+o,Bloch Dominik,,8.50,Bremgartner Marcel ,2
+o,Wüthrich Niklaus,,8.50,Bremgartner Marcel ,3
+-,Kocher Beat ausgeschieden ausgeschieden,,8.75,Bremgartner Marcel ,4
++,von Weissenfluh Kevin,,9.75,Siegenthaler Fritz ,1
+o,"Graber Willy Unfall
+Unfall Unfall Unfall",,8.50,Siegenthaler Fritz ,2
+-,Bless Michael,,8.75,Sempach Matthias ,1
++,Moser Michael,,10.00,Sempach Matthias ,2
++,Aeschbacher Jakob,,10.00,Sempach Matthias ,3
+-,Graber Willy,,9.00,Sempach Matthias ,4
++,Zenger Niklaus,,10.00,Sempach Matthias ,5
++,Dick Christian,,9.75,Sempach Matthias ,6
+-,Zindel Thomas,,8.75,Lauper Hansruedi ,1
++,Kämpf Lorenz,,10.00,Lauper Hansruedi ,2
+-,von Ah Benji,,8.75,Lauper Hansruedi ,3
++,Wüthrich Niklaus,,10.00,Lauper Hansruedi ,4
++,Habegger Heinz,,9.75,Lauper Hansruedi ,5
++,Bloch Dominik,,9.75,Lauper Hansruedi ,6
+-,Anderegg Simon,,8.75,Zbinden Stefan ,1
++,Gnägi Florian,,9.75,Zbinden Stefan ,2
++,Schmid Reto,,9.75,Zbinden Stefan ,3
+-,Sempach Thomas,,8.75,Zbinden Stefan ,4
++,Lanz Christian,,9.75,Zbinden Stefan ,5
++,Blatter Samuel,,10.00,Zbinden Stefan ,6
++,Zenger Niklaus,,9.75,Habegger Heinz ,1
++,Pulver Thomas,,10.00,Habegger Heinz ,2
+o,Graber Willy,,8.50,Habegger Heinz ,3
++,Reimann Thomas,,10.00,Habegger Heinz ,4
+o,Lauper Hansruedi,,8.50,Habegger Heinz ,5
++,Kämpf Simon,,10.00,Habegger Heinz ,6
+-,von Ah Benji,,9.00,Zaugg Thomas ,1
++,Reimann Thomas,,10.00,Zaugg Thomas ,2
+-,Burkhalter Stefan,,8.75,Zaugg Thomas ,3
++,Bloch Dominik,,10.00,Zaugg Thomas ,4
+-,Roschi Ruedi,,8.75,Zaugg Thomas ,5
++,Bohner Simon,,10.00,Zaugg Thomas ,6
+-,Graber Willy,,9.00,Ulrich Andreas ,1
+-,Sempach Thomas,,8.75,Ulrich Andreas ,2
++,Kämpf Simon,,9.75,Ulrich Andreas ,3
++,Berger René,,10.00,Ulrich Andreas ,4
+-,Luginbühl Hanspeter,,8.75,Ulrich Andreas ,5
++,Schenk Patrick,,10.00,Ulrich Andreas ,6
+-,Blatter Samuel,,8.75,Fankhauser Kurt ,1
+-,Kämpf Alexander,,8.75,Fankhauser Kurt ,2
++,Graber Alfred,,10.00,Fankhauser Kurt ,3
+-,Zindel Thomas,,8.75,Fankhauser Kurt ,4
++,Leuenberger Michael,,9.75,Fankhauser Kurt ,5
++,Zenger Niklaus,,10.00,Fankhauser Kurt ,6
+-,Graber Bruno,,8.75,Roschi Ruedi ,1
++,Wittwer René,,9.75,Roschi Ruedi ,2
++,Graber Bänz,,10.00,Roschi Ruedi ,3
++,Schenkel Remo,,9.75,Roschi Ruedi ,4
+-,Zaugg Thomas,,8.75,Roschi Ruedi ,5
+o,Salzmann Beat,,8.75,Roschi Ruedi ,6
+-,Kläy Jean-Philippe,,9.00,Luginbühl Simon ,1
+o,Leuenberger Thomas,,8.50,Luginbühl Simon ,2
++,Burger Fredy,,9.75,Luginbühl Simon ,3
+o,Schenkel Adrian,,8.50,Luginbühl Simon ,4
++,Zürcher Kurt,,10.00,Luginbühl Simon ,5
++,Haldimann Markus,,10.00,Luginbühl Simon ,6
++,Niederhäuser Martin,,10.00,Reimann Thomas ,1
+o,Zaugg Thomas,,8.50,Reimann Thomas ,2
++,Weyermann Michael,,10.00,Reimann Thomas ,3
+o,Habegger Heinz,,8.50,Reimann Thomas ,4
+o,Wiedmer Mathias,,8.75,Reimann Thomas ,5
++,Kobel Lorenz,,10.00,Reimann Thomas ,6
+-,Brügger Christoph,,8.75,Tschanz Richard ,1
+o,Schenkel Adrian,,8.50,Tschanz Richard ,2
++,Salzmann Simon,,9.75,Tschanz Richard ,3
+-,Pulver Thomas,,8.75,Tschanz Richard ,4
++,Zaugg Res,,10.00,Tschanz Richard ,5
++,Jampen Simon,,9.75,Tschanz Richard ,6
+-,Aeschbacher Jakob,,8.75,Wittwer René ,1
+o,Roschi Ruedi,,8.50,Wittwer René ,2
++,Fankhauser Reto,,9.75,Wittwer René ,3
++,Aeschbacher Matthias,,10.00,Wittwer René ,4
+o,Lengacher Jonas,,8.50,Wittwer René ,5
++,Gerber Marco,,10.00,Wittwer René ,6
+-,Schmid Reto,,8.75,Kohler Rolf ,1
++,Bohren Ruedi,,9.75,Kohler Rolf ,2
++,Thomet Adrian,,10.00,Kohler Rolf ,3
++,Staub Mael,,10.00,Kohler Rolf ,4
+o,Burkhalter Stefan,,8.50,Kohler Rolf ,5
+o,Lengacher Jonas,,8.50,Kohler Rolf ,6
+o,Habegger Heinz,,8.50,Zenger Niklaus ,1
++,Christen Rafael,,10.00,Zenger Niklaus ,2
++,Aeschbacher Matthias,,10.00,Zenger Niklaus ,3
++,Ruch Florian,,9.75,Zenger Niklaus ,4
+o,Sempach Matthias,,8.50,Zenger Niklaus ,5
+o,Fankhauser Kurt,,8.75,Zenger Niklaus ,6
++,Bremgartner Marcel,,9.75,Aeschbacher Matthias ,1
+o,Anderegg Simon,,8.50,Aeschbacher Matthias ,2
+o,Zenger Niklaus,,8.50,Aeschbacher Matthias ,3
+o,Wittwer René,,8.75,Aeschbacher Matthias ,4
++,Brönnimann Ronny,,10.00,Aeschbacher Matthias ,5
++,Weyermann Michael,,10.00,Aeschbacher Matthias ,6
+-,Tellenbach Martin,,8.75,Lanz Christian ,1
++,Wittwer Josias,,9.75,Lanz Christian ,2
+-,Marti Stefan,,8.75,Lanz Christian ,3
++,Habegger Jürg,,9.75,Lanz Christian ,4
+o,Zbinden Stefan,,8.50,Lanz Christian ,5
++,Scheidegger Markus,,9.75,Lanz Christian ,6
+o,Salzmann Beat,,8.50,Oester Thomas ,1
+o,Aeschbacher Jakob,,8.50,Oester Thomas ,2
++,Siegenthaler Adrian,,10.00,Oester Thomas ,3
++,Graber Bänz,,9.75,Oester Thomas ,4
+-,Rolli Martin,,8.75,Oester Thomas ,5
++,Fink Beat,,9.75,Oester Thomas ,6
+o,Schenk Patrick,,8.75,Müllener Armin ,1
++,Salzmann Simon,,9.75,Müllener Armin ,2
+o,Bohner Simon,,8.50,Müllener Armin ,3
++,Siegenthaler Adrian,,10.00,Müllener Armin ,4
+o,Röthlisberger Simon,,8.50,Müllener Armin ,5
++,Thomet Adrian,,9.75,Müllener Armin ,6
++,Müllener Armin,,9.75,Schenk Patrick ,1
+o,Dick Christian,,8.50,Schenk Patrick ,2
+o,Staub Mael,,8.50,Schenk Patrick ,3
++,Nägeli Niklaus,,10.00,Schenk Patrick ,4
++,Leuenberger Thomas,,9.75,Schenk Patrick ,5
+o,Ulrich Andreas,,8.50,Schenk Patrick ,6
++,Leuenberger Michael,,9.75,Gnägi Christian ,1
+o,Tschachtli Stephan,,8.50,Gnägi Christian ,2
+o,Kobel Lorenz,,8.50,Gnägi Christian ,3
++,Isler David,,9.75,Gnägi Christian ,4
+o,Kämpf Alexander,,8.50,Gnägi Christian ,5
++,Waber Lorenz,,9.75,Gnägi Christian ,6
+o,Sempach Thomas,,8.50,Notter Thomas ,1
++,Thomet Adrian,,10.00,Notter Thomas ,2
++,Ruch Florian,,10.00,Notter Thomas ,3
+o,Glarner Matthias,,8.50,Notter Thomas ,4
+-,Marti Stefan,,9.00,Notter Thomas ,5
+-,Gerber Christian,,8.75,Notter Thomas ,6
++,Scheidegger Markus,,10.00,Quartenoud Maxime ,1
+-,Zenger Michael,,8.75,Quartenoud Maxime ,2
+o,Salzmann Beat,,8.50,Quartenoud Maxime ,3
+-,Lauener Thomas,,8.75,Quartenoud Maxime ,4
+-,Schenkel Remo,,8.75,Quartenoud Maxime ,5
++,Pulver Thomas,,9.75,Quartenoud Maxime ,6
+-,Roschi Ruedi,,8.75,Graber Bruno ,1
+-,Schütz Urs,,8.75,Graber Bruno ,2
+o,Leuenberger Michael,,8.50,Graber Bruno ,3
++,Jenzer Janick,,10.00,Graber Bruno ,4
+-,Scheuner Michael,,8.75,Graber Bruno ,5
++,Walther Tobias,,9.75,Graber Bruno ,6
+o,Spring Marc,,8.50,Wälti Christoph ,1
+o,Waber Lorenz,,8.75,Wälti Christoph ,2
++,Krebs Ueli,,10.00,Wälti Christoph ,3
++,Weyermann Michael,,10.00,Wälti Christoph ,4
+o,Graber Willy,,8.50,Wälti Christoph ,5
+-,Kappeler Ruedi,,8.75,Wälti Christoph ,6
+o,Wüthrich Niklaus,,8.75,Jampen Simon ,1
++,Reusser Philipp,,9.75,Jampen Simon ,2
+o,Haldimann Markus,,8.50,Jampen Simon ,3
++,Wittwer Josias,,10.00,Jampen Simon ,4
+-,Kohler David,,8.75,Jampen Simon ,5
+o,Tschanz Richard,,8.75,Jampen Simon ,6
+o,Fankhauser Reto,,8.50,Zbinden Reto ,1
+-,Kappeler Ruedi,,8.75,Zbinden Reto ,2
++,Camenzind Ivan,,10.00,Zbinden Reto ,3
+-,Michel Jonas,,8.75,Zbinden Reto ,4
+o,Haldimann Martin,,8.50,Zbinden Reto ,5
++,Leuenberger Michael,,9.75,Zbinden Reto ,6
++,Krebs Ueli,,9.75,Blaser Roman ,1
+o,Schmid Reto,,8.50,Blaser Roman ,2
+-,Walther Tobias,,8.75,Blaser Roman ,3
+-,Aebi Roger,,9.00,Blaser Roman ,4
+o,Zindel Thomas,,8.50,Blaser Roman ,5
++,Niederhäuser Martin,,9.75,Blaser Roman ,6
++,Stämpfli Lorenz,,10.00,Reust Markus ,1
++,Brönnimann Ronny,,9.75,Reust Markus ,2
+o,Luginbühl Hanspeter,,8.50,Reust Markus ,3
+o,von Büren Stephan,,8.50,Reust Markus ,4
+o,Berger René,,8.50,Reust Markus ,5
+-,Staub Mael,,9.00,Reust Markus ,6
+-,Habegger Jürg,,8.75,Brönnimann Ronny ,1
+o,Reust Markus,,8.50,Brönnimann Ronny ,2
++,Wittwer Josias,,10.00,Brönnimann Ronny ,3
+o,Kämpf Simon,,8.50,Brönnimann Ronny ,4
+o,Aeschbacher Matthias,,8.75,Brönnimann Ronny ,5
++,Camenzind Ivan,,9.75,Brönnimann Ronny ,6
+-,Isler David,,8.75,Graber Alfred ,1
+o,Berger René,,8.50,Graber Alfred ,2
+o,Fankhauser Kurt,,8.50,Graber Alfred ,3
++,Heeb Thierry,,9.75,Graber Alfred ,4
++,Klossner Adrian,,9.75,Graber Alfred ,5
+-,Michel Jonas,,8.75,Graber Alfred ,6
+o,Quartenoud Maxime,,8.50,Scheidegger Markus ,1
+-,Messer Marco,,8.75,Scheidegger Markus ,2
++,Klossner Adrian,,10.00,Scheidegger Markus ,3
++,Christen Rafael,,9.75,Scheidegger Markus ,4
+o,Schmid Reto,,8.50,Scheidegger Markus ,5
+o,Lanz Christian,,8.50,Scheidegger Markus ,6
++,von Känel Daniel,,10.00,Wiedmer Thomas ,1
+o,von Büren Stephan,,8.75,Wiedmer Thomas ,2
+o,Lengacher Jonas,,8.50,Wiedmer Thomas ,3
+o,Marti Stefan,,8.50,Wiedmer Thomas ,4
++,Graber Bänz,,9.75,Wiedmer Thomas ,5
+o,Rolli Martin,,8.50,Wiedmer Thomas ,6
++,Mosimann Fabian,,9.75,Salzmann Simon ,1
+o,Müllener Armin,,8.50,Salzmann Simon ,2
+o,Tschanz Richard,,8.75,Salzmann Simon ,3
+o,Stämpfli Lorenz,,8.75,Salzmann Simon ,4
+o,Bohren Ruedi,,8.50,Salzmann Simon ,5
++,Christen Rafael,,9.75,Salzmann Simon ,6
+-,Christen Rafael,,8.75,Scheuner Michael ,1
+-,Haldimann Markus,,8.75,Scheuner Michael ,2
+-,Kämpf Alexander,,8.75,Scheuner Michael ,3
++,Walther Tobias,,10.00,Scheuner Michael ,4
+-,Graber Bruno,,8.75,Scheuner Michael ,5
+-,Leuenberger Thomas,,9.00,Scheuner Michael ,6
++,Kappeler Ruedi,,9.75,Kobel Lorenz ,1
+o,Staub Mael,,8.50,Kobel Lorenz ,2
++,Gnägi Christian,,9.75,Kobel Lorenz ,3
+o,Tschachtli Stephan,,8.50,Kobel Lorenz ,4
+-,Burger Fredy,,8.75,Kobel Lorenz ,5
+o,Reimann Thomas,,8.50,Kobel Lorenz ,6
+-,Urfer Simon,,8.75,Camenzind Ivan ,1
+o,Gerber Christian,,8.50,Camenzind Ivan ,2
+o,Zbinden Reto,,8.75,Camenzind Ivan ,3
++,Stucki Daniel,,9.75,Camenzind Ivan ,4
+-,Fankhauser Reto,,9.00,Camenzind Ivan ,5
+o,Brönnimann Ronny,,8.75,Camenzind Ivan ,6
++,Schmid Lars,,10.00,Pulver Thomas ,1
+o,Habegger Heinz,,8.50,Pulver Thomas ,2
+-,Kämpf Lorenz,,8.75,Pulver Thomas ,3
+-,Tschanz Richard,,8.75,Pulver Thomas ,4
+o,Gehrig Damian,,8.50,Pulver Thomas ,5
+o,Quartenoud Maxime,,8.50,Pulver Thomas ,6
+o,Schenkel Remo,,8.50,Fankhauser Hans-Jakob,1
+-,Leuenberger Michael,,9.00,Fankhauser Hans-Jakob,2
++,Nägeli Niklaus,,10.00,Fankhauser Hans-Jakob,3
+o,Urfer Simon,,8.50,Fankhauser Hans-Jakob,4
+o,Walther Tobias,,8.50,Fankhauser Hans-Jakob,5
+o,Kämpf Lorenz,,8.50,Fankhauser Hans-Jakob,6
++,Klossner Adrian,,9.75,Aebi Roger,1
+o,Michel Jonas,,8.50,Aebi Roger,2
+o,Kämpf Marcel,,8.50,Aebi Roger,3
+-,Blaser Roman,,8.75,Aebi Roger,4
+o,Fink Beat,,8.50,Aebi Roger,5
+-,Mosimann Fabian,,8.75,Aebi Roger,6
+o,Salzmann Simon,,8.75,Mosimann Fabian,1
+o,von Känel Daniel,,8.50,Mosimann Fabian,2
++,Messer Marco,,9.75,Mosimann Fabian,3
+o,Schütz Urs,,8.50,Mosimann Fabian,4
+o,Siegenthaler Adrian,,8.50,Mosimann Fabian,5
+-,Aebi Roger,,8.75,Mosimann Fabian,6
+-,Brönnimann Ronny,,8.75,Habegger Jürg ,1
++,Graber Bänz,,9.75,Habegger Jürg ,2
+o,Kohler David,,8.50,Habegger Jürg ,3
+o,Lanz Christian,,8.50,Habegger Jürg ,4
+o,Ruch Florian,,8.50,Habegger Jürg ,5
+o,Spring Marc,,8.50,Habegger Jürg ,6
+o,Graber Bänz,,8.50,Jenzer Janick ,1
++,Heeb Thierry,,9.75,Jenzer Janick ,2
+o,Moser Michael,,8.50,Jenzer Janick ,3
+o,"Graber Bruno 
+ausgeschieden ausgeschieden",,8.50,Jenzer Janick ,4
+-,Kocher Beat,,8.75,Weyermann Florian ,1
+o,Kestenholz Christian,,8.50,Weyermann Florian ,2
+-,Kappeler Ruedi,,8.75,Weyermann Florian ,3
+o,Zenger Michael ausgeschieden ausgeschieden,,8.50,Weyermann Florian ,4
+-,Tschanz Richard,,8.75,Brügger Christoph ,1
+o,Burger Fredy,,8.50,Brügger Christoph ,2
+o,Zürcher Kurt,,8.50,Brügger Christoph ,3
+-,Krebs Ueli ausgeschieden ausgeschieden,,8.75,Brügger Christoph ,4
+o,Weyermann Michael,,8.50,Messer Marco ,1
+-,Scheidegger Markus,,8.75,Messer Marco ,2
+o,Mosimann Fabian,,8.50,Messer Marco ,3
+o,Kappeler Ruedi ausgeschieden ausgeschieden,,8.50,Messer Marco ,4
+o,Blaser Jan,,8.50,Stucki Daniel ,1
+o,Nägeli Niklaus,,8.50,Stucki Daniel ,2
+o,Flühmann Michel,,8.50,Stucki Daniel ,3
+o,Camenzind Ivan ausgeschieden ausgeschieden,,8.50,Stucki Daniel ,4
+o,Siegenthaler Adrian,,8.50,Reichen Stefan ,1
++,"Niederhäuser Martin Unfall
+Unfall Unfall Unfall",,9.75,Reichen Stefan ,2
++,Oester Thomas,,10.00,Salzmann Beat ,1
+-,Zindel Thomas,,9.00,Salzmann Beat ,2
++,Quartenoud Maxime,,9.75,Salzmann Beat ,3
++,Spring Marc,,10.00,Salzmann Beat ,4
+o,Wenger Kilian,,8.75,Salzmann Beat ,5
++,Roschi Ruedi,,9.75,Salzmann Beat ,6
+-,Bloch Dominik,,8.75,Lengacher Jonas ,1
++,Bohner Simon,,9.75,Lengacher Jonas ,2
++,Wiedmer Thomas,,10.00,Lengacher Jonas ,3
+o,von Ah Benji,,8.50,Lengacher Jonas ,4
++,Wittwer René,,10.00,Lengacher Jonas ,5
++,Kohler Rolf,,10.00,Lengacher Jonas ,6
+-,Tschachtli Stephan,,8.75,Luginbühl Hanspeter ,1
++,Zaugg Res,,9.75,Luginbühl Hanspeter ,2
++,Reust Markus,,10.00,Luginbühl Hanspeter ,3
++,Leuenberger Thomas,,9.75,Luginbühl Hanspeter ,4
+-,Ulrich Andreas,,8.75,Luginbühl Hanspeter ,5
++,Meuter Adrian,,9.75,Luginbühl Hanspeter ,6
+-,Ulrich Andreas,,9.00,Graber Willy ,1
++,Siegenthaler Fritz,,9.75,Graber Willy ,2
++,Habegger Heinz,,10.00,Graber Willy ,3
+-,Sempach Matthias,,9.00,Graber Willy ,4
++,Wälti Christoph,,10.00,Graber Willy ,5
+-,von Ah Benji,,9.00,Graber Willy ,6
++,Notter Thomas,,10.00,Sempach Thomas ,1
+-,Ulrich Andreas,,9.00,Sempach Thomas ,2
++,von Büren Stephan,,10.00,Sempach Thomas ,3
+-,Zbinden Stefan,,9.00,Sempach Thomas ,4
+-,Gnägi Florian,,8.75,Sempach Thomas ,5
++,Röthlisberger Simon,,9.75,Sempach Thomas ,6
+-,Berger René,,9.00,Schenkel Adrian ,1
++,Tschanz Richard,,10.00,Schenkel Adrian ,2
+-,Lauener Thomas,,9.00,Schenkel Adrian ,3
++,Luginbühl Simon,,9.75,Schenkel Adrian ,4
+o,von Ah Benji,,8.50,Schenkel Adrian ,5
++,Wüthrich Niklaus,,10.00,Schenkel Adrian ,6
+-,Dick Christian,,8.75,Kämpf Bernhard ,1
++,Gehrig Damian,,9.75,Kämpf Bernhard ,2
++,Leuenberger Thomas,,10.00,Kämpf Bernhard ,3
+o,Bless Michael,,8.50,Kämpf Bernhard ,4
++,Gäggeler Adrian,,10.00,Kämpf Bernhard ,5
+-,Kläy Jean-Philippe,,9.00,Kämpf Bernhard ,6
+o,Thomet Adrian,,8.50,Kämpf Marcel ,1
+-,Siegenthaler Adrian,,8.75,Kämpf Marcel ,2
++,Aebi Roger,,9.75,Kämpf Marcel ,3
+-,Fankhauser Reto,,8.75,Kämpf Marcel ,4
++,Christen Rafael,,10.00,Kämpf Marcel ,5
++,Kestenholz Christian,,10.00,Kämpf Marcel ,6
+o,Gnägi Florian,,8.50,Gerber Christian ,1
++,Camenzind Ivan,,10.00,Gerber Christian ,2
++,Bohren Ruedi,,10.00,Gerber Christian ,3
+o,Burkhalter Stefan,,8.50,Gerber Christian ,4
++,Spring Marc,,10.00,Gerber Christian ,5
+-,Notter Thomas,,8.75,Gerber Christian ,6
+-,Kämpf Alexander,,8.75,Wiedmer Mathias ,1
+-,Isler David,,8.75,Wiedmer Mathias ,2
++,Blaser Jan,,9.75,Wiedmer Mathias ,3
++,Kämpf Lorenz,,9.75,Wiedmer Mathias ,4
++,Reimann Thomas,,10.00,Wiedmer Mathias ,5
+o,Anderegg Simon,,8.50,Wiedmer Mathias ,6
+-,Luginbühl Hanspeter,,8.75,Tschachtli Stephan ,1
++,Gnägi Christian,,9.75,Tschachtli Stephan ,2
+o,Dick Christian,,8.50,Tschachtli Stephan ,3
++,Kobel Lorenz,,9.75,Tschachtli Stephan ,4
+-,Haldimann Markus,,8.75,Tschachtli Stephan ,5
++,Ruch Florian,,10.00,Tschachtli Stephan ,6
+-,Kohler Rolf,,8.75,Schmid Reto ,1
++,Blaser Roman,,10.00,Schmid Reto ,2
+o,Zbinden Stefan,,8.50,Schmid Reto ,3
++,Gehrig Damian,,10.00,Schmid Reto ,4
++,Scheidegger Markus,,9.75,Schmid Reto ,5
+o,Bless Michael,,8.50,Schmid Reto ,6
+-,Kämpf Bernhard,,8.75,Dick Christian ,1
++,Schenk Patrick,,9.75,Dick Christian ,2
++,Tschachtli Stephan,,10.00,Dick Christian ,3
+o,Wenger Kilian,,8.50,Dick Christian ,4
++,von Büren Stephan,,10.00,Dick Christian ,5
+o,Sempach Matthias,,8.50,Dick Christian ,6
+o,Siegenthaler Fritz,,8.75,von Weissenfluh Kevin ,1
+o,Meuter Adrian,,8.50,von Weissenfluh Kevin ,2
++,Schmid Lars,,10.00,von Weissenfluh Kevin ,3
++,Zürcher Kurt,,10.00,von Weissenfluh Kevin ,4
+o,Bloch Dominik,,8.50,von Weissenfluh Kevin ,5
++,Reusser Philipp,,9.75,von Weissenfluh Kevin ,6
++,Haldimann Martin,,10.00,Marti Stefan ,1
+o,von Ah Benji,,8.50,Marti Stefan ,2
+-,Lanz Christian,,9.00,Marti Stefan ,3
++,Wiedmer Thomas,,10.00,Marti Stefan ,4
+-,Notter Thomas,,9.00,Marti Stefan ,5
+-,Kämpf Alexander,,9.00,Marti Stefan ,6
+-,Schenkel Adrian,,8.75,Berger René ,1
++,Graber Alfred,,9.75,Berger René ,2
++,Waber Lorenz,,9.75,Berger René ,3
+o,Ulrich Andreas,,8.50,Berger René ,4
++,Reust Markus,,9.75,Berger René ,5
+-,Schütz Urs,,8.75,Berger René ,6
+-,Bohner Simon,,8.75,Kämpf Simon ,1
++,Leuenberger Michael,,9.75,Kämpf Simon ,2
+o,Ulrich Andreas,,8.50,Kämpf Simon ,3
++,Brönnimann Ronny,,9.75,Kämpf Simon ,4
++,Aeschbacher Jakob,,10.00,Kämpf Simon ,5
+o,Habegger Heinz,,8.50,Kämpf Simon ,6
++,Kropf Thomas,,9.75,Moser Michael ,1
+o,Sempach Matthias,,8.50,Moser Michael ,2
++,Jenzer Janick,,10.00,Moser Michael ,3
+o,Kläy Jean-Philippe,,8.50,Moser Michael ,4
++,Stämpfli Lorenz,,10.00,Moser Michael ,5
+o,Burkhalter Stefan,,8.50,Moser Michael ,6
+-,Wiedmer Mathias,,8.75,Kämpf Alexander ,1
+-,Fankhauser Kurt,,8.75,Kämpf Alexander ,2
+-,Scheuner Michael,,8.75,Kämpf Alexander ,3
++,Flühmann Michel,,9.75,Kämpf Alexander ,4
++,Gnägi Christian,,10.00,Kämpf Alexander ,5
+-,Marti Stefan,,9.00,Kämpf Alexander ,6
+-,Leuenberger Michael,,8.75,Schütz Urs ,1
+-,Graber Bruno,,8.75,Schütz Urs ,2
+-,Urfer Simon,,9.00,Schütz Urs ,3
++,Mosimann Fabian,,9.75,Schütz Urs ,4
++,Tellenbach Martin,,9.75,Schütz Urs ,5
+-,Berger René,,8.75,Schütz Urs ,6
+-,Kämpf Simon,,8.75,Bohner Simon ,1
+o,Lengacher Jonas,,8.50,Bohner Simon ,2
++,Müllener Armin,,10.00,Bohner Simon ,3
+-,Blatter Samuel,,9.00,Bohner Simon ,4
++,Lauener Thomas,,10.00,Bohner Simon ,5
+o,Zaugg Thomas,,8.50,Bohner Simon ,6
+o,Glarner Matthias,,8.50,Krebs Andreas ,1
++,Wüthrich Niklaus,,9.75,Krebs Andreas ,2
+-,Meuter Adrian,,8.75,Krebs Andreas ,3
+-,Kohler David,,8.75,Krebs Andreas ,4
++,Zenger Michael,,10.00,Krebs Andreas ,5
+-,Zindel Thomas,,8.75,Krebs Andreas ,6
+-,von Büren Stephan,,8.75,Meuter Adrian ,1
++,von Weissenfluh Kevin,,10.00,Meuter Adrian ,2
+-,Krebs Andreas,,8.75,Meuter Adrian ,3
++,Gerber Marco,,9.75,Meuter Adrian ,4
+o,Leuenberger Michael,,8.75,Meuter Adrian ,5
+o,Luginbühl Hanspeter,,8.50,Meuter Adrian ,6
+-,Meuter Adrian,,8.75,von Büren Stephan ,1
++,Wiedmer Thomas,,10.00,von Büren Stephan ,2
+o,Sempach Thomas,,8.50,von Büren Stephan ,3
++,Reust Markus,,10.00,von Büren Stephan ,4
+o,Dick Christian,,8.50,von Büren Stephan ,5
+o,Urfer Simon,,8.75,von Büren Stephan ,6
+-,Lanz Christian,,8.75,Tellenbach Martin ,1
+-,Gäggeler Adrian,,8.75,Tellenbach Martin ,2
++,von Känel Daniel,,9.75,Tellenbach Martin ,3
+-,Haldimann Martin,,8.75,Tellenbach Martin ,4
+o,Schütz Urs,,8.50,Tellenbach Martin ,5
++,Zürcher Kurt,,9.75,Tellenbach Martin ,6
+o,Marti Stefan,,8.50,Haldimann Martin ,1
++,Gilgen Pierre,,9.75,Haldimann Martin ,2
+-,Michel Jonas,,8.75,Haldimann Martin ,3
+-,Tellenbach Martin,,8.75,Haldimann Martin ,4
++,Zbinden Reto,,10.00,Haldimann Martin ,5
+o,Aeschbacher Jakob,,8.50,Haldimann Martin ,6
++,Stucki Daniel,,9.75,Blaser Jan ,1
+-,Krebs Ueli,,8.75,Blaser Jan ,2
+o,Wiedmer Mathias,,8.50,Blaser Jan ,3
+o,Gäggeler Adrian,,8.50,Blaser Jan ,4
+-,Kämpf Lorenz,,8.75,Blaser Jan ,5
++,Klossner Adrian,,10.00,Blaser Jan ,6
++,Walther Tobias,,10.00,Reusser Philipp ,1
+o,Jampen Simon,,8.50,Reusser Philipp ,2
+o,Röthlisberger Simon,,8.50,Reusser Philipp ,3
+-,Bohren Ruedi,,8.75,Reusser Philipp ,4
++,Nägeli Niklaus,,10.00,Reusser Philipp ,5
+o,von Weissenfluh Kevin,,8.50,Reusser Philipp ,6
++,Gehrig Philipp,,10.00,Bohren Ruedi ,1
+o,Kohler Rolf,,8.50,Bohren Ruedi ,2
+o,Gerber Christian,,8.50,Bohren Ruedi ,3
+-,Reusser Philipp,,8.75,Bohren Ruedi ,4
++,Salzmann Simon,,10.00,Bohren Ruedi ,5
+o,Gäggeler Adrian,,8.50,Bohren Ruedi ,6
++,Staub Mael,,10.00,Zaugg Res ,1
+o,Luginbühl Hanspeter,,8.50,Zaugg Res ,2
+o,Gnägi Florian,,8.50,Zaugg Res ,3
+-,Waber Lorenz,,8.75,Zaugg Res ,4
+o,Tschanz Richard,,8.50,Zaugg Res ,5
++,Siegenthaler Adrian,,9.75,Zaugg Res ,6
+-,Zenger Michael,,8.75,Ruch Florian ,1
++,Fink Beat,,10.00,Ruch Florian ,2
+o,Notter Thomas,,8.50,Ruch Florian ,3
+o,Zenger Niklaus,,8.50,Ruch Florian ,4
++,Habegger Jürg,,9.75,Ruch Florian ,5
+o,Tschachtli Stephan,,8.50,Ruch Florian ,6
++,Messer Marco,,10.00,Weyermann Michael ,1
+o,Lauener Thomas,,8.50,Weyermann Michael ,2
+o,Reimann Thomas,,8.50,Weyermann Michael ,3
+o,Wälti Christoph,,8.50,Weyermann Michael ,4
++,von Känel Daniel,,10.00,Weyermann Michael ,5
+o,Aeschbacher Matthias,,8.50,Weyermann Michael ,6
++,Allenbach Björn,,10.00,Kestenholz Christian ,1
++,Weyermann Florian,,10.00,Kestenholz Christian ,2
+o,Glarner Matthias,,8.50,Kestenholz Christian ,3
+o,Gnägi Florian,,8.50,Kestenholz Christian ,4
+o,Kläy Jean-Philippe,,8.50,Kestenholz Christian ,5
+o,Kämpf Marcel,,8.50,Kestenholz Christian ,6
++,Reichen Stefan,,9.75,Siegenthaler Adrian ,1
+-,Kämpf Marcel,,8.75,Siegenthaler Adrian ,2
+o,Oester Thomas,,8.50,Siegenthaler Adrian ,3
+o,Müllener Armin,,8.50,Siegenthaler Adrian ,4
++,Mosimann Fabian,,9.75,Siegenthaler Adrian ,5
+o,Zaugg Res,,8.50,Siegenthaler Adrian ,6
++,Kämpf Marcel,,10.00,Thomet Adrian ,1
+o,Notter Thomas,,8.50,Thomet Adrian ,2
+o,Kohler Rolf,,8.50,Thomet Adrian ,3
++,Fink Beat,,9.75,Thomet Adrian ,4
+o,Wüthrich Niklaus,,8.50,Thomet Adrian ,5
+o,Müllener Armin,,8.50,Thomet Adrian ,6
+-,Zürcher Kurt,,8.75,Waber Lorenz ,1
++,Wälti Christoph,,10.00,Waber Lorenz ,2
+o,Berger René,,8.50,Waber Lorenz ,3
+-,Zaugg Res,,8.75,Waber Lorenz ,4
+-,Michel Jonas,,8.75,Waber Lorenz ,5
+o,Gnägi Christian,,8.50,Waber Lorenz ,6
+o,Gnägi Christian,,8.50,Leuenberger Michael ,1
+-,Fankhauser Hans-Jakob,,8.75,Leuenberger Michael ,2
+o,Niederhäuser Martin,,8.75,Leuenberger Michael ,3
++,Schmid Lars,,10.00,Leuenberger Michael ,4
+o,Fankhauser Kurt,,8.50,Leuenberger Michael ,5
+o,Zbinden Reto,,8.50,Leuenberger Michael ,6
+o,Reimann Thomas,,8.50,Niederhäuser Martin ,1
+o,Reichen Stefan,,8.75,Niederhäuser Martin ,2
++,Leuenberger Michael,,10.00,Niederhäuser Martin ,3
+o,Burger Fredy,,8.50,Niederhäuser Martin ,4
+o,Gerber Marco,,8.75,Niederhäuser Martin ,5
+o,Blaser Roman,,8.50,Niederhäuser Martin ,6
+-,Waber Lorenz,,9.00,Zürcher Kurt ,1
+o,Urfer Simon,,8.50,Zürcher Kurt ,2
++,Brügger Christoph,,9.75,Zürcher Kurt ,3
+o,von Weissenfluh Kevin,,8.50,Zürcher Kurt ,4
+o,Luginbühl Simon,,8.50,Zürcher Kurt ,5
+o,Tellenbach Martin,,8.50,Zürcher Kurt ,6
+-,Scheuner Michael,,8.75,Christen Rafael ,1
+o,Zenger Niklaus,,8.50,Christen Rafael ,2
++,Kocher Beat,,10.00,Christen Rafael ,3
+o,Scheidegger Markus,,8.50,Christen Rafael ,4
+o,Kämpf Marcel,,8.50,Christen Rafael ,5
+o,Salzmann Simon,,8.50,Christen Rafael ,6
+o,Moser Michael,,8.50,Kropf Thomas ,1
+o,Blatter Samuel,,8.50,Kropf Thomas ,2
++,Isler David,,10.00,Kropf Thomas ,3
+o,Haldimann Markus,,8.50,Kropf Thomas ,4
+nan,Unfall,,nan,Kropf Thomas ,5
+nan,Unfall,,nan,Kropf Thomas ,6
+-,Graber Alfred,,8.75,Isler David ,1
+-,Wiedmer Mathias,,8.75,Isler David ,2
+o,Kropf Thomas,,8.75,Isler David ,3
+o,"Gnägi Christian
+ausgeschieden ausgeschieden",,8.50,Isler David ,4
+o,Blaser Roman,,8.50,Krebs Ueli ,1
+-,Blaser Jan,,8.75,Krebs Ueli ,2
+o,Wälti Christoph,,8.50,Krebs Ueli ,3
+-,Brügger Christoph ausgeschieden ausgeschieden,,8.75,Krebs Ueli ,4
+o,Kestenholz Christian,,8.50,Allenbach Björn ,1
+o,Gerber Marco,,8.50,Allenbach Björn ,2
+-,Gehrig Philipp,,8.75,Allenbach Björn ,3
+-,Gilgen Pierre ausgeschieden ausgeschieden,,8.75,Allenbach Björn ,4
+o,Bohren Ruedi,,8.50,Gehrig Philipp ,1
+o,Walther Tobias,,8.50,Gehrig Philipp ,2
+-,Allenbach Björn,,8.75,Gehrig Philipp ,3
+o,Klossner Adrian ausgeschieden ausgeschieden,,8.50,Gehrig Philipp ,4
+o,Kämpf Lorenz,,8.50,Heeb Thierry ,1
+o,Jenzer Janick,,8.50,Heeb Thierry ,2
+o,Gehrig Damian,,8.50,Heeb Thierry ,3
+o,Graber Alfred ausgeschieden ausgeschieden,,8.50,Heeb Thierry ,4

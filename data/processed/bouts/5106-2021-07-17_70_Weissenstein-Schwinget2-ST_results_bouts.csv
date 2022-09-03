@@ -1,0 +1,511 @@
+result,name,level,points,placed_fighter,fight_round
++,Imobersteg Matthias **,**,10.00,Ott Damian **,1
+-,Müllestein Mike ***,***,8.75,Ott Damian **,2
++,Burch Jonas **,**,10.00,Ott Damian **,3
++,Strebel Joel ***,***,9.75,Ott Damian **,4
++,Schurtenberger Sven ***,***,9.75,Ott Damian **,5
++,Döbeli Andreas ***,***,10.00,Ott Damian **,6
+o,Ambühl Joel **,**,8.50,Schlegel Werner **,1
+-,Rohrer Ueli **,**,9.00,Schlegel Werner **,2
++,Bucher Christian **,**,9.75,Schlegel Werner **,3
++,Egli Damian **,**,10.00,Schlegel Werner **,4
++,Schuler Alex ***,***,10.00,Schlegel Werner **,5
++,Fankhauser Marco **,**,10.00,Schlegel Werner **,6
+-,Müllestein Mike ***,***,8.75,Schneider Domenic ***,1
++,Burch Jonas **,**,9.75,Schneider Domenic ***,2
++,Rohrer Ueli **,**,9.75,Schneider Domenic ***,3
+o,Reichmuth Marco **,**,8.75,Schneider Domenic ***,4
++,Kenel Franz-Toni *,*,9.75,Schneider Domenic ***,5
++,Imhof Andi ***,***,10.00,Schneider Domenic ***,6
++,Probst Gabriel **,**,10.00,Dumelin David **,1
+o,Kropf Marcel **,**,8.50,Dumelin David **,2
+o,Imhof Andi ***,***,8.50,Dumelin David **,3
++,Odermatt Christian **,**,10.00,Dumelin David **,4
++,Hermann Oliver **,**,10.00,Dumelin David **,5
++,Bieri Marcel ***,***,9.75,Dumelin David **,6
++,Räbmatter Patrick ***,***,9.75,Nötzli Reto ***,1
++,Schnurrenberger Roman **,**,10.00,Nötzli Reto ***,2
++,Kropf Marcel **,**,9.75,Nötzli Reto ***,3
+o,Döbeli Andreas ***,***,8.75,Nötzli Reto ***,4
++,Hügli Kaj **,**,9.75,Nötzli Reto ***,5
+o,Orlik Armon ***,***,8.50,Nötzli Reto ***,6
++,Vollenweider Jeremy **,**,9.75,Fankhauser Marco **,1
+o,Orlik Armon ***,***,8.75,Fankhauser Marco **,2
+-,Räbsamen Marcel *,*,9.00,Fankhauser Marco **,3
++,Brand Christian **,**,10.00,Fankhauser Marco **,4
++,Leuthard Reto **,**,10.00,Fankhauser Marco **,5
+o,Schlegel Werner **,**,8.75,Fankhauser Marco **,6
++,Stoll Simon **,**,10.00,Rohrer Ueli **,1
+-,Schlegel Werner **,**,8.75,Rohrer Ueli **,2
+o,Schneider Domenic ***,***,8.50,Rohrer Ueli **,3
+-,Arztmann Beda **,**,8.75,Rohrer Ueli **,4
++,Kolb Pirmin *,*,10.00,Rohrer Ueli **,5
++,Gmür Pirmin **,**,9.75,Rohrer Ueli **,6
+o,Döbeli Andreas ***,***,8.50,Fankhauser Erich ***,1
++,Schmid Samuel **,**,9.75,Fankhauser Erich ***,2
++,Poltera Andrin *,*,10.00,Fankhauser Erich ***,3
++,Oettli Marco **,**,10.00,Fankhauser Erich ***,4
+-,Orlik Armon ***,***,9.00,Fankhauser Erich ***,5
+o,Strebel Joel ***,***,8.50,Fankhauser Erich ***,6
+-,Moser Matthias *,*,8.75,Lemmenmeier Lukas *,1
++,Stüdeli Thomas **,**,10.00,Lemmenmeier Lukas *,2
+o,Krähenbühl Tobias ***,***,8.50,Lemmenmeier Lukas *,3
+o,Kuster Thomas *,*,8.50,Lemmenmeier Lukas *,4
++,Bürgler Patrick *,*,10.00,Lemmenmeier Lukas *,5
++,Kolb Pirmin *,*,9.75,Lemmenmeier Lukas *,6
+-,Bieri Marcel ***,***,8.75,Orlik Armon ***,1
++,Fankhauser Marco **,**,10.00,Orlik Armon ***,2
++,Hügli Kaj **,**,10.00,Orlik Armon ***,3
++,Räbmatter Patrick ***,***,10.00,Orlik Armon ***,4
+-,Fankhauser Erich ***,***,9.00,Orlik Armon ***,5
++,Nötzli Reto ***,***,9.75,Orlik Armon ***,6
+-,Leuppi Samir ***,***,8.75,Schurtenberger Sven ***,1
++,Kuster Thomas *,*,10.00,Schurtenberger Sven ***,2
++,Schlegel Sandro **,**,10.00,Schurtenberger Sven ***,3
++,Krähenbühl Tobias ***,***,9.75,Schurtenberger Sven ***,4
+o,Ott Damian **,**,8.50,Schurtenberger Sven ***,5
++,Schmutz Simon *,*,10.00,Schurtenberger Sven ***,6
++,Burkhalter Stefan ***,***,9.75,Erb Roger **,1
+o,Betschart Patrick *,*,8.50,Erb Roger **,2
+-,Arztmann Beda **,**,8.75,Erb Roger **,3
++,Bucher Christian **,**,9.75,Erb Roger **,4
++,Huber Alex *,*,10.00,Erb Roger **,5
++,Ambühl Joel **,**,10.00,Erb Roger **,6
+-,Schlegel Sandro **,**,8.75,Suppiger Werner **,1
++,Bollhalder Manuel *,*,9.75,Suppiger Werner **,2
++,Kuster Thomas *,*,9.75,Suppiger Werner **,3
+-,Kindlimann Fabian ***,***,8.75,Suppiger Werner **,4
++,Rotach Lars *,*,9.75,Suppiger Werner **,5
++,Krähenbühl Tobias ***,***,9.75,Suppiger Werner **,6
+-,Gmür Pirmin **,**,9.00,Reichmuth Marco **,1
++,Koch Reto *,*,10.00,Reichmuth Marco **,2
++,Leuppi Samir ***,***,10.00,Reichmuth Marco **,3
++,Schneider Domenic ***,***,10.00,Reichmuth Marco **,4
+-,Döbeli Andreas ***,***,9.00,Reichmuth Marco **,5
+o,Räbmatter Patrick ***,***,8.50,Reichmuth Marco **,6
++,Schlegel Werner **,**,9.75,Ambühl Joel **,1
++,Oettli Marco **,**,10.00,Ambühl Joel **,2
+-,Strebel Joel ***,***,8.75,Ambühl Joel **,3
+-,Räbsamen Marcel *,*,9.00,Ambühl Joel **,4
++,Krähenbühl Tobias ***,***,10.00,Ambühl Joel **,5
+o,Erb Roger **,**,8.50,Ambühl Joel **,6
+-,Schurtenberger Sven ***,***,8.75,Leuppi Samir ***,1
++,Hurschler Thomas **,**,9.75,Leuppi Samir ***,2
+o,Reichmuth Marco **,**,8.50,Leuppi Samir ***,3
++,Fellmann Roman **,**,10.00,Leuppi Samir ***,4
++,von Ah Benji ***,***,9.75,Leuppi Samir ***,5
+-,Müllestein Mike ***,***,9.00,Leuppi Samir ***,6
++,Schmid Patrick *,*,9.75,Burch Jonas **,1
+o,Schneider Domenic ***,***,8.50,Burch Jonas **,2
+o,Ott Damian **,**,8.75,Burch Jonas **,3
++,Gartmann Mauro **,**,10.00,Burch Jonas **,4
+-,Räbsamen Marcel *,*,9.00,Burch Jonas **,5
++,Giger Urs *,*,9.75,Burch Jonas **,6
+o,Kuster Thomas *,*,8.50,Kenel Franz-Toni *,1
++,Grieder Nonda,Nonda,10.00,Kenel Franz-Toni *,2
++,Bruder Adrian *,*,9.75,Kenel Franz-Toni *,3
++,Rotach Lars *,*,9.75,Kenel Franz-Toni *,4
+o,Schneider Domenic ***,***,8.50,Kenel Franz-Toni *,5
+-,Kindlimann Fabian ***,***,8.75,Kenel Franz-Toni *,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Kenel Franz-Toni *,7
++,Fankhauser Erich ***,***,10.00,Döbeli Andreas ***,1
++,Arztmann Beda **,**,9.75,Döbeli Andreas ***,2
++,Betschart Patrick *,*,10.00,Döbeli Andreas ***,3
++,Nötzli Reto ***,***,9.75,Döbeli Andreas ***,4
+-,Reichmuth Marco **,**,9.00,Döbeli Andreas ***,5
+o,Ott Damian **,**,8.75,Döbeli Andreas ***,6
++,von Ah Benji ***,***,9.75,Strebel Joel ***,1
++,Ulrich Marco **,**,9.75,Strebel Joel ***,2
+-,Ambühl Joel **,**,8.75,Strebel Joel ***,3
+o,Ott Damian **,**,8.50,Strebel Joel ***,4
++,Kuster Thomas *,*,10.00,Strebel Joel ***,5
++,Fankhauser Erich ***,***,10.00,Strebel Joel ***,6
++,Waser Dominik **,**,10.00,Schnurrenberger Roman **,1
+o,Nötzli Reto ***,***,8.50,Schnurrenberger Roman **,2
++,Odermatt Christian **,**,10.00,Schnurrenberger Roman **,3
+o,Imhof Andi ***,***,8.50,Schnurrenberger Roman **,4
++,Kropf Marcel **,**,9.75,Schnurrenberger Roman **,5
++,Hügli Kaj **,**,10.00,Schnurrenberger Roman **,6
+o,Nötzli Reto ***,***,8.50,Räbmatter Patrick ***,1
++,Huber Alex *,*,10.00,Räbmatter Patrick ***,2
++,Gmür Pirmin **,**,10.00,Räbmatter Patrick ***,3
+o,Orlik Armon ***,***,8.50,Räbmatter Patrick ***,4
++,Oettli Marco **,**,9.75,Räbmatter Patrick ***,5
++,Reichmuth Marco **,**,9.75,Räbmatter Patrick ***,6
+o,Strebel Joel ***,***,8.50,von Ah Benji ***,1
++,Hugelshofer Lars *,*,9.75,von Ah Benji ***,2
++,Schmutz Simon *,*,9.75,von Ah Benji ***,3
++,Hermann Oliver **,**,9.75,von Ah Benji ***,4
+o,Leuppi Samir ***,***,8.50,von Ah Benji ***,5
++,Schmid Samuel **,**,10.00,von Ah Benji ***,6
++,Mangold Martin *,*,10.00,Räbsamen Marcel *,1
+-,Imhof Andi ***,***,9.00,Räbsamen Marcel *,2
+-,Fankhauser Marco **,**,9.00,Räbsamen Marcel *,3
+-,Ambühl Joel **,**,9.00,Räbsamen Marcel *,4
+-,Burch Jonas **,**,9.00,Räbsamen Marcel *,5
++,Lussi Marco **,**,10.00,Räbsamen Marcel *,6
+-,Kindlimann Fabian ***,***,8.75,Imhof Andi ***,1
+-,Räbsamen Marcel *,*,9.00,Imhof Andi ***,2
++,Dumelin David **,**,9.75,Imhof Andi ***,3
++,Schnurrenberger Roman **,**,10.00,Imhof Andi ***,4
++,Gmür Pirmin **,**,9.75,Imhof Andi ***,5
+o,Schneider Domenic ***,***,8.50,Imhof Andi ***,6
+-,Suppiger Werner **,**,8.75,Schlegel Sandro **,1
++,Bruder Adrian *,*,10.00,Schlegel Sandro **,2
+o,Schurtenberger Sven ***,***,8.50,Schlegel Sandro **,3
+o,Steinauer Adrian **,**,8.75,Schlegel Sandro **,4
++,Stüdeli Thomas **,**,9.75,Schlegel Sandro **,5
++,Kropf Marcel **,**,9.75,Schlegel Sandro **,6
++,Nägeli Marco **,**,10.00,Hurschler Thomas **,1
+o,Leuppi Samir ***,***,8.50,Hurschler Thomas **,2
++,Blaser Christian **,**,9.75,Hurschler Thomas **,3
+o,Gmür Pirmin **,**,8.50,Hurschler Thomas **,4
++,Arztmann Beda **,**,9.75,Hurschler Thomas **,5
+-,Burkhalter Stefan ***,***,8.75,Hurschler Thomas **,6
+,16.10.2021 05:51,05:51,Seite 1/,Hurschler Thomas **,7
++,Ris Jörn *,*,9.75,Bollhalder Manuel *,1
+o,Suppiger Werner **,**,8.50,Bollhalder Manuel *,2
+o,Bieri Marcel ***,***,8.50,Bollhalder Manuel *,3
++,Nussbaumer Gabriel,Gabriel,9.75,Bollhalder Manuel *,4
+-,Fellmann Roman **,**,8.75,Bollhalder Manuel *,5
++,Bader Fabian *,*,10.00,Bollhalder Manuel *,6
++,Gartmann Mauro **,**,9.75,Schmid Samuel **,1
+o,Fankhauser Erich ***,***,8.50,Schmid Samuel **,2
++,Ulrich Marco **,**,10.00,Schmid Samuel **,3
+o,Müllestein Mike ***,***,8.50,Schmid Samuel **,4
++,Hugelshofer Lars *,*,10.00,Schmid Samuel **,5
+o,von Ah Benji ***,***,8.50,Schmid Samuel **,6
++,Schuler Alex ***,***,10.00,Hügli Kaj **,1
++,Poltera Andrin *,*,10.00,Hügli Kaj **,2
+o,Orlik Armon ***,***,8.50,Hügli Kaj **,3
++,Huber Alex *,*,9.75,Hügli Kaj **,4
+o,Nötzli Reto ***,***,8.50,Hügli Kaj **,5
+o,Schnurrenberger Roman **,**,8.50,Hügli Kaj **,6
+-,Stüdeli Thomas **,**,8.75,Bucher Christian **,1
++,Ris Jörn *,*,9.75,Bucher Christian **,2
+o,Schlegel Werner **,**,8.50,Bucher Christian **,3
+o,Erb Roger **,**,8.50,Bucher Christian **,4
++,Stoll Simon **,**,9.75,Bucher Christian **,5
++,Büttler Gian,Gian,9.75,Bucher Christian **,6
+-,Orlik Armon ***,***,8.75,Bieri Marcel ***,1
+-,Rotach Lars *,*,8.75,Bieri Marcel ***,2
++,Bollhalder Manuel *,*,10.00,Bieri Marcel ***,3
++,Giger Urs *,*,10.00,Bieri Marcel ***,4
+-,Vollenweider Jeremy **,**,8.75,Bieri Marcel ***,5
+o,Dumelin David **,**,8.75,Bieri Marcel ***,6
+o,Fankhauser Marco **,**,8.50,Vollenweider Jeremy **,1
++,Stadler Kevin *,*,10.00,Vollenweider Jeremy **,2
+-,Schuler Alex ***,***,8.75,Vollenweider Jeremy **,3
++,Arnold Fabian *,*,9.75,Vollenweider Jeremy **,4
+-,Bieri Marcel ***,***,8.75,Vollenweider Jeremy **,5
+-,Betschart Patrick *,*,8.75,Vollenweider Jeremy **,6
++,Schmutz Simon *,*,10.00,Rotach Lars *,1
+-,Bieri Marcel ***,***,8.75,Rotach Lars *,2
+-,Egli Damian **,**,8.75,Rotach Lars *,3
+o,Kenel Franz-Toni *,*,8.75,Rotach Lars *,4
+o,Suppiger Werner **,**,8.50,Rotach Lars *,5
++,Grieder Nonda,Nonda,9.75,Rotach Lars *,6
+-,Schwegler Dominik,Dominik,8.75,Grieder Nonda,1
+o,Kenel Franz-Toni *,*,8.50,Grieder Nonda,2
++,Stadler Kevin *,*,10.00,Grieder Nonda,3
+o,Hugelshofer Lars *,*,8.75,Grieder Nonda,4
++,Blaser Christian **,**,10.00,Grieder Nonda,5
+o,Rotach Lars *,*,8.50,Grieder Nonda,6
++,Krähenbühl Tobias ***,***,10.00,Kropf Marcel **,1
++,Dumelin David **,**,10.00,Kropf Marcel **,2
+o,Nötzli Reto ***,***,8.50,Kropf Marcel **,3
+-,Betschart Patrick *,*,8.75,Kropf Marcel **,4
+o,Schnurrenberger Roman **,**,8.50,Kropf Marcel **,5
+o,Schlegel Sandro **,**,8.50,Kropf Marcel **,6
++,Scherrer Johann **,**,10.00,Ulrich Marco **,1
+o,Strebel Joel ***,***,8.50,Ulrich Marco **,2
+o,Schmid Samuel **,**,8.50,Ulrich Marco **,3
+o,Schmutz Simon *,*,8.50,Ulrich Marco **,4
++,Nussbaumer Gabriel,Gabriel,10.00,Ulrich Marco **,5
++,Henzer Andreas **,**,9.75,Ulrich Marco **,6
+o,Hermann Oliver **,**,8.50,Scherer Niklaus **,1
++,Scherrer Johann **,**,10.00,Scherer Niklaus **,2
+o,Kindlimann Fabian ***,***,8.50,Scherer Niklaus **,3
+o,Poltera Andrin *,*,8.75,Scherer Niklaus **,4
++,Nägeli Marco **,**,9.75,Scherer Niklaus **,5
++,Hugelshofer Lars *,*,9.75,Scherer Niklaus **,6
+-,Schneider Domenic ***,***,8.75,Müllestein Mike ***,1
+-,Ott Damian **,**,8.75,Müllestein Mike ***,2
++,Gartmann Mauro **,**,10.00,Müllestein Mike ***,3
++,Schmid Samuel **,**,9.75,Müllestein Mike ***,4
+-,Poltera Andrin *,*,9.00,Müllestein Mike ***,5
+-,Leuppi Samir ***,***,9.00,Müllestein Mike ***,6
++,Kenel Franz-Toni *,*,9.75,Kuster Thomas *,1
+o,Schurtenberger Sven ***,***,8.50,Kuster Thomas *,2
+o,Suppiger Werner **,**,8.75,Kuster Thomas *,3
++,Lemmenmeier Lukas *,*,9.75,Kuster Thomas *,4
+o,Strebel Joel ***,***,8.50,Kuster Thomas *,5
++,Fellmann Roman **,**,9.75,Kuster Thomas *,6
+o,Erb Roger **,**,8.50,Burkhalter Stefan ***,1
+-,Leuthard Reto **,**,8.75,Burkhalter Stefan ***,2
+-,Brand Christian **,**,8.75,Burkhalter Stefan ***,3
++,Stüdeli Thomas **,**,10.00,Burkhalter Stefan ***,4
++,Steinauer Adrian **,**,10.00,Burkhalter Stefan ***,5
+-,Hurschler Thomas **,**,8.75,Burkhalter Stefan ***,6
+-,Kolb Pirmin *,*,8.75,Reinhard Pirmin,1
+-,Schmid Patrick *,*,8.75,Reinhard Pirmin,2
+-,Bürgler Patrick *,*,8.75,Reinhard Pirmin,3
++,Büttler Gian,Gian,9.75,Reinhard Pirmin,4
+o,Lussi Marco **,**,8.50,Reinhard Pirmin,5
++,Arztmann Beda **,**,10.00,Reinhard Pirmin,6
+-,Steinauer Adrian **,**,9.00,Giger Urs *,1
+-,Henzer Andreas **,**,8.75,Giger Urs *,2
++,Probst Gabriel **,**,10.00,Giger Urs *,3
+o,Bieri Marcel ***,***,8.50,Giger Urs *,4
++,Arnold Fabian *,*,9.75,Giger Urs *,5
+o,Burch Jonas **,**,8.50,Giger Urs *,6
++,Blaser Christian **,**,9.75,Leuthard Reto **,1
+-,Burkhalter Stefan ***,***,8.75,Leuthard Reto **,2
+-,Lussi Marco **,**,8.75,Leuthard Reto **,3
++,Waser Dominik **,**,9.75,Leuthard Reto **,4
+o,Fankhauser Marco **,**,8.50,Leuthard Reto **,5
+-,Poltera Andrin *,*,8.75,Leuthard Reto **,6
+-,Reichmuth Marco **,**,9.00,Gmür Pirmin **,1
++,Moser Matthias *,*,10.00,Gmür Pirmin **,2
+o,Räbmatter Patrick ***,***,8.50,Gmür Pirmin **,3
++,Hurschler Thomas **,**,9.75,Gmür Pirmin **,4
+o,Imhof Andi ***,***,8.50,Gmür Pirmin **,5
+o,Rohrer Ueli **,**,8.50,Gmür Pirmin **,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Gmür Pirmin **,7
+o,Rotach Lars *,*,8.50,Schmutz Simon *,1
++,Nägeli Marco **,**,9.75,Schmutz Simon *,2
+o,von Ah Benji ***,***,8.50,Schmutz Simon *,3
++,Ulrich Marco **,**,10.00,Schmutz Simon *,4
++,Betschart Patrick *,*,10.00,Schmutz Simon *,5
+o,Schurtenberger Sven ***,***,8.50,Schmutz Simon *,6
++,Egli Damian **,**,10.00,Oettli Marco **,1
+o,Ambühl Joel **,**,8.50,Oettli Marco **,2
++,Waser Dominik **,**,10.00,Oettli Marco **,3
+o,Fankhauser Erich ***,***,8.50,Oettli Marco **,4
+o,Räbmatter Patrick ***,***,8.50,Oettli Marco **,5
++,Steinauer Adrian **,**,9.75,Oettli Marco **,6
+-,Henzer Andreas **,**,8.75,Odermatt Christian **,1
++,Mangold Martin *,*,9.75,Odermatt Christian **,2
+o,Schnurrenberger Roman **,**,8.50,Odermatt Christian **,3
+o,Dumelin David **,**,8.50,Odermatt Christian **,4
++,Ris Jörn *,*,9.75,Odermatt Christian **,5
++,Hermann Oliver **,**,9.75,Odermatt Christian **,6
+-,Imhof Andi ***,***,8.75,Kindlimann Fabian ***,1
+-,Lussi Marco **,**,8.75,Kindlimann Fabian ***,2
++,Scherer Niklaus **,**,10.00,Kindlimann Fabian ***,3
+-,Suppiger Werner **,**,8.75,Kindlimann Fabian ***,4
++,Brand Christian **,**,10.00,Kindlimann Fabian ***,5
+-,Kenel Franz-Toni *,*,8.75,Kindlimann Fabian ***,6
++,Gerber Andrj *,*,10.00,Poltera Andrin *,1
+o,Hügli Kaj **,**,8.50,Poltera Andrin *,2
+o,Fankhauser Erich ***,***,8.50,Poltera Andrin *,3
++,Scherer Niklaus **,**,10.00,Poltera Andrin *,4
+-,Müllestein Mike ***,***,9.00,Poltera Andrin *,5
+-,Leuthard Reto **,**,8.75,Poltera Andrin *,6
++,Dörig Erich *,*,10.00,Lussi Marco **,1
+-,Kindlimann Fabian ***,***,8.75,Lussi Marco **,2
+-,Leuthard Reto **,**,8.75,Lussi Marco **,3
+-,Kolb Pirmin *,*,8.75,Lussi Marco **,4
++,Reinhard Pirmin,Pirmin,9.75,Lussi Marco **,5
+o,Räbsamen Marcel *,*,8.50,Lussi Marco **,6
++,Bader Fabian *,*,9.75,Betschart Patrick *,1
++,Erb Roger **,**,10.00,Betschart Patrick *,2
+o,Döbeli Andreas ***,***,8.75,Betschart Patrick *,3
+-,Kropf Marcel **,**,8.75,Betschart Patrick *,4
+o,Schmutz Simon *,*,8.50,Betschart Patrick *,5
+-,Vollenweider Jeremy **,**,8.75,Betschart Patrick *,6
+-,Giger Urs *,*,9.00,Steinauer Adrian **,1
+o,Brand Christian **,**,8.50,Steinauer Adrian **,2
++,Bader Fabian *,*,9.75,Steinauer Adrian **,3
++,Schlegel Sandro **,**,10.00,Steinauer Adrian **,4
+o,Burkhalter Stefan ***,***,8.50,Steinauer Adrian **,5
+o,Oettli Marco **,**,8.50,Steinauer Adrian **,6
+o,Betschart Patrick *,*,8.50,Bader Fabian *,1
+-,Fellmann Roman **,**,8.75,Bader Fabian *,2
+o,Steinauer Adrian **,**,8.50,Bader Fabian *,3
++,Dörig Erich *,*,9.75,Bader Fabian *,4
++,Gartmann Mauro **,**,10.00,Bader Fabian *,5
+o,Bollhalder Manuel *,*,8.75,Bader Fabian *,6
+,16.10.2021 05:51,05:51,Seite 2/,Bader Fabian *,7
+o,Rohrer Ueli **,**,8.50,Stoll Simon **,1
+o,Blaser Christian **,**,8.50,Stoll Simon **,2
+-,Dörig Erich *,*,8.75,Stoll Simon **,3
++,Bürgler Patrick *,*,9.75,Stoll Simon **,4
+o,Bucher Christian **,**,8.50,Stoll Simon **,5
++,Nägeli Marco **,**,10.00,Stoll Simon **,6
++,Stadler Kevin *,*,9.75,Hugelshofer Lars *,1
+o,von Ah Benji ***,***,8.50,Hugelshofer Lars *,2
+o,Hermann Oliver **,**,8.50,Hugelshofer Lars *,3
++,Grieder Nonda,Nonda,10.00,Hugelshofer Lars *,4
+o,Schmid Samuel **,**,8.50,Hugelshofer Lars *,5
+o,Scherer Niklaus **,**,8.50,Hugelshofer Lars *,6
+o,Oettli Marco **,**,8.50,Egli Damian **,1
++,Imobersteg Matthias **,**,10.00,Egli Damian **,2
+-,Rotach Lars *,*,9.00,Egli Damian **,3
+o,Schlegel Werner **,**,8.50,Egli Damian **,4
+-,Henzer Andreas **,**,8.75,Egli Damian **,5
+-,Stüdeli Thomas **,**,9.00,Egli Damian **,6
+-,Reinhard Pirmin,Pirmin,8.75,Kolb Pirmin *,1
++,Probst Gabriel **,**,9.75,Kolb Pirmin *,2
+-,Henzer Andreas **,**,8.75,Kolb Pirmin *,3
+-,Lussi Marco **,**,8.75,Kolb Pirmin *,4
+o,Rohrer Ueli **,**,8.50,Kolb Pirmin *,5
+o,Lemmenmeier Lukas *,*,8.50,Kolb Pirmin *,6
+-,Bucher Christian **,**,8.75,Stüdeli Thomas **,1
+o,Lemmenmeier Lukas *,*,8.50,Stüdeli Thomas **,2
++,Koch Reto *,*,9.75,Stüdeli Thomas **,3
+o,Burkhalter Stefan ***,***,8.50,Stüdeli Thomas **,4
+o,Schlegel Sandro **,**,8.50,Stüdeli Thomas **,5
+-,Egli Damian **,**,9.00,Stüdeli Thomas **,6
+o,Bürgler Patrick *,*,8.50,Büttler Gian,1
+-,Dörig Erich *,*,8.75,Büttler Gian,2
+o,Suter Pirmin **,**,8.50,Büttler Gian,3
++,Mangold Martin *,*,10.00,Büttler Gian,4
+o,Reinhard Pirmin,Pirmin,8.50,Büttler Gian,5
+o,Bucher Christian **,**,8.50,Büttler Gian,6
++,Nussbaumer Gabriel,Gabriel,9.75,Huber Alex *,1
+o,Räbmatter Patrick ***,***,8.50,Huber Alex *,2
++,Schwegler Dominik,Dominik,10.00,Huber Alex *,3
+o,Hügli Kaj **,**,8.50,Huber Alex *,4
+o,Erb Roger **,**,8.50,Huber Alex *,5
+o,Schnurrenberger Roman **,**,8.50,Waser Dominik **,1
++,Imobersteg Matthias **,**,10.00,Waser Dominik **,2
+o,Oettli Marco **,**,8.75,Waser Dominik **,3
+o,Leuthard Reto **,**,8.50,Waser Dominik **,4
+-,Arnold Fabian *,*,8.75,Koch Reto *,1
+o,Reichmuth Marco **,**,8.75,Koch Reto *,2
+o,Stüdeli Thomas **,**,8.50,Koch Reto *,3
+-,Schwegler Dominik,Dominik,8.75,Koch Reto *,4
+-,Lemmenmeier Lukas *,*,8.75,Moser Matthias *,1
+o,Gmür Pirmin **,**,8.50,Moser Matthias *,2
+o,Fellmann Roman **,**,8.50,Moser Matthias *,3
+-,Schmid Patrick *,*,8.75,Moser Matthias *,4
+o,Kropf Marcel **,**,8.50,Krähenbühl Tobias ***,1
++,Hermann Oliver **,**,9.75,Krähenbühl Tobias ***,2
++,Lemmenmeier Lukas *,*,10.00,Krähenbühl Tobias ***,3
+o,Schurtenberger Sven ***,***,8.50,Krähenbühl Tobias ***,4
+o,Ambühl Joel **,**,8.50,Krähenbühl Tobias ***,5
+o,Suppiger Werner **,**,8.75,Krähenbühl Tobias ***,6
++,Scherer Niklaus **,**,10.00,Hermann Oliver **,1
+o,Krähenbühl Tobias ***,***,8.50,Hermann Oliver **,2
++,Hugelshofer Lars *,*,9.75,Hermann Oliver **,3
+o,von Ah Benji ***,***,8.50,Hermann Oliver **,4
+o,Dumelin David **,**,8.50,Hermann Oliver **,5
+o,Odermatt Christian **,**,8.50,Hermann Oliver **,6
+-,Odermatt Christian **,**,8.75,Henzer Andreas **,1
+-,Giger Urs *,*,8.75,Henzer Andreas **,2
+-,Kolb Pirmin *,*,8.75,Henzer Andreas **,3
++,Blaser Christian **,**,9.75,Henzer Andreas **,4
+-,Egli Damian **,**,8.75,Henzer Andreas **,5
+o,Ulrich Marco **,**,8.50,Henzer Andreas **,6
+-,Fellmann Roman **,**,8.75,Brand Christian **,1
++,Steinauer Adrian **,**,9.75,Brand Christian **,2
+-,Burkhalter Stefan ***,***,8.75,Brand Christian **,3
+o,Fankhauser Marco **,**,8.50,Brand Christian **,4
+o,Kindlimann Fabian ***,***,8.50,Brand Christian **,5
+-,Arnold Fabian *,*,8.75,Brand Christian **,6
++,Widmer David **,**,10.00,Arztmann Beda **,1
+o,Döbeli Andreas ***,***,8.50,Arztmann Beda **,2
+-,Erb Roger **,**,8.75,Arztmann Beda **,3
+-,Rohrer Ueli **,**,8.75,Arztmann Beda **,4
+o,Hurschler Thomas **,**,8.50,Arztmann Beda **,5
+o,Reinhard Pirmin,Pirmin,8.50,Arztmann Beda **,6
+o,Bollhalder Manuel *,*,8.50,Ris Jörn *,1
+o,Bucher Christian **,**,8.50,Ris Jörn *,2
+o,Nussbaumer Gabriel,Gabriel,8.50,Ris Jörn *,3
++,Widmer David **,**,10.00,Ris Jörn *,4
+o,Odermatt Christian **,**,8.50,Ris Jörn *,5
+o,Bürgler Patrick *,*,8.50,Ris Jörn *,6
+o,Hügli Kaj **,**,8.50,Schuler Alex ***,1
++,Bürgler Patrick *,*,10.00,Schuler Alex ***,2
+-,Vollenweider Jeremy **,**,8.75,Schuler Alex ***,3
+-,Nägeli Marco **,**,9.00,Schuler Alex ***,4
+o,Schlegel Werner **,**,8.50,Schuler Alex ***,5
+-,Grieder Nonda,Nonda,8.75,Schwegler Dominik,1
+-,Arnold Fabian *,*,8.75,Schwegler Dominik,2
+o,Huber Alex *,*,8.50,Schwegler Dominik,3
+-,Koch Reto *,*,8.75,Schwegler Dominik,4
+o,Lussi Marco **,**,8.50,Dörig Erich *,1
+-,Büttler Gian,Gian,9.00,Dörig Erich *,2
+-,Stoll Simon **,**,8.75,Dörig Erich *,3
+o,Bader Fabian *,*,8.50,Dörig Erich *,4
+-,Suter Pirmin **,**,8.75,Bruder Adrian *,1
+o,Schlegel Sandro **,**,8.50,Bruder Adrian *,2
+o,Kenel Franz-Toni *,*,8.50,Bruder Adrian *,3
+-,Probst Gabriel **,**,8.75,Bruder Adrian *,4
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Bruder Adrian *,5
++,Büttler Gian,Gian,9.75,Bürgler Patrick *,1
+o,Schuler Alex ***,***,8.50,Bürgler Patrick *,2
+-,Reinhard Pirmin,Pirmin,8.75,Bürgler Patrick *,3
+o,Stoll Simon **,**,8.50,Bürgler Patrick *,4
+o,Lemmenmeier Lukas *,*,8.50,Bürgler Patrick *,5
++,Ris Jörn *,*,9.75,Bürgler Patrick *,6
+o,Leuthard Reto **,**,8.50,Blaser Christian **,1
++,Stoll Simon **,**,9.75,Blaser Christian **,2
+o,Hurschler Thomas **,**,8.50,Blaser Christian **,3
+o,Henzer Andreas **,**,8.75,Blaser Christian **,4
+o,Grieder Nonda,Nonda,8.50,Blaser Christian **,5
++,Nussbaumer Gabriel,Gabriel,9.75,Blaser Christian **,6
+-,Brand Christian **,**,8.75,Fellmann Roman **,1
+-,Bader Fabian *,*,8.75,Fellmann Roman **,2
++,Moser Matthias *,*,10.00,Fellmann Roman **,3
+o,Leuppi Samir ***,***,8.50,Fellmann Roman **,4
+-,Bollhalder Manuel *,*,8.75,Fellmann Roman **,5
+o,Kuster Thomas *,*,8.50,Fellmann Roman **,6
+-,Koch Reto *,*,8.75,Arnold Fabian *,1
+-,Schwegler Dominik,Dominik,8.75,Arnold Fabian *,2
++,Widmer David **,**,9.75,Arnold Fabian *,3
+o,Vollenweider Jeremy **,**,8.50,Arnold Fabian *,4
+o,Giger Urs *,*,8.50,Arnold Fabian *,5
+-,Brand Christian **,**,8.75,Arnold Fabian *,6
+o,Hurschler Thomas **,**,8.50,Nägeli Marco **,1
+o,Schmutz Simon *,*,8.75,Nägeli Marco **,2
++,Mangold Martin *,*,10.00,Nägeli Marco **,3
+-,Schuler Alex ***,***,8.75,Nägeli Marco **,4
+o,Scherer Niklaus **,**,8.50,Nägeli Marco **,5
+o,Stoll Simon **,**,8.50,Nägeli Marco **,6
+o,Huber Alex *,*,8.50,Nussbaumer Gabriel,1
+o,Gartmann Mauro **,**,8.50,Nussbaumer Gabriel,2
++,Ris Jörn *,*,9.75,Nussbaumer Gabriel,3
+o,Bollhalder Manuel *,*,8.75,Nussbaumer Gabriel,4
+o,Ulrich Marco **,**,8.50,Nussbaumer Gabriel,5
+o,Blaser Christian **,**,8.50,Nussbaumer Gabriel,6
+o,Schmid Samuel **,**,8.50,Gartmann Mauro **,1
++,Nussbaumer Gabriel,Gabriel,10.00,Gartmann Mauro **,2
+o,Müllestein Mike ***,***,8.50,Gartmann Mauro **,3
+o,Burch Jonas **,**,8.50,Gartmann Mauro **,4
+o,Bader Fabian *,*,8.50,Gartmann Mauro **,5
+o,Burch Jonas **,**,8.50,Schmid Patrick *,1
+-,Reinhard Pirmin,Pirmin,8.75,Schmid Patrick *,2
+-,Scherrer Johann **,**,8.75,Schmid Patrick *,3
+-,Moser Matthias *,*,8.75,Schmid Patrick *,4
+o,Ulrich Marco **,**,8.50,Scherrer Johann **,1
+o,Scherer Niklaus **,**,8.50,Scherrer Johann **,2
+-,Schmid Patrick *,*,8.75,Scherrer Johann **,3
+-,Stadler Kevin *,*,8.75,Scherrer Johann **,4
+o,Hugelshofer Lars *,*,8.50,Stadler Kevin *,1
+o,Vollenweider Jeremy **,**,8.50,Stadler Kevin *,2
+o,Grieder Nonda,Nonda,8.75,Stadler Kevin *,3
+-,Scherrer Johann **,**,8.75,Stadler Kevin *,4
+,16.10.2021 05:51,05:51,Seite 3/,Stadler Kevin *,5
+o,Arztmann Beda **,**,8.50,Widmer David **,1
+-,Suter Pirmin **,**,8.75,Widmer David **,2
+o,Arnold Fabian *,*,8.50,Widmer David **,3
+o,Ris Jörn *,*,8.50,Widmer David **,4
+-,Bruder Adrian *,*,8.75,Suter Pirmin **,1
+-,Widmer David **,**,8.75,Suter Pirmin **,2
++,Büttler Gian,Gian,9.75,Suter Pirmin **,3
+o,Dumelin David **,**,8.50,Probst Gabriel **,1
+o,Kolb Pirmin *,*,8.50,Probst Gabriel **,2
+o,Giger Urs *,*,8.50,Probst Gabriel **,3
+-,Bruder Adrian *,*,8.75,Probst Gabriel **,4
+o,Ott Damian **,**,8.50,Imobersteg Matthias **,1
+o,Egli Damian **,**,8.50,Imobersteg Matthias **,2
+o,Waser Dominik **,**,8.50,Imobersteg Matthias **,3
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Räbsamen Marcel *,*,8.50,Mangold Martin *,1
+o,Odermatt Christian **,**,8.50,Mangold Martin *,2
+o,Nägeli Marco **,**,8.50,Mangold Martin *,3
+o,Büttler Gian,Gian,8.50,Mangold Martin *,4
+o,Poltera Andrin *,*,8.75,Gerber Andrj *,1
+,16.10.2021 05:51,05:51,Seite 4/,Gerber Andrj *,2

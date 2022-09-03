@@ -1,0 +1,833 @@
+result,name,level,points,placed_fighter,fight_round
++,Odermatt Adrian **,**,10.00,Walther Adrian **,1
++,Steﬀen Gustav **,**,10.00,Walther Adrian **,2
++,Leuenberger Michael *,*,10.00,Walther Adrian **,3
++,Sempach Thomas ***,***,10.00,Walther Adrian **,4
++,Wenger Kilian ***,***,10.00,Walther Adrian **,5
+o,Staudenmann Fabian ***,***,8.75,Walther Adrian **,6
++,Wittwer Josias **,**,9.75,Käser Remo ***,1
+-,Aeschbacher Matthias ***,***,8.75,Käser Remo ***,2
++,Nufer Sämi *,*,9.75,Käser Remo ***,3
++,Fankhauser Erich ***,***,10.00,Käser Remo ***,4
+-,Gobeli Patrick **,**,9.00,Käser Remo ***,5
++,Berger Lorenz **,**,10.00,Käser Remo ***,6
+-,Staudenmann Fabian ***,***,8.75,Leuppi Samir ***,1
++,Zaugg Lars **,**,9.75,Leuppi Samir ***,2
++,Gnägi Damian *,*,10.00,Leuppi Samir ***,3
+-,Wenger Kilian ***,***,8.75,Leuppi Samir ***,4
++,Burger Matthieu **,**,9.75,Leuppi Samir ***,5
++,Klossner Adrian **,**,10.00,Leuppi Samir ***,6
+o,Orlik Curdin ***,***,8.50,Rohrer Ueli **,1
++,Ramseier Thomas *,*,10.00,Rohrer Ueli **,2
++,Steﬀen Valentin *,*,10.00,Rohrer Ueli **,3
++,Aeschbacher Matthias ***,***,9.75,Rohrer Ueli **,4
+-,Staudenmann Fabian ***,***,9.00,Rohrer Ueli **,5
++,Iseli Marco **,**,9.75,Rohrer Ueli **,6
++,Räbmatter Patrick ***,***,10.00,Wenger Kilian ***,1
++,Gasser Dominik **,**,9.75,Wenger Kilian ***,2
++,Burger Matthieu **,**,10.00,Wenger Kilian ***,3
+-,Leuppi Samir ***,***,8.75,Wenger Kilian ***,4
+o,Walther Adrian **,**,8.50,Wenger Kilian ***,5
++,Zaugg Lars **,**,10.00,Wenger Kilian ***,6
++,Collaud Romain **,**,9.75,Aeschbacher Matthias ***,1
+-,Käser Remo ***,***,9.00,Aeschbacher Matthias ***,2
++,Weyermann Michael **,**,10.00,Aeschbacher Matthias ***,3
+o,Rohrer Ueli **,**,8.50,Aeschbacher Matthias ***,4
++,Hehlen Nico *,*,9.75,Aeschbacher Matthias ***,5
++,Wittwer Jan **,**,9.75,Aeschbacher Matthias ***,6
++,Luginbühl Hanspeter **,**,9.75,Fankhauser Erich ***,1
+-,Orlik Curdin ***,***,8.75,Fankhauser Erich ***,2
++,Berger Lorenz **,**,9.75,Fankhauser Erich ***,3
+o,Käser Remo ***,***,8.50,Fankhauser Erich ***,4
++,Thöni Ivan *,*,9.75,Fankhauser Erich ***,5
++,Gehrig Philipp **,**,10.00,Fankhauser Erich ***,6
++,Gäumann Stefan **,**,9.75,Roschi Ruedi **,1
+o,Gnägi Florian ***,***,8.50,Roschi Ruedi **,2
++,Ruch Dominik,Dominik,9.75,Roschi Ruedi **,3
++,Tschumi Lukas *,*,9.75,Roschi Ruedi **,4
++,Steﬀen Konrad *,*,10.00,Roschi Ruedi **,5
+o,Staudenmann Fabian ***,***,8.50,Roschi Ruedi **,6
+-,Leuppi Samir ***,***,8.75,Staudenmann Fabian ***,1
++,Weyermann Florian **,**,10.00,Staudenmann Fabian ***,2
++,Steudler Kevin *,*,10.00,Staudenmann Fabian ***,3
++,Anderegg Simon ***,***,10.00,Staudenmann Fabian ***,4
+-,Rohrer Ueli **,**,9.00,Staudenmann Fabian ***,5
++,Roschi Ruedi **,**,9.75,Staudenmann Fabian ***,6
++,Walther Adrian **,**,0.25,Staudenmann Fabian ***,7
+-,Sempach Thomas ***,***,8.75,von Weissenﬂuh Kilian ***,1
++,Gäggeler Adrian *,*,10.00,von Weissenﬂuh Kilian ***,2
++,Jäggi Lukas *,*,10.00,von Weissenﬂuh Kilian ***,3
+-,Gnägi Florian ***,***,8.75,von Weissenﬂuh Kilian ***,4
++,Schlüchter Colin *,*,9.75,von Weissenﬂuh Kilian ***,5
++,Odermatt Adrian **,**,10.00,von Weissenﬂuh Kilian ***,6
++,Rohrer Ueli **,**,10.00,Orlik Curdin ***,1
+-,Fankhauser Erich ***,***,8.75,Orlik Curdin ***,2
++,Rüegsegger Christian *,*,9.75,Orlik Curdin ***,3
++,Collaud Romain **,**,9.75,Orlik Curdin ***,4
++,Gäggeler Adrian *,*,10.00,Orlik Curdin ***,5
+-,Gnägi Florian ***,***,8.75,Orlik Curdin ***,6
+-,von Weissenﬂuh Kilian ***,***,8.75,Sempach Thomas ***,1
++,Zürcher Remo *,*,10.00,Sempach Thomas ***,2
++,Scheuner David (2005) *,*,10.00,Sempach Thomas ***,3
+o,Walther Adrian **,**,8.50,Sempach Thomas ***,4
++,Beer Peter *,*,10.00,Sempach Thomas ***,5
++,Kämpf Alexander **,**,9.75,Sempach Thomas ***,6
++,Inniger Thomas ***,***,9.75,Burger Matthieu **,1
++,Tschumi Daniel (2005),(2005),10.00,Burger Matthieu **,2
+o,Wenger Kilian ***,***,8.50,Burger Matthieu **,3
++,Thöni Reto *,*,10.00,Burger Matthieu **,4
+o,Leuppi Samir ***,***,8.75,Burger Matthieu **,5
++,Steﬀen Valentin *,*,10.00,Burger Matthieu **,6
+-,Schafroth Dario (2004) *,*,8.75,Iseli Marco **,1
++,Thomet Adrian **,**,9.75,Iseli Marco **,2
++,Tschumi Daniel (2005),(2005),9.75,Iseli Marco **,3
++,von Büren Stephan **,**,10.00,Iseli Marco **,4
++,Räbmatter Patrick ***,***,10.00,Iseli Marco **,5
+o,Rohrer Ueli **,**,8.50,Iseli Marco **,6
++,Matthey Mickaël **,**,9.75,Kämpf Bernhard ***,1
++,Steﬀen Konrad *,*,9.75,Kämpf Bernhard ***,2
+o,Studer Stefan **,**,8.50,Kämpf Bernhard ***,3
+-,Kropf Thomas **,**,9.00,Kämpf Bernhard ***,4
++,Moser Michael (2005) *,*,9.75,Kämpf Bernhard ***,5
++,Burger Etienne (2004) *,*,9.75,Kämpf Bernhard ***,6
+o,Ledermann Michael **,**,8.50,Roth Philipp ***,1
++,Sommer Martin *,*,10.00,Roth Philipp ***,2
+-,Röthlisberger Simon *,*,8.75,Roth Philipp ***,3
++,Joss David *,*,10.00,Roth Philipp ***,4
+-,Steﬀen Gustav **,**,8.75,Roth Philipp ***,5
++,Schwander Severin **,**,9.75,Roth Philipp ***,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Roth Philipp ***,7
+-,Tschumi Lukas *,*,8.75,Gobeli Patrick **,1
++,Röthlisberger Simon *,*,9.75,Gobeli Patrick **,2
++,Odermatt Adrian **,**,10.00,Gobeli Patrick **,3
++,Klopfenstein Jan,Jan,10.00,Gobeli Patrick **,4
+-,Käser Remo ***,***,9.00,Gobeli Patrick **,5
++,Kropf Thomas **,**,10.00,Gobeli Patrick **,6
++,Rychen Roger ***,***,9.75,Gnägi Florian ***,1
++,Roschi Ruedi **,**,9.75,Gnägi Florian ***,2
++,Schlüchter Colin *,*,10.00,Gnägi Florian ***,3
+-,von Weissenﬂuh Kilian ***,***,8.75,Gnägi Florian ***,4
++,Kropf Thomas **,**,10.00,Gnägi Florian ***,5
+-,Orlik Curdin ***,***,8.75,Gnägi Florian ***,6
+-,Schwander Severin **,**,8.75,Anderegg Simon ***,1
++,Zangger Dominik *,*,10.00,Anderegg Simon ***,2
++,Moser Michael (2005) *,*,10.00,Anderegg Simon ***,3
+o,Staudenmann Fabian ***,***,8.50,Anderegg Simon ***,4
++,Aebersold Adrian *,*,9.75,Anderegg Simon ***,5
++,von Büren Stephan **,**,10.00,Anderegg Simon ***,6
++,Aellen Florian *,*,10.00,Steﬀen Gustav **,1
+o,Walther Adrian **,**,8.50,Steﬀen Gustav **,2
++,Huber Melchior *,*,10.00,Steﬀen Gustav **,3
++,Schafroth Dario (2004) *,*,9.75,Steﬀen Gustav **,4
+-,Roth Philipp ***,***,8.75,Steﬀen Gustav **,5
++,Wiedmer Marco,Marco,10.00,Steﬀen Gustav **,6
++,Zosso Remo **,**,10.00,Schlüchter Colin *,1
++,Wittwer Jan **,**,10.00,Schlüchter Colin *,2
+o,Gnägi Florian ***,***,8.50,Schlüchter Colin *,3
++,Kappeler Niklaus *,*,10.00,Schlüchter Colin *,4
+o,von Weissenﬂuh Kilian ***,***,8.50,Schlüchter Colin *,5
++,Lüthi David *,*,10.00,Schlüchter Colin *,6
++,Wittwer Jan **,**,10.00,Moser Michael (2005) *,1
++,Nyﬀeler Michael,Michael,9.75,Moser Michael (2005) *,2
+o,Anderegg Simon ***,***,8.50,Moser Michael (2005) *,3
++,Camenzind Ivan *,*,10.00,Moser Michael (2005) *,4
+o,Kämpf Bernhard ***,***,8.50,Moser Michael (2005) *,5
++,Wittwer Josias **,**,10.00,Moser Michael (2005) *,6
++,Thomet Adrian **,**,9.75,Thöni Reto *,1
+o,Odermatt Adrian **,**,8.50,Thöni Reto *,2
++,Ramseier Thomas *,*,9.75,Thöni Reto *,3
+o,Burger Matthieu **,**,8.50,Thöni Reto *,4
++,Zbinden Adrian *,*,10.00,Thöni Reto *,5
++,Studer Stefan **,**,10.00,Thöni Reto *,6
+-,Anderegg Simon ***,***,8.75,Schwander Severin **,1
++,Huber Melchior *,*,9.75,Schwander Severin **,2
+-,Aebersold Adrian *,*,8.75,Schwander Severin **,3
++,Schüpbach Janick *,*,10.00,Schwander Severin **,4
++,Gäumann Stefan **,**,10.00,Schwander Severin **,5
+o,Roth Philipp ***,***,8.50,Schwander Severin **,6
+,23.07.2022 20:38,20:38,Seite 1/,Schwander Severin **,7
+-,Thöni Ivan *,*,8.75,Studer Stefan **,1
++,Grossen John *,*,10.00,Studer Stefan **,2
++,Kämpf Bernhard ***,***,9.75,Studer Stefan **,3
+-,Hehlen Nico *,*,8.75,Studer Stefan **,4
++,Graf Simon,Simon,10.00,Studer Stefan **,5
+o,Thöni Reto *,*,8.50,Studer Stefan **,6
+o,Zangger Dominik *,*,8.50,Rüegsegger Christian *,1
++,Klossner Adrian **,**,10.00,Rüegsegger Christian *,2
+o,Orlik Curdin ***,***,8.50,Rüegsegger Christian *,3
++,Zingg Marc,Marc,10.00,Rüegsegger Christian *,4
+-,Inniger Thomas ***,***,8.75,Rüegsegger Christian *,5
++,Huber Melchior *,*,10.00,Rüegsegger Christian *,6
+-,Nägeli Leandro *,*,8.75,Berger Lorenz **,1
++,Kämpf Nicolas,Nicolas,9.75,Berger Lorenz **,2
+o,Fankhauser Erich ***,***,8.75,Berger Lorenz **,3
++,Mosimann Fabian,Fabian,9.75,Berger Lorenz **,4
++,Röthlisberger Simon *,*,10.00,Berger Lorenz **,5
+o,Käser Remo ***,***,8.50,Berger Lorenz **,6
++,Steudler Kevin *,*,10.00,Weyermann Florian **,1
+o,Staudenmann Fabian ***,***,8.50,Weyermann Florian **,2
+o,Oberli Pascal,Pascal,8.50,Weyermann Florian **,3
+-,Wyss Kaspar *,*,8.75,Weyermann Florian **,4
++,Gerber Sämi,Sämi,10.00,Weyermann Florian **,5
++,Aellen Florian *,*,9.75,Weyermann Florian **,6
+o,Walther Adrian **,**,8.50,Odermatt Adrian **,1
++,Thöni Reto *,*,10.00,Odermatt Adrian **,2
+o,Gobeli Patrick **,**,8.50,Odermatt Adrian **,3
++,Berger René **,**,10.00,Odermatt Adrian **,4
++,Kappeler Niklaus *,*,10.00,Odermatt Adrian **,5
+o,von Weissenﬂuh Kilian ***,***,8.50,Odermatt Adrian **,6
++,Zbinden Adrian *,*,9.75,Hadorn Christian *,1
+-,Inniger Thomas ***,***,8.75,Hadorn Christian *,2
+-,Zürcher Remo *,*,8.75,Hadorn Christian *,3
+o,Lüthi David *,*,8.50,Hadorn Christian *,4
++,Grossen John *,*,9.75,Hadorn Christian *,5
++,Tschumi Daniel (2005),(2005),9.75,Hadorn Christian *,6
+-,Rutsch Remo (2004) *,*,8.75,Steﬀen Valentin *,1
++,Klopfenstein Jan,Jan,10.00,Steﬀen Valentin *,2
+o,Rohrer Ueli **,**,8.50,Steﬀen Valentin *,3
++,Gnägi Damian *,*,9.75,Steﬀen Valentin *,4
++,Leuenberger Michael *,*,9.75,Steﬀen Valentin *,5
+o,Burger Matthieu **,**,8.50,Steﬀen Valentin *,6
+o,Moser Michael (2005) *,*,8.50,Wittwer Jan **,1
+o,Schlüchter Colin *,*,8.50,Wittwer Jan **,2
++,Röthlisberger Florian,Florian,10.00,Wittwer Jan **,3
++,Rutsch Remo (2004) *,*,9.75,Wittwer Jan **,4
++,Oberli Pascal,Pascal,10.00,Wittwer Jan **,5
+o,Aeschbacher Matthias ***,***,8.50,Wittwer Jan **,6
++,Dummermuth Ueli,Ueli,9.75,Scheidegger Marc,1
+o,Nägeli Leandro *,*,8.50,Scheidegger Marc,2
+o,Thomet Adrian **,**,8.50,Scheidegger Marc,3
++,Niederhäuser Martin,Martin,9.75,Scheidegger Marc,4
+-,Kämpf Marcel *,*,8.75,Scheidegger Marc,5
++,Hehlen Nico *,*,9.75,Scheidegger Marc,6
+o,Aeschbacher Matthias ***,***,8.50,Collaud Romain **,1
++,Blaser Roman *,*,9.75,Collaud Romain **,2
++,Gasser Dominik **,**,10.00,Collaud Romain **,3
+o,Orlik Curdin ***,***,8.50,Collaud Romain **,4
++,Boss Andreas *,*,10.00,Collaud Romain **,5
+-,Gäggeler Adrian *,*,9.00,Collaud Romain **,6
+-,Studer Stefan **,**,8.75,Thöni Ivan *,1
++,Zbinden Adrian *,*,10.00,Thöni Ivan *,2
++,Zaugg Lars **,**,10.00,Thöni Ivan *,3
+o,Gäggeler Adrian *,*,8.75,Thöni Ivan *,4
+o,Fankhauser Erich ***,***,8.50,Thöni Ivan *,5
++,Steﬀen Konrad *,*,9.75,Thöni Ivan *,6
++,Grossen John *,*,9.75,Kropf Thomas **,1
++,Gäumann Stefan **,**,10.00,Kropf Thomas **,2
+-,Kämpf Bernhard ***,***,8.75,Kropf Thomas **,3
++,Oberli Pascal,Pascal,10.00,Kropf Thomas **,4
+o,Gnägi Florian ***,***,8.50,Kropf Thomas **,5
+o,Gobeli Patrick **,**,8.50,Kropf Thomas **,6
+o,Zaugg Lars **,**,8.75,Beer Peter *,1
+o,von Büren Stephan **,**,8.50,Beer Peter *,2
++,Berger Christian,Christian,10.00,Beer Peter *,3
++,Wüthrich Bruno,Bruno,9.75,Beer Peter *,4
+o,Sempach Thomas ***,***,8.50,Beer Peter *,5
++,Joss David *,*,10.00,Beer Peter *,6
+o,Gnägi Florian ***,***,8.50,Rychen Roger ***,1
++,Gehrig Philipp **,**,9.75,Rychen Roger ***,2
+o,von Büren Stephan **,**,8.50,Rychen Roger ***,3
+o,Steﬀen Konrad *,*,8.75,Rychen Roger ***,4
++,Galli Sandro *,*,10.00,Rychen Roger ***,5
++,Wüthrich Jonas (2005),(2005),10.00,Rychen Roger ***,6
+-,Tschanz Richard *,*,8.75,Ruch Dominik,1
++,Boss Andreas *,*,9.75,Ruch Dominik,2
+o,Roschi Ruedi **,**,8.50,Ruch Dominik,3
++,Nyﬀeler Michael,Michael,10.00,Ruch Dominik,4
+o,Gehrig Philipp **,**,8.50,Ruch Dominik,5
++,Keusen Reto,Reto,9.75,Ruch Dominik,6
+o,Roschi Ruedi **,**,8.50,Gäumann Stefan **,1
+o,Kropf Thomas **,**,8.50,Gäumann Stefan **,2
++,Stucki Jürg,Jürg,10.00,Gäumann Stefan **,3
++,Wenger Marcel *,*,10.00,Gäumann Stefan **,4
+o,Schwander Severin **,**,8.50,Gäumann Stefan **,5
++,Camenzind Ivan *,*,9.75,Gäumann Stefan **,6
+o,Kämpf Alexander **,**,8.50,Staub Severin *,1
++,Schüpbach Janick *,*,10.00,Staub Severin *,2
+-,Tschanz Richard *,*,9.00,Staub Severin *,3
+-,Nägeli Leandro *,*,9.00,Staub Severin *,4
+-,Nufer Sämi *,*,8.75,Staub Severin *,5
++,Gerber Sämi,Sämi,10.00,Staub Severin *,6
++,Klossner Sven *,*,10.00,Gehrig Philipp **,1
+o,Rychen Roger ***,***,8.50,Gehrig Philipp **,2
+o,Kappeler Niklaus *,*,8.50,Gehrig Philipp **,3
++,Waber Lorenz *,*,9.75,Gehrig Philipp **,4
++,Ruch Dominik,Dominik,9.75,Gehrig Philipp **,5
+o,Fankhauser Erich ***,***,8.50,Gehrig Philipp **,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Gehrig Philipp **,7
++,von Büren Stephan **,**,10.00,Gäggeler Adrian *,1
+o,von Weissenﬂuh Kilian ***,***,8.50,Gäggeler Adrian *,2
++,Kämpf Nicolas,Nicolas,10.00,Gäggeler Adrian *,3
++,Thöni Ivan *,*,10.00,Gäggeler Adrian *,4
+o,Orlik Curdin ***,***,8.50,Gäggeler Adrian *,5
+-,Collaud Romain **,**,8.75,Gäggeler Adrian *,6
++,Hehlen Nico *,*,9.75,Aebersold Adrian *,1
+-,Luginbühl Hanspeter **,**,8.75,Aebersold Adrian *,2
+-,Schwander Severin **,**,8.75,Aebersold Adrian *,3
++,Keusen Reto,Reto,9.75,Aebersold Adrian *,4
+o,Anderegg Simon ***,***,8.50,Aebersold Adrian *,5
++,Kappeler Niklaus *,*,10.00,Aebersold Adrian *,6
+o,Wenger Kilian ***,***,8.50,Räbmatter Patrick ***,1
+-,Kämpf Alexander **,**,8.75,Räbmatter Patrick ***,2
++,Nägeli Leandro *,*,9.75,Räbmatter Patrick ***,3
++,De Fusco Dario *,*,10.00,Räbmatter Patrick ***,4
+o,Iseli Marco **,**,8.50,Räbmatter Patrick ***,5
++,Thomet Adrian **,**,10.00,Räbmatter Patrick ***,6
+o,Tschumi Daniel (2005),(2005),8.50,Graf Simon,1
+o,Gnägi Damian *,*,8.50,Graf Simon,2
++,Kestenholz Christian,Christian,10.00,Graf Simon,3
++,Weyermann Michael **,**,10.00,Graf Simon,4
+o,Studer Stefan **,**,8.50,Graf Simon,5
++,Oberli Pascal,Pascal,10.00,Graf Simon,6
++,Beer Peter *,*,10.00,Zaugg Lars **,1
+o,Leuppi Samir ***,***,8.50,Zaugg Lars **,2
+o,Thöni Ivan *,*,8.75,Zaugg Lars **,3
++,Röthlisberger Florian,Florian,10.00,Zaugg Lars **,4
++,Zürcher Remo *,*,9.75,Zaugg Lars **,5
+o,Wenger Kilian ***,***,8.50,Zaugg Lars **,6
++,Schenkel Remo *,*,9.75,Schenk Thomas *,1
+o,Matthey Mickaël **,**,8.50,Schenk Thomas *,2
++,Rutsch Remo (2004) *,*,9.75,Schenk Thomas *,3
+-,Kämpf Alexander **,**,8.75,Schenk Thomas *,4
+o,Thomet Adrian **,**,8.50,Schenk Thomas *,5
++,Walther Nicolas,Nicolas,10.00,Schenk Thomas *,6
++,Tschan Matthias *,*,9.75,Steﬀen Konrad *,1
+o,Kämpf Bernhard ***,***,8.50,Steﬀen Konrad *,2
++,Wiedmer Marco,Marco,9.75,Steﬀen Konrad *,3
++,Rychen Roger ***,***,10.00,Steﬀen Konrad *,4
+o,Roschi Ruedi **,**,8.50,Steﬀen Konrad *,5
+o,Thöni Ivan *,*,8.75,Steﬀen Konrad *,6
++,Kämpf Marcel *,*,9.75,Blaser Roman *,1
+o,Collaud Romain **,**,8.50,Blaser Roman *,2
+-,Wyss Kaspar *,*,8.75,Blaser Roman *,3
+o,Wittwer Josias **,**,8.50,Blaser Roman *,4
++,Wicki Cédric,Cédric,9.75,Blaser Roman *,5
++,Stucki Jürg,Jürg,9.75,Blaser Roman *,6
++,Engel Manfred,Manfred,9.75,Klopfenstein Jan,1
+o,Steﬀen Valentin *,*,8.50,Klopfenstein Jan,2
++,Sommer Martin *,*,10.00,Klopfenstein Jan,3
+o,Gobeli Patrick **,**,8.50,Klopfenstein Jan,4
+o,Gnägi Damian *,*,8.50,Klopfenstein Jan,5
++,Stucki Jürg,Jürg,9.75,Klopfenstein Jan,6
+,23.07.2022 20:38,20:38,Seite 2/,Klopfenstein Jan,7
+o,Gäggeler Adrian *,*,8.50,von Büren Stephan **,1
++,Beer Peter *,*,10.00,von Büren Stephan **,2
++,Rychen Roger ***,***,9.75,von Büren Stephan **,3
+o,Iseli Marco **,**,8.50,von Büren Stephan **,4
++,Wyss Kaspar *,*,9.75,von Büren Stephan **,5
+o,Anderegg Simon ***,***,8.50,von Büren Stephan **,6
+-,Rüegsegger Ueli *,*,8.75,Nägeli Daniel *,1
+-,Tschumi Lukas *,*,8.75,Nägeli Daniel *,2
+-,Burger Etienne (2004) *,*,8.75,Nägeli Daniel *,3
++,Mettler Fabio,Fabio,10.00,Nägeli Daniel *,4
+-,Zangger Dominik *,*,8.75,Nägeli Daniel *,5
++,Zingg Marc,Marc,9.75,Nägeli Daniel *,6
+-,Kestenholz Christian,Christian,8.75,Trittibach Silvan (2004),1
+-,Nager Yannick,Yannick,8.75,Trittibach Silvan (2004),2
+-,Aebersold Fabian *,*,8.75,Trittibach Silvan (2004),3
++,Zangger Dominik *,*,10.00,Trittibach Silvan (2004),4
+o,Matthey Mickaël **,**,8.50,Trittibach Silvan (2004),5
++,Schüpbach Janick *,*,10.00,Trittibach Silvan (2004),6
+o,Kämpf Bernhard ***,***,8.50,Matthey Mickaël **,1
++,Schenk Thomas *,*,9.75,Matthey Mickaël **,2
+-,Wittwer Josias **,**,8.75,Matthey Mickaël **,3
+-,Tschan Matthias *,*,8.75,Matthey Mickaël **,4
++,Trittibach Silvan (2004),(2004),10.00,Matthey Mickaël **,5
+-,Stucki Fabian (2005),(2005),8.75,Matthey Mickaël **,6
+o,Käser Remo ***,***,8.50,Wittwer Josias **,1
++,Weyermann Michael **,**,10.00,Wittwer Josias **,2
+-,Matthey Mickaël **,**,8.75,Wittwer Josias **,3
++,Blaser Roman *,*,10.00,Wittwer Josias **,4
+-,Stucki Fabian (2005),(2005),8.75,Wittwer Josias **,5
+o,Moser Michael (2005) *,*,8.50,Wittwer Josias **,6
+o,Steﬀen Gustav **,**,8.50,Aellen Florian *,1
+-,Wüthrich Jonas (2005),(2005),8.75,Aellen Florian *,2
++,Keusen Reto,Reto,9.75,Aellen Florian *,3
+-,Thomet Adrian **,**,8.75,Aellen Florian *,4
++,Walther Nicolas,Nicolas,10.00,Aellen Florian *,5
+o,Weyermann Florian **,**,8.50,Aellen Florian *,6
+-,Lüthi David *,*,8.75,Leuenberger Michael *,1
++,Berger René **,**,10.00,Leuenberger Michael *,2
+o,Walther Adrian **,**,8.50,Leuenberger Michael *,3
++,Wüthrich Jonas (2005),(2005),9.75,Leuenberger Michael *,4
+o,Steﬀen Valentin *,*,8.50,Leuenberger Michael *,5
+-,Wüthrich Philip *,*,8.75,Leuenberger Michael *,6
++,Wyss Kaspar *,*,9.75,Ramseier Thomas *,1
+o,Rohrer Ueli **,**,8.50,Ramseier Thomas *,2
+o,Thöni Reto *,*,8.50,Ramseier Thomas *,3
+-,Stucki Jürg,Jürg,8.75,Ramseier Thomas *,4
+-,Tschumi Daniel (2005),(2005),8.75,Ramseier Thomas *,5
++,Nufer Sämi *,*,9.75,Ramseier Thomas *,6
++,Kämpf Lorenz *,*,9.75,Zürcher Remo *,1
+o,Sempach Thomas ***,***,8.50,Zürcher Remo *,2
+-,Hadorn Christian *,*,8.75,Zürcher Remo *,3
++,Klossner Sven *,*,9.75,Zürcher Remo *,4
+o,Zaugg Lars **,**,8.50,Zürcher Remo *,5
+-,Röthlisberger Simon *,*,8.75,Zürcher Remo *,6
+-,Wittwer Mathias,Mathias,9.00,Stucki Fabian (2005),1
+-,Zosso Remo **,**,8.75,Stucki Fabian (2005),2
++,Zingrich Jan *,*,9.75,Stucki Fabian (2005),3
++,Steudler Kevin *,*,10.00,Stucki Fabian (2005),4
+-,Wittwer Josias **,**,8.75,Stucki Fabian (2005),5
+-,Matthey Mickaël **,**,8.75,Stucki Fabian (2005),6
+-,Fankhauser Thomas *,*,8.75,Galli Sandro *,1
++,Salzmann Simon *,*,9.75,Galli Sandro *,2
+-,Luginbühl Hanspeter **,**,8.75,Galli Sandro *,3
+-,Berger Jan (2004),(2004),9.00,Galli Sandro *,4
+o,Rychen Roger ***,***,8.50,Galli Sandro *,5
++,Meier Urs,Urs,10.00,Galli Sandro *,6
+-,Gasser Fabian,Fabian,8.75,Burger Etienne (2004) *,1
+-,Camenzind Ivan *,*,8.75,Burger Etienne (2004) *,2
+-,Nägeli Daniel *,*,9.00,Burger Etienne (2004) *,3
++,Zingrich Jan *,*,9.75,Burger Etienne (2004) *,4
++,Scheuner David (2005) *,*,9.75,Burger Etienne (2004) *,5
+o,Kämpf Bernhard ***,***,8.50,Burger Etienne (2004) *,6
+-,Mettler Fabio,Fabio,8.75,Mosimann Fabian,1
+-,Wenger Marcel *,*,8.75,Mosimann Fabian,2
++,Nyﬀeler Michael,Michael,10.00,Mosimann Fabian,3
+o,Berger Lorenz **,**,8.50,Mosimann Fabian,4
+-,Schafroth Dario (2004) *,*,8.75,Mosimann Fabian,5
++,Boss Andreas *,*,9.75,Mosimann Fabian,6
++,Walther Nicolas,Nicolas,9.75,Wüthrich Jonas (2005),1
+-,Aellen Florian *,*,8.75,Wüthrich Jonas (2005),2
+-,Klossner Adrian **,**,8.75,Wüthrich Jonas (2005),3
+o,Leuenberger Michael *,*,8.75,Wüthrich Jonas (2005),4
++,Röthlisberger Florian,Florian,10.00,Wüthrich Jonas (2005),5
+o,Rychen Roger ***,***,8.50,Wüthrich Jonas (2005),6
+-,Blaser Jan *,*,8.75,Camenzind Ivan *,1
+-,Burger Etienne (2004) *,*,8.75,Camenzind Ivan *,2
++,Rüegsegger Ueli *,*,10.00,Camenzind Ivan *,3
+o,Moser Michael (2005) *,*,8.50,Camenzind Ivan *,4
++,Matter Florian (2005),(2005),9.75,Camenzind Ivan *,5
+o,Gäumann Stefan **,**,8.50,Camenzind Ivan *,6
+-,Steﬀen Valentin *,*,8.75,Rutsch Remo (2004) *,1
++,Gerber Sämi,Sämi,9.75,Rutsch Remo (2004) *,2
+o,Schenk Thomas *,*,8.50,Rutsch Remo (2004) *,3
+o,Wittwer Jan **,**,8.50,Rutsch Remo (2004) *,4
++,Schüpbach Janick *,*,9.75,Rutsch Remo (2004) *,5
+-,Berger René **,**,9.00,Rutsch Remo (2004) *,6
++,Boss Andreas *,*,9.75,Röthlisberger Simon *,1
+o,Gobeli Patrick **,**,8.50,Röthlisberger Simon *,2
+-,Roth Philipp ***,***,8.75,Röthlisberger Simon *,3
++,Matter Florian (2005),(2005),9.75,Röthlisberger Simon *,4
+o,Berger Lorenz **,**,8.50,Röthlisberger Simon *,5
+-,Zürcher Remo *,*,8.75,Röthlisberger Simon *,6
+o,Aebersold Adrian *,*,8.75,Hehlen Nico *,1
++,Hadorn Marco *,*,9.75,Hehlen Nico *,2
++,Schenkel Remo *,*,9.75,Hehlen Nico *,3
+-,Studer Stefan **,**,8.75,Hehlen Nico *,4
+o,Aeschbacher Matthias ***,***,8.50,Hehlen Nico *,5
+o,Scheidegger Marc,Marc,8.50,Hehlen Nico *,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Hehlen Nico *,7
+-,Wüthrich Philip *,*,9.00,Wiedmer Marco,1
++,Fankhauser Thomas *,*,10.00,Wiedmer Marco,2
+o,Steﬀen Konrad *,*,8.50,Wiedmer Marco,3
+-,Kämpf Nicolas,Nicolas,9.00,Wiedmer Marco,4
++,Sommer Martin *,*,10.00,Wiedmer Marco,5
+o,Steﬀen Gustav **,**,8.50,Wiedmer Marco,6
++,Staub Severin *,*,10.00,Kämpf Alexander **,1
+-,Räbmatter Patrick ***,***,8.75,Kämpf Alexander **,2
++,Danz Benoit,Benoit,10.00,Kämpf Alexander **,3
+-,Schenk Thomas *,*,8.75,Kämpf Alexander **,4
+-,Lüthi David *,*,8.75,Kämpf Alexander **,5
+o,Sempach Thomas ***,***,8.50,Kämpf Alexander **,6
+-,Leuenberger Michael *,*,8.75,Lüthi David *,1
++,Waber Lorenz *,*,9.75,Lüthi David *,2
+-,Inniger Thomas ***,***,8.75,Lüthi David *,3
++,Hadorn Christian *,*,10.00,Lüthi David *,4
+-,Kämpf Alexander **,**,8.75,Lüthi David *,5
+o,Schlüchter Colin *,*,8.50,Lüthi David *,6
+-,Joss David *,*,8.75,Klossner Adrian **,1
+o,Rüegsegger Christian *,*,8.50,Klossner Adrian **,2
+-,Wüthrich Jonas (2005),(2005),8.75,Klossner Adrian **,3
++,Berger Christian,Christian,10.00,Klossner Adrian **,4
++,Hadorn Marco *,*,10.00,Klossner Adrian **,5
+o,Leuppi Samir ***,***,8.50,Klossner Adrian **,6
+o,Burger Matthieu **,**,8.50,Inniger Thomas ***,1
+-,Hadorn Christian *,*,8.75,Inniger Thomas ***,2
+-,Lüthi David *,*,8.75,Inniger Thomas ***,3
++,Hadorn Marco *,*,9.75,Inniger Thomas ***,4
+-,Rüegsegger Christian *,*,8.75,Inniger Thomas ***,5
++,Gnägi Damian *,*,9.75,Inniger Thomas ***,6
+o,Scheidegger Marc,Marc,8.50,Dummermuth Ueli,1
++,Neukomm Thierry,Thierry,10.00,Dummermuth Ueli,2
+o,Scheuner David (2005) *,*,8.50,Dummermuth Ueli,3
++,Kehrli Bruno,Bruno,9.75,Dummermuth Ueli,4
+-,Nägeli Leandro *,*,8.75,Dummermuth Ueli,5
+-,Tschumi Lukas *,*,8.75,Dummermuth Ueli,6
+-,Schüpbach Janick *,*,9.00,Gnägi Damian *,1
++,Graf Simon,Simon,9.75,Gnägi Damian *,2
+o,Leuppi Samir ***,***,8.50,Gnägi Damian *,3
+o,Steﬀen Valentin *,*,8.50,Gnägi Damian *,4
++,Klopfenstein Jan,Jan,10.00,Gnägi Damian *,5
+o,Inniger Thomas ***,***,8.50,Gnägi Damian *,6
+o,Ramseier Thomas *,*,8.50,Wyss Kaspar *,1
++,Joss David *,*,9.75,Wyss Kaspar *,2
+-,Blaser Roman *,*,8.75,Wyss Kaspar *,3
+-,Weyermann Florian **,**,8.75,Wyss Kaspar *,4
+o,von Büren Stephan **,**,8.50,Wyss Kaspar *,5
++,Zbinden Adrian *,*,9.75,Wyss Kaspar *,6
++,Jäggi Lukas *,*,9.75,Huber Melchior *,1
+o,Schwander Severin **,**,8.75,Huber Melchior *,2
+o,Steﬀen Gustav **,**,8.50,Huber Melchior *,3
++,Danz Benoit,Benoit,9.75,Huber Melchior *,4
+-,Berger René **,**,8.75,Huber Melchior *,5
+o,Rüegsegger Christian *,*,8.50,Huber Melchior *,6
+,23.07.2022 20:38,20:38,Seite 3/,Huber Melchior *,7
+-,Klossner Adrian **,**,8.75,Joss David *,1
+o,Wyss Kaspar *,*,8.50,Joss David *,2
++,Matter Max (2005),(2005),10.00,Joss David *,3
+o,Roth Philipp ***,***,8.50,Joss David *,4
++,Kämpf Nicolas,Nicolas,9.75,Joss David *,5
+o,Beer Peter *,*,8.50,Joss David *,6
+o,Gasser Dominik **,**,8.50,Scheuner David (2005) *,1
++,Dummermuth Ueli,Ueli,10.00,Scheuner David (2005) *,2
+o,Sempach Thomas ***,***,8.50,Scheuner David (2005) *,3
+-,Jäggi Lukas *,*,8.75,Scheuner David (2005) *,4
+o,Burger Etienne (2004) *,*,8.50,Scheuner David (2005) *,5
++,Matter Florian (2005),(2005),9.75,Scheuner David (2005) *,6
+o,Weyermann Michael **,**,8.50,Hadorn Marco *,1
+o,Hehlen Nico *,*,8.50,Hadorn Marco *,2
++,Ledermann Patrik,Patrik,10.00,Hadorn Marco *,3
+o,Inniger Thomas ***,***,8.50,Hadorn Marco *,4
+o,Klossner Adrian **,**,8.50,Hadorn Marco *,5
++,Berger Jan (2004),(2004),10.00,Hadorn Marco *,6
+-,Aebersold Fabian *,*,8.75,Kappeler Niklaus *,1
++,Zingg Marc,Marc,9.75,Kappeler Niklaus *,2
++,Gehrig Philipp **,**,9.75,Kappeler Niklaus *,3
+o,Schlüchter Colin *,*,8.50,Kappeler Niklaus *,4
+o,Odermatt Adrian **,**,8.50,Kappeler Niklaus *,5
+o,Aebersold Adrian *,*,8.50,Kappeler Niklaus *,6
+o,Kropf Thomas **,**,8.50,Grossen John *,1
+o,Studer Stefan **,**,8.50,Grossen John *,2
++,Wicki Cédric,Cédric,10.00,Grossen John *,3
+o,Wüthrich Philip *,*,8.50,Grossen John *,4
+o,Hadorn Christian *,*,8.50,Grossen John *,5
++,De Fusco Dario *,*,9.75,Grossen John *,6
+-,Gobeli Patrick **,**,8.75,Tschumi Lukas *,1
+-,Nägeli Daniel *,*,8.75,Tschumi Lukas *,2
++,Berger Jan (2004),(2004),10.00,Tschumi Lukas *,3
+o,Roschi Ruedi **,**,8.50,Tschumi Lukas *,4
+-,Wüthrich Philip *,*,9.00,Tschumi Lukas *,5
+-,Dummermuth Ueli,Ueli,8.75,Tschumi Lukas *,6
+-,Wenger Marcel *,*,8.75,Berger René **,1
+o,Leuenberger Michael *,*,8.50,Berger René **,2
++,Gerber Sämi,Sämi,10.00,Berger René **,3
+o,Odermatt Adrian **,**,8.50,Berger René **,4
+-,Huber Melchior *,*,8.75,Berger René **,5
+-,Rutsch Remo (2004) *,*,8.75,Berger René **,6
+-,De Fusco Dario *,*,8.75,Nufer Sämi *,1
++,Gasser Fabian,Fabian,9.75,Nufer Sämi *,2
+o,Käser Remo ***,***,8.75,Nufer Sämi *,3
+-,Walther Nicolas,Nicolas,8.75,Nufer Sämi *,4
+-,Staub Severin *,*,8.75,Nufer Sämi *,5
+o,Ramseier Thomas *,*,8.50,Nufer Sämi *,6
++,Rüegsegger Christian *,*,9.75,Zangger Dominik *,1
+o,Anderegg Simon ***,***,8.50,Zangger Dominik *,2
+-,Zosso Remo **,**,8.75,Zangger Dominik *,3
+o,Trittibach Silvan (2004),(2004),8.50,Zangger Dominik *,4
+-,Nägeli Daniel *,*,8.75,Zangger Dominik *,5
+-,Nägeli Leandro *,*,8.75,Zangger Dominik *,6
++,Matter Max (2005),(2005),9.75,Keusen Reto,1
+-,Tschanz Richard *,*,8.75,Keusen Reto,2
+o,Aellen Florian *,*,8.50,Keusen Reto,3
+o,Aebersold Adrian *,*,8.50,Keusen Reto,4
++,Berger Jan (2004),(2004),10.00,Keusen Reto,5
+o,Ruch Dominik,Dominik,8.50,Keusen Reto,6
+o,Thöni Reto *,*,8.50,Thomet Adrian **,1
+o,Iseli Marco **,**,8.50,Thomet Adrian **,2
++,Scheidegger Marc,Marc,10.00,Thomet Adrian **,3
+-,Aellen Florian *,*,8.75,Thomet Adrian **,4
++,Schenk Thomas *,*,9.75,Thomet Adrian **,5
+o,Räbmatter Patrick ***,***,8.50,Thomet Adrian **,6
+o,Kämpf Nicolas,Nicolas,8.50,Röthlisberger Florian,1
++,Wüthrich Bruno,Bruno,10.00,Röthlisberger Florian,2
+o,Wittwer Jan **,**,8.50,Röthlisberger Florian,3
+o,Zaugg Lars **,**,8.50,Röthlisberger Florian,4
+o,Wüthrich Jonas (2005),(2005),8.50,Röthlisberger Florian,5
++,Danz Benoit,Benoit,10.00,Röthlisberger Florian,6
++,Wüthrich Bruno,Bruno,9.75,Zingg Marc,1
+o,Kappeler Niklaus *,*,8.50,Zingg Marc,2
+-,Kämpf Marcel *,*,8.75,Zingg Marc,3
+o,Rüegsegger Christian *,*,8.50,Zingg Marc,4
++,Danz Benoit,Benoit,9.75,Zingg Marc,5
+o,Nägeli Daniel *,*,8.50,Zingg Marc,6
+-,Wiedmer Marco,Marco,8.75,Wüthrich Philip *,1
+-,Kämpf Lorenz *,*,8.75,Wüthrich Philip *,2
+-,Blaser Jan *,*,8.75,Wüthrich Philip *,3
++,Grossen John *,*,10.00,Wüthrich Philip *,4
+-,Tschumi Lukas *,*,8.75,Wüthrich Philip *,5
+-,Leuenberger Michael *,*,8.75,Wüthrich Philip *,6
+-,Kappeler Niklaus *,*,8.75,Aebersold Fabian *,1
+-,Stucki Jürg,Jürg,8.75,Aebersold Fabian *,2
+-,Trittibach Silvan (2004),(2004),8.75,Aebersold Fabian *,3
++,Zosso Remo **,**,9.75,Aebersold Fabian *,4
+-,Tschan Matthias *,*,8.75,Aebersold Fabian *,5
+-,Steudler Kevin *,*,8.75,Aebersold Fabian *,6
+-,Nufer Sämi *,*,8.75,De Fusco Dario *,1
+-,Kehrli Bruno,Bruno,9.00,De Fusco Dario *,2
++,Gasser Fabian,Fabian,9.75,De Fusco Dario *,3
+o,Räbmatter Patrick ***,***,8.50,De Fusco Dario *,4
+-,Steudler Kevin *,*,8.75,De Fusco Dario *,5
+o,Grossen John *,*,8.50,De Fusco Dario *,6
++,Röthlisberger Florian,Florian,9.75,Kämpf Nicolas,1
+o,Berger Lorenz **,**,8.50,Kämpf Nicolas,2
+o,Gäggeler Adrian *,*,8.75,Kämpf Nicolas,3
+-,Wiedmer Marco,Marco,9.00,Kämpf Nicolas,4
+o,Joss David *,*,8.50,Kämpf Nicolas,5
+-,Wicki Cédric,Cédric,8.75,Kämpf Nicolas,6
++,Waber Lorenz *,*,9.75,Sommer Martin *,1
+o,Roth Philipp ***,***,8.50,Sommer Martin *,2
+o,Klopfenstein Jan,Jan,8.50,Sommer Martin *,3
+-,Luginbühl Hanspeter **,**,8.75,Sommer Martin *,4
+o,Wiedmer Marco,Marco,8.50,Sommer Martin *,5
+-,Schafroth Dario (2004) *,*,9.00,Sommer Martin *,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Sommer Martin *,7
+-,Meier Urs,Urs,8.75,Oberli Pascal,1
++,Wüthrich Tim,Tim,10.00,Oberli Pascal,2
++,Weyermann Florian **,**,9.75,Oberli Pascal,3
+o,Kropf Thomas **,**,8.50,Oberli Pascal,4
+o,Wittwer Jan **,**,8.50,Oberli Pascal,5
+o,Graf Simon,Simon,8.50,Oberli Pascal,6
++,Graf Simon,Simon,10.00,Tschumi Daniel (2005),1
+o,Burger Matthieu **,**,8.50,Tschumi Daniel (2005),2
+o,Iseli Marco **,**,8.50,Tschumi Daniel (2005),3
++,Tschanz Richard *,*,9.75,Tschumi Daniel (2005),4
+-,Ramseier Thomas *,*,8.75,Tschumi Daniel (2005),5
+o,Hadorn Christian *,*,8.50,Tschumi Daniel (2005),6
+-,Berger Lorenz **,**,8.75,Nägeli Leandro *,1
++,Scheidegger Marc,Marc,10.00,Nägeli Leandro *,2
+o,Räbmatter Patrick ***,***,8.50,Nägeli Leandro *,3
+-,Staub Severin *,*,9.00,Nägeli Leandro *,4
+-,Dummermuth Ueli,Ueli,9.00,Nägeli Leandro *,5
+-,Zangger Dominik *,*,8.75,Nägeli Leandro *,6
++,Matter Florian (2005),(2005),9.75,Gerber Sämi,1
+o,Rutsch Remo (2004) *,*,8.50,Gerber Sämi,2
+o,Berger René **,**,8.50,Gerber Sämi,3
++,Blaser Jan *,*,10.00,Gerber Sämi,4
+o,Weyermann Florian **,**,8.50,Gerber Sämi,5
+o,Staub Severin *,*,8.50,Gerber Sämi,6
+-,Iseli Marco **,**,8.75,Schafroth Dario (2004) *,1
+-,Kämpf Marcel *,*,8.75,Schafroth Dario (2004) *,2
++,Nager Yannick,Yannick,10.00,Schafroth Dario (2004) *,3
+o,Steﬀen Gustav **,**,8.50,Schafroth Dario (2004) *,4
+-,Mosimann Fabian,Fabian,8.75,Schafroth Dario (2004) *,5
+-,Sommer Martin *,*,9.00,Schafroth Dario (2004) *,6
+o,Steﬀen Konrad *,*,8.50,Tschan Matthias *,1
++,Wicki Cédric,Cédric,9.75,Tschan Matthias *,2
+-,Niederhäuser Martin,Martin,8.75,Tschan Matthias *,3
+-,Matthey Mickaël **,**,8.75,Tschan Matthias *,4
+-,Aebersold Fabian *,*,8.75,Tschan Matthias *,5
+-,Jäggi Lukas *,*,8.75,Tschan Matthias *,6
+o,Huber Melchior *,*,8.50,Jäggi Lukas *,1
++,Kestenholz Christian,Christian,10.00,Jäggi Lukas *,2
+o,von Weissenﬂuh Kilian ***,***,8.50,Jäggi Lukas *,3
+-,Scheuner David (2005) *,*,8.75,Jäggi Lukas *,4
+-,Meier Urs,Urs,8.75,Jäggi Lukas *,5
+-,Tschan Matthias *,*,8.75,Jäggi Lukas *,6
+-,Oberli Pascal,Pascal,8.75,Meier Urs,1
+-,Niederhäuser Martin,Martin,8.75,Meier Urs,2
+o,Schüpbach Janick *,*,8.50,Meier Urs,3
++,Gasser Fabian,Fabian,9.75,Meier Urs,4
+-,Jäggi Lukas *,*,8.75,Meier Urs,5
+o,Galli Sandro *,*,8.50,Meier Urs,6
+o,Weyermann Florian **,**,8.50,Steudler Kevin *,1
++,Rüegsegger Ueli *,*,9.75,Steudler Kevin *,2
+o,Staudenmann Fabian ***,***,8.75,Steudler Kevin *,3
+o,Stucki Fabian (2005),(2005),8.50,Steudler Kevin *,4
+-,De Fusco Dario *,*,8.75,Steudler Kevin *,5
+-,Aebersold Fabian *,*,8.75,Steudler Kevin *,6
+,23.07.2022 20:38,20:38,Seite 4/,Steudler Kevin *,7
++,Nager Yannick,Yannick,9.75,Stucki Jürg,1
+-,Aebersold Fabian *,*,8.75,Stucki Jürg,2
+o,Gäumann Stefan **,**,8.50,Stucki Jürg,3
+-,Ramseier Thomas *,*,8.75,Stucki Jürg,4
+o,Klopfenstein Jan,Jan,8.75,Stucki Jürg,5
+o,Blaser Roman *,*,8.50,Stucki Jürg,6
+-,Neukomm Thierry,Thierry,8.75,Wicki Cédric,1
+o,Tschan Matthias *,*,8.50,Wicki Cédric,2
+o,Grossen John *,*,8.50,Wicki Cédric,3
++,Engel Manfred,Manfred,9.75,Wicki Cédric,4
+o,Blaser Roman *,*,8.50,Wicki Cédric,5
+-,Kämpf Nicolas,Nicolas,8.75,Wicki Cédric,6
+o,Gerber Sämi,Sämi,8.50,Matter Florian (2005),1
++,Wälti Lars (2005),(2005),9.75,Matter Florian (2005),2
+-,Kämpf Lorenz *,*,8.75,Matter Florian (2005),3
+o,Röthlisberger Simon *,*,8.50,Matter Florian (2005),4
+o,Camenzind Ivan *,*,8.50,Matter Florian (2005),5
+o,Scheuner David (2005) *,*,8.50,Matter Florian (2005),6
+o,Schenk Thomas *,*,8.50,Schenkel Remo *,1
+-,Wüthrich Pascal (2004),(2004),8.75,Schenkel Remo *,2
+o,Hehlen Nico *,*,8.50,Schenkel Remo *,3
++,Siegrist Lukas,Lukas,9.75,Schenkel Remo *,4
++,Hadorn Marco *,*,9.75,Weyermann Michael **,1
+o,Wittwer Josias **,**,8.50,Weyermann Michael **,2
+o,Aeschbacher Matthias ***,***,8.50,Weyermann Michael **,3
+o,Graf Simon,Simon,8.50,Weyermann Michael **,4
+-,Stucki Fabian (2005),(2005),8.75,Wittwer Mathias,1
+-,Walther Nicolas,Nicolas,8.75,Wittwer Mathias,2
+-,Wüthrich Tim,Tim,8.75,Wittwer Mathias,3
+-,Salzmann Simon *,*,8.75,Wittwer Mathias,4
+-,Camenzind Ivan *,*,8.75,Blaser Jan *,1
+-,Berger Jan (2004),(2004),8.75,Blaser Jan *,2
+-,Wüthrich Philip *,*,8.75,Blaser Jan *,3
+o,Gerber Sämi,Sämi,8.50,Blaser Jan *,4
+o,Fankhauser Erich ***,***,8.50,Luginbühl Hanspeter **,1
+-,Aebersold Adrian *,*,8.75,Luginbühl Hanspeter **,2
+-,Galli Sandro *,*,8.75,Luginbühl Hanspeter **,3
+-,Sommer Martin *,*,8.75,Luginbühl Hanspeter **,4
+-,Berger Christian,Christian,8.75,Wüthrich Tim,1
+o,Oberli Pascal,Pascal,8.50,Wüthrich Tim,2
+-,Wittwer Mathias,Mathias,8.75,Wüthrich Tim,3
+-,Kestenholz Christian,Christian,8.75,Wüthrich Tim,4
+-,Wüthrich Tim,Tim,8.75,Berger Christian,1
+-,Mettler Fabio,Fabio,8.75,Berger Christian,2
+o,Beer Peter *,*,8.50,Berger Christian,3
+o,Klossner Adrian **,**,8.50,Berger Christian,4
+-,Trittibach Silvan (2004),(2004),8.75,Kestenholz Christian,1
+o,Jäggi Lukas *,*,8.50,Kestenholz Christian,2
+o,Graf Simon,Simon,8.50,Kestenholz Christian,3
+-,Wüthrich Tim,Tim,8.75,Kestenholz Christian,4
+o,Wüthrich Jonas (2005),(2005),8.50,Walther Nicolas,1
+-,Wittwer Mathias,Mathias,8.75,Walther Nicolas,2
++,Boss Andreas *,*,10.00,Walther Nicolas,3
+-,Nufer Sämi *,*,8.75,Walther Nicolas,4
+o,Aellen Florian *,*,8.50,Walther Nicolas,5
+o,Schenk Thomas *,*,8.50,Walther Nicolas,6
+-,Gnägi Damian *,*,8.75,Schüpbach Janick *,1
+o,Staub Severin *,*,8.50,Schüpbach Janick *,2
++,Meier Urs,Urs,10.00,Schüpbach Janick *,3
+o,Schwander Severin **,**,8.50,Schüpbach Janick *,4
+o,Rutsch Remo (2004) *,*,8.50,Schüpbach Janick *,5
+o,Trittibach Silvan (2004),(2004),8.50,Schüpbach Janick *,6
+o,Hadorn Christian *,*,8.50,Zbinden Adrian *,1
+o,Thöni Ivan *,*,8.50,Zbinden Adrian *,2
+-,Mettler Fabio,Fabio,8.75,Zbinden Adrian *,3
++,Ledermann Patrik,Patrik,9.75,Zbinden Adrian *,4
+o,Thöni Reto *,*,8.50,Zbinden Adrian *,5
+o,Wyss Kaspar *,*,8.50,Zbinden Adrian *,6
++,Kehrli Bruno,Bruno,9.75,Nyﬀeler Michael,1
+o,Moser Michael (2005) *,*,8.50,Nyﬀeler Michael,2
+o,Mosimann Fabian,Fabian,8.50,Nyﬀeler Michael,3
+o,Ruch Dominik,Dominik,8.50,Nyﬀeler Michael,4
+o,Zingg Marc,Marc,8.50,Wüthrich Bruno,1
+o,Röthlisberger Florian,Florian,8.50,Wüthrich Bruno,2
++,Wälti Lars (2005),(2005),9.75,Wüthrich Bruno,3
+o,Beer Peter *,*,8.50,Wüthrich Bruno,4
+-,Ledermann Patrik,Patrik,8.75,Wüthrich Pascal (2004),1
+-,Schenkel Remo *,*,8.75,Wüthrich Pascal (2004),2
+-,Wenger Marcel *,*,8.75,Wüthrich Pascal (2004),3
+-,Kämpf Lorenz *,*,8.75,Wüthrich Pascal (2004),4
+o,Zürcher Remo *,*,8.50,Kämpf Lorenz *,1
+-,Wüthrich Philip *,*,8.75,Kämpf Lorenz *,2
+-,Matter Florian (2005),(2005),8.75,Kämpf Lorenz *,3
+-,Wüthrich Pascal (2004),(2004),8.75,Kämpf Lorenz *,4
+-,Mosimann Fabian,Fabian,8.75,Mettler Fabio,1
+-,Berger Christian,Christian,8.75,Mettler Fabio,2
+-,Zbinden Adrian *,*,8.75,Mettler Fabio,3
+o,Nägeli Daniel *,*,8.50,Mettler Fabio,4
+o,Berger Jan (2004),(2004),8.50,Siegrist Lukas,1
+-,Matter Max (2005),(2005),8.75,Siegrist Lukas,2
+-,Klossner Sven *,*,8.75,Siegrist Lukas,3
+o,Schenkel Remo *,*,8.75,Siegrist Lukas,4
+o,Klopfenstein Jan,Jan,8.50,Engel Manfred,1
+-,Ledermann Patrik,Patrik,8.75,Engel Manfred,2
+-,Salzmann Simon *,*,8.75,Engel Manfred,3
+o,Wicki Cédric,Cédric,8.50,Engel Manfred,4
+o,Gehrig Philipp **,**,8.50,Klossner Sven *,1
+-,Danz Benoit,Benoit,8.75,Klossner Sven *,2
+-,Siegrist Lukas,Lukas,8.75,Klossner Sven *,3
+o,Zürcher Remo *,*,8.50,Klossner Sven *,4
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Klossner Sven *,5
++,Siegrist Lukas,Lukas,9.75,Berger Jan (2004),1
+-,Blaser Jan *,*,8.75,Berger Jan (2004),2
+o,Tschumi Lukas *,*,8.50,Berger Jan (2004),3
+-,Galli Sandro *,*,8.75,Berger Jan (2004),4
+o,Keusen Reto,Reto,8.50,Berger Jan (2004),5
+o,Hadorn Marco *,*,8.50,Berger Jan (2004),6
++,Wälti Lars (2005),(2005),9.75,Danz Benoit,1
+-,Klossner Sven *,*,8.75,Danz Benoit,2
+o,Kämpf Alexander **,**,8.50,Danz Benoit,3
+o,Huber Melchior *,*,8.50,Danz Benoit,4
+o,Zingg Marc,Marc,8.50,Danz Benoit,5
+o,Röthlisberger Florian,Florian,8.50,Danz Benoit,6
+o,Röthlisberger Simon *,*,8.50,Boss Andreas *,1
+o,Ruch Dominik,Dominik,8.50,Boss Andreas *,2
+o,Walther Nicolas,Nicolas,8.50,Boss Andreas *,3
++,Wälti Lars (2005),(2005),10.00,Boss Andreas *,4
+o,Collaud Romain **,**,8.50,Boss Andreas *,5
+o,Mosimann Fabian,Fabian,8.50,Boss Andreas *,6
+o,Sommer Martin *,*,8.50,Waber Lorenz *,1
+o,Lüthi David *,*,8.50,Waber Lorenz *,2
++,Neukomm Thierry,Thierry,9.75,Waber Lorenz *,3
+o,Gehrig Philipp **,**,8.50,Waber Lorenz *,4
++,Salzmann Simon *,*,9.75,Zingrich Jan *,1
+o,Ledermann Michael **,**,8.50,Zingrich Jan *,2
+o,Stucki Fabian (2005),(2005),8.50,Zingrich Jan *,3
+o,Burger Etienne (2004) *,*,8.50,Zingrich Jan *,4
+-,Ruch Dominik,Dominik,8.75,Tschanz Richard *,1
+-,Keusen Reto,Reto,8.75,Tschanz Richard *,2
+-,Staub Severin *,*,9.00,Tschanz Richard *,3
+o,Tschumi Daniel (2005),(2005),8.50,Tschanz Richard *,4
+o,Blaser Roman *,*,8.50,Kämpf Marcel *,1
+-,Schafroth Dario (2004) *,*,8.75,Kämpf Marcel *,2
+-,Zingg Marc,Marc,8.75,Kämpf Marcel *,3
+-,Scheidegger Marc,Marc,8.75,Kämpf Marcel *,4
+-,Berger René **,**,8.75,Wenger Marcel *,1
+-,Mosimann Fabian,Fabian,8.75,Wenger Marcel *,2
+-,Wüthrich Pascal (2004),(2004),8.75,Wenger Marcel *,3
+o,Gäumann Stefan **,**,8.50,Wenger Marcel *,4
+-,Burger Etienne (2004) *,*,8.75,Gasser Fabian,1
+o,Nufer Sämi *,*,8.50,Gasser Fabian,2
+o,De Fusco Dario *,*,8.75,Gasser Fabian,3
+o,Meier Urs,Urs,8.75,Gasser Fabian,4
+o,Nyﬀeler Michael,Michael,8.50,Kehrli Bruno,1
+-,De Fusco Dario *,*,8.75,Kehrli Bruno,2
+o,Dummermuth Ueli,Ueli,8.50,Kehrli Bruno,3
+-,Matter Max (2005),(2005),8.75,Kehrli Bruno,4
+-,Wüthrich Pascal (2004),(2004),8.75,Ledermann Patrik,1
+-,Engel Manfred,Manfred,8.75,Ledermann Patrik,2
+o,Hadorn Marco *,*,8.50,Ledermann Patrik,3
+o,Zbinden Adrian *,*,8.50,Ledermann Patrik,4
+,23.07.2022 20:38,20:38,Seite 5/,Ledermann Patrik,5
+o,Keusen Reto,Reto,8.50,Matter Max (2005),1
+-,Siegrist Lukas,Lukas,8.75,Matter Max (2005),2
+o,Joss David *,*,8.50,Matter Max (2005),3
+-,Kehrli Bruno,Bruno,8.75,Matter Max (2005),4
+-,Nägeli Daniel *,*,8.75,Rüegsegger Ueli *,1
+o,Steudler Kevin *,*,8.50,Rüegsegger Ueli *,2
+o,Camenzind Ivan *,*,8.50,Rüegsegger Ueli *,3
+-,Nager Yannick,Yannick,8.75,Rüegsegger Ueli *,4
+o,Danz Benoit,Benoit,8.50,Wälti Lars (2005),1
+o,Matter Florian (2005),(2005),8.50,Wälti Lars (2005),2
+o,Wüthrich Bruno,Bruno,8.50,Wälti Lars (2005),3
+o,Boss Andreas *,*,8.50,Wälti Lars (2005),4
++,Roth Philipp ***,***,10.00,Ledermann Michael **,1
++,Zingrich Jan *,*,10.00,Ledermann Michael **,2
+o,Stucki Jürg,Jürg,8.50,Nager Yannick,1
+-,Trittibach Silvan (2004),(2004),8.75,Nager Yannick,2
+o,Schafroth Dario (2004) *,*,8.50,Nager Yannick,3
+-,Rüegsegger Ueli *,*,8.75,Nager Yannick,4
+o,Zingrich Jan *,*,8.50,Salzmann Simon *,1
+o,Galli Sandro *,*,8.50,Salzmann Simon *,2
+-,Engel Manfred,Manfred,8.75,Salzmann Simon *,3
+-,Wittwer Mathias,Mathias,8.75,Salzmann Simon *,4
++,Scheuner David (2005) *,*,10.00,Gasser Dominik **,1
+o,Wenger Kilian ***,***,8.50,Gasser Dominik **,2
+o,Collaud Romain **,**,8.50,Gasser Dominik **,3
+-,Galli Sandro *,*,8.75,Fankhauser Thomas *,1
+o,Wiedmer Marco,Marco,8.50,Fankhauser Thomas *,2
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Steﬀen Patrick,Patrick,8.50,Niederhäuser Martin,1
+-,Meier Urs,Urs,8.75,Niederhäuser Martin,2
+-,Tschan Matthias *,*,8.75,Niederhäuser Martin,3
+o,Scheidegger Marc,Marc,8.50,Niederhäuser Martin,4
+o,Schlüchter Colin *,*,8.50,Zosso Remo **,1
+-,Stucki Fabian (2005),(2005),8.75,Zosso Remo **,2
+-,Zangger Dominik *,*,8.75,Zosso Remo **,3
+o,Aebersold Fabian *,*,8.50,Zosso Remo **,4
+-,Wicki Cédric,Cédric,8.75,Neukomm Thierry,1
+o,Dummermuth Ueli,Ueli,8.50,Neukomm Thierry,2
+o,Waber Lorenz *,*,8.50,Neukomm Thierry,3
++,Niederhäuser Martin,Martin,9.75,Steﬀen Patrick,1
+,23.07.2022 20:38,20:38,Seite 6/,Steﬀen Patrick,2

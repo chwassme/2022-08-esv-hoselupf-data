@@ -1,0 +1,212 @@
+result,name,level,points,placed_fighter,fight_round
+,Wohn,Wohn,ort,,0
+,Pfäﬃk,Pfäﬃk,on SZ,Maien,1
+,Winter,Winter,thur,Maien,2
+,Vorder,Vorder,thal,Appen,1
+,Almen,Almen,s,Appen,2
+,Schän,Schän,is,Altdorf,1
+,Stäfa,Stäfa,,Amliko,1
+,Says,Says,,** Frilts,1
+,Bürgle,Bürgle,n UR,** Frilts,2
+,Näfels,Näfels,,** Frilts,3
+,Mollis,Mollis,,** Frilts,4
+,Seewi,Seewi,s Dorf,** Frilts,5
+,Flawil,Flawil,,** Frilts,6
+,Appen,Appen,zell,** Frilts,7
+,Wäden,Wäden,swil,** Frilts,8
+,Andee,Andee,r,* Felsbe,1
+,Gonte,Gonte,n,Mastri,1
+,Domat,Domat,/Ems,Mastri,2
+,Quarte,Quarte,n,Mastri,3
+,Schän,Schän,is,Mastri,4
+,St. Pel,Pel,agiberg,Mastri,5
+,Gonte,Gonte,n,Mastri,6
+,Hundw,Hundw,il,Mastri,7
+,Schän,Schän,is,Mastri,8
+,Walde,Walde,SG,Mastri,9
+,Mollis,Mollis,,Mastri,10
+,Appen,Appen,zell,Rümlin,1
+,Gossa,Gossa,u SG,Rümlin,2
+,Eschlik,Eschlik,on TG,Rümlin,3
+,Amde,Amde,n,Rümlin,4
+,Flawil,Flawil,,Rümlin,5
+,Mollis,Mollis,,Engi,1
+,Bürgle,Bürgle,n UR,Engi,2
+,Ennen,Ennen,da,Feldba,1
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Feldba,2
+,Schwingklub,Schwingklub,Status,,0
+,GRUnterlandquart,GRUnterlandquart,Kranz,,1
+,SZMarch-Höfe,SZMarch-Höfe,Kranz,,2
+,ZHWinterthur,ZHWinterthur,Kranz,,3
+,APAppenzell,APAppenzell,Kranz,,4
+,SZMarch-Höfe,SZMarch-Höfe,Kranz,,5
+,GRHeinzenberg,GRHeinzenberg,Kranz,,6
+,APWolfhalden,APWolfhalden,Kranz,,7
+,URBürglen,URBürglen,Kranz,,8
+,SGRapperswil u. Umgebung,Umgebung,Kranz,,9
+,GRPrättigau,GRPrättigau,Kranz,,10
+,ZHZürichsee Rechtes Ufer,Ufer,Kranz,TGOttenberg,1
+,TGOttenberg,TGOttenberg,Kranz,TGOttenberg,2
+,"GRUnterlandquart, Trub",Trub,Kranz,TGOttenberg,3
+,URBürglen,URBürglen,Kranz,TGOttenberg,4
+,GLGlarus-Mittelland,GLGlarus-Mittelland,Kranz,TGOttenberg,5
+,GLNiederurnen u. Umgebung,Umgebung,Kranz,TGOttenberg,6
+,GRUnterlandquart,GRUnterlandquart,,TGOttenberg,7
+,SGWil,SGWil,,TGOttenberg,8
+,APAppenzell,APAppenzell,,TGOttenberg,9
+,ZHZürichsee Linkes Ufer,Ufer,,TGOttenberg,10
+,GRChur,GRChur,,TGOttenberg,11
+,GRHeinzenberg,GRHeinzenberg,,TGOttenberg,12
+,GRHeinzenberg,GRHeinzenberg,,TGOttenberg,13
+,TGOttenberg,TGOttenberg,,TGOttenberg,14
+,GRUnterlandquart,GRUnterlandquart,,TGOttenberg,15
+,APAppenzell,APAppenzell,,TGOttenberg,16
+,GRDomat/Ems,GRDomat/Ems,,TGOttenberg,17
+,SGMels,SGMels,,TGOttenberg,18
+,SGRapperswil u. Umgebung,Umgebung,,TGOttenberg,19
+,SGFlawil,SGFlawil,,TGOttenberg,20
+,APAppenzell,APAppenzell,,TGOttenberg,21
+,APHerisau,APHerisau,,TGOttenberg,22
+,SGRapperswil u. Umgebung,Umgebung,,TGOttenberg,23
+,SGRapperswil u. Umgebung,Umgebung,,TGOttenberg,24
+,GLNiederurnen u. Umgebung,Umgebung,,TGOttenberg,25
+,TGUnterthurgau,TGUnterthurgau,,TGOttenberg,26
+,APGais,APGais,,TGOttenberg,27
+,SGSt. Gallen u. Umgebung,Umgebung,,TGOttenberg,28
+,TGHinterthurgau,TGHinterthurgau,,TGOttenberg,29
+,SGRapperswil u. Umgebung,Umgebung,,TGOttenberg,30
+,SGFlawil,SGFlawil,,TGOttenberg,31
+,GRPrättigau,GRPrättigau,,TGOttenberg,32
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,TGOttenberg,33
+,GLNiederurnen u. Umgebung,Umgebung,,TGOttenberg,34
+,URBürglen,URBürglen,,TGOttenberg,35
+,GRHeinzenberg,GRHeinzenberg,,TGOttenberg,36
+,SGFlawil,SGFlawil,,TGOttenberg,37
+,ZHZürichsee Rechtes Ufer,Ufer,,TGOttenberg,38
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,TGOttenberg,39
+,25.06.2022 15:43,15:43,Seite 1/,TGOttenberg,40
+,Wohn,Wohn,ort,,0
+,Flums,Flums,,S Müsel,1
+,Wäden,Wäden,swil,S Müsel,2
+,Roma,Roma,nshorn,S Müsel,3
+,Bussn,Bussn,ang,S Müsel,4
+,Braun,Braun,au,S Müsel,5
+,Gais,Gais,,"), S Hofste",1
+,Bersch,Bersch,is,"), S Hofste",2
+,Elligha,Elligha,usen,"), S Hofste",3
+,Domat,Domat,/Ems,"), S Hofste",4
+,Altstät,Altstät,ten SG,Bussw,1
+,Herisa,Herisa,u,S Gähwi,1
+,Appen,Appen,zell,S Gähwi,2
+,Zihlsc,Zihlsc,hlacht,S Gähwi,3
+,Urnäsc,Urnäsc,h,S Gähwi,4
+,Reiche,Reiche,nburg,S Gähwi,5
+,Lintha,Lintha,l,S Gähwi,6
+,Zwillik,Zwillik,on,S Gähwi,7
+,Netsta,Netsta,l,Pfäﬃk,1
+,Appen,Appen,zell,Saﬁen,1
+,Appen,Appen,zell,Saﬁen,2
+,Ascha,Ascha,rina,Gähwi,1
+,Rikon,Rikon,im Tös,Seewe,1
+,Hinwil,Hinwil,,Mollis,1
+,Ennen,Ennen,da,Mollis,2
+,Hinwil,Hinwil,,Mollis,3
+,Rossrü,Rossrü,ti,Mollis,4
+,Schwa,Schwa,nden G,Mollis,5
+,Bussw,Bussw,il TG,Mollis,6
+,Hefen,Hefen,hofen,Mollis,7
+,Kessw,Kessw,il,Teufen,1
+,Bussw,Bussw,il TG,Teufen,2
+,Mollis,Mollis,,Teufen,3
+,Oberri,Oberri,et SG,Teufen,4
+,Aadorf,Aadorf,,Teufen,5
+,Buch b,b,. Fraue,Thund,1
+,Altnau,Altnau,,Thund,2
+,Bazen,Bazen,heid,Thund,3
+,Flawil,Flawil,,Thund,4
+,Schön,Schön,enberg,Thund,5
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Domat,1
+,Schwingklub,Schwingklub,Status,,0
+,SGRapperswil u. Umgebung,Umgebung,,,1
+,SGWil,SGWil,,,2
+,SGMels,SGMels,,,3
+,ZHZürichsee Linkes Ufer,Ufer,,,4
+,TGOberthurgau,TGOberthurgau,,,5
+,TGOttenberg,TGOttenberg,,,6
+,TGOttenberg,TGOttenberg,,,7
+,ZHWinterthur,ZHWinterthur,,,8
+,APHerisau,APHerisau,,,9
+,SGMels,SGMels,,,10
+,TGBodensee u. Rhein,Rhein,,,11
+,GRDomat/Ems,GRDomat/Ems,,,12
+,TGHinterthurgau,TGHinterthurgau,,,13
+,APGais,APGais,,,14
+,SGWil,SGWil,,,15
+,APHerisau,APHerisau,,,16
+,TGOberthurgau,TGOberthurgau,,,17
+,TGOberthurgau,TGOberthurgau,,,18
+,APHerisau,APHerisau,,,19
+,SZMarch-Höfe,SZMarch-Höfe,,,20
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,,21
+,ZHAm Albis,Albis,,,22
+,SGRapperswil u. Umgebung,Umgebung,,,23
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,,24
+,GRChur,GRChur,,,25
+,APAppenzell,APAppenzell,,,26
+,APAppenzell,APAppenzell,,,27
+,SGWil,SGWil,,,28
+,GRPrättigau,GRPrättigau,,,29
+,GLNiederurnen u. Umgebung,Umgebung,,ZHZürichsee Linkes Ufer,1
+,GLNiederurnen u. Umgebung,Umgebung,,ZHZürichsee Linkes Ufer,2
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,ZHZürichsee Linkes Ufer,3
+,TGUnterthurgau,TGUnterthurgau,,ZHZürichsee Linkes Ufer,4
+,GLNiederurnen u. Umgebung,Umgebung,,ZHWinterthur,1
+,ZHZürcher Oberland,Oberland,,ZHWinterthur,2
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,ZHWinterthur,3
+,ZHZürcher Oberland,Oberland,,ZHWinterthur,4
+,SGWil,SGWil,,ZHWinterthur,5
+,TGHinterthurgau,TGHinterthurgau,,GLGlarus-Mittelland,1
+,TGOberthurgau,TGOberthurgau,,GLGlarus-Mittelland,2
+,APGais,APGais,,GLGlarus-Mittelland,3
+,APHerisau,APHerisau,,GLGlarus-Mittelland,4
+,TGOberthurgau,TGOberthurgau,,GLGlarus-Mittelland,5
+,TGHinterthurgau,TGHinterthurgau,,GLGlarus-Mittelland,6
+,GLNiederurnen u. Umgebung,Umgebung,,GLGlarus-Mittelland,7
+,SGMittel-Rheintal,SGMittel-Rheintal,,GLGlarus-Mittelland,8
+,TGUnterthurgau,TGUnterthurgau,,GLGlarus-Mittelland,9
+,TGHinterthurgau,TGHinterthurgau,,GLGlarus-Mittelland,10
+,TGBodensee u. Rhein,Rhein,,TGUnterthurgau,1
+,SGWil,SGWil,,TGUnterthurgau,2
+,SGSt. Gallen u. Umgebung,Umgebung,,TGUnterthurgau,3
+,GRChur,GRChur,,ZHZürichsee Linkes Ufer,1
+,25.06.2022 15:43,15:43,Seite 2/,ZHZürichsee Linkes Ufer,2
+,Wohn,Wohn,ort,,0
+,Hause,Hause,n am A,Lütisb,1
+,Speich,Speich,erschw,Lütisb,2
+,Oberri,Oberri,et,Lütisb,3
+,Buche,Buche,n im Pr,Lütisb,4
+,Schön,Schön,enberg,Lütisb,5
+,Malix,Malix,,Lütisb,6
+,Hörha,Hörha,usen,Näfels,1
+,Buch b,b,. Fraue,Hinwil,1
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+,Schwingklub,Schwingklub,Status,,0
+,GRChur,GRChur,,,1
+,SGFlawil,SGFlawil,,,2
+,SGMittel-Rheintal,SGMittel-Rheintal,,SGSt. Gallen u. Umgebung,1
+,GRChur,GRChur,,ZHAm Albis,1
+,GRChur,GRChur,,ZHAm Albis,2
+,GLGlarus-Mittelland,GLGlarus-Mittelland,,ZHAm Albis,3
+,TGOttenberg,TGOttenberg,,ZHAm Albis,4
+,GRUnterlandquart,GRUnterlandquart,,ZHAm Albis,5
+,SGFlawil,SGFlawil,,ZHAm Albis,6
+,TGHinterthurgau,TGHinterthurgau,,ZHAm Albis,7
+,GRHeinzenberg,GRHeinzenberg,,ZHAm Albis,8
+,GRUnterlandquart,GRUnterlandquart,,ZHAm Albis,9
+,GRChur,GRChur,,ZHAm Albis,10
+,GRChur,GRChur,,ZHAm Albis,11
+,GRChur,GRChur,,ZHAm Albis,12
+,GRUnterlandquart,GRUnterlandquart,,ZHAm Albis,13
+,GRUnterlandquart,GRUnterlandquart,Unfall,ZHAm Albis,14
+,ZHZürcher Oberland,Oberland,Unfall,ZHAm Albis,15
+,25.06.2022 15:43,15:43,Seite 3/,TGUnterthurgau,1

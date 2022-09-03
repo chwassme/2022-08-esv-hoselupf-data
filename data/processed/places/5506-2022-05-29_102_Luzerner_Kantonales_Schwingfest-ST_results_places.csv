@@ -1,0 +1,292 @@
+place,name,points,level
+1,Fankhauser Erich ***,59.25,***
+3 a,Lemmenmeier Lukas *,57.75,*
+4 b,Müllestein Mike ***,57.50,***
+5 a,Suppiger Werner **,57.25,**
+5 d,Kurmann Toni *,57.25,*
+5 g,Zurﬂuh Roman **,57.25,**
+6 c,Lustenberger Josef *,57.00,*
+2 a,Ambühl Joel **,58.25,**
+3 b,Müller Michael **,57.75,**
+4 c,Steinauer Adrian **,57.50,**
+5 b,Fankhauser Reto **,57.25,**
+5 e,Schuler Alex ***,57.25,***
+6 a,Bernhard Lukas **,57.00,**
+6 d,Arnold Raphael **,57.00,**
+2 b,Wicki Joel ***,58.25,***
+4 a,Lustenberger Marc *,57.50,*
+4 d,Lang Sven **,57.50,**
+5 c,Fellmann Roman **,57.25,**
+5 f,Schurtenberger Sven ***,57.25,***
+6 b,Heiniger Marco **,57.00,**
+6 e,Durrer Jonas *,57.00,*
+6 f,Egli Damian **,57.00,**
+6 i,Rohrer Ueli **,57.00,**
+6 l,Vogel Remo **,57.00,**
+6 o,Jund Matthias *,57.00,*
+6 r,Schöpfer Ronny **,57.00,**
+7 c,Kuster Thomas **,56.75,**
+7 f,Wüest David,56.75,David
+7 i,Schärli Reto *,56.75,*
+8 c,Schmid Simon *,56.50,*
+6 g,Kaufmann Reto *,57.00,*
+6 j,Scherrer Patrick,57.00,Patrick
+6 m,Bissig Lukas *,57.00,*
+6 p,Müller Luca (2004) *,57.00,*
+7 a,Scherer Niklaus **,56.75,**
+7 d,Vogel Marcel *,56.75,*
+7 g,Bühler Kilian *,56.75,*
+8 a,Kennel Stefan **,56.50,**
+8 d,Stöckli Damian *,56.50,*
+6 h,Reichmuth Marco **,57.00,**
+6 k,Troxler Jonas *,57.00,*
+6 n,Doppmann Urs **,57.00,**
+6 q,Scherrer Fabian *,57.00,*
+7 b,Zurﬂuh Michael *,56.75,*
+7 e,Waser Dominik **,56.75,**
+7 h,Bürli Roger **,56.75,**
+8 b,Omlin Toni *,56.50,*
+8 e,Gut Koni,56.50,Koni
+8 f,Zemp Christian (2004) *,56.50,*
+9 c,Burger Etienne (2004) *,56.25,*
+10 a,Huber Alex *,56.00,*
+10 d,Ottiger Lukas *,56.00,*
+10 g,Mehr Lars *,56.00,*
+11 c,Bachmann Roger *,55.75,*
+11 f,Heinzer Lukas (2004) *,55.75,*
+11 i,Schaller Noah *,55.75,*
+11 l,Wicki David *,55.75,*
+9 a,Ming Christian *,56.25,*
+9 d,Hirsiger Alexander *,56.25,*
+10 b,Marti Simon *,56.00,*
+10 e,Wyss Sven *,56.00,*
+11 a,Betschart Marcel *,55.75,*
+11 d,Elmiger Andreas *,55.75,*
+11 g,Riebli Urs *,55.75,*
+11 j,Thalmann Adrian,55.75,Adrian
+11 m,Bieri Elias,55.75,Elias
+9 b,Schuler Alex *,56.25,*
+9 e,Schwyzer Samuel *,56.25,*
+10 c,Murer Andy **,56.00,**
+10 f,Burch Jonas **,56.00,**
+11 b,Wandeler Roman *,55.75,*
+11 e,Felder Martin *,55.75,*
+11 h,Rogenmoser Ryan,55.75,Ryan
+11 k,von Wyl Kevin (2004),55.75,(2004)
+11 n,Duss Yvan,55.75,Yvan
+11 o,Gerber Peter *,55.75,*
+11 r,Schöpfer Marco *,55.75,*
+12 c,Wyrsch Marco **,55.50,**
+12 f,Thalmann Thomas *,55.50,*
+12 i,Widmer Simon,55.50,Simon
+12 l,Kennel Beat **,55.50,**
+12 o,Schnellmann Alexander (2004),55.50,(2004)
+13 b,Albert Thomas,55.25,Thomas
+13 e,Bühler Patrice,55.25,Patrice
+11 p,Hurschler Stefan (2006),55.75,(2006)
+12 a,Walker Jan (2004),55.50,(2004)
+12 d,Wyrsch Silvio *,55.50,*
+12 g,Thierstein Marco *,55.50,*
+12 j,Wittwer Roy,55.50,Roy
+12 m,Röthlin Pascal *,55.50,*
+12 p,Wyss Christian *,55.50,*
+13 c,Amrhyn Jonas,55.25,Jonas
+13 f,Hurschler Adrian,55.25,Adrian
+11 q,Waser Christoph *,55.75,*
+12 b,Wicki Kevin,55.50,Kevin
+12 e,Chiodo Gian Paolo (2005),55.50,(2005)
+12 h,Ulrich Marco **,55.50,**
+12 k,Ziegler Elias,55.50,Elias
+12 n,Rutsch Remo (2004) *,55.50,*
+13 a,von Ah Markus,55.25,Markus
+13 d,Betschart Daniel,55.25,Daniel
+13 g,Hüsler Matthias,55.25,Matthias
+13 h,Kathriner Andreas,55.25,Andreas
+13 k,Zimmermann Raﬀael,55.25,Raﬀael
+13 n,Doppmann Ueli,55.25,Ueli
+13 q,Huser Tobias,55.25,Tobias
+13 t,Suter Lukas,55.25,Lukas
+14 a,Bieri Christian **,55.00,**
+14 d,Achermann Christoph *,55.00,*
+14 g,Giger Samuel (2005),55.00,(2005)
+14 j,Nüesch Sandro (2005),55.00,(2005)
+13 i,Portmann Curdin,55.25,Curdin
+13 l,Arnold Sebastian,55.25,Sebastian
+13 o,Gander Michael,55.25,Michael
+13 r,Kammermann Dominik,55.25,Dominik
+13 u,von Rickenbach Carlo (2005),55.25,(2005)
+14 b,Bühler Ramon,55.00,Ramon
+14 e,Bucher Thomas *,55.00,*
+14 h,Häﬂiger Patrick,55.00,Patrick
+14 k,Schmid Julian,55.00,Julian
+13 j,Schmidiger Marco *,55.25,*
+13 m,Bühlmann Daniel *,55.25,*
+13 p,Häller Nick,55.25,Nick
+13 s,Lustenberger Tim (2005),55.25,(2005)
+13 v,Zürcher Ueli *,55.25,*
+14 c,Staﬀelbach Noah,55.00,Noah
+14 f,Egli Matthias,55.00,Matthias
+14 i,Ming Hannes,55.00,Hannes
+14 l,Zimmermann Gian (2004),55.00,(2004)
+14 m,Schori Kevin (2004),55.00,(2004)
+14 p,Huser Christian,55.00,Christian
+15 b,Lüscher Elias (2006),54.75,(2006)
+15 e,Binggeli Stefan **,54.75,**
+15 h,Schmid Joel,54.75,Joel
+16 a,Schnider Markus *,54.50,*
+16 d,Achermann David (2006),54.50,(2006)
+16 g,Zemp Simon,54.50,Simon
+16 j,Waser Kevin (2006),54.50,(2006)
+14 n,Appert Silvan *,55.00,*
+14 q,Wicki Patrick,55.00,Patrick
+15 c,Mettler Fabio,54.75,Fabio
+15 f,Achermann Ivan (2005),54.75,(2005)
+15 i,Steiner Severin,54.75,Severin
+16 b,Bieri Crispin (2005),54.50,(2005)
+16 e,Egli Kilian (2004),54.50,(2004)
+16 h,Küng Simon (2006),54.50,(2006)
+17 a,Schwyzer Sebastian (2004),54.25,(2004)
+14 o,Elmiger Matthias,55.00,Matthias
+15 a,Jung Valentin,54.75,Valentin
+15 d,Schilter Daniel *,54.75,*
+15 g,Fellmann Simon,54.75,Simon
+15 j,Vogel Laurin,54.75,Laurin
+16 c,Eﬃnger Markus *,54.50,*
+16 f,Theiler Nils (2004),54.50,(2004)
+16 i,Schmidiger Lukas (2004),54.50,(2004)
+17 b,Egli Adrian,54.25,Adrian
+17 c,Grüter Marcel,54.25,Marcel
+17 f,Auf der Maur Michael,54.25,Michael
+17 i,Forster Christian,54.25,Christian
+17 l,Thalmann Adrian,54.25,Adrian
+18 a,Baumann Lukas,54.00,Lukas
+18 d,von Matt Lars,54.00,Lars
+18 g,Aregger Fabian,54.00,Fabian
+18 j,Reichlin Reto,54.00,Reto
+18 m,Achermann Daniel,54.00,Daniel
+17 d,Muﬀ Gianluca (2006),54.25,(2006)
+17 g,Büchler Livio,54.25,Livio
+17 j,Gwerder Beni,54.25,Beni
+17 m,Zberg Nuyen,54.25,Nuyen
+18 b,Bissig Julian,54.00,Julian
+18 e,Wirz Martin (2005),54.00,(2005)
+18 h,Föhn Christian,54.00,Christian
+18 k,Rohrer Sven (2004),54.00,(2004)
+18 n,Bissig Joris,54.00,Joris
+17 e,Staub Ivan,54.25,Ivan
+17 h,Christen Samuel (2006),54.25,(2006)
+17 k,Schumacher Ramon,54.25,Ramon
+17 n,Zumstein Patrick,54.25,Patrick
+18 c,Rust Silvio,54.00,Silvio
+18 f,Achermann Christian,54.00,Christian
+18 i,Gloggner Matthias (2005),54.00,(2005)
+18 l,Schwegler Flavio (2004),54.00,(2004)
+18 o,Bucher Sandro,54.00,Sandro
+18 p,Füglister Florian,54.00,Florian
+18 s,Müller Severin,54.00,Severin
+19 a,Gasser Severin (2006),53.75,(2006)
+19 d,Mignola Lorenzo,53.75,Lorenzo
+19 g,Betschart Fabian,53.75,Fabian
+20 b,Achermann Ueli,53.50,Ueli
+21 b,Ziegler Moritz,53.25,Moritz
+22 b,Meyer Joel (2004),53.00,(2004)
+23 c,Arnold Livio (2004),52.75,(2004)
+18 q,Köpﬂi Mario (2005),54.00,(2005)
+18 t,Simmen Robin (2004),54.00,(2004)
+19 b,Bullakaj Benhard,53.75,Benhard
+19 e,Ochsner Tim (2006),53.75,(2006)
+19 h,Rust Lorin (2004),53.75,(2004)
+20 c,Egli Severin (2004),53.50,(2004)
+21 c,Wolf Stefan (2006),53.25,(2006)
+23 a,Zgraggen Mario (2006),52.75,(2006)
+23 d,Odermatt Andreas,52.75,Andreas
+18 r,Muﬀ Pierre (2004),54.00,(2004)
+18 u,Ulrich Damian,54.00,Damian
+19 c,Marbach Sven (2005),53.75,(2005)
+19 f,Theiler Andre,53.75,Andre
+20 a,Bürgi Simon,53.50,Simon
+21 a,Koch Cyrill (2004),53.25,(2004)
+22 a,Schöpfer Roman,53.00,Roman
+23 b,Arnold Linus (2004),52.75,(2004)
+23 e,Stübi Nevio (2006),52.75,(2006)
+23 f,Stübi Noël (2004),52.75,(2004)
+25,Aﬀentranger Martin,45.00,Martin
+28 a,Bienz Romeo *,35.50,*
+28 d,Hodel Joel,35.50,Joel
+28 g,Lustenberger Roman (2006),35.50,(2006)
+28 j,Sturzenegger Luca (2004),35.50,(2004)
+28 m,Boog Timo (2006),35.50,(2006)
+28 p,Egli Samuel,35.50,Samuel
+28 s,Fuchs Jonas (2006),35.50,(2006)
+28 v,Kurmann Jvo,35.50,Jvo
+28 y,Rölli Ueli (2006),35.50,(2006)
+23 g,Steﬀen Rafael (2005),52.75,(2005)
+26,Gemsch Stefan,36.75,Stefan
+28 b,Crotta Robin,35.50,Robin
+28 e,Hodler Mathias,35.50,Mathias
+28 h,Müller Silvio,35.50,Silvio
+28 k,Albisser Jannik,35.50,Jannik
+28 n,Bucher Adrian (2004),35.50,(2004)
+28 q,Felder Seppi *,35.50,*
+28 t,Füglister Stefan,35.50,Stefan
+28 w,Peter Lukas,35.50,Lukas
+28 z,Schöpfer Elias (2004),35.50,(2004)
+24,Keller Janik *,45.50,*
+27,Birchler Fabian,36.00,Fabian
+28 c,Erni Remo (2005),35.50,(2005)
+28 f,Küng Jonas (2004),35.50,(2004)
+28 i,Roner Remo,35.50,Remo
+28 l,Aregger Silvan (2006),35.50,(2006)
+28 o,Eberli Jonas (2005),35.50,(2005)
+28 r,Fischer Markus,35.50,Markus
+28 u,Hess Michael *,35.50,*
+28 x,Renggli Silvan (2006),35.50,(2006)
+28 z,Steﬀen Michael (2006),35.50,(2006)
+28 z,Waser David,35.50,David
+28 z,Zgraggen Peter,35.50,Peter
+29 b,Friedli Jonas,35.25,Jonas
+29 e,Grüter Philip (2004),35.25,(2004)
+29 h,Kretz Marius (2006),35.25,(2006)
+29 k,Schwyzer Flurin (2006),35.25,(2006)
+29 n,Zimmermann Daniel *,35.25,*
+30 b,Krauer Andri (2005),34.75,(2005)
+31 b,Schnider Josef (2005),34.50,(2005)
+32 b,Broch Marcel,34.25,Marcel
+32 e,Stalder Wanja (2006),34.25,(2006)
+33 b,Bossert Simon (2006),34.00,(2006)
+28 z,Wigger Simon,35.50,Simon
+28 z,Gisler Jonas *,35.50,*
+29 c,Furrer Alain,35.25,Alain
+29 f,Herzog Aron (2006),35.25,(2006)
+29 i,Petermann Elia (2006),35.25,(2006)
+29 l,Widmer Dominik,35.25,Dominik
+29 o,Gloggner André,35.25,André
+30 c,Muﬀ Pascal (2006),34.75,(2006)
+31 c,Suter Manuel (2006),34.50,(2006)
+32 c,Koller Robin (2006),34.25,(2006)
+32 f,Suter Nicolas,34.25,Nicolas
+33 c,Bürli Daniel,34.00,Daniel
+28 z,Würsch Andrin (2006),35.50,(2006)
+29 a,Bucher Manuel (2006),35.25,(2006)
+29 d,Gisler Fabio (2006),35.25,(2006)
+29 g,Koch Florian,35.25,Florian
+29 j,Riedweg Matteo (2005),35.25,(2005)
+29 m,Zemp Raphael (2006),35.25,(2006)
+30 a,Herger Elias (2006),34.75,(2006)
+31 a,Zenklusen Matteo (2005),34.50,(2005)
+32 a,Fässler Dominic **,34.25,**
+32 d,Kottmann Jonas,34.25,Jonas
+33 a,Birrer Jonas (2006),34.00,(2006)
+33 d,Dubach Michael (2006),34.00,(2006)
+33 e,Fischer Silvan (2006),34.00,(2006)
+33 h,Schneider Linus (2006),34.00,(2006)
+35,Inderbitzin Daniel *,27.00,*
+38,Fankhauser Marco **,9.75,**
+* Kan,nal- bzw. Gauverbandskranzschwin,ger ** T,Gauverbandskranzschwin
+33 f,Haller Jan (2004),34.00,(2004)
+33 i,Widmer Florian (2005),34.00,(2005)
+36,Bucher Thomas,26.75,Thomas
+lverb,dskranzschwinger *** Eidg. Kranzs,chwinge,Kranzs
+33 g,Kunz Pascal (2004),34.00,(2004)
+34,Widmer Adrian *,27.25,*
+37,Schnüriger Kevin (2004),17.00,(2004)

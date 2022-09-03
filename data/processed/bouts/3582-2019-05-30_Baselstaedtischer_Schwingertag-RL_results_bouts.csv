@@ -1,0 +1,128 @@
+result,name,level,points,placed_fighter,fight_round
+,Wohnort S,S,chwin,,0
+,StaufenAGL,StaufenAGL,enzbu,,1
+,AttinghausenURB,AttinghausenURB,ürglen,UerkheimAGZ,1
+,AristauAGF,AristauAGF,reiam,UerkheimAGZ,2
+,Flawil SG,SG,Wil,UerkheimAGZ,3
+,WürenlingenAGZ,WürenlingenAGZ,urzibie,UerkheimAGZ,4
+,SarmenstorfAGF,SarmenstorfAGF,reiamt,UerkheimAGZ,5
+,Wittnau AGF,AGF,ricktal,Däniken SOAGA,1
+,AppenzellAPG,AppenzellAPG,ais,Däniken SOAGA,2
+,ErlinsbachAGA,ErlinsbachAGA,arau,ButtisholzLUR,1
+,Suhr AGA,AGA,arau,ButtisholzLUR,2
+,Attelwil AGA,AGA,arau,*LiesbergBLB,1
+,Perlen BLB,BLB,inning,*LiesbergBLB,2
+,Wittnau AGF,AGF,ricktal,*LiesbergBLB,3
+,Buchs AGAGA,AGAGA,arau,*LiesbergBLB,4
+,EchallensVDL,EchallensVDL,ausann,Tennwil AGF,1
+,WaldstattAPH,WaldstattAPH,erisau,Tennwil AGF,2
+,Wittnau AGF,AGF,ricktal,Tennwil AGF,3
+,Hofstetten SOBLB,SOBLB,inning,Tennwil AGF,4
+,SarmenstorfAGF,SarmenstorfAGF,reiamt,Tennwil AGF,5
+,MönthalAGB,MönthalAGB,aden-B,Tennwil AGF,6
+,AedermannsdorfSOT,AedermannsdorfSOT,hal-Gä,Tennwil AGF,7
+,Bellach SOS,SOS,olothu,Tennwil AGF,8
+,SubingenSOS,SubingenSOS,olothu,ZwingenSOD,1
+,MümliswilSO,MümliswilSO,Mümlisw,ZwingenSOD,2
+,MerenschwandAGF,MerenschwandAGF,reiamt,ZwingenSOD,3
+,MümliswilSO,MümliswilSO,Mümlisw,ZwingenSOD,4
+,HärkingenSOT,HärkingenSOT,hal-Gä,ZwingenSOD,5
+,Rothrist AGZ,AGZ,oﬁnge,LangenbruckBLB,1
+,HellikonAGF,HellikonAGF,ricktal,BalsthalSO,1
+,LangenbruckSO,LangenbruckSO,Mümlisw,UntersiggenthalAGB,1
+,AarburgAGZ,AarburgAGZ,oﬁnge,UntersiggenthalAGB,2
+,Ollon VDVDA,VDVDA,igle,UntersiggenthalAGB,3
+,MuttenzBL,MuttenzBL,Muttenz,UntersiggenthalAGB,4
+,MümliswilSO,MümliswilSO,Mümlisw,UntersiggenthalAGB,5
+,SolothurnSOS,SolothurnSOS,olothu,UntersiggenthalAGB,6
+,Oberdorf BLBLB,BLBLB,ezirk W,UntersiggenthalAGB,7
+,ZeglingenBLL,ZeglingenBLL,iestal,UntersiggenthalAGB,8
+,MetzerlenBLO,MetzerlenBLO,berwil,UntersiggenthalAGB,9
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,UntersiggenthalAGB,10
+,Kran,Kran,z,Kra,1
+,Kran,Kran,z,Kra,2
+,Kra,Kra,nz,Kra,3
+,Kran,Kran,z,Kra,4
+,Kran,Kran,z,Kra,5
+,Kran,Kran,z,Kra,6
+,Kran,Kran,z,Kra,7
+,Kran,Kran,z,Kra,8
+,Kran,Kran,z,Kra,9
+,Kran,Kran,z,ebung Kran,1
+,Kran,Kran,z,ebung Kran,2
+,Kran,Kran,z,Kran,1
+,Kran,Kran,z,Kran,1
+,Kran,Kran,z,Kran,1
+,Kran,Kran,z,Kran,2
+,Neu,Neu,kranze,Kran,3
+,Kran,Kran,z,Kran,1
+,27.11.2021 09:23,09:23,Seite 1/,urg,1
+,Wohnort S,S,chwin,,0
+,AttinghausenURA,AttinghausenURA,ttingh,,1
+,Reiden AGZ,AGZ,oﬁnge,,2
+,Aarau AGA,AGA,arau,Holderbank AGAGB,1
+,BözbergAGB,BözbergAGB,aden-B,Holderbank AGAGB,2
+,LangenbruckSO,LangenbruckSO,Mümlisw,SchönenbuchBLB,1
+,HellikonAGF,HellikonAGF,ricktal,SchönenbuchBLB,2
+,RothenﬂuhBLL,RothenﬂuhBLL,iestal,Däniken SOSO,1
+,KienbergAGA,KienbergAGA,arau,Däniken SOSO,2
+,MümliswilSO,MümliswilSO,Mümlisw,Seewen SOSOD,1
+,Beinwil SOSOD,SOSOD,orneck,Seewen SOSOD,2
+,BalsthalSO,BalsthalSO,Mümlisw,RemetschwilAGL,1
+,MümliswilBL,MümliswilBL,Muttenz,MuttenzBL,1
+,MümliswilSO,MümliswilSO,Mümlisw,MuttenzBL,2
+,HellikonAGF,HellikonAGF,ricktal,Möhlin AGF,1
+,MerenschwandAGF,MerenschwandAGF,reiamt,Möhlin AGF,2
+,SchaﬁsheimAGL,SchaﬁsheimAGL,enzbur,Möhlin AGF,3
+,GelterkindenBLB,GelterkindenBLB,ezirk S,Möhlin AGF,4
+,UntersiggenthalAGB,UntersiggenthalAGB,aden-B,Attelwil AGA,1
+,Laufen SOD,SOD,orneck,Attelwil AGA,2
+,EttingenBLO,EttingenBLO,berwil,Attelwil AGA,3
+,DüdingenSO,DüdingenSO,Mümlisw,Attelwil AGA,4
+,(),(),,Attelwil AGA,5
+,RotkreuzSOS,RotkreuzSOS,olothu,La Roche FRFRH,1
+,Bünzen AGF,AGF,reiamt,La Roche FRFRH,2
+,MuttenzBLB,MuttenzBLB,inning,La Roche FRFRH,3
+,GrellingenSOD,GrellingenSOD,orneck,La Roche FRFRH,4
+,RamlinsburgBLB,RamlinsburgBLB,ezirk W,La Roche FRFRH,5
+,Wittnau AGF,AGF,ricktal,La Roche FRFRH,6
+,Wittnau AGF,AGF,ricktal,La Roche FRFRH,7
+,MümliswilSO,MümliswilSO,Mümlisw,La Roche FRFRH,8
+,MuttenzBL,MuttenzBL,Muttenz,La Roche FRFRH,9
+,SolothurnSOG,SolothurnSOG,renche,La Roche FRFRH,10
+,Stockton CA (US)U,(US)U,SA,DensbürenAGA,1
+,MümliswilSO,MümliswilSO,Mümlisw,WinznauBLB,1
+,MümliswilSO,MümliswilSO,Mümlisw,WinznauBLB,2
+,Leymen FBLO,FBLO,berwil,WinznauBLB,3
+,WangenriedSOS,WangenriedSOS,olothu,WinznauBLB,4
+,Rothrist AGZ,AGZ,oﬁnge,WinznauBLB,5
+,RemigenAGB,RemigenAGB,aden-B,BergdietikonAGF,1
+,LäufelﬁngenBLB,LäufelﬁngenBLB,ezirk S,BergdietikonAGF,2
+,WindischAGZ,WindischAGZ,urzibie,BergdietikonAGF,3
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,BergdietikonAGF,4
+,27.11.2021 09:23,09:23,Seite 2/,gebung,1
+,Wohnort S,S,chwin,,0
+,Lausen BLB,BLB,ezirk W,DottikonAGL,1
+,MuttenzBL,MuttenzBL,Muttenz,DottikonAGL,2
+,RamiswilSO,RamiswilSO,Mümlisw,DottikonAGL,3
+,OberehrendingenAGB,OberehrendingenAGB,aden-B,DottikonAGL,4
+,MägenwilAGL,MägenwilAGL,enzbur,DottikonAGL,5
+,Lengnau AGAGZ,AGAGZ,urzibie,Bennwil BLB,1
+,Ueken AGZ,AGZ,urzibie,Bennwil BLB,2
+,Hofstetten SOBLO,SOBLO,berwil,Wittnau AGF,1
+,BucktenBLB,BucktenBLB,ezirk S,Wittnau AGF,2
+,Sarnen AGF,AGF,ricktal,Holderbank SOSOT,1
+,Riehen BSB,BSB,asel-S,Holderbank SOSOT,2
+,Gipf-OberfrickAGF,Gipf-OberfrickAGF,ricktal,StrengelbachAGZ,1
+,BözbergAGB,BözbergAGB,aden-B,StrengelbachAGZ,2
+,RamlinsburgBLB,RamlinsburgBLB,ezirk W,StrengelbachAGZ,3
+,Aarau AGA,AGA,arau,OberentfeldenAGA,1
+,Suhr AGA,AGA,arau,Muhen AGA,1
+,Bettwil AGF,AGF,reiamt,Muhen AGA,2
+,MuttenzBL,MuttenzBL,Muttenz,Reinach AGAGK,1
+,MümliswilSO,MümliswilSO,Mümlisw,Reinach AGAGK,2
+,23,23,,otal,1
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,otal,2
+,Unfa,Unfa,ll,urg,1
+,Unfa,Unfa,ll,swil Unfa,1
+,27.11.2021 09:23,09:23,Seite 3/,swil Unfa,2

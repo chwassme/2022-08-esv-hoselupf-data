@@ -1,0 +1,682 @@
+3128: 3128-2015-05-14_Baselstaedtisches_Kantonalschwingfest-ST
+Gang;Rang;Schwinger;Level;Punkte
+1;1a;Erb Roger;**;10.0
+1;1b;Scherrer Johann;**;10.0
+1;1c;Hermann Oliver;;10.0
+1;1d;Räber Lukas;;10.0
+1;1e;Henzer Andreas;**;10.0
+1;1f;Huber Jan (1997);;10.0
+1;1g;Mahrer Jürg;**;10.0
+1;1h;Küng Marco;;10.0
+1;1i;Bieli Andreas;;10.0
+1;1j;Büchi Christian;;10.0
+1;1k;Winiger Fabian;**;10.0
+1;1l;Wicki Joel (1997);**;10.0
+1;1m;Nötzli Bruno;***;10.0
+1;1n;Krebs Clemens;;10.0
+1;1o;Ulrich Andreas;***;10.0
+1;1p;Wyss Patrick;;10.0
+1;1q;Stoll Simon;;10.0
+1;1r;Moser Matthias;;10.0
+1;1s;Anderegg David;*;10.0
+1;1t;Brügger Cyrill (1998);;10.0
+1;1u;Stüdeli Thomas;**;10.0
+1;1v;Widmer David;;10.0
+1;2a;Wüthrich Martin;;9.75
+1;2b;Widmer Sandro;;9.75
+1;2c;Nussbaumer Gabriel;;9.75
+1;2d;Hauri Urs;**;9.75
+1;2e;von Arx Christian;*;9.75
+1;2f;Müller Christian (1998);;9.75
+1;2g;Probst Stefan;;9.75
+1;2h;Schmid David;**;9.75
+1;2i;Gottofrey Marc;*;9.75
+1;2j;Schaub Florent;;9.75
+1;2k;Odermatt Christian;**;9.75
+1;2l;Brand Christian;**;9.75
+1;2m;Döbeli Andreas (1998);;9.75
+1;2n;Hasler Manuel;;9.75
+1;2o;Inderwildi Daniel;;9.75
+1;2p;Leuthard Reto;;9.75
+1;2q;Hasler Simon;;9.75
+1;2r;Wilhelm Manuel;;9.75
+1;2s;Riesen Ruedi;;9.75
+1;2t;Mangold Martin;;9.75
+1;3a;Furrer Mathias;;9.0
+1;3b;Strebel Joel (1997);*;9.0
+1;3c;Voggensperger Janic (1998);*;9.0
+1;3d;Bieri Christoph;***;9.0
+1;3e;Gabathuler Björn (1998);;9.0
+1;3f;Widmer Tobias;*;9.0
+1;3g;Kocher Remo;**;9.0
+1;4a;Gschwind Michael;**;8.75
+1;4b;Forrer Arnold;***;8.75
+1;4c;Leuthard Mario;;8.75
+1;4d;Studinger Mathias;**;8.75
+1;4e;Kohler Adrian;;8.75
+1;4f;Probst Gabriel;**;8.75
+1;4g;Stalder Remo;***;8.75
+1;4h;Räbmatter Patrick;**;8.75
+1;4i;Gisler Bruno;***;8.75
+1;4j;Kramer Franz;;8.75
+1;4k;Blatter Lorenz;*;8.75
+1;4l;Stoffel Marc;**;8.75
+1;4m;Vieira Tiago;**;8.75
+1;4n;Dobler Florian;;8.75
+1;4o;Klausner Yanick;**;8.75
+1;4p;Stegmüller Klemens;*;8.75
+1;4q;Schumacher Michael;*;8.75
+1;4r;Bader Andreas;*;8.75
+1;4s;Wilhelm Hannes;*;8.75
+1;4t;Krähenbühl Tobias;**;8.75
+1;4u;Furter Reto;**;8.75
+1;4v;Kropf Marcel;**;8.75
+1;4w;Alpiger Nick;**;8.75
+1;4x;Schläpfer Matthias;*;8.75
+1;4y;Schlachter Lukas;*;8.75
+1;5a;Nyffeler Christoph;;8.5
+1;5b;Thoenen Henryc;**;8.5
+1;5c;Waldner Patrick;**;8.5
+1;5d;Villiger Damian;*;8.5
+1;5e;Studer Remo;;8.5
+1;5f;Rüegger Aaron (1999);;8.5
+1;5g;Stich Yannick (1997);;8.5
+1;5h;Vetter Mike;;8.5
+1;5i;Schaub Adrian (1999);;8.5
+1;5j;Leutwyler Pascal;;8.5
+1;5k;Hiltbrand Ron;;8.5
+1;5l;Treier Tobias (1998);;8.5
+1;5m;Schneider Markus;*;8.5
+1;5n;Steinmann Yves;*;8.5
+1;5o;Fritz Andreas;;8.5
+1;5p;Haenni Stéphane;**;8.5
+1;5q;Kohler Fredi;**;8.5
+1;5r;Regenass Beat;;8.5
+1;5s;Reinhard Adrian (1997);;8.5
+1;5t;Studinger Stephan;**;8.5
+1;5u;Fritz Christian;;8.5
+1;5v;Peronino Mario;;8.5
+1;5w;Mohler Fernando;;8.5
+1;5x;Lang Martin;**;8.5
+1;5y;Lehmann Robin (1999);;8.5
+1;5z;Burkhardt Roy;;8.5
+1;5z1;Schöni Marc (1999);;8.5
+1;5z2;Abt Robin (1997);;8.5
+1;5z3;Wyss Cyrill;;8.5
+1;5z4;Büttler Adrian (1999);;8.5
+1;5z5;Reimann Marco (1998);;8.5
+1;5z6;Burtschi Michael;;8.5
+1;5z7;Grossmann Andreas;;8.5
+1;5z8;Lehmann Nicola;*;8.5
+1;5z9;Brun Samuel (1999);;8.5
+1;5z10;Steger Robert (1998);;8.5
+1;5z11;Remy Guillaume;**;8.5
+1;5z12;Hügli Kaj (1997);*;8.5
+1;5z13;Schär Simon;*;8.5
+2;1a;Stoll Simon;;20.0
+2;1b;Widmer David;;20.0
+2;2a;Räber Lukas;;19.75
+2;2b;Huber Jan (1997);;19.75
+2;2c;Küng Marco;;19.75
+2;2d;Döbeli Andreas (1998);;19.75
+2;2e;Wicki Joel (1997);**;19.75
+2;3a;Probst Stefan;;19.5
+2;3b;Odermatt Christian;**;19.5
+2;3c;Brand Christian;**;19.5
+2;3d;Hasler Manuel;;19.5
+2;3e;Hasler Simon;;19.5
+2;3f;Wilhelm Manuel;;19.5
+2;4a;Strebel Joel (1997);*;19.0
+2;4b;Bieri Christoph;***;19.0
+2;4c;Nötzli Bruno;***;19.0
+2;4d;Krebs Clemens;;19.0
+2;4e;Ulrich Andreas;***;19.0
+2;5a;Erb Roger;**;18.75
+2;5b;Scherrer Johann;**;18.75
+2;5c;Forrer Arnold;***;18.75
+2;5d;Henzer Andreas;**;18.75
+2;5e;Schmid David;**;18.75
+2;5f;Gottofrey Marc;*;18.75
+2;5g;Stalder Remo;***;18.75
+2;5h;Gisler Bruno;***;18.75
+2;5i;Kramer Franz;;18.75
+2;5j;Dobler Florian;;18.75
+2;5k;Stegmüller Klemens;*;18.75
+2;5l;Wyss Patrick;;18.75
+2;5m;Brügger Cyrill (1998);;18.75
+2;5n;Mangold Martin;;18.75
+2;6a;Nyffeler Christoph;;18.5
+2;6b;Gschwind Michael;**;18.5
+2;6c;Thoenen Henryc;**;18.5
+2;6d;Hermann Oliver;;18.5
+2;6e;Widmer Sandro;;18.5
+2;6f;Leuthard Mario;;18.5
+2;6g;Mahrer Jürg;**;18.5
+2;6h;Kohler Adrian;;18.5
+2;6i;Steinmann Yves;*;18.5
+2;6j;Bieli Andreas;;18.5
+2;6k;Büchi Christian;;18.5
+2;6l;Winiger Fabian;**;18.5
+2;6m;Blatter Lorenz;*;18.5
+2;6n;Stoffel Marc;**;18.5
+2;6o;Inderwildi Daniel;;18.5
+2;6p;Leuthard Reto;;18.5
+2;6q;Moser Matthias;;18.5
+2;6r;Anderegg David;*;18.5
+2;6s;Bader Andreas;*;18.5
+2;6t;Stüdeli Thomas;**;18.5
+2;6u;Krähenbühl Tobias;**;18.5
+2;6v;Furter Reto;**;18.5
+2;6w;Schlachter Lukas;*;18.5
+2;7a;Waldner Patrick;**;18.25
+2;7b;Wüthrich Martin;;18.25
+2;7c;Rüegger Aaron (1999);;18.25
+2;7d;Vetter Mike;;18.25
+2;7e;Nussbaumer Gabriel;;18.25
+2;7f;Treier Tobias (1998);;18.25
+2;7g;Hauri Urs;**;18.25
+2;7h;von Arx Christian;*;18.25
+2;7i;Müller Christian (1998);;18.25
+2;7j;Kohler Fredi;**;18.25
+2;7k;Regenass Beat;;18.25
+2;7l;Schaub Florent;;18.25
+2;7m;Peronino Mario;;18.25
+2;7n;Lehmann Robin (1999);;18.25
+2;7o;Büttler Adrian (1999);;18.25
+2;7p;Burtschi Michael;;18.25
+2;7q;Riesen Ruedi;;18.25
+2;8a;Furrer Mathias;;17.75
+2;8b;Voggensperger Janic (1998);*;17.75
+2;8c;Gabathuler Björn (1998);;17.75
+2;8d;Probst Gabriel;**;17.75
+2;8e;Widmer Tobias;*;17.75
+2;8f;Kocher Remo;**;17.75
+2;8g;Klausner Yanick;**;17.75
+2;8h;Alpiger Nick;**;17.75
+2;9a;Räbmatter Patrick;**;17.5
+2;9b;Vieira Tiago;**;17.5
+2;9c;Hügli Kaj (1997);*;17.5
+2;9d;Schär Simon;*;17.5
+2;10a;Studinger Mathias;**;17.25
+2;10b;Reinhard Adrian (1997);;17.25
+2;10c;Fritz Christian;;17.25
+2;10d;Lang Martin;**;17.25
+2;10e;Reimann Marco (1998);;17.25
+2;10f;Schumacher Michael;*;17.25
+2;10g;Brun Samuel (1999);;17.25
+2;10h;Wilhelm Hannes;*;17.25
+2;10i;Kropf Marcel;**;17.25
+2;10j;Schläpfer Matthias;*;17.25
+2;11a;Villiger Damian;*;17.0
+2;11b;Studer Remo;;17.0
+2;11c;Stich Yannick (1997);;17.0
+2;11d;Schaub Adrian (1999);;17.0
+2;11e;Hiltbrand Ron;;17.0
+2;11f;Schneider Markus;*;17.0
+2;11g;Fritz Andreas;;17.0
+2;11h;Haenni Stéphane;**;17.0
+2;11i;Mohler Fernando;;17.0
+2;11j;Burkhardt Roy;;17.0
+2;11k;Schöni Marc (1999);;17.0
+2;11l;Abt Robin (1997);;17.0
+2;11m;Wyss Cyrill;;17.0
+2;11n;Grossmann Andreas;;17.0
+2;11o;Lehmann Nicola;*;17.0
+2;11p;Steger Robert (1998);;17.0
+2;11q;Remy Guillaume;**;17.0
+2;12a;Leutwyler Pascal;;8.5
+2;12b;Studinger Stephan;**;8.5
+3;1a;Wicki Joel (1997);**;29.75
+3;2a;Huber Jan (1997);;29.5
+3;3a;Nötzli Bruno;***;29.0
+3;4a;Forrer Arnold;***;28.75
+3;4b;Henzer Andreas;**;28.75
+3;4c;Bieri Christoph;***;28.75
+3;4d;Gisler Bruno;***;28.75
+3;4e;Ulrich Andreas;***;28.75
+3;5a;Hermann Oliver;;28.5
+3;5b;Mahrer Jürg;**;28.5
+3;5c;Schmid David;**;28.5
+3;5d;Küng Marco;;28.5
+3;5e;Stoll Simon;;28.5
+3;5f;Brügger Cyrill (1998);;28.5
+3;5g;Stüdeli Thomas;**;28.5
+3;5h;Widmer David;;28.5
+3;6a;Thoenen Henryc;**;28.25
+3;6b;Waldner Patrick;**;28.25
+3;6c;Räber Lukas;;28.25
+3;6d;Rüegger Aaron (1999);;28.25
+3;6e;Nussbaumer Gabriel;;28.25
+3;6f;Leuthard Mario;;28.25
+3;6g;von Arx Christian;*;28.25
+3;6h;Müller Christian (1998);;28.25
+3;6i;Kohler Adrian;;28.25
+3;6j;Probst Stefan;;28.25
+3;6k;Steinmann Yves;*;28.25
+3;6l;Kohler Fredi;**;28.25
+3;6m;Döbeli Andreas (1998);;28.25
+3;6n;Hasler Manuel;;28.25
+3;6o;Blatter Lorenz;*;28.25
+3;6p;Büttler Adrian (1999);;28.25
+3;6q;Anderegg David;*;28.25
+3;6r;Bader Andreas;*;28.25
+3;6s;Krähenbühl Tobias;**;28.25
+3;7a;Odermatt Christian;**;28.0
+3;7b;Brand Christian;**;28.0
+3;7c;Lehmann Robin (1999);;28.0
+3;7d;Hasler Simon;;28.0
+3;7e;Wilhelm Manuel;;28.0
+3;8a;Gabathuler Björn (1998);;27.75
+3;8b;Probst Gabriel;**;27.75
+3;8c;Widmer Tobias;*;27.75
+3;8d;Kocher Remo;**;27.75
+3;8e;Stegmüller Klemens;*;27.75
+3;8f;Alpiger Nick;**;27.75
+3;9a;Strebel Joel (1997);*;27.5
+3;9b;Voggensperger Janic (1998);*;27.5
+3;9c;Gottofrey Marc;*;27.5
+3;9d;Stalder Remo;***;27.5
+3;9e;Räbmatter Patrick;**;27.5
+3;9f;Kramer Franz;;27.5
+3;9g;Vieira Tiago;**;27.5
+3;9h;Klausner Yanick;**;27.5
+3;9i;Krebs Clemens;;27.5
+3;9j;Moser Matthias;;27.5
+3;9k;Schär Simon;*;27.5
+3;9l;Mangold Martin;;27.5
+3;9m;Schlachter Lukas;*;27.5
+3;10a;Erb Roger;**;27.25
+3;10b;Scherrer Johann;**;27.25
+3;10c;Studinger Mathias;**;27.25
+3;10d;Reinhard Adrian (1997);;27.25
+3;10e;Winiger Fabian;**;27.25
+3;10f;Dobler Florian;;27.25
+3;10g;Reimann Marco (1998);;27.25
+3;10h;Wyss Patrick;;27.25
+3;10i;Leuthard Reto;;27.25
+3;10j;Brun Samuel (1999);;27.25
+3;10k;Hügli Kaj (1997);*;27.25
+3;10l;Wilhelm Hannes;*;27.25
+3;11a;Nyffeler Christoph;;27.0
+3;11b;Gschwind Michael;**;27.0
+3;11c;Studer Remo;;27.0
+3;11d;Widmer Sandro;;27.0
+3;11e;Hiltbrand Ron;;27.0
+3;11f;Bieli Andreas;;27.0
+3;11g;Büchi Christian;;27.0
+3;11h;Stoffel Marc;**;27.0
+3;11i;Inderwildi Daniel;;27.0
+3;11j;Lehmann Nicola;*;27.0
+3;11k;Furter Reto;**;27.0
+3;11l;Kropf Marcel;**;27.0
+3;12a;Villiger Damian;*;26.75
+3;12b;Wüthrich Martin;;26.75
+3;12c;Vetter Mike;;26.75
+3;12d;Treier Tobias (1998);;26.75
+3;12e;Hauri Urs;**;26.75
+3;12f;Schneider Markus;*;26.75
+3;12g;Regenass Beat;;26.75
+3;12h;Schaub Florent;;26.75
+3;12i;Peronino Mario;;26.75
+3;12j;Burtschi Michael;;26.75
+3;12k;Grossmann Andreas;;26.75
+3;12l;Riesen Ruedi;;26.75
+3;13a;Furrer Mathias;;26.25
+3;13b;Schumacher Michael;*;26.25
+3;14a;Fritz Christian;;26.0
+3;14b;Schläpfer Matthias;*;26.0
+3;15a;Lang Martin;**;25.75
+3;16a;Stich Yannick (1997);;25.5
+3;16b;Schaub Adrian (1999);;25.5
+3;16c;Fritz Andreas;;25.5
+3;16d;Haenni Stéphane;**;25.5
+3;16e;Mohler Fernando;;25.5
+3;16f;Burkhardt Roy;;25.5
+3;16g;Schöni Marc (1999);;25.5
+3;16h;Abt Robin (1997);;25.5
+3;16i;Wyss Cyrill;;25.5
+3;16j;Steger Robert (1998);;25.5
+3;16k;Remy Guillaume;**;25.5
+3;17a;Leutwyler Pascal;;8.5
+3;17b;Studinger Stephan;**;8.5
+4;1a;Henzer Andreas;**;38.75
+4;1b;Gisler Bruno;***;38.75
+4;1c;Ulrich Andreas;***;38.75
+4;2a;Bieri Christoph;***;38.5
+4;2b;Stüdeli Thomas;**;38.5
+4;3a;Döbeli Andreas (1998);;38.25
+4;3b;Blatter Lorenz;*;38.25
+4;3c;Wicki Joel (1997);**;38.25
+4;3d;Krähenbühl Tobias;**;38.25
+4;4a;Huber Jan (1997);;38.0
+4;4b;Kohler Fredi;**;38.0
+4;4c;Brand Christian;**;38.0
+4;5a;Probst Gabriel;**;37.75
+4;5b;Nötzli Bruno;***;37.75
+4;5c;Alpiger Nick;**;37.75
+4;6a;Strebel Joel (1997);*;37.5
+4;6b;Forrer Arnold;***;37.5
+4;6c;Voggensperger Janic (1998);*;37.5
+4;6d;Schmid David;**;37.5
+4;6e;Stalder Remo;***;37.5
+4;6f;Räbmatter Patrick;**;37.5
+4;6g;Kramer Franz;;37.5
+4;6h;Stegmüller Klemens;*;37.5
+4;7a;Erb Roger;**;37.25
+4;7b;Scherrer Johann;**;37.25
+4;7c;Hermann Oliver;;37.25
+4;7d;von Arx Christian;*;37.25
+4;7e;Studinger Mathias;**;37.25
+4;7f;Gottofrey Marc;*;37.25
+4;7g;Hasler Manuel;;37.25
+4;7h;Vieira Tiago;**;37.25
+4;7i;Schlachter Lukas;*;37.25
+4;8a;Nyffeler Christoph;;37.0
+4;8b;Gschwind Michael;**;37.0
+4;8c;Thoenen Henryc;**;37.0
+4;8d;Räber Lukas;;37.0
+4;8e;Mahrer Jürg;**;37.0
+4;8f;Probst Stefan;;37.0
+4;8g;Küng Marco;;37.0
+4;8h;Büchi Christian;;37.0
+4;8i;Odermatt Christian;**;37.0
+4;8j;Winiger Fabian;**;37.0
+4;8k;Stoffel Marc;**;37.0
+4;8l;Stoll Simon;;37.0
+4;8m;Leuthard Reto;;37.0
+4;8n;Brügger Cyrill (1998);;37.0
+4;8o;Wilhelm Hannes;*;37.0
+4;8p;Furter Reto;**;37.0
+4;8q;Kropf Marcel;**;37.0
+4;8r;Widmer David;;37.0
+4;9a;Waldner Patrick;**;36.75
+4;9b;Rüegger Aaron (1999);;36.75
+4;9c;Widmer Sandro;;36.75
+4;9d;Nussbaumer Gabriel;;36.75
+4;9e;Leuthard Mario;;36.75
+4;9f;Hauri Urs;**;36.75
+4;9g;Müller Christian (1998);;36.75
+4;9h;Kohler Adrian;;36.75
+4;9i;Steinmann Yves;*;36.75
+4;9j;Widmer Tobias;*;36.75
+4;9k;Büttler Adrian (1999);;36.75
+4;9l;Bader Andreas;*;36.75
+4;10a;Gabathuler Björn (1998);;36.5
+4;10b;Lehmann Robin (1999);;36.5
+4;10c;Kocher Remo;**;36.5
+4;10d;Klausner Yanick;**;36.5
+4;10e;Burtschi Michael;;36.5
+4;10f;Hasler Simon;;36.5
+4;10g;Moser Matthias;;36.5
+4;10h;Wilhelm Manuel;;36.5
+4;10i;Schär Simon;*;36.5
+4;11a;Furrer Mathias;;36.25
+4;11b;Hügli Kaj (1997);*;36.25
+4;12a;Fritz Christian;;36.0
+4;12b;Dobler Florian;;36.0
+4;12c;Krebs Clemens;;36.0
+4;12d;Wyss Patrick;;36.0
+4;12e;Schumacher Michael;*;36.0
+4;12f;Mangold Martin;;36.0
+4;13a;Reinhard Adrian (1997);;35.75
+4;13b;Lang Martin;**;35.75
+4;13c;Inderwildi Daniel;;35.75
+4;13d;Reimann Marco (1998);;35.75
+4;13e;Brun Samuel (1999);;35.75
+4;13f;Riesen Ruedi;;35.75
+4;13g;Schläpfer Matthias;*;35.75
+4;14a;Villiger Damian;*;35.5
+4;14b;Studer Remo;;35.5
+4;14c;Hiltbrand Ron;;35.5
+4;14d;Haenni Stéphane;**;35.5
+4;14e;Bieli Andreas;;35.5
+4;14f;Lehmann Nicola;*;35.5
+4;14g;Steger Robert (1998);;35.5
+4;14h;Remy Guillaume;**;35.5
+4;15a;Wüthrich Martin;;35.25
+4;15b;Vetter Mike;;35.25
+4;15c;Treier Tobias (1998);;35.25
+4;15d;Schneider Markus;*;35.25
+4;15e;Fritz Andreas;;35.25
+4;15f;Regenass Beat;;35.25
+4;15g;Schaub Florent;;35.25
+4;15h;Peronino Mario;;35.25
+4;15i;Schöni Marc (1999);;35.25
+4;15j;Abt Robin (1997);;35.25
+4;15k;Grossmann Andreas;;35.25
+4;16a;Stich Yannick (1997);;34.25
+4;17a;Schaub Adrian (1999);;34.0
+4;17b;Mohler Fernando;;34.0
+4;17c;Burkhardt Roy;;34.0
+4;17d;Wyss Cyrill;;34.0
+4;18a;Anderegg David;*;28.25
+4;19a;Leutwyler Pascal;;8.5
+4;19b;Studinger Stephan;**;8.5
+5;1a;Ulrich Andreas;***;48.75
+5;2a;Wicki Joel (1997);**;48.0
+5;2b;Krähenbühl Tobias;**;48.0
+5;3a;Alpiger Nick;**;47.75
+5;4a;Bieri Christoph;***;47.5
+5;4b;Schmid David;**;47.5
+5;4c;Gisler Bruno;***;47.5
+5;4d;Nötzli Bruno;***;47.5
+5;5a;Forrer Arnold;***;47.25
+5;5b;Henzer Andreas;**;47.25
+5;5c;Voggensperger Janic (1998);*;47.25
+5;5d;Stalder Remo;***;47.25
+5;5e;Räbmatter Patrick;**;47.25
+5;5f;Kramer Franz;;47.25
+5;6a;Erb Roger;**;47.0
+5;6b;Thoenen Henryc;**;47.0
+5;6c;Kohler Fredi;**;47.0
+5;6d;Gottofrey Marc;*;47.0
+5;6e;Winiger Fabian;**;47.0
+5;6f;Döbeli Andreas (1998);;47.0
+5;6g;Blatter Lorenz;*;47.0
+5;6h;Stoffel Marc;**;47.0
+5;6i;Stüdeli Thomas;**;47.0
+5;7a;Nyffeler Christoph;;46.75
+5;7b;Gschwind Michael;**;46.75
+5;7c;Huber Jan (1997);;46.75
+5;7d;Mahrer Jürg;**;46.75
+5;7e;Odermatt Christian;**;46.75
+5;7f;Bader Andreas;*;46.75
+5;7g;Brügger Cyrill (1998);;46.75
+5;7h;Furter Reto;**;46.75
+5;8a;Waldner Patrick;**;46.5
+5;8b;Hauri Urs;**;46.5
+5;8c;Steinmann Yves;*;46.5
+5;8d;Brand Christian;**;46.5
+5;8e;Widmer Tobias;*;46.5
+5;8f;Kocher Remo;**;46.5
+5;8g;Büttler Adrian (1999);;46.5
+5;8h;Moser Matthias;;46.5
+5;8i;Schär Simon;*;46.5
+5;9a;Strebel Joel (1997);*;46.25
+5;9b;Probst Gabriel;**;46.25
+5;9c;Klausner Yanick;**;46.25
+5;9d;Hasler Simon;;46.25
+5;9e;Wilhelm Manuel;;46.25
+5;10a;Scherrer Johann;**;46.0
+5;10b;Stegmüller Klemens;*;46.0
+5;10c;Wyss Patrick;;46.0
+5;11a;Hermann Oliver;;45.75
+5;11b;von Arx Christian;*;45.75
+5;11c;Studinger Mathias;**;45.75
+5;11d;Küng Marco;;45.75
+5;11e;Hasler Manuel;;45.75
+5;11f;Lang Martin;**;45.75
+5;11g;Vieira Tiago;**;45.75
+5;11h;Schlachter Lukas;*;45.75
+5;12a;Räber Lukas;;45.5
+5;12b;Nussbaumer Gabriel;;45.5
+5;12c;Leuthard Mario;;45.5
+5;12d;Kohler Adrian;;45.5
+5;12e;Probst Stefan;;45.5
+5;12f;Bieli Andreas;;45.5
+5;12g;Büchi Christian;;45.5
+5;12h;Stoll Simon;;45.5
+5;12i;Leuthard Reto;;45.5
+5;12j;Brun Samuel (1999);;45.5
+5;12k;Remy Guillaume;**;45.5
+5;12l;Riesen Ruedi;;45.5
+5;12m;Wilhelm Hannes;*;45.5
+5;12n;Kropf Marcel;**;45.5
+5;12o;Widmer David;;45.5
+5;13a;Rüegger Aaron (1999);;45.25
+5;13b;Widmer Sandro;;45.25
+5;13c;Hiltbrand Ron;;45.25
+5;13d;Müller Christian (1998);;45.25
+5;13e;Schneider Markus;*;45.25
+5;13f;Haenni Stéphane;**;45.25
+5;13g;Lehmann Nicola;*;45.25
+5;13h;Steger Robert (1998);;45.25
+5;14a;Gabathuler Björn (1998);;45.0
+5;14b;Fritz Andreas;;45.0
+5;14c;Lehmann Robin (1999);;45.0
+5;14d;Burtschi Michael;;45.0
+5;14e;Hügli Kaj (1997);*;45.0
+5;14f;Mangold Martin;;45.0
+5;15a;Furrer Mathias;;44.75
+5;15b;Dobler Florian;;44.75
+5;16a;Fritz Christian;;44.5
+5;16b;Inderwildi Daniel;;44.5
+5;16c;Krebs Clemens;;44.5
+5;16d;Reimann Marco (1998);;44.5
+5;16e;Schumacher Michael;*;44.5
+5;17a;Villiger Damian;*;44.25
+5;17b;Reinhard Adrian (1997);;44.25
+5;17c;Schläpfer Matthias;*;44.25
+5;18a;Studer Remo;;44.0
+5;18b;Vetter Mike;;44.0
+5;18c;Regenass Beat;;44.0
+5;18d;Schaub Florent;;44.0
+5;18e;Peronino Mario;;44.0
+5;19a;Wüthrich Martin;;43.75
+5;19b;Treier Tobias (1998);;43.75
+5;19c;Schöni Marc (1999);;43.75
+5;19d;Abt Robin (1997);;43.75
+5;19e;Grossmann Andreas;;43.75
+5;20a;Stich Yannick (1997);;34.25
+5;21a;Schaub Adrian (1999);;34.0
+5;21b;Mohler Fernando;;34.0
+5;21c;Burkhardt Roy;;34.0
+5;21d;Wyss Cyrill;;34.0
+5;22a;Anderegg David;*;28.25
+5;23a;Leutwyler Pascal;;8.5
+5;23b;Studinger Stephan;**;8.5
+6;1a;Ulrich Andreas;***;58.75
+6;2a;Wicki Joel (1997);**;57.75
+6;3a;Bieri Christoph;***;57.5
+6;4a;Gisler Bruno;***;57.25
+6;4b;Nötzli Bruno;***;57.25
+6;5a;Forrer Arnold;***;57.0
+6;5b;Henzer Andreas;**;57.0
+6;5c;Stalder Remo;***;57.0
+6;5d;Kramer Franz;;57.0
+6;5e;Blatter Lorenz;*;57.0
+6;6a;Thoenen Henryc;**;56.75
+6;6b;Huber Jan (1997);;56.75
+6;6c;Mahrer Jürg;**;56.75
+6;6d;Stüdeli Thomas;**;56.75
+6;6e;Krähenbühl Tobias;**;56.75
+6;7a;Waldner Patrick;**;56.5
+6;7b;Odermatt Christian;**;56.5
+6;7c;Brand Christian;**;56.5
+6;7d;Alpiger Nick;**;56.5
+6;8a;Steinmann Yves;*;56.25
+6;9a;Erb Roger;**;56.0
+6;9b;Scherrer Johann;**;56.0
+6;9c;Strebel Joel (1997);*;56.0
+6;9d;Schmid David;**;56.0
+6;9e;Klausner Yanick;**;56.0
+6;10a;Voggensperger Janic (1998);*;55.75
+6;10b;Kohler Fredi;**;55.75
+6;10c;Gottofrey Marc;*;55.75
+6;10d;Räbmatter Patrick;**;55.75
+6;10e;Hasler Manuel;;55.75
+6;10f;Lang Martin;**;55.75
+6;10g;Stoffel Marc;**;55.75
+6;11a;Nussbaumer Gabriel;;55.5
+6;11b;Leuthard Mario;;55.5
+6;11c;Studinger Mathias;**;55.5
+6;11d;Kohler Adrian;;55.5
+6;11e;Winiger Fabian;**;55.5
+6;11f;Döbeli Andreas (1998);;55.5
+6;11g;Vieira Tiago;**;55.5
+6;11h;Bader Andreas;*;55.5
+6;11i;Furter Reto;**;55.5
+6;12a;Nyffeler Christoph;;55.25
+6;12b;Gschwind Michael;**;55.25
+6;12c;Hauri Urs;**;55.25
+6;12d;Schneider Markus;*;55.25
+6;12e;Probst Stefan;;55.25
+6;12f;Haenni Stéphane;**;55.25
+6;12g;Stoll Simon;;55.25
+6;12h;Leuthard Reto;;55.25
+6;12i;Remy Guillaume;**;55.25
+6;12j;Brügger Cyrill (1998);;55.25
+6;13a;Hiltbrand Ron;;55.0
+6;13b;Probst Gabriel;**;55.0
+6;13c;Widmer Tobias;*;55.0
+6;13d;Kocher Remo;**;55.0
+6;13e;Büttler Adrian (1999);;55.0
+6;13f;Burtschi Michael;;55.0
+6;13g;Lehmann Nicola;*;55.0
+6;13h;Moser Matthias;;55.0
+6;13i;Schär Simon;*;55.0
+6;14a;Hasler Simon;;54.75
+6;14b;Hügli Kaj (1997);*;54.75
+6;14c;Wilhelm Manuel;;54.75
+6;14d;Mangold Martin;;54.75
+6;15a;Dobler Florian;;54.5
+6;15b;Stegmüller Klemens;*;54.5
+6;15c;Wyss Patrick;;54.5
+6;15d;Schumacher Michael;*;54.5
+6;16a;Hermann Oliver;;54.25
+6;16b;von Arx Christian;*;54.25
+6;16c;Küng Marco;;54.25
+6;16d;Fritz Christian;;54.25
+6;16e;Reimann Marco (1998);;54.25
+6;16f;Riesen Ruedi;;54.25
+6;16g;Widmer David;;54.25
+6;16h;Schläpfer Matthias;*;54.25
+6;16i;Schlachter Lukas;*;54.25
+6;17a;Villiger Damian;*;54.0
+6;17b;Räber Lukas;;54.0
+6;17c;Bieli Andreas;;54.0
+6;17d;Büchi Christian;;54.0
+6;17e;Schaub Florent;;54.0
+6;17f;Brun Samuel (1999);;54.0
+6;17g;Wilhelm Hannes;*;54.0
+6;17h;Kropf Marcel;**;54.0
+6;18a;Studer Remo;;53.75
+6;18b;Rüegger Aaron (1999);;53.75
+6;18c;Widmer Sandro;;53.75
+6;18d;Gabathuler Björn (1998);;53.75
+6;18e;Müller Christian (1998);;53.75
+6;18f;Regenass Beat;;53.75
+6;18g;Lehmann Robin (1999);;53.75
+6;18h;Grossmann Andreas;;53.75
+6;18i;Steger Robert (1998);;53.75
+6;19a;Fritz Andreas;;53.5
+6;19b;Krebs Clemens;;53.5
+6;20a;Furrer Mathias;;53.25
+6;20b;Reinhard Adrian (1997);;53.25
+6;21a;Inderwildi Daniel;;53.0
+6;22a;Peronino Mario;;52.5
+6;23a;Wüthrich Martin;;52.25
+6;23b;Treier Tobias (1998);;52.25
+6;23c;Schöni Marc (1999);;52.25
+6;23d;Abt Robin (1997);;52.25
+6;24a;Vetter Mike;;44.0
+6;25a;Stich Yannick (1997);;34.25
+6;26a;Schaub Adrian (1999);;34.0
+6;26b;Mohler Fernando;;34.0
+6;26c;Burkhardt Roy;;34.0
+6;26d;Wyss Cyrill;;34.0
+6;27a;Anderegg David;*;28.25
+6;28a;Leutwyler Pascal;;8.5
+6;28b;Studinger Stephan;**;8.5
+
+

@@ -1,0 +1,156 @@
+place,name,points,level
+1,Giger Samuel (1998) **,58.50,**
+3 b,Gisler Bruno ***,58.00,***
+5 a,Bickel Roman (1998),57.25,(1998)
+6 b,Gwerder Andreas **,57.00,**
+6 e,Zbinden Marc *,57.00,*
+7 c,Nägeli Marco *,56.75,*
+7 f,Burkhard Patrick *,56.75,*
+8 a,Braun Mathias,56.50,Mathias
+2,Kammermann Thomas *,58.25,*
+4 a,Bösch Daniel ***,57.50,***
+5 b,Krähenbühl Tobias **,57.25,**
+6 c,Scherer Christian *,57.00,*
+7 a,Bühler Ernst **,56.75,**
+7 d,Roth Martin *,56.75,*
+7 g,Dumelin David *,56.75,*
+8 b,Oertig Adrian **,56.50,**
+3 a,Bieri Christoph ***,58.00,***
+4 b,Leuppi Samir **,57.50,**
+6 a,Clopath Beat ***,57.00,***
+6 d,Wey Nicola *,57.00,*
+7 b,Korrodi Paul *,56.75,*
+7 e,Baumann Rico *,56.75,*
+7 h,Keller Andreas,56.75,Andreas
+8 c,Stahel Felix *,56.50,*
+8 d,Güntensperger Marcel *,56.50,*
+9 b,Fausch Kjetil,56.25,Kjetil
+9 e,Orlik Curdin **,56.25,**
+10 c,Bänziger Peter,56.00,Peter
+10 f,Schnurrenberger Roman **,56.00,**
+11 c,Kammermann Dominik,55.75,Dominik
+11 f,Koller Martin *,55.75,*
+11 i,Battaglia Ursin **,55.75,**
+12 b,Odermatt Martin *,55.50,*
+8 e,Leuppi Karim,56.50,Karim
+9 c,Oetiker Ronny,56.25,Ronny
+10 a,Pﬁster Florian *,56.00,*
+10 d,Kindlimann Fabian ***,56.00,***
+11 a,Dörig Erich *,55.75,*
+11 d,Arztmann Beda,55.75,Beda
+11 g,Wettstein Daniel,55.75,Daniel
+11 j,Lanter Christian (1998),55.75,(1998)
+12 c,Zwyssig Raphael ***,55.50,***
+9 a,Breitenmoser Manuel,56.25,Manuel
+9 d,Fässler Andreas **,56.25,**
+10 b,Gmür Pirmin *,56.00,*
+10 e,Hari Michi,56.00,Michi
+11 b,Eugster Ruedi **,55.75,**
+11 e,Bircher Luca (1999),55.75,(1999)
+11 h,Wolfer Lukas,55.75,Lukas
+12 a,Notz Beni ***,55.50,***
+12 d,Dändliker Shane,55.50,Shane
+12 e,Frauchiger Remo,55.50,Remo
+12 h,Schaﬀner Samuel **,55.50,**
+12 k,Lehmann Philipp (1999),55.50,(1999)
+13 b,Biäsch Christian,55.25,Christian
+13 e,Buchmann Michael,55.25,Michael
+13 h,Poltera Andrin (1999),55.25,(1999)
+14 b,Büsser André,55.00,André
+14 e,Läng Dominick,55.00,Dominick
+14 h,Schudel Simon *,55.00,*
+12 f,Funk Nicola (1999),55.50,(1999)
+12 i,Schmid Patrick *,55.50,*
+12 l,Oertle Daniel,55.50,Daniel
+13 c,Bucher Roland,55.25,Roland
+13 f,Frei Hanspeter (1999),55.25,(1999)
+13 i,Roth Lukas *,55.25,*
+14 c,Hersche Daniel,55.00,Daniel
+14 f,Marty Jaime (2000),55.00,(2000)
+14 i,Schuler Martin,55.00,Martin
+12 g,Knechtle Martin **,55.50,**
+12 j,Kunz Daniel,55.50,Daniel
+13 a,Bärtsch Jann (2000),55.25,(2000)
+13 d,Büchi Christian,55.25,Christian
+13 g,Jörger Marc,55.25,Marc
+14 a,Odermatt Michi,55.00,Michi
+14 d,Junker Nik,55.00,Nik
+14 g,Rüegg Roman *,55.00,*
+14 j,Streuli Martin *,55.00,*
+15 a,Läderach Pascal (1999),54.75,(1999)
+15 d,Truniger Manuel,54.75,Manuel
+16 c,Vestner Roman *,54.50,*
+17 c,Reber Marcel *,54.25,*
+18 a,Fankhauser Jürg *,54.00,*
+18 d,Dändliker Hansheinrich,54.00,Hansheinrich
+18 g,Furrer Matthias,54.00,Matthias
+19 b,Candrian Gian-Luca (1998),53.75,(1998)
+19 e,Weibel Lucien,53.75,Lucien
+15 b,Schlüchter Fabian,54.75,Fabian
+16 a,Fässler Patrick,54.50,Patrick
+17 a,Vollenweider Jeremy (1998) *,54.25,*
+17 d,Odermatt Christoph *,54.25,*
+18 b,Hauser Simon (1998),54.00,(1998)
+18 e,Mathis Patrick,54.00,Patrick
+18 h,Grimm Michael,54.00,Michael
+19 c,Flütsch Marco (1999),53.75,(1999)
+20 a,Bollier Fabian,53.50,Fabian
+15 c,Schnurrenberger Roger,54.75,Roger
+16 b,Brügger Stefan *,54.50,*
+17 b,Danner Daniel,54.25,Daniel
+17 e,Reichmuth Beat,54.25,Beat
+18 c,Berger Roman,54.00,Roman
+18 f,Bleiker Reto *,54.00,*
+19 a,Marty Lukas (1999),53.75,(1999)
+19 d,Tobler Marco,53.75,Marco
+20 b,Castelli Fabio (1999),53.50,(1999)
+20 c,Schwyn Adrian,53.50,Adrian
+22,Gysel Hansruedi,52.75,Hansruedi
+23 c,Rohner Lukas (2000),35.50,(2000)
+23 f,Zehnder Mario (1999),35.50,(1999)
+23 i,Aeppli Lukas (2000),35.50,(2000)
+23 l,Eichhorn Alexander (1998),35.50,(1998)
+23 o,Kiener Tobias,35.50,Tobias
+23 r,Nägeli Roman *,35.50,*
+23 u,Schönenberger Christian,35.50,Christian
+23 x,Zehnder Laurent (2000),35.50,(2000)
+24 c,Held Florian,35.25,Florian
+20 d,Oettli Silvio (2000),53.50,(2000)
+23 a,Fontana Michael,35.50,Michael
+23 d,Widmer David,35.50,David
+23 g,Ackermann Roman,35.50,Roman
+23 j,Braun Mario,35.50,Mario
+23 m,Feusi Michael (2000),35.50,(2000)
+23 p,Landolt Cla (1999),35.50,(1999)
+23 s,Pallaoro Luca,35.50,Luca
+23 v,Seiler Thomas,35.50,Thomas
+24 a,Buﬀ Alwin,35.25,Alwin
+24 d,Hitz Florian (1999),35.25,(1999)
+21,Meier Daniel,53.25,Daniel
+23 b,Ott Dominik *,35.50,*
+23 e,Wild Thomas,35.50,Thomas
+23 h,Aebli Nino (2000),35.50,(2000)
+23 k,Dittli Philip,35.50,Philip
+23 n,Götti Samuel (1998),35.50,(1998)
+23 q,Langenegger Beat,35.50,Beat
+23 t,Schlegel Beni (1999),35.50,(1999)
+23 w,Sprecher Martin (2000),35.50,(2000)
+24 b,Burkhard Roger,35.25,Roger
+24 e,Kiener Raphael (2000),35.25,(2000)
+24 f,Kleinberger Alex,35.25,Alex
+24 i,Stadelmann Valentin (2000),35.25,(2000)
+26,Kobler Janosch (2000),34.75,(2000)
+27 c,Ueltschi Patric *,34.25,*
+28 c,Merkle Lukas (1998),34.00,(1998)
+* Kan,nal- bzw. Gauverbandskranzschwin,ger ** T,Gauverbandskranzschwin
+24 g,Mortellaro Andrea,35.25,Andrea
+25 a,Peng Mike ***,35.00,***
+27 a,Bürki Patrik (1999),34.25,(1999)
+28 a,Bischofberger Pirmin,34.00,Pirmin
+28 d,Sieber Marc (2000),34.00,(2000)
+lverb,dskranzschwinger *** Eidg. Kranzs,chwinge,Kranzs
+24 h,Schlatter Philipp *,35.25,*
+25 b,Gosswiler Livio (2000),35.00,(2000)
+27 b,Schwyn Patrick (1999),34.25,(1999)
+28 b,Ebert Claudio,34.00,Claudio
+28 e,Städler Roman,34.00,Roman

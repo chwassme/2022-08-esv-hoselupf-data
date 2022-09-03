@@ -1,0 +1,162 @@
+place,name,points,level
+1,Leuppi Samir **,58.25,**
+3 b,Wey Nicola *,57.25,*
+4 a,Vollenweider Jeremy *,57.00,*
+4 d,Arztmann Beda *,57.00,*
+5 b,Lehmann Philipp *,56.75,*
+6 a,Pianta Christian,56.50,Christian
+6 d,Bickel Roman *,56.50,*
+6 g,Bernold Michael *,56.50,*
+2,Schneider Domenic ***,57.50,***
+3 c,Räbsamen Marcel,57.25,Marcel
+4 b,Zbinden Marc *,57.00,*
+4 e,Schmidlin Tobias (2001),57.00,(2001)
+5 c,Schneider Mario **,56.75,**
+6 b,Keller Andreas *,56.50,*
+6 e,Baumann Rico *,56.50,*
+7 a,Schudel Simon *,56.25,*
+3 a,Lanter Christian,57.25,Christian
+3 d,Krähenbühl Tobias ***,57.25,***
+4 c,Rychen Roger ***,57.00,***
+5 a,Nock Benjamin (2001),56.75,(2001)
+5 d,Oettli Marco *,56.75,*
+6 c,Funk Nicola *,56.50,*
+6 f,Good Marco *,56.50,*
+7 b,Kammermann Thomas *,56.25,*
+7 c,Kindlimann Fabian ***,56.25,***
+8 a,Rüegg Patrick,56.00,Patrick
+8 d,Marty Jaime *,56.00,*
+9 b,Roth Martin **,55.75,**
+9 e,Waser Reto *,55.75,*
+9 h,Hugelshofer Lars (2001) *,55.75,*
+10 b,Gwerder Andreas **,55.50,**
+10 e,Schläpfer Markus **,55.50,**
+10 h,Burkhard Patrick *,55.50,*
+7 d,Schlegel Werner (2002) *,56.25,*
+8 b,Gmür Pirmin **,56.00,**
+8 e,Elmer Daniel *,56.00,*
+9 c,Bollhalder Manuel (2001),55.75,(2001)
+9 f,Rhyner Michael **,55.75,**
+9 i,Buchmann Michael,55.75,Michael
+10 c,Wickli Beat **,55.50,**
+10 f,Bärtsch Fabian,55.50,Fabian
+10 i,Blaser Christian *,55.50,*
+7 e,Oertle Daniel *,56.25,*
+8 c,Schnurrenberger Roman **,56.00,**
+9 a,Schlegel Reto *,55.75,*
+9 d,Ammann Rico *,55.75,*
+9 g,Arnold Marcel *,55.75,*
+10 a,Notz Beni ***,55.50,***
+10 d,Schuler Martin,55.50,Martin
+10 g,Kobler Janosch,55.50,Janosch
+10 j,Baumgartner Ramon (2002),55.50,(2002)
+11 a,Straub Paul,55.25,Paul
+11 d,Martin Tobias (2001),55.25,(2001)
+11 g,Brunner Timon,55.25,Timon
+11 j,Dändliker Shane **,55.25,**
+12 c,Schwyn Patrick,55.00,Patrick
+12 f,Horner Sämi,55.00,Sämi
+12 i,Burkhard Tobias,55.00,Tobias
+12 l,Hari Michi,55.00,Michi
+13 b,Koller Fabian *,54.75,*
+11 b,Landolt Reto *,55.25,*
+11 e,Junker Nik,55.25,Nik
+11 h,Burkhalter Stefan ***,55.25,***
+12 a,Inauen Aurel,55.00,Aurel
+12 d,Plüer Fabian (2003),55.00,(2003)
+12 g,Galli Cedric (2001),55.00,(2001)
+12 j,Betschart Patrick *,55.00,*
+12 m,Schmid Patrick *,55.00,*
+13 c,Hauser Simon,54.75,Simon
+11 c,Rhyner Beni,55.25,Beni
+11 f,Forster Christian,55.25,Christian
+11 i,Giger Urs *,55.25,*
+12 b,Wittenwiler Roman *,55.00,*
+12 e,Kirchmeier Christof,55.00,Christof
+12 h,Frauenfelder Florian (2001),55.00,(2001)
+12 k,Arnold Christian,55.00,Christian
+13 a,Schmid Gian (2003),54.75,(2003)
+13 d,Krähenbühl Lukas *,54.75,*
+13 e,Knecht Remo (2002),54.75,(2002)
+14 b,Wetter Silvan,54.50,Silvan
+14 e,Zumbach Michael,54.50,Michael
+14 h,Rotach Lars,54.50,Lars
+15 b,Egli Martin,54.25,Martin
+15 e,Kiener Raphael,54.25,Raphael
+16 a,Ackermann Rico (2003),54.00,(2003)
+16 d,Notz Armin *,54.00,*
+16 g,Bollier Fabian,54.00,Fabian
+13 f,Inauen Andreas *,54.75,*
+14 c,Straub Robin *,54.50,*
+14 f,Schläpfer Matthias *,54.50,*
+14 i,Alder Armin *,54.50,*
+15 c,Schwyn Adrian *,54.25,*
+15 f,Fässler Michael,54.25,Michael
+16 b,Steiner Joel,54.00,Joel
+16 e,Kunz Daniel *,54.00,*
+17 a,Odermatt Michi,53.75,Michi
+14 a,Keller Lukas,54.50,Lukas
+14 d,Leuppi Karim *,54.50,*
+14 g,Schäppi Urs *,54.50,*
+15 a,Riget Ivan *,54.25,*
+15 d,Tschudi Mario (2001),54.25,(2001)
+15 g,Bucher Roman (2003),54.25,(2003)
+16 c,Stähli Jan,54.00,Jan
+16 f,Blaser Andre,54.00,Andre
+17 b,Giger Lorenz,53.75,Lorenz
+17 c,Sieber Marc,53.75,Marc
+17 f,Büchler Livio (2001),53.75,(2001)
+19 a,Fuster Arjuna (2003),53.25,(2003)
+20 b,Stadelmann Valentin,52.75,Valentin
+22 a,Wingeier Janik,35.50,Janik
+22 d,Käppeli Remo (2001),35.50,(2001)
+22 g,Spörndli Cyril (2003),35.50,(2003)
+22 j,Laager Michael (2001),35.50,(2001)
+22 m,Dändliker Hansheinrich,35.50,Hansheinrich
+23 a,Zehnder Mario,35.25,Mario
+17 d,Hänni Marc (2001),53.75,(2001)
+18 a,Furrer Matthias,53.50,Matthias
+19 b,Aerne Christian *,53.25,*
+20 c,Anliker Andri (2003),52.75,(2003)
+22 b,Schiesser Patrik,35.50,Patrik
+22 e,Bucher Roland,35.50,Roland
+22 h,Schwager Ivo,35.50,Ivo
+22 k,Klauser Guido,35.50,Guido
+22 n,Biser Niklaus,35.50,Niklaus
+23 b,Studerus Jan (2002),35.25,(2002)
+17 e,Grimm Michael,53.75,Michael
+18 b,Buﬀ Alwin,53.50,Alwin
+20 a,Tobler Pius (2001),52.75,(2001)
+21,Bürgler Patrick,35.75,Patrick
+22 c,Lüthi Manuel (2003),35.50,(2003)
+22 f,Tresch Luca (2002),35.50,(2002)
+22 i,Landolt Cla,35.50,Cla
+22 l,Kiser Michael,35.50,Michael
+22 o,Baumgartner Björn (2003),35.50,(2003)
+23 c,Steiner Lukas (2002),35.25,(2002)
+23 d,Scherrer Pascal,35.25,Pascal
+23 g,Frei Felix (2003),35.25,(2003)
+24,Schönenberger Björn,34.75,Björn
+25 c,Knabe Robert,34.50,Robert
+26 b,Pallaoro Luca,34.25,Luca
+27 c,Vontobel Florian (2001),34.00,(2001)
+28,Forrer Arnold ***,26.25,***
+30,Zimmermann Daniel *,8.75,*
+* Kan,nal- bzw. Gauverbandskranzschwin,ger ** T,Gauverbandskranzschwin
+23 e,Maglia Leo,35.25,Leo
+23 h,Danner Daniel,35.25,Daniel
+25 a,Falch Urs (2001),34.50,(2001)
+25 d,Heierli Pascal *,34.50,*
+27 a,Zimmermann Amir,34.00,Amir
+27 d,Siegenthaler Joël (2003),34.00,(2003)
+29 a,Ackermann Remo *,17.25,*
+31 a,Riget Florian *,8.50,*
+lverb,dskranzschwinger *** Eidg. Kranzs,chwinge,Kranzs
+23 f,Furrer Damian,35.25,Damian
+23 i,Bader Sandro (2002),35.25,(2002)
+25 b,Bossert Alain (2001),34.50,(2001)
+26 a,Schnyder Christian,34.25,Christian
+27 b,Zemp Stefan (2002),34.00,(2002)
+27 e,Gamper Gian (2001),34.00,(2001)
+29 b,Fejzaj Naim **,17.25,**
+31 b,Lanter Andreas,8.50,Andreas

@@ -1,0 +1,811 @@
+result,name,level,points,placed_fighter,fight_round
++,Schuler Christian ***,***,10.00,Orlik Armon ***,1
++,Roth Martin **,**,10.00,Orlik Armon ***,2
+-,Bösch Daniel ***,***,9.00,Orlik Armon ***,3
++,Fausch Kjetil *,*,10.00,Orlik Armon ***,4
++,Burkhalter Stefan ***,***,10.00,Orlik Armon ***,5
++,Bösch Daniel ***,***,10.00,Orlik Armon ***,6
+-,Bernold Christian **,**,8.75,Schlegel Sandro **,1
++,Kolb This (2003),(2003),10.00,Schlegel Sandro **,2
++,Jöhl Christian *,*,10.00,Schlegel Sandro **,3
+-,Burkhalter Stefan ***,***,8.75,Schlegel Sandro **,4
++,Fuster Sepp *,*,10.00,Schlegel Sandro **,5
++,Straub Robin *,*,10.00,Schlegel Sandro **,6
++,Kamer Hanspeter *,*,10.00,Biäsch Christian *,1
+-,Notz Beni ***,***,8.75,Biäsch Christian *,2
++,Laager Michael (2001),(2001),10.00,Biäsch Christian *,3
++,Rhyner Michael **,**,10.00,Biäsch Christian *,4
+o,Rychen Roger ***,***,8.50,Biäsch Christian *,5
++,Schnyder Christian,Christian,10.00,Biäsch Christian *,6
+o,Burkhalter Stefan ***,***,8.50,Rhyner Michael **,1
++,Poltera Andrin *,*,10.00,Rhyner Michael **,2
++,Gartmann Mauro *,*,10.00,Rhyner Michael **,3
+o,Biäsch Christian *,*,8.50,Rhyner Michael **,4
++,Bircher Luca,Luca,10.00,Rhyner Michael **,5
++,Oettli Silvio *,*,10.00,Rhyner Michael **,6
++,Gosswiler Livio *,*,9.75,Rotach Lars *,1
+o,Schuler Christian ***,***,8.50,Rotach Lars *,2
+-,Keller Werner,Werner,9.00,Rotach Lars *,3
++,Kirchmeier Christof,Christof,9.75,Rotach Lars *,4
++,Koller Fabian *,*,10.00,Rotach Lars *,5
++,Aebli Nino,Nino,9.75,Rotach Lars *,6
+-,Battaglia Ursin **,**,9.00,Dumelin David **,1
++,Neﬀ Florian,Florian,9.75,Dumelin David **,2
++,Landolt Reto *,*,9.75,Dumelin David **,3
+o,Bösch Daniel ***,***,8.50,Dumelin David **,4
++,Schallberger Clint,Clint,10.00,Dumelin David **,5
++,Schuler Alex ***,***,9.75,Dumelin David **,6
++,Gerig Marcel,Marcel,9.75,Kolb Pirmin (2001),1
+o,Giger Urs *,*,8.75,Kolb Pirmin (2001),2
++,Lieberherr David (2003),(2003),10.00,Kolb Pirmin (2001),3
+o,Bernold Michael *,*,8.50,Kolb Pirmin (2001),4
++,Schlegel Reto *,*,9.75,Kolb Pirmin (2001),5
++,Battaglia Ursin **,**,10.00,Kolb Pirmin (2001),6
+o,Orlik Armon ***,***,8.50,Schuler Christian ***,1
++,Rotach Lars *,*,10.00,Schuler Christian ***,2
++,Gmür Pirmin **,**,9.75,Schuler Christian ***,3
++,Vollenweider Jeremy *,*,9.75,Schuler Christian ***,4
++,Koch Thomas *,*,10.00,Schuler Christian ***,5
+o,Rychen Roger ***,***,8.50,Schuler Christian ***,6
++,Schuler Alex ***,***,9.75,Rychen Roger ***,1
++,Fausch Kjetil *,*,10.00,Rychen Roger ***,2
+o,Burkhalter Stefan ***,***,8.50,Rychen Roger ***,3
++,Straub Robin *,*,10.00,Rychen Roger ***,4
++,Biäsch Christian *,*,10.00,Rychen Roger ***,5
++,Schuler Christian ***,***,10.00,Rychen Roger ***,6
++,Schneider Domenic ***,***,9.75,Bösch Daniel ***,1
++,Schläpfer Matthias *,*,10.00,Bösch Daniel ***,2
+-,Orlik Armon ***,***,8.75,Bösch Daniel ***,3
++,Dumelin David **,**,10.00,Bösch Daniel ***,4
++,Roth Martin **,**,10.00,Bösch Daniel ***,5
+o,Orlik Armon ***,***,8.75,Bösch Daniel ***,6
+o,Roth Martin **,**,8.50,Steiner Michael **,1
++,Mathis Patrick,Patrick,10.00,Steiner Michael **,2
++,Dörig Erich *,*,10.00,Steiner Michael **,3
++,Hegner Ueli *,*,9.75,Steiner Michael **,4
+-,Bernold Michael *,*,9.00,Steiner Michael **,5
++,Landolt Reto *,*,9.75,Steiner Michael **,6
+o,Bernold Michael *,*,8.75,Koch Thomas *,1
++,Koller Silvan (2002),(2002),10.00,Koch Thomas *,2
++,Steinauer Adrian **,**,10.00,Koch Thomas *,3
++,Notz Beni ***,***,9.75,Koch Thomas *,4
+o,Schuler Christian ***,***,8.50,Koch Thomas *,5
++,Rhyner Beni,Beni,10.00,Koch Thomas *,6
++,Peng Mike ***,***,10.00,Notz Beni ***,1
+-,Biäsch Christian *,*,8.75,Notz Beni ***,2
++,Battaglia Ursin **,**,9.75,Notz Beni ***,3
+o,Koch Thomas *,*,8.50,Notz Beni ***,4
++,Horner Sämi,Sämi,10.00,Notz Beni ***,5
++,Baumann Rico *,*,9.75,Notz Beni ***,6
++,Koch Thomas *,*,9.75,Bernold Michael *,1
+o,Burkhalter Stefan ***,***,8.50,Bernold Michael *,2
++,Burkhalter Thomas (2003),(2003),9.75,Bernold Michael *,3
++,Kolb Pirmin (2001),(2001),9.75,Bernold Michael *,4
+-,Steiner Michael **,**,9.00,Bernold Michael *,5
++,Thiemann Fabrice,Fabrice,10.00,Bernold Michael *,6
+-,Gmür Pirmin **,**,8.75,Hochholdinger Roman **,1
++,Thoma Christoph,Christoph,9.75,Hochholdinger Roman **,2
++,Kamer Hanspeter *,*,9.75,Hochholdinger Roman **,3
++,Oettli Silvio *,*,9.75,Hochholdinger Roman **,4
++,Schallberger Jakob,Jakob,9.75,Hochholdinger Roman **,5
+-,Schneider Domenic ***,***,8.75,Hochholdinger Roman **,6
++,Schudel Simon *,*,9.75,Landolt Reto *,1
++,Lötscher Abraham,Abraham,9.75,Landolt Reto *,2
+o,Dumelin David **,**,8.50,Landolt Reto *,3
++,Aebli Nino,Nino,10.00,Landolt Reto *,4
++,Battaglia Ursin **,**,10.00,Landolt Reto *,5
+o,Steiner Michael **,**,8.50,Landolt Reto *,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Landolt Reto *,7
+-,Steinauer Adrian **,**,8.75,Schneider Mario **,1
++,Rüegg Roman *,*,9.75,Schneider Mario **,2
++,Schlegel Reto *,*,9.75,Schneider Mario **,3
++,Schläpfer Matthias *,*,9.75,Schneider Mario **,4
++,Giger Urs *,*,10.00,Schneider Mario **,5
++,Hess Michael *,*,10.00,Schneider Mario **,6
++,Rhyner Michael **,**,10.00,Burkhalter Stefan ***,1
++,Bernold Michael *,*,10.00,Burkhalter Stefan ***,2
++,Rychen Roger ***,***,10.00,Burkhalter Stefan ***,3
+-,Schlegel Sandro **,**,8.75,Burkhalter Stefan ***,4
+o,Orlik Armon ***,***,8.50,Burkhalter Stefan ***,5
++,Kamer Hanspeter *,*,10.00,Burkhalter Stefan ***,6
++,Steiner Michael **,**,9.75,Roth Martin **,1
+o,Orlik Armon ***,***,8.50,Roth Martin **,2
++,Badat Thomas,Thomas,10.00,Roth Martin **,3
++,Schnyder Christian,Christian,10.00,Roth Martin **,4
+o,Bösch Daniel ***,***,8.75,Roth Martin **,5
++,Schudel Simon *,*,10.00,Roth Martin **,6
+-,Streiﬀ Dominik *,*,8.75,Vollenweider Jeremy *,1
++,Keller Stefan,Stefan,10.00,Vollenweider Jeremy *,2
++,Mettler Valentin *,*,9.75,Vollenweider Jeremy *,3
+o,Schuler Christian ***,***,8.50,Vollenweider Jeremy *,4
++,Schiesser Patrik,Patrik,9.75,Vollenweider Jeremy *,5
++,Kirchmeier Christof,Christof,10.00,Vollenweider Jeremy *,6
++,Pﬁster Florian *,*,9.75,Gartmann Mauro *,1
++,Lenherr Cédric (2003),(2003),9.75,Gartmann Mauro *,2
+o,Rhyner Michael **,**,8.75,Gartmann Mauro *,3
++,Tschudi Mario (2001),(2001),10.00,Gartmann Mauro *,4
+-,Bernold Christian **,**,8.75,Gartmann Mauro *,5
++,Fässler Tobias (2002),(2002),9.75,Gartmann Mauro *,6
++,Tanner Markus (2002),(2002),10.00,Neﬀ Florian,1
+o,Dumelin David **,**,8.50,Neﬀ Florian,2
++,Schallberger Clint,Clint,9.75,Neﬀ Florian,3
+o,Büsser André *,*,8.50,Neﬀ Florian,4
++,Aebli Andrin (2001),(2001),10.00,Neﬀ Florian,5
++,Jörger Marc *,*,10.00,Neﬀ Florian,6
+o,Bösch Daniel ***,***,8.50,Schneider Domenic ***,1
++,Hegner Ueli *,*,9.75,Schneider Domenic ***,2
++,Hess Michael *,*,9.75,Schneider Domenic ***,3
++,Koch Reto *,*,9.75,Schneider Domenic ***,4
++,Jöhl Christian *,*,10.00,Schneider Domenic ***,5
+-,Hochholdinger Roman **,**,8.75,Schneider Domenic ***,6
++,Koch Reto *,*,9.75,Hegner Ueli *,1
+o,Schneider Domenic ***,***,8.50,Hegner Ueli *,2
++,Tanner Markus (2002),(2002),10.00,Hegner Ueli *,3
+o,Steiner Michael **,**,8.50,Hegner Ueli *,4
++,Salnajs Leo,Leo,10.00,Hegner Ueli *,5
++,Büsser André *,*,9.75,Hegner Ueli *,6
+,11.01.2022 14:27,14:27,Seite 1/,Hegner Ueli *,7
++,Salnajs Leo,Leo,9.75,Bircher Luca,1
+o,Koller Fabian *,*,8.50,Bircher Luca,2
++,Niederer Andreas (2002),(2002),9.75,Bircher Luca,3
++,Laager Michael (2001),(2001),10.00,Bircher Luca,4
+o,Rhyner Michael **,**,8.50,Bircher Luca,5
++,Jöhl Christian *,*,9.75,Bircher Luca,6
+-,Hochholdinger Roman **,**,8.75,Gmür Pirmin **,1
++,Schoch Cornel,Cornel,10.00,Gmür Pirmin **,2
+o,Schuler Christian ***,***,8.50,Gmür Pirmin **,3
++,Fässler Tobias (2002),(2002),10.00,Gmür Pirmin **,4
+-,Poltera Andrin *,*,9.00,Gmür Pirmin **,5
++,Giger Urs *,*,10.00,Gmür Pirmin **,6
++,Schwyn Adrian *,*,9.75,Jörger Marc *,1
+-,Schuler Alex ***,***,8.75,Jörger Marc *,2
++,Tremp Ruedi (2003),(2003),10.00,Jörger Marc *,3
+-,Pianta Christian *,*,9.00,Jörger Marc *,4
++,Keller Werner,Werner,10.00,Jörger Marc *,5
+o,Neﬀ Florian,Florian,8.50,Jörger Marc *,6
+o,Notz Beni ***,***,8.50,Peng Mike ***,1
+-,Oettli Silvio *,*,8.75,Peng Mike ***,2
++,Signer Walter,Walter,9.75,Peng Mike ***,3
++,Schudel Simon *,*,10.00,Peng Mike ***,4
+-,Schmid Patrick *,*,8.75,Peng Mike ***,5
++,Schwyn Adrian *,*,10.00,Peng Mike ***,6
+-,Baumann Rico *,*,9.00,Hess Michael *,1
++,Tremp Remo,Remo,10.00,Hess Michael *,2
+o,Schneider Domenic ***,***,8.50,Hess Michael *,3
++,Bernhard Thomas (2002),(2002),10.00,Hess Michael *,4
++,Schläpfer Matthias *,*,9.75,Hess Michael *,5
+o,Schneider Mario **,**,8.50,Hess Michael *,6
+-,Ackermann Roman,Roman,8.75,Schrepfer Roy,1
++,Wagner Andreas (2002),(2002),9.75,Schrepfer Roy,2
+o,Fontana Michael *,*,8.50,Schrepfer Roy,3
+-,Langenegger Beat,Beat,9.00,Schrepfer Roy,4
++,Vetterli Sven (2003),(2003),9.75,Schrepfer Roy,5
++,Schiesser Patrik,Patrik,9.75,Schrepfer Roy,6
+-,Straub Robin *,*,8.75,Dörig Erich *,1
++,Rhyner Beni,Beni,9.75,Dörig Erich *,2
+o,Steiner Michael **,**,8.50,Dörig Erich *,3
++,Schrepfer Sven (2003),(2003),10.00,Dörig Erich *,4
++,Steinauer Adrian **,**,9.75,Dörig Erich *,5
+-,Fontana Michael *,*,8.75,Dörig Erich *,6
++,Bertogg Severin (2001),(2001),10.00,Thoma Christoph,1
+o,Hochholdinger Roman **,**,8.75,Thoma Christoph,2
++,Lötscher Abraham,Abraham,10.00,Thoma Christoph,3
+o,Bernold Christian **,**,8.50,Thoma Christoph,4
+o,Aebli Nino,Nino,8.50,Thoma Christoph,5
++,Badat Thomas,Thomas,9.75,Thoma Christoph,6
++,Rütsche Stefan *,*,10.00,Jöhl Christian *,1
++,Brülisauer Dominik (2001),(2001),10.00,Jöhl Christian *,2
+o,Schlegel Sandro **,**,8.50,Jöhl Christian *,3
++,Castelli Fabio,Fabio,10.00,Jöhl Christian *,4
+o,Schneider Domenic ***,***,8.50,Jöhl Christian *,5
+o,Bircher Luca,Luca,8.50,Jöhl Christian *,6
+-,Blaser Niklas *,*,8.75,Pianta Christian *,1
++,Speck Ignaz (2003),(2003),10.00,Pianta Christian *,2
++,Mösli Marcel,Marcel,9.75,Pianta Christian *,3
+-,Jörger Marc *,*,8.75,Pianta Christian *,4
++,Brülisauer Dominik (2001),(2001),10.00,Pianta Christian *,5
+-,Castelli Fabio,Fabio,9.00,Pianta Christian *,6
++,Brülisauer Thomas (2003),(2003),10.00,Horner Sämi,1
++,Rütsche Stefan *,*,10.00,Horner Sämi,2
+o,Straub Robin *,*,8.75,Horner Sämi,3
++,Flütsch Marco,Marco,10.00,Horner Sämi,4
+o,Notz Beni ***,***,8.50,Horner Sämi,5
+-,Jörger Corsin,Corsin,9.00,Horner Sämi,6
++,Höpli Remo,Remo,10.00,Jörger Corsin,1
+o,Pﬁster Florian *,*,8.50,Jörger Corsin,2
++,Hug Jan,Jan,10.00,Jörger Corsin,3
+o,Schmid Patrick *,*,8.50,Jörger Corsin,4
++,Mettler Valentin *,*,10.00,Jörger Corsin,5
+-,Horner Sämi,Sämi,9.00,Jörger Corsin,6
+-,Dörig Erich *,*,8.75,Straub Robin *,1
++,Castelli Fabio,Fabio,10.00,Straub Robin *,2
++,Horner Sämi,Sämi,10.00,Straub Robin *,3
+o,Rychen Roger ***,***,8.50,Straub Robin *,4
++,Mathis Patrick,Patrick,10.00,Straub Robin *,5
+o,Schlegel Sandro **,**,8.50,Straub Robin *,6
+-,Stadelmann Patrick,Patrick,8.75,Graf Nicola (2003),1
+o,Steiner Joel,Joel,8.75,Graf Nicola (2003),2
++,Tanner Adrian,Adrian,10.00,Graf Nicola (2003),3
+o,Steinauer Adrian **,**,8.50,Graf Nicola (2003),4
++,Manser Adrian,Adrian,9.75,Graf Nicola (2003),5
++,Keller Werner,Werner,10.00,Graf Nicola (2003),6
+-,Rüegg Roman *,*,8.75,Poltera Andrin *,1
+o,Rhyner Michael **,**,8.50,Poltera Andrin *,2
++,Aebli Andrin (2001),(2001),10.00,Poltera Andrin *,3
++,Stadelmann Patrick,Patrick,9.75,Poltera Andrin *,4
+-,Gmür Pirmin **,**,8.75,Poltera Andrin *,5
++,Burkhalter Thomas (2003),(2003),9.75,Poltera Andrin *,6
+-,Schneider Mario **,**,8.75,Steinauer Adrian **,1
++,Büsser André *,*,9.75,Steinauer Adrian **,2
+o,Koch Thomas *,*,8.50,Steinauer Adrian **,3
++,Graf Nicola (2003),(2003),10.00,Steinauer Adrian **,4
+o,Dörig Erich *,*,8.50,Steinauer Adrian **,5
++,Kolb This (2003),(2003),10.00,Steinauer Adrian **,6
++,Baumann Nico (2002),(2002),10.00,Schnyder Christian,1
++,Düring Dominik (2003),(2003),10.00,Schnyder Christian,2
+o,Oettli Silvio *,*,8.50,Schnyder Christian,3
+o,Roth Martin **,**,8.50,Schnyder Christian,4
++,Bernhard Thomas (2002),(2002),10.00,Schnyder Christian,5
+o,Biäsch Christian *,*,8.50,Schnyder Christian,6
++,Keller Werner,Werner,10.00,Aebli Nino,1
+o,Mettler Valentin *,*,8.50,Aebli Nino,2
++,Speck Ignaz (2003),(2003),10.00,Aebli Nino,3
+o,Landolt Reto *,*,8.75,Aebli Nino,4
++,Thoma Christoph,Christoph,9.75,Aebli Nino,5
+o,Rotach Lars *,*,8.50,Aebli Nino,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Aebli Nino,7
+-,Schlegel Sandro **,**,8.75,Bernold Christian **,1
++,Schmid Patrick *,*,9.75,Bernold Christian **,2
+-,Schallberger Jakob,Jakob,9.00,Bernold Christian **,3
++,Thoma Christoph,Christoph,10.00,Bernold Christian **,4
+-,Gartmann Mauro *,*,9.00,Bernold Christian **,5
++,Koch Reto *,*,9.75,Bernold Christian **,6
+-,Büsser André *,*,8.75,Schmid Patrick *,1
+o,Bernold Christian **,**,8.75,Schmid Patrick *,2
++,Forrer Marco (2003),(2003),10.00,Schmid Patrick *,3
++,Jörger Corsin,Corsin,10.00,Schmid Patrick *,4
+-,Peng Mike ***,***,8.75,Schmid Patrick *,5
++,Schlegel Reto *,*,9.75,Schmid Patrick *,6
++,Giger Urs *,*,10.00,Fausch Kjetil *,1
+o,Rychen Roger ***,***,8.75,Fausch Kjetil *,2
++,Wehrli Jan (2002),(2002),10.00,Fausch Kjetil *,3
+o,Orlik Armon ***,***,8.50,Fausch Kjetil *,4
+o,Kolb This (2003),(2003),8.75,Fausch Kjetil *,5
++,Koller Silvan (2002),(2002),10.00,Fausch Kjetil *,6
++,Mettler Valentin *,*,10.00,Krähenbühl Lukas *,1
+-,Fontana Michael *,*,8.75,Krähenbühl Lukas *,2
+o,Koch Reto *,*,8.50,Krähenbühl Lukas *,3
++,Joos Enrico (2003),(2003),10.00,Krähenbühl Lukas *,4
+o,Kamer Hanspeter *,*,8.50,Krähenbühl Lukas *,5
++,Salnajs Leo,Leo,10.00,Krähenbühl Lukas *,6
++,Straub Paul,Paul,10.00,Castelli Fabio,1
+o,Straub Robin *,*,8.50,Castelli Fabio,2
++,Brülisauer Dominik (2001),(2001),10.00,Castelli Fabio,3
+o,Jöhl Christian *,*,8.50,Castelli Fabio,4
++,Tremp Remo,Remo,9.75,Castelli Fabio,5
+-,Pianta Christian *,*,9.00,Castelli Fabio,6
++,Fuster Sepp *,*,9.75,Fontana Michael *,1
+-,Krähenbühl Lukas *,*,8.75,Fontana Michael *,2
++,Schrepfer Roy,Roy,9.75,Fontana Michael *,3
+o,Schuler Alex ***,***,8.50,Fontana Michael *,4
++,Laager Michael (2001),(2001),10.00,Fontana Michael *,5
+-,Dörig Erich *,*,8.75,Fontana Michael *,6
++,Büsser Remo,Remo,10.00,Kolb This (2003),1
+o,Schlegel Sandro **,**,8.50,Kolb This (2003),2
++,Schwyn Patrick,Patrick,9.75,Kolb This (2003),3
+-,Streiﬀ Dominik *,*,9.00,Kolb This (2003),4
++,Fausch Kjetil *,*,9.75,Kolb This (2003),5
+o,Steinauer Adrian **,**,8.50,Kolb This (2003),6
++,Koller Fabian *,*,10.00,Schläpfer Matthias *,1
+o,Bösch Daniel ***,***,8.50,Schläpfer Matthias *,2
++,Kirchmeier Christof,Christof,10.00,Schläpfer Matthias *,3
+o,Schneider Mario **,**,8.50,Schläpfer Matthias *,4
+o,Hess Michael *,*,8.50,Schläpfer Matthias *,5
++,Straub Paul,Paul,10.00,Schläpfer Matthias *,6
+o,Schiesser Patrik,Patrik,8.50,Ackermann Rico (2003),1
++,Bertogg Severin (2001),(2001),10.00,Ackermann Rico (2003),2
+o,Rhyner Beni,Beni,8.50,Ackermann Rico (2003),3
+o,Schlegel Reto *,*,8.50,Ackermann Rico (2003),4
++,Stadelmann Patrick,Patrick,10.00,Ackermann Rico (2003),5
++,Mathis Patrick,Patrick,10.00,Ackermann Rico (2003),6
+,11.01.2022 14:27,14:27,Seite 2/,Ackermann Rico (2003),7
+-,Pianta Christian *,*,8.75,Blaser Niklas *,1
++,Langenegger Beat,Beat,9.75,Blaser Niklas *,2
+-,Steiner Joel,Joel,8.75,Blaser Niklas *,3
+o,Battaglia Ursin **,**,8.50,Blaser Niklas *,4
++,Wehrli Jan (2002),(2002),9.75,Blaser Niklas *,5
++,Inauen Aurel,Aurel,9.75,Blaser Niklas *,6
++,Vetterli Sven (2003),(2003),10.00,Tschudi Mario (2001),1
+o,Schlegel Reto *,*,8.50,Tschudi Mario (2001),2
++,Joos Enrico (2003),(2003),10.00,Tschudi Mario (2001),3
+o,Gartmann Mauro *,*,8.50,Tschudi Mario (2001),4
+o,Koller Silvan (2002),(2002),8.50,Tschudi Mario (2001),5
++,Bernhard Thomas (2002),(2002),9.75,Tschudi Mario (2001),6
+o,Hug Jan,Jan,0.00,Tschudi Mario (2001),7
++,Hefti Christian,Christian,10.00,Schallberger Clint,1
+o,Battaglia Ursin **,**,8.50,Schallberger Clint,2
+o,Neﬀ Florian,Florian,8.50,Schallberger Clint,3
++,Lieberherr David (2003),(2003),9.75,Schallberger Clint,4
+o,Dumelin David **,**,8.50,Schallberger Clint,5
++,Giger Florian (2001),(2001),10.00,Schallberger Clint,6
+o,Schläpfer Matthias *,*,8.75,Koller Fabian *,1
++,Bircher Luca,Luca,9.75,Koller Fabian *,2
+o,Schuler Alex ***,***,8.50,Koller Fabian *,3
++,Gerig Marcel,Marcel,10.00,Koller Fabian *,4
+o,Rotach Lars *,*,8.50,Koller Fabian *,5
++,Tanner Adrian,Adrian,9.75,Koller Fabian *,6
+o,Biäsch Christian *,*,8.50,Kamer Hanspeter *,1
++,Schwyn Patrick,Patrick,10.00,Kamer Hanspeter *,2
+o,Hochholdinger Roman **,**,8.50,Kamer Hanspeter *,3
++,Straub Paul,Paul,9.75,Kamer Hanspeter *,4
++,Krähenbühl Lukas *,*,10.00,Kamer Hanspeter *,5
+o,Burkhalter Stefan ***,***,8.50,Kamer Hanspeter *,6
+-,Roth Sämi,Sämi,9.00,Wehrli Jan (2002),1
++,Egli Patrick,Patrick,10.00,Wehrli Jan (2002),2
+o,Fausch Kjetil *,*,8.50,Wehrli Jan (2002),3
+-,Signer Walter,Walter,9.00,Wehrli Jan (2002),4
+o,Blaser Niklas *,*,8.75,Wehrli Jan (2002),5
++,Lieberherr David (2003),(2003),10.00,Wehrli Jan (2002),6
+o,Landolt Reto *,*,8.50,Schudel Simon *,1
++,Niederer Andreas (2002),(2002),9.75,Schudel Simon *,2
++,Salnajs Leo,Leo,10.00,Schudel Simon *,3
+o,Peng Mike ***,***,8.50,Schudel Simon *,4
++,Lötscher Abraham,Abraham,9.75,Schudel Simon *,5
+o,Roth Martin **,**,8.50,Schudel Simon *,6
+o,Fausch Kjetil *,*,8.50,Giger Urs *,1
++,Kolb Pirmin (2001),(2001),9.75,Giger Urs *,2
++,Streiﬀ Dominik *,*,9.75,Giger Urs *,3
++,Rhyner Beni,Beni,10.00,Giger Urs *,4
+o,Schneider Mario **,**,8.50,Giger Urs *,5
+o,Gmür Pirmin **,**,8.50,Giger Urs *,6
+o,Rychen Roger ***,***,8.50,Schuler Alex ***,1
+-,Jörger Marc *,*,8.75,Schuler Alex ***,2
++,Koller Fabian *,*,10.00,Schuler Alex ***,3
++,Fontana Michael *,*,9.75,Schuler Alex ***,4
++,Baumann Rico *,*,9.75,Schuler Alex ***,5
+o,Dumelin David **,**,8.50,Schuler Alex ***,6
++,Flütsch Marco,Marco,9.75,Thiemann Fabrice,1
+o,Koch Reto *,*,8.50,Thiemann Fabrice,2
++,Tremp Remo,Remo,10.00,Thiemann Fabrice,3
+o,Baumann Rico *,*,8.50,Thiemann Fabrice,4
++,Schoch Cornel,Cornel,10.00,Thiemann Fabrice,5
+o,Bernold Michael *,*,8.50,Thiemann Fabrice,6
++,Hofer Lars (2003),(2003),9.75,Rhyner Beni,1
+o,Dörig Erich *,*,8.50,Rhyner Beni,2
++,Ackermann Rico (2003),(2003),10.00,Rhyner Beni,3
+o,Giger Urs *,*,8.50,Rhyner Beni,4
++,Ritter Fabio (2001),(2001),10.00,Rhyner Beni,5
+o,Koch Thomas *,*,8.50,Rhyner Beni,6
+o,Hegner Ueli *,*,8.50,Koch Reto *,1
++,Thiemann Fabrice,Fabrice,10.00,Koch Reto *,2
++,Krähenbühl Lukas *,*,9.75,Koch Reto *,3
+o,Schneider Domenic ***,***,8.50,Koch Reto *,4
++,Steiner Joel,Joel,9.75,Koch Reto *,5
+o,Bernold Christian **,**,8.75,Koch Reto *,6
++,Cavegn Simon (2003),(2003),10.00,Fässler Tobias (2002),1
+o,Schwyn Adrian *,*,8.50,Fässler Tobias (2002),2
++,Lenherr Cédric (2003),(2003),9.75,Fässler Tobias (2002),3
+o,Gmür Pirmin **,**,8.50,Fässler Tobias (2002),4
++,Flütsch Marco,Marco,10.00,Fässler Tobias (2002),5
+o,Gartmann Mauro *,*,8.50,Fässler Tobias (2002),6
+-,Schmid Patrick *,*,8.75,Büsser André *,1
+o,Steinauer Adrian **,**,8.50,Büsser André *,2
++,Giger Florian (2001),(2001),9.75,Büsser André *,3
++,Neﬀ Florian,Florian,9.75,Büsser André *,4
++,Streiﬀ Dominik *,*,9.75,Büsser André *,5
+o,Hegner Ueli *,*,8.50,Büsser André *,6
++,Tremp Ruedi (2003),(2003),9.75,Koller Silvan (2002),1
+o,Koch Thomas *,*,8.50,Koller Silvan (2002),2
++,Keller Stefan,Stefan,10.00,Koller Silvan (2002),3
+o,Fuster Sepp *,*,8.50,Koller Silvan (2002),4
++,Tschudi Mario (2001),(2001),9.75,Koller Silvan (2002),5
+o,Fausch Kjetil *,*,8.50,Koller Silvan (2002),6
+o,Thiemann Fabrice,Fabrice,8.50,Flütsch Marco,1
++,Gaccioli Benjamin,Benjamin,9.75,Flütsch Marco,2
++,Schwyn Adrian *,*,10.00,Flütsch Marco,3
+o,Horner Sämi,Sämi,8.50,Flütsch Marco,4
+o,Fässler Tobias (2002),(2002),8.50,Flütsch Marco,5
++,Brülisauer Thomas (2003),(2003),9.75,Flütsch Marco,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Flütsch Marco,7
++,Schlegel Reto *,*,9.75,Oettli Silvio *,1
+-,Peng Mike ***,***,8.75,Oettli Silvio *,2
++,Schnyder Christian,Christian,10.00,Oettli Silvio *,3
+o,Hochholdinger Roman **,**,8.50,Oettli Silvio *,4
++,Inauen Aurel,Aurel,9.75,Oettli Silvio *,5
+o,Rhyner Michael **,**,8.50,Oettli Silvio *,6
+o,Jörger Marc *,*,8.50,Schwyn Adrian *,1
++,Fässler Tobias (2002),(2002),9.75,Schwyn Adrian *,2
+o,Flütsch Marco,Marco,8.50,Schwyn Adrian *,3
++,Rütsche Stefan *,*,10.00,Schwyn Adrian *,4
++,Hug Jan,Jan,10.00,Schwyn Adrian *,5
+o,Peng Mike ***,***,8.50,Schwyn Adrian *,6
++,Brand Andreas (2003),(2003),10.00,Laager Michael (2001),1
++,Sprecher Martin,Martin,9.75,Laager Michael (2001),2
+o,Biäsch Christian *,*,8.50,Laager Michael (2001),3
+o,Bircher Luca,Luca,8.50,Laager Michael (2001),4
+o,Fontana Michael *,*,8.50,Laager Michael (2001),5
++,Aebli Andrin (2001),(2001),10.00,Laager Michael (2001),6
++,Giger Florian (2001),(2001),9.75,Kirchmeier Christof,1
++,Bernhard Thomas (2002),(2002),9.75,Kirchmeier Christof,2
+o,Schläpfer Matthias *,*,8.50,Kirchmeier Christof,3
+o,Rotach Lars *,*,8.75,Kirchmeier Christof,4
++,Brand Andreas (2003),(2003),10.00,Kirchmeier Christof,5
+o,Vollenweider Jeremy *,*,8.50,Kirchmeier Christof,6
+o,Laager Michael (2001),(2001),8.50,Brand Andreas (2003),1
+o,Mösli Marcel,Marcel,8.50,Brand Andreas (2003),2
++,Baumann Nico (2002),(2002),9.75,Brand Andreas (2003),3
++,Elmer Loris,Loris,10.00,Brand Andreas (2003),4
+o,Kirchmeier Christof,Christof,8.50,Brand Andreas (2003),5
++,Lenherr Cédric (2003),(2003),10.00,Brand Andreas (2003),6
++,Grob Rachen (2002),(2002),10.00,Speck Ignaz (2003),1
+o,Pianta Christian *,*,8.50,Speck Ignaz (2003),2
+o,Aebli Nino,Nino,8.50,Speck Ignaz (2003),3
+o,Schiesser Patrik,Patrik,8.50,Speck Ignaz (2003),4
++,Gallati Nils (2002),(2002),9.75,Speck Ignaz (2003),5
++,Egli Patrick,Patrick,9.75,Speck Ignaz (2003),6
++,Signer Walter,Walter,9.75,Hug Jan,1
+o,Fuster Sepp *,*,8.50,Hug Jan,2
+o,Jörger Corsin,Corsin,8.50,Hug Jan,3
++,Tanner Markus (2002),(2002),10.00,Hug Jan,4
+o,Schwyn Adrian *,*,8.50,Hug Jan,5
++,Tschudi Mario (2001),(2001),9.75,Hug Jan,6
+-,Hess Michael *,*,9.00,Baumann Rico *,1
+-,Schallberger Jakob,Jakob,9.00,Baumann Rico *,2
++,Bärtsch Andreas (2002),(2002),10.00,Baumann Rico *,3
++,Thiemann Fabrice,Fabrice,10.00,Baumann Rico *,4
+o,Schuler Alex ***,***,8.50,Baumann Rico *,5
+o,Notz Beni ***,***,8.50,Baumann Rico *,6
+,11.01.2022 14:27,14:27,Seite 3/,Baumann Rico *,7
+-,Dumelin David **,**,9.00,Battaglia Ursin **,1
++,Schallberger Clint,Clint,10.00,Battaglia Ursin **,2
+o,Notz Beni ***,***,8.50,Battaglia Ursin **,3
++,Blaser Niklas *,*,10.00,Battaglia Ursin **,4
+o,Landolt Reto *,*,8.75,Battaglia Ursin **,5
+o,Kolb Pirmin (2001),(2001),8.75,Battaglia Ursin **,6
+-,Wagner Andreas (2002),(2002),8.75,Steiner Joel,1
++,Graf Nicola (2003),(2003),9.75,Steiner Joel,2
+-,Blaser Niklas *,*,8.75,Steiner Joel,3
++,Mösli Marcel,Marcel,9.75,Steiner Joel,4
+o,Koch Reto *,*,8.50,Steiner Joel,5
+-,Schwyn Patrick,Patrick,9.00,Steiner Joel,6
+-,Badat Thomas,Thomas,9.00,Burkhalter Thomas (2003),1
++,Gerig Marcel,Marcel,10.00,Burkhalter Thomas (2003),2
+o,Bernold Michael *,*,8.50,Burkhalter Thomas (2003),3
+o,Schallberger Jakob,Jakob,8.50,Burkhalter Thomas (2003),4
++,Signer Walter,Walter,10.00,Burkhalter Thomas (2003),5
+o,Poltera Andrin *,*,8.50,Burkhalter Thomas (2003),6
+-,Düring Dominik (2003),(2003),8.75,Arpagaus Nino (2003),1
+o,Giger Florian (2001),(2001),8.50,Arpagaus Nino (2003),2
+o,Egli Patrick,Patrick,8.50,Arpagaus Nino (2003),3
++,Baumann Nico (2002),(2002),9.75,Arpagaus Nino (2003),4
+-,Lenherr Cédric (2003),(2003),8.75,Arpagaus Nino (2003),5
++,Tremp Ruedi (2003),(2003),10.00,Arpagaus Nino (2003),6
++,Ackermann Rico (2003),(2003),9.75,Schiesser Patrik,1
+o,Gosswiler Livio *,*,8.50,Schiesser Patrik,2
+-,Schoch Cornel,Cornel,9.00,Schiesser Patrik,3
++,Speck Ignaz (2003),(2003),10.00,Schiesser Patrik,4
+o,Vollenweider Jeremy *,*,8.50,Schiesser Patrik,5
+o,Schrepfer Roy,Roy,8.50,Schiesser Patrik,6
+o,Aebli Nino,Nino,8.50,Keller Werner,1
++,Büsser Remo,Remo,10.00,Keller Werner,2
+-,Rotach Lars *,*,8.75,Keller Werner,3
++,Badat Thomas,Thomas,10.00,Keller Werner,4
+o,Jörger Marc *,*,8.50,Keller Werner,5
+o,Graf Nicola (2003),(2003),8.50,Keller Werner,6
+o,Oettli Silvio *,*,8.50,Schlegel Reto *,1
++,Tschudi Mario (2001),(2001),9.75,Schlegel Reto *,2
+o,Schneider Mario **,**,8.75,Schlegel Reto *,3
++,Ackermann Rico (2003),(2003),10.00,Schlegel Reto *,4
+o,Kolb Pirmin (2001),(2001),8.75,Schlegel Reto *,5
+o,Schmid Patrick *,*,8.50,Schlegel Reto *,6
+o,Brülisauer Dominik (2001),(2001),8.50,Joos Enrico (2003),1
++,Gallati Nils (2002),(2002),10.00,Joos Enrico (2003),2
+o,Tschudi Mario (2001),(2001),8.50,Joos Enrico (2003),3
+o,Krähenbühl Lukas *,*,8.50,Joos Enrico (2003),4
+o,Tanner Adrian,Adrian,8.75,Joos Enrico (2003),5
++,Vetterli Sven (2003),(2003),10.00,Joos Enrico (2003),6
+o,Schallberger Jakob,Jakob,8.50,Tanner Adrian,1
+-,Straub Paul,Paul,8.75,Tanner Adrian,2
+o,Graf Nicola (2003),(2003),8.50,Tanner Adrian,3
++,Gaccioli Benjamin,Benjamin,10.00,Tanner Adrian,4
++,Joos Enrico (2003),(2003),9.75,Tanner Adrian,5
+o,Koller Fabian *,*,8.50,Tanner Adrian,6
++,Tanner Adrian,Adrian,10.00,Schallberger Jakob,1
+-,Baumann Rico *,*,8.75,Schallberger Jakob,2
+-,Bernold Christian **,**,9.00,Schallberger Jakob,3
++,Burkhalter Thomas (2003),(2003),9.75,Schallberger Jakob,4
+o,Hochholdinger Roman **,**,8.50,Schallberger Jakob,5
+-,Mettler Valentin *,*,8.75,Schallberger Jakob,6
+-,Steiner Joel,Joel,8.75,Wagner Andreas (2002),1
+o,Schrepfer Roy,Roy,8.50,Wagner Andreas (2002),2
+-,Ackermann Roman,Roman,9.00,Wagner Andreas (2002),3
++,Grob Rachen (2002),(2002),10.00,Wagner Andreas (2002),4
++,Höpli Remo,Remo,9.75,Wagner Andreas (2002),5
+o,Streiﬀ Dominik *,*,8.50,Wagner Andreas (2002),6
++,Joos Enrico (2003),(2003),9.75,Brülisauer Dominik (2001),1
+o,Jöhl Christian *,*,8.75,Brülisauer Dominik (2001),2
+o,Castelli Fabio,Fabio,8.50,Brülisauer Dominik (2001),3
++,Höpli Remo,Remo,10.00,Brülisauer Dominik (2001),4
+o,Pianta Christian *,*,8.50,Brülisauer Dominik (2001),5
+-,Lötscher Abraham,Abraham,9.00,Brülisauer Dominik (2001),6
+o,Castelli Fabio,Fabio,8.75,Straub Paul,1
+-,Tanner Adrian,Adrian,8.75,Straub Paul,2
++,Roth Sämi,Sämi,10.00,Straub Paul,3
+o,Kamer Hanspeter *,*,8.50,Straub Paul,4
++,Lieberherr David (2003),(2003),9.75,Straub Paul,5
+o,Schläpfer Matthias *,*,8.50,Straub Paul,6
+o,Langenegger Beat,Beat,8.50,Ritter Fabio (2001),1
++,Elmer Loris,Loris,10.00,Ritter Fabio (2001),2
+o,Rütsche Stefan *,*,8.50,Ritter Fabio (2001),3
++,Keller Stefan,Stefan,10.00,Ritter Fabio (2001),4
+o,Rhyner Beni,Beni,8.50,Ritter Fabio (2001),5
+-,Tremp Remo,Remo,8.75,Ritter Fabio (2001),6
+o,Mathis Patrick,Patrick,8.50,Inauen Aurel,1
++,Stadelmann Patrick,Patrick,9.75,Inauen Aurel,2
+-,Rüegg Roman *,*,8.75,Inauen Aurel,3
++,Bärtsch Andreas (2002),(2002),10.00,Inauen Aurel,4
+o,Oettli Silvio *,*,8.75,Inauen Aurel,5
+o,Blaser Niklas *,*,8.50,Inauen Aurel,6
+o,Bircher Luca,Luca,8.50,Salnajs Leo,1
++,Hofer Lars (2003),(2003),10.00,Salnajs Leo,2
+o,Schudel Simon *,*,8.75,Salnajs Leo,3
++,Forrer Marco (2003),(2003),10.00,Salnajs Leo,4
+o,Hegner Ueli *,*,8.50,Salnajs Leo,5
+o,Krähenbühl Lukas *,*,8.50,Salnajs Leo,6
++,Gaccioli Benjamin,Benjamin,9.75,Sprecher Martin,1
+o,Laager Michael (2001),(2001),8.50,Sprecher Martin,2
+o,Fuster Sepp *,*,8.50,Sprecher Martin,3
+-,Egli Patrick,Patrick,8.75,Sprecher Martin,4
++,Niederer Andreas (2002),(2002),9.75,Sprecher Martin,5
+-,Langenegger Beat,Beat,8.75,Sprecher Martin,6
+-,Graf Nicola (2003),(2003),8.75,Stadelmann Patrick,1
+o,Inauen Aurel,Aurel,8.50,Stadelmann Patrick,2
++,Manser Adrian,Adrian,10.00,Stadelmann Patrick,3
+o,Poltera Andrin *,*,8.50,Stadelmann Patrick,4
+o,Ackermann Rico (2003),(2003),8.50,Stadelmann Patrick,5
++,Keller Stefan,Stefan,9.75,Stadelmann Patrick,6
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Stadelmann Patrick,7
+-,Vollenweider Jeremy *,*,8.75,Streiﬀ Dominik *,1
++,Lieberherr David (2003),(2003),10.00,Streiﬀ Dominik *,2
+o,Giger Urs *,*,8.50,Streiﬀ Dominik *,3
+-,Kolb This (2003),(2003),9.00,Streiﬀ Dominik *,4
+o,Büsser André *,*,8.50,Streiﬀ Dominik *,5
++,Wagner Andreas (2002),(2002),10.00,Streiﬀ Dominik *,6
++,Forrer Marco (2003),(2003),10.00,Lötscher Abraham,1
+o,Landolt Reto *,*,8.75,Lötscher Abraham,2
+o,Thoma Christoph,Christoph,8.50,Lötscher Abraham,3
++,Schoch Cornel,Cornel,9.75,Lötscher Abraham,4
+o,Schudel Simon *,*,8.50,Lötscher Abraham,5
+-,Brülisauer Dominik (2001),(2001),9.00,Lötscher Abraham,6
++,Manser Adrian,Adrian,9.75,Schwyn Patrick,1
+o,Kamer Hanspeter *,*,8.50,Schwyn Patrick,2
+o,Kolb This (2003),(2003),8.50,Schwyn Patrick,3
+-,Giger Florian (2001),(2001),8.75,Schwyn Patrick,4
++,Egli Patrick,Patrick,9.75,Schwyn Patrick,5
+-,Steiner Joel,Joel,9.00,Schwyn Patrick,6
++,Egli Patrick,Patrick,10.00,Schoch Cornel,1
+o,Gmür Pirmin **,**,8.50,Schoch Cornel,2
+-,Schiesser Patrik,Patrik,9.00,Schoch Cornel,3
+o,Lötscher Abraham,Abraham,8.50,Schoch Cornel,4
+o,Thiemann Fabrice,Fabrice,8.50,Schoch Cornel,5
++,Hofer Lars (2003),(2003),9.75,Schoch Cornel,6
++,Inauen Aurel,Aurel,10.00,Mathis Patrick,1
+o,Steiner Michael **,**,8.50,Mathis Patrick,2
+-,Langenegger Beat,Beat,9.00,Mathis Patrick,3
++,Niederer Andreas (2002),(2002),9.75,Mathis Patrick,4
+o,Straub Robin *,*,8.50,Mathis Patrick,5
+o,Ackermann Rico (2003),(2003),8.50,Mathis Patrick,6
+-,Burkhalter Thomas (2003),(2003),9.00,Badat Thomas,1
++,Ackermann Roman,Roman,9.75,Badat Thomas,2
+o,Roth Martin **,**,8.50,Badat Thomas,3
+o,Keller Werner,Werner,8.50,Badat Thomas,4
++,Langenegger Beat,Beat,9.75,Badat Thomas,5
+o,Thoma Christoph,Christoph,8.75,Badat Thomas,6
+o,Tremp Remo,Remo,8.75,Mösli Marcel,1
++,Brand Andreas (2003),(2003),10.00,Mösli Marcel,2
+o,Pianta Christian *,*,8.50,Mösli Marcel,3
+o,Steiner Joel,Joel,8.50,Mösli Marcel,4
+o,Schrepfer Sven (2003),(2003),8.50,Mösli Marcel,5
++,Gallati Nils (2002),(2002),10.00,Mösli Marcel,6
++,Mösli Marcel,Marcel,9.75,Tremp Remo,1
+o,Hess Michael *,*,8.50,Tremp Remo,2
+o,Thiemann Fabrice,Fabrice,8.50,Tremp Remo,3
++,Hefti Christian,Christian,10.00,Tremp Remo,4
+o,Castelli Fabio,Fabio,8.50,Tremp Remo,5
+-,Ritter Fabio (2001),(2001),8.75,Tremp Remo,6
+o,Krähenbühl Lukas *,*,8.50,Mettler Valentin *,1
++,Aebli Nino,Nino,9.75,Mettler Valentin *,2
+o,Vollenweider Jeremy *,*,8.50,Mettler Valentin *,3
++,Hofer Lars (2003),(2003),10.00,Mettler Valentin *,4
+o,Jörger Corsin,Corsin,8.50,Mettler Valentin *,5
+-,Schallberger Jakob,Jakob,8.75,Mettler Valentin *,6
+,11.01.2022 14:27,14:27,Seite 4/,Mettler Valentin *,7
+o,Schwyn Patrick,Patrick,8.75,Manser Adrian,1
+-,Roth Sämi,Sämi,8.75,Manser Adrian,2
+o,Stadelmann Patrick,Patrick,8.50,Manser Adrian,3
++,Düring Dominik (2003),(2003),9.75,Manser Adrian,4
+o,Graf Nicola (2003),(2003),8.50,Manser Adrian,5
++,Gerig Marcel,Marcel,9.75,Manser Adrian,6
+o,Jörger Corsin,Corsin,8.50,Höpli Remo,1
+o,Bärtsch Andreas (2002),(2002),8.50,Höpli Remo,2
++,Brülisauer Thomas (2003),(2003),10.00,Höpli Remo,3
+o,Brülisauer Dominik (2001),(2001),8.50,Höpli Remo,4
+o,Wagner Andreas (2002),(2002),8.75,Höpli Remo,5
++,Schrepfer Sven (2003),(2003),9.75,Höpli Remo,6
++,Gallati Nils (2002),(2002),9.75,Bernhard Thomas (2002),1
+o,Kirchmeier Christof,Christof,8.50,Bernhard Thomas (2002),2
++,Düring Dominik (2003),(2003),10.00,Bernhard Thomas (2002),3
+o,Hess Michael *,*,8.50,Bernhard Thomas (2002),4
+o,Schnyder Christian,Christian,8.50,Bernhard Thomas (2002),5
+o,Tschudi Mario (2001),(2001),8.50,Bernhard Thomas (2002),6
++,Aebli Andrin (2001),(2001),9.75,Lenherr Cédric (2003),1
+o,Gartmann Mauro *,*,8.50,Lenherr Cédric (2003),2
+o,Fässler Tobias (2002),(2002),8.50,Lenherr Cédric (2003),3
+-,Tremp Ruedi (2003),(2003),8.75,Lenherr Cédric (2003),4
+-,Arpagaus Nino (2003),(2003),8.75,Lenherr Cédric (2003),5
+o,Brand Andreas (2003),(2003),8.50,Lenherr Cédric (2003),6
+o,Rhyner Beni,Beni,8.50,Hofer Lars (2003),1
+o,Salnajs Leo,Leo,8.50,Hofer Lars (2003),2
++,Grob Rachen (2002),(2002),10.00,Hofer Lars (2003),3
+o,Mettler Valentin *,*,8.50,Hofer Lars (2003),4
+-,Keller Stefan,Stefan,8.75,Hofer Lars (2003),5
+o,Schoch Cornel,Cornel,8.50,Hofer Lars (2003),6
+o,Schoch Cornel,Cornel,8.50,Egli Patrick,1
+o,Wehrli Jan (2002),(2002),8.50,Egli Patrick,2
++,Arpagaus Nino (2003),(2003),9.75,Egli Patrick,3
+-,Sprecher Martin,Martin,8.75,Egli Patrick,4
+o,Schwyn Patrick,Patrick,8.50,Egli Patrick,5
+o,Speck Ignaz (2003),(2003),8.50,Egli Patrick,6
+o,Bernhard Thomas (2002),(2002),8.50,Gallati Nils (2002),1
+o,Joos Enrico (2003),(2003),8.50,Gallati Nils (2002),2
++,Cavegn Simon (2003),(2003),10.00,Gallati Nils (2002),3
+o,Aebli Andrin (2001),(2001),8.50,Gallati Nils (2002),4
+o,Speck Ignaz (2003),(2003),8.50,Gallati Nils (2002),5
+o,Mösli Marcel,Marcel,8.50,Gallati Nils (2002),6
+o,Jöhl Christian *,*,8.50,Rütsche Stefan *,1
+o,Horner Sämi,Sämi,8.50,Rütsche Stefan *,2
++,Ritter Fabio (2001),(2001),9.75,Rütsche Stefan *,3
+o,Schwyn Adrian *,*,8.50,Rütsche Stefan *,4
+o,Keller Stefan,Stefan,8.50,Elmer Loris,1
+o,Ritter Fabio (2001),(2001),8.50,Elmer Loris,2
++,Bertogg Severin (2001),(2001),9.75,Elmer Loris,3
+o,Brand Andreas (2003),(2003),8.50,Elmer Loris,4
+o,Kirchmeier Christof,Christof,8.50,Giger Florian (2001),1
++,Arpagaus Nino (2003),(2003),9.75,Giger Florian (2001),2
+o,Büsser André *,*,8.50,Giger Florian (2001),3
+-,Schwyn Patrick,Patrick,8.75,Giger Florian (2001),4
++,Gerig Marcel,Marcel,10.00,Giger Florian (2001),5
+o,Schallberger Clint,Clint,8.50,Giger Florian (2001),6
+o,Horner Sämi,Sämi,8.50,Brülisauer Thomas (2003),1
+o,Hefti Christian,Christian,8.50,Brülisauer Thomas (2003),2
+o,Höpli Remo,Remo,8.50,Brülisauer Thomas (2003),3
++,Bertogg Severin (2001),(2001),10.00,Brülisauer Thomas (2003),4
++,Tremp Ruedi (2003),(2003),10.00,Brülisauer Thomas (2003),5
+o,Flütsch Marco,Marco,8.50,Brülisauer Thomas (2003),6
+o,Lenherr Cédric (2003),(2003),8.75,Aebli Andrin (2001),1
++,Grob Rachen (2002),(2002),9.75,Aebli Andrin (2001),2
+o,Poltera Andrin *,*,8.50,Aebli Andrin (2001),3
++,Gallati Nils (2002),(2002),9.75,Aebli Andrin (2001),4
+o,Neﬀ Florian,Florian,8.50,Aebli Andrin (2001),5
+o,Laager Michael (2001),(2001),8.50,Aebli Andrin (2001),6
+o,Hug Jan,Jan,8.50,Signer Walter,1
++,Cavegn Simon (2003),(2003),10.00,Signer Walter,2
+o,Peng Mike ***,***,8.50,Signer Walter,3
+-,Wehrli Jan (2002),(2002),8.75,Signer Walter,4
+o,Burkhalter Thomas (2003),(2003),8.50,Signer Walter,5
+o,Niederer Andreas (2002),(2002),8.50,Signer Walter,6
++,Schrepfer Sven (2003),(2003),10.00,Lieberherr David (2003),1
+o,Streiﬀ Dominik *,*,8.50,Lieberherr David (2003),2
+o,Kolb Pirmin (2001),(2001),8.50,Lieberherr David (2003),3
+o,Schallberger Clint,Clint,8.50,Lieberherr David (2003),4
+o,Straub Paul,Paul,8.50,Lieberherr David (2003),5
+o,Wehrli Jan (2002),(2002),8.75,Lieberherr David (2003),6
+o,Tschudi Mario (2001),(2001),8.50,Vetterli Sven (2003),1
+o,Tremp Ruedi (2003),(2003),8.50,Vetterli Sven (2003),2
+o,Schrepfer Sven (2003),(2003),8.50,Vetterli Sven (2003),3
++,Cavegn Simon (2003),(2003),10.00,Vetterli Sven (2003),4
+o,Schrepfer Roy,Roy,8.50,Vetterli Sven (2003),5
+o,Joos Enrico (2003),(2003),8.50,Vetterli Sven (2003),6
+o,Fontana Michael *,*,8.50,Fuster Sepp *,1
++,Hug Jan,Jan,9.75,Fuster Sepp *,2
++,Sprecher Martin,Martin,9.75,Fuster Sepp *,3
++,Koller Silvan (2002),(2002),10.00,Fuster Sepp *,4
+o,Schlegel Sandro **,**,8.50,Fuster Sepp *,5
+o,Schallberger Clint,Clint,8.50,Hefti Christian,1
++,Brülisauer Thomas (2003),(2003),9.75,Hefti Christian,2
+o,Pﬁster Florian *,*,8.50,Hefti Christian,3
+o,Tremp Remo,Remo,8.50,Hefti Christian,4
+o,Niederer Andreas (2002),(2002),8.50,Bärtsch Andreas (2002),1
++,Höpli Remo,Remo,9.75,Bärtsch Andreas (2002),2
+o,Baumann Rico *,*,8.50,Bärtsch Andreas (2002),3
+o,Inauen Aurel,Aurel,8.50,Bärtsch Andreas (2002),4
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,Bärtsch Andreas (2002),5
++,Bärtsch Andreas (2002),(2002),9.75,Niederer Andreas (2002),1
+o,Schudel Simon *,*,8.50,Niederer Andreas (2002),2
+o,Bircher Luca,Luca,8.75,Niederer Andreas (2002),3
+o,Mathis Patrick,Patrick,8.50,Niederer Andreas (2002),4
+o,Sprecher Martin,Martin,8.50,Niederer Andreas (2002),5
++,Signer Walter,Walter,10.00,Niederer Andreas (2002),6
+o,Lieberherr David (2003),(2003),8.50,Schrepfer Sven (2003),1
+o,Forrer Marco (2003),(2003),8.50,Schrepfer Sven (2003),2
++,Vetterli Sven (2003),(2003),10.00,Schrepfer Sven (2003),3
+o,Dörig Erich *,*,8.50,Schrepfer Sven (2003),4
++,Mösli Marcel,Marcel,9.75,Schrepfer Sven (2003),5
+o,Höpli Remo,Remo,8.50,Schrepfer Sven (2003),6
++,Ritter Fabio (2001),(2001),9.75,Langenegger Beat,1
+o,Blaser Niklas *,*,8.75,Langenegger Beat,2
+-,Mathis Patrick,Patrick,9.00,Langenegger Beat,3
+-,Schrepfer Roy,Roy,8.75,Langenegger Beat,4
+o,Badat Thomas,Thomas,8.50,Langenegger Beat,5
+-,Sprecher Martin,Martin,8.75,Langenegger Beat,6
++,Elmer Loris,Loris,10.00,Keller Stefan,1
+o,Vollenweider Jeremy *,*,8.50,Keller Stefan,2
+o,Koller Silvan (2002),(2002),8.50,Keller Stefan,3
+o,Ritter Fabio (2001),(2001),8.50,Keller Stefan,4
+-,Hofer Lars (2003),(2003),8.75,Keller Stefan,5
+o,Stadelmann Patrick,Patrick,8.50,Keller Stefan,6
+o,Koller Silvan (2002),(2002),8.50,Tremp Ruedi (2003),1
++,Vetterli Sven (2003),(2003),9.75,Tremp Ruedi (2003),2
+o,Jörger Marc *,*,8.50,Tremp Ruedi (2003),3
+-,Lenherr Cédric (2003),(2003),8.75,Tremp Ruedi (2003),4
+o,Brülisauer Thomas (2003),(2003),8.50,Tremp Ruedi (2003),5
+o,Arpagaus Nino (2003),(2003),8.50,Tremp Ruedi (2003),6
+o,Kolb Pirmin (2001),(2001),8.50,Gerig Marcel,1
+o,Burkhalter Thomas (2003),(2003),8.50,Gerig Marcel,2
++,Gaccioli Benjamin,Benjamin,10.00,Gerig Marcel,3
+o,Koller Fabian *,*,8.50,Gerig Marcel,4
+o,Giger Florian (2001),(2001),8.50,Gerig Marcel,5
+o,Manser Adrian,Adrian,8.50,Gerig Marcel,6
+o,Neﬀ Florian,Florian,8.50,Tanner Markus (2002),1
++,Baumann Nico (2002),(2002),9.75,Tanner Markus (2002),2
+o,Hegner Ueli *,*,8.50,Tanner Markus (2002),3
+o,Hug Jan,Jan,8.50,Tanner Markus (2002),4
+o,Lötscher Abraham,Abraham,8.50,Forrer Marco (2003),1
++,Schrepfer Sven (2003),(2003),9.75,Forrer Marco (2003),2
+o,Schmid Patrick *,*,8.50,Forrer Marco (2003),3
+o,Salnajs Leo,Leo,8.50,Forrer Marco (2003),4
+-,Wehrli Jan (2002),(2002),9.00,Roth Sämi,1
+-,Manser Adrian,Adrian,8.75,Roth Sämi,2
+o,Straub Paul,Paul,8.50,Roth Sämi,3
+-,Ackermann Roman,Roman,8.75,Roth Sämi,4
+,11.01.2022 14:27,14:27,Seite 5/,Roth Sämi,5
+-,Schrepfer Roy,Roy,8.75,Ackermann Roman,1
+o,Badat Thomas,Thomas,8.50,Ackermann Roman,2
+-,Wagner Andreas (2002),(2002),9.00,Ackermann Roman,3
+-,Roth Sämi,Sämi,8.75,Ackermann Roman,4
+o,Sprecher Martin,Martin,8.50,Gaccioli Benjamin,1
+o,Flütsch Marco,Marco,8.50,Gaccioli Benjamin,2
+o,Gerig Marcel,Marcel,8.50,Gaccioli Benjamin,3
+o,Tanner Adrian,Adrian,8.50,Gaccioli Benjamin,4
+o,Schnyder Christian,Christian,8.50,Baumann Nico (2002),1
+o,Tanner Markus (2002),(2002),8.50,Baumann Nico (2002),2
+o,Brand Andreas (2003),(2003),8.50,Baumann Nico (2002),3
+o,Arpagaus Nino (2003),(2003),8.50,Baumann Nico (2002),4
+o,Rotach Lars *,*,8.50,Gosswiler Livio *,1
++,Schiesser Patrik,Patrik,9.75,Gosswiler Livio *,2
+-,Arpagaus Nino (2003),(2003),8.75,Düring Dominik (2003),1
+o,Schnyder Christian,Christian,8.50,Düring Dominik (2003),2
+o,Bernhard Thomas (2002),(2002),8.50,Düring Dominik (2003),3
+o,Manser Adrian,Adrian,8.50,Düring Dominik (2003),4
+o,Fässler Tobias (2002),(2002),8.50,Cavegn Simon (2003),1
+o,Signer Walter,Walter,8.50,Cavegn Simon (2003),2
+o,Gallati Nils (2002),(2002),8.50,Cavegn Simon (2003),3
+o,Vetterli Sven (2003),(2003),8.50,Cavegn Simon (2003),4
+o,Gartmann Mauro *,*,8.50,Pﬁster Florian *,1
++,Jörger Corsin,Corsin,10.00,Pﬁster Florian *,2
++,Hefti Christian,Christian,10.00,Pﬁster Florian *,3
+o,Kolb This (2003),(2003),8.50,Büsser Remo,1
+o,Keller Werner,Werner,8.50,Büsser Remo,2
+©,2022 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Speck Ignaz (2003),(2003),8.50,Grob Rachen (2002),1
+o,Aebli Andrin (2001),(2001),8.50,Grob Rachen (2002),2
+o,Hofer Lars (2003),(2003),8.50,Grob Rachen (2002),3
+o,Wagner Andreas (2002),(2002),8.50,Grob Rachen (2002),4
+o,Thoma Christoph,Christoph,8.50,Bertogg Severin (2001),1
+o,Ackermann Rico (2003),(2003),8.50,Bertogg Severin (2001),2
+o,Elmer Loris,Loris,8.50,Bertogg Severin (2001),3
+o,Brülisauer Thomas (2003),(2003),8.50,Bertogg Severin (2001),4
+-,Poltera Andrin *,*,8.75,Rüegg Roman *,1
+o,Schneider Mario **,**,8.50,Rüegg Roman *,2
+-,Inauen Aurel,Aurel,8.75,Rüegg Roman *,3
+,11.01.2022 14:27,14:27,Seite 6/,Rüegg Roman *,4

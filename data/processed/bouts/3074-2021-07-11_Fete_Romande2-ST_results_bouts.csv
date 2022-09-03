@@ -1,0 +1,601 @@
+result,name,level,points,placed_fighter,fight_round
++,Dousse Michel **,**,9.75,Käser Remo ***,1
++,Schneider Domenic ***,***,9.75,Käser Remo ***,2
++,Borcard Johann **,**,9.75,Käser Remo ***,3
++,Collaud Romain *,*,9.75,Käser Remo ***,4
++,Ducrest Etienne *,*,10.00,Käser Remo ***,5
++,Kramer Lario ***,***,10.00,Käser Remo ***,6
++,Stoll Thomas,Thomas,10.00,Baeriswyl Christoph,1
+o,Borcard Johann **,**,8.75,Baeriswyl Christoph,2
++,Perret Axel (2003),(2003),10.00,Baeriswyl Christoph,3
++,Sonnay Thomas **,**,10.00,Baeriswyl Christoph,4
+o,Schuler Christian ***,***,8.50,Baeriswyl Christoph,5
++,Menoud Liam,Liam,10.00,Baeriswyl Christoph,6
++,Gapany Benjamin ***,***,10.00,Schneider Domenic ***,1
+o,Käser Remo ***,***,8.75,Schneider Domenic ***,2
++,Riedo Fredy *,*,9.75,Schneider Domenic ***,3
++,Matthey Mickaël **,**,9.75,Schneider Domenic ***,4
++,Piemontesi Pascal **,**,9.75,Schneider Domenic ***,5
+-,Herger Matthias **,**,9.00,Schneider Domenic ***,6
++,Cardinaux Victor **,**,9.75,Herger Matthias **,1
+o,Hofer Sven *,*,8.50,Herger Matthias **,2
++,Haenni Stéphane **,**,10.00,Herger Matthias **,3
++,Gottofrey Marc **,**,9.75,Herger Matthias **,4
++,Duplan Steve ***,***,10.00,Herger Matthias **,5
+-,Schneider Domenic ***,***,8.75,Herger Matthias **,6
+o,Krähenbühl Tobias ***,***,8.50,Duplan Steve ***,1
++,Kramer Dorian *,*,9.75,Duplan Steve ***,2
++,Borcard Clovis *,*,10.00,Duplan Steve ***,3
++,Vonlanthen Alexandre,Alexandre,10.00,Duplan Steve ***,4
+o,Herger Matthias **,**,8.50,Duplan Steve ***,5
++,Kropf Marcel **,**,10.00,Duplan Steve ***,6
++,Duplan Steve ***,***,9.75,Krähenbühl Tobias ***,1
+o,Collaud Romain *,*,8.50,Krähenbühl Tobias ***,2
++,Cardinaux Victor **,**,9.75,Krähenbühl Tobias ***,3
+o,Kramer Lario ***,***,8.50,Krähenbühl Tobias ***,4
++,Sonnay Thomas **,**,10.00,Krähenbühl Tobias ***,5
++,Giroud Jonathan **,**,10.00,Krähenbühl Tobias ***,6
++,Crettaz Olivier *,*,9.75,Balimann Sandro *,1
+-,Sonnay Thomas **,**,9.00,Balimann Sandro *,2
++,Sturny Nicolas,Nicolas,10.00,Balimann Sandro *,3
+o,Strebel Joel ***,***,8.50,Balimann Sandro *,4
+-,Zbinden Dario (2004),(2004),8.75,Balimann Sandro *,5
++,Schläﬂi Hugo,Hugo,10.00,Balimann Sandro *,6
+o,Herger Matthias **,**,8.50,Cardinaux Victor **,1
++,Cotting Alexandre,Alexandre,10.00,Cardinaux Victor **,2
+o,Krähenbühl Tobias ***,***,8.75,Cardinaux Victor **,3
++,Bapst Richard,Richard,10.00,Cardinaux Victor **,4
++,Zimmermann Mario *,*,10.00,Cardinaux Victor **,5
+o,Kramer Dorian *,*,8.50,Cardinaux Victor **,6
++,Cochrane Benjamin,Benjamin,10.00,Buchs Noah (2004),1
+o,Haenni Stéphane **,**,8.50,Buchs Noah (2004),2
+-,Dorsaz Théo,Théo,8.75,Buchs Noah (2004),3
+-,Ganière William,William,8.75,Buchs Noah (2004),4
++,Valvini Maxime,Maxime,9.75,Buchs Noah (2004),5
++,Krebs Clemens,Clemens,9.75,Buchs Noah (2004),6
++,Dufey Gil *,*,9.75,Collaud Romain *,1
++,Krähenbühl Tobias ***,***,10.00,Collaud Romain *,2
++,Mermillod Jérôme (2004),(2004),10.00,Collaud Romain *,3
+o,Käser Remo ***,***,8.50,Collaud Romain *,4
++,Sturny Nicolas,Nicolas,9.75,Collaud Romain *,5
++,Riedo Fredy *,*,10.00,Collaud Romain *,6
+-,Strebel Joel ***,***,8.75,Kramer Lario ***,1
++,Ducrest Etienne *,*,9.75,Kramer Lario ***,2
++,Giroud Jonathan **,**,10.00,Kramer Lario ***,3
++,Krähenbühl Tobias ***,***,10.00,Kramer Lario ***,4
++,Colò Kilian **,**,9.75,Kramer Lario ***,5
+o,Käser Remo ***,***,8.75,Kramer Lario ***,6
+o,Schuler Christian ***,***,8.50,Matthey Mickaël **,1
++,Bapst Richard,Richard,10.00,Matthey Mickaël **,2
++,Portmann Fabio,Fabio,10.00,Matthey Mickaël **,3
+o,Schneider Domenic ***,***,8.50,Matthey Mickaël **,4
++,Droxler Jonathan **,**,10.00,Matthey Mickaël **,5
++,Crettaz Olivier *,*,10.00,Matthey Mickaël **,6
++,Droxler Jonathan **,**,9.75,Hofer Sven *,1
++,Herger Matthias **,**,10.00,Hofer Sven *,2
++,Jacot Ismaël,Ismaël,10.00,Hofer Sven *,3
+o,Schuler Christian ***,***,8.50,Hofer Sven *,4
++,Mermillod Jérôme (2004),(2004),10.00,Hofer Sven *,5
+o,Staudenmann Fabian ***,***,8.50,Hofer Sven *,6
++,Gottofrey Marc **,**,10.00,Staudenmann Fabian ***,1
++,Schuler Christian ***,***,9.75,Staudenmann Fabian ***,2
+-,Strebel Joel ***,***,8.75,Staudenmann Fabian ***,3
+o,Gapany Benjamin ***,***,8.50,Staudenmann Fabian ***,4
++,Haenni Stéphane **,**,9.75,Staudenmann Fabian ***,5
++,Hofer Sven *,*,9.75,Staudenmann Fabian ***,6
+o,Käser Remo ***,***,8.50,Dousse Michel **,1
++,Ganière William,William,10.00,Dousse Michel **,2
++,Berthet Luca,Luca,9.75,Dousse Michel **,3
++,Krebs Clemens,Clemens,9.75,Dousse Michel **,4
+o,Kropf Marcel **,**,8.50,Dousse Michel **,5
++,Colò Kilian **,**,10.00,Dousse Michel **,6
+-,Borcard Clovis *,*,8.75,Mollet Ivan **,1
++,Pasquier Loïc,Loïc,9.75,Mollet Ivan **,2
+o,Schuler Christian ***,***,8.75,Mollet Ivan **,3
+-,Schläﬂi Hugo,Hugo,8.75,Mollet Ivan **,4
++,Zbinden Lukas (2003),(2003),10.00,Mollet Ivan **,5
++,Tornare Paul,Paul,9.75,Mollet Ivan **,6
+-,Kropf Marcel **,**,8.75,Piemontesi Pascal **,1
++,Zimmermann Mario *,*,9.75,Piemontesi Pascal **,2
++,Pasquier Loïc,Loïc,9.75,Piemontesi Pascal **,3
++,Tornare Paul,Paul,10.00,Piemontesi Pascal **,4
+o,Schneider Domenic ***,***,8.50,Piemontesi Pascal **,5
+-,Ducrest Etienne *,*,8.75,Piemontesi Pascal **,6
+-,Krebs Clemens,Clemens,8.75,Loup Grégoire,1
++,Perret Axel (2003),(2003),9.75,Loup Grégoire,2
+o,Gottofrey Marc **,**,8.50,Loup Grégoire,3
++,Pasquier Loïc,Loïc,9.75,Loup Grégoire,4
+o,Rogivue Théo (2003),(2003),8.75,Loup Grégoire,5
++,Vallotton Jason,Jason,10.00,Loup Grégoire,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Loup Grégoire,7
++,Matthey Mickaël **,**,9.75,Schuler Christian ***,1
+o,Staudenmann Fabian ***,***,8.50,Schuler Christian ***,2
++,Mollet Ivan **,**,10.00,Schuler Christian ***,3
++,Hofer Sven *,*,9.75,Schuler Christian ***,4
++,Baeriswyl Christoph,Christoph,10.00,Schuler Christian ***,5
++,Gapany Benjamin ***,***,9.75,Schuler Christian ***,6
++,Vallotton Jason,Jason,10.00,Tschachtli Sven,1
++,Dufey Gil *,*,10.00,Tschachtli Sven,2
+-,Ducry Antoine **,**,8.75,Tschachtli Sven,3
++,Monney Branighan,Branighan,9.75,Tschachtli Sven,4
+o,Borcard Johann **,**,8.50,Tschachtli Sven,5
++,Turin Antoine,Antoine,10.00,Tschachtli Sven,6
+-,Kramer Lario ***,***,8.75,Strebel Joel ***,1
++,Colò Kilian **,**,9.75,Strebel Joel ***,2
+-,Staudenmann Fabian ***,***,8.75,Strebel Joel ***,3
++,Balimann Sandro *,*,10.00,Strebel Joel ***,4
++,Kramer Dorian *,*,9.75,Strebel Joel ***,5
++,Borcard Johann **,**,9.75,Strebel Joel ***,6
+o,Schneider Domenic ***,***,8.50,Gapany Benjamin ***,1
++,Ducry Antoine **,**,10.00,Gapany Benjamin ***,2
++,Menoud Liam,Liam,10.00,Gapany Benjamin ***,3
++,Staudenmann Fabian ***,***,9.75,Gapany Benjamin ***,4
++,Riedo Fredy *,*,10.00,Gapany Benjamin ***,5
+o,Schuler Christian ***,***,8.50,Gapany Benjamin ***,6
++,Giroud Jonathan **,**,9.75,Kramer Dorian *,1
+o,Duplan Steve ***,***,8.50,Kramer Dorian *,2
++,Monney Branighan,Branighan,10.00,Kramer Dorian *,3
++,Rogivue Théo (2003),(2003),9.75,Kramer Dorian *,4
+o,Strebel Joel ***,***,8.50,Kramer Dorian *,5
++,Cardinaux Victor **,**,10.00,Kramer Dorian *,6
++,Kropf Marcel **,**,9.75,Borcard Johann **,1
++,Baeriswyl Christoph,Christoph,9.75,Borcard Johann **,2
+o,Käser Remo ***,***,8.50,Borcard Johann **,3
++,Vallotton Jason,Jason,10.00,Borcard Johann **,4
++,Tschachtli Sven,Sven,9.75,Borcard Johann **,5
+o,Strebel Joel ***,***,8.50,Borcard Johann **,6
+-,Mollet Ivan **,**,8.75,Borcard Clovis *,1
+-,Dorsaz Théo,Théo,9.00,Borcard Clovis *,2
+o,Duplan Steve ***,***,8.50,Borcard Clovis *,3
++,Jeannin Jess,Jess,9.75,Borcard Clovis *,4
++,Fallegger Riccardo (2003),(2003),10.00,Borcard Clovis *,5
++,Mermillod Jérôme (2004),(2004),9.75,Borcard Clovis *,6
+-,Wieland Timon,Timon,8.75,Mamadou Lamine Gnabaly,1
+o,Bapst Ludovic,Ludovic,8.50,Mamadou Lamine Gnabaly,2
++,Vaucher Rémy,Rémy,10.00,Mamadou Lamine Gnabaly,3
+-,Ducry Antoine **,**,8.75,Mamadou Lamine Gnabaly,4
++,Choﬄon Anthony,Anthony,9.75,Mamadou Lamine Gnabaly,5
++,Bapst Richard,Richard,9.75,Mamadou Lamine Gnabaly,6
+o,Borcard Johann **,**,8.50,Kropf Marcel **,1
+-,Piemontesi Pascal **,**,8.75,Kropf Marcel **,2
++,Loup Alexandre *,*,9.75,Kropf Marcel **,3
++,Crettaz Olivier *,*,10.00,Kropf Marcel **,4
++,Dousse Michel **,**,10.00,Kropf Marcel **,5
+o,Duplan Steve ***,***,8.50,Kropf Marcel **,6
+,16.10.2021 05:04,05:04,Seite 1/,Kropf Marcel **,7
++,Dind Samuel **,**,9.75,Ducrest Etienne *,1
+o,Kramer Lario ***,***,8.50,Ducrest Etienne *,2
++,Turin Antoine,Antoine,10.00,Ducrest Etienne *,3
++,Cotting Alexandre,Alexandre,10.00,Ducrest Etienne *,4
+o,Käser Remo ***,***,8.50,Ducrest Etienne *,5
+-,Piemontesi Pascal **,**,8.75,Ducrest Etienne *,6
++,Vaucher Rémy,Rémy,9.75,Rogivue Théo (2003),1
+o,Riedo Fredy *,*,8.50,Rogivue Théo (2003),2
++,Pharisa Loic,Loic,10.00,Rogivue Théo (2003),3
+o,Kramer Dorian *,*,8.50,Rogivue Théo (2003),4
++,Loup Grégoire,Grégoire,9.75,Rogivue Théo (2003),5
+-,Ducry Antoine **,**,8.75,Rogivue Théo (2003),6
+o,Colò Kilian **,**,8.50,Zimmermann Mario *,1
+o,Piemontesi Pascal **,**,8.50,Zimmermann Mario *,2
++,Bapst Ludovic,Ludovic,10.00,Zimmermann Mario *,3
++,Valvini Maxime,Maxime,10.00,Zimmermann Mario *,4
+o,Cardinaux Victor **,**,8.50,Zimmermann Mario *,5
++,Pürro David,David,9.75,Zimmermann Mario *,6
+o,Rogivue Théo (2003),(2003),8.50,Vaucher Rémy,1
++,Martin Gaël (2004),(2004),9.75,Vaucher Rémy,2
+o,Mamadou Lamine Gnabaly,Gnabaly,8.50,Vaucher Rémy,3
+o,Perret Axel (2003),(2003),8.50,Vaucher Rémy,4
++,Holweger Marek,Marek,10.00,Vaucher Rémy,5
++,Buchs Stefan,Stefan,10.00,Vaucher Rémy,6
++,Zimmermann Mario *,*,10.00,Colò Kilian **,1
+o,Strebel Joel ***,***,8.50,Colò Kilian **,2
++,Collaud Bastien (2005),(2005),10.00,Colò Kilian **,3
++,Choﬄon Anthony,Anthony,9.75,Colò Kilian **,4
+o,Kramer Lario ***,***,8.50,Colò Kilian **,5
+o,Dousse Michel **,**,8.50,Colò Kilian **,6
+o,Tornare Paul,Paul,8.50,Wenger Marco,1
+o,Valvini Maxime,Maxime,8.50,Wenger Marco,2
++,Cherpillod Cédric,Cédric,9.75,Wenger Marco,3
++,Borcard Guillaume,Guillaume,9.75,Wenger Marco,4
+o,Loup Alexandre *,*,8.50,Wenger Marco,5
++,Zbinden Samuel,Samuel,10.00,Wenger Marco,6
+o,Menoud Liam,Liam,8.50,Portmann Fabio,1
++,Cochrane Benjamin,Benjamin,9.75,Portmann Fabio,2
+o,Matthey Mickaël **,**,8.50,Portmann Fabio,3
++,Rouge Dany,Dany,10.00,Portmann Fabio,4
+o,Dufey Gil *,*,8.50,Portmann Fabio,5
++,Hirschi Damien (2003),(2003),9.75,Portmann Fabio,6
+o,Cotting Alexandre,Alexandre,8.50,Grossenbacher Marc,1
++,Holweger Marek,Marek,9.75,Grossenbacher Marc,2
+o,Dufey Gil *,*,8.50,Grossenbacher Marc,3
++,Cochrane Benjamin,Benjamin,9.75,Grossenbacher Marc,4
+o,Giroud Jonathan **,**,8.50,Grossenbacher Marc,5
++,Parvex Bryan,Bryan,10.00,Grossenbacher Marc,6
+o,Balimann Sandro *,*,8.50,Crettaz Olivier *,1
++,Tornare Paul,Paul,9.75,Crettaz Olivier *,2
++,Choﬄon Anthony,Anthony,9.75,Crettaz Olivier *,3
+o,Kropf Marcel **,**,8.50,Crettaz Olivier *,4
++,Aeschbacher Ivo,Ivo,10.00,Crettaz Olivier *,5
+o,Matthey Mickaël **,**,8.50,Crettaz Olivier *,6
++,Loup Alexandre *,*,9.75,Sturny Nicolas,1
++,Borcard Guillaume,Guillaume,10.00,Sturny Nicolas,2
+o,Balimann Sandro *,*,8.50,Sturny Nicolas,3
++,Turin Antoine,Antoine,9.75,Sturny Nicolas,4
+o,Collaud Romain *,*,8.50,Sturny Nicolas,5
+-,Haenni Stéphane **,**,8.75,Sturny Nicolas,6
+o,Staudenmann Fabian ***,***,8.75,Gottofrey Marc **,1
++,Schläﬂi Hugo,Hugo,9.75,Gottofrey Marc **,2
++,Loup Grégoire,Grégoire,9.75,Gottofrey Marc **,3
+o,Herger Matthias **,**,8.50,Gottofrey Marc **,4
+-,Stoll Thomas,Thomas,8.75,Gottofrey Marc **,5
++,Vonlanthen Alexandre,Alexandre,9.75,Gottofrey Marc **,6
+o,Ganière William,William,8.50,Zbinden Lukas (2003),1
++,Imstepf Sandro,Sandro,10.00,Zbinden Lukas (2003),2
+o,Dind Samuel **,**,8.50,Zbinden Lukas (2003),3
++,Quartenoud Samuel,Samuel,9.75,Zbinden Lukas (2003),4
+o,Mollet Ivan **,**,8.50,Zbinden Lukas (2003),5
++,Aeschbacher Ivo,Ivo,10.00,Zbinden Lukas (2003),6
++,Sonnay Thomas **,**,9.75,Riedo Fredy *,1
++,Rogivue Théo (2003),(2003),10.00,Riedo Fredy *,2
+o,Schneider Domenic ***,***,8.50,Riedo Fredy *,3
++,Parvex Bryan,Bryan,10.00,Riedo Fredy *,4
+o,Gapany Benjamin ***,***,8.50,Riedo Fredy *,5
+o,Collaud Romain *,*,8.50,Riedo Fredy *,6
+o,Collaud Romain *,*,8.50,Dufey Gil *,1
+o,Tschachtli Sven,Sven,8.50,Dufey Gil *,2
++,Grossenbacher Marc,Marc,9.75,Dufey Gil *,3
++,Balimann Fabian,Fabian,9.75,Dufey Gil *,4
++,Portmann Fabio,Fabio,9.75,Dufey Gil *,5
+-,Stoll Thomas,Thomas,8.75,Dufey Gil *,6
++,Zbinden Samuel,Samuel,9.75,Turin Antoine,1
++,Krebs Clemens,Clemens,9.75,Turin Antoine,2
+o,Ducrest Etienne *,*,8.50,Turin Antoine,3
+o,Sturny Nicolas,Nicolas,8.75,Turin Antoine,4
++,Bapst Richard,Richard,9.75,Turin Antoine,5
+o,Tschachtli Sven,Sven,8.50,Turin Antoine,6
++,Lauber Grégoire,Grégoire,10.00,Monney Branighan,1
++,Droxler Jonathan **,**,9.75,Monney Branighan,2
+o,Kramer Dorian *,*,8.50,Monney Branighan,3
+o,Tschachtli Sven,Sven,8.50,Monney Branighan,4
+o,Schläﬂi Hugo,Hugo,8.50,Monney Branighan,5
++,Wieland Timon,Timon,9.75,Monney Branighan,6
+o,Kramer Dorian *,*,8.50,Giroud Jonathan **,1
++,Zbinden Dario (2004),(2004),9.75,Giroud Jonathan **,2
+o,Kramer Lario ***,***,8.50,Giroud Jonathan **,3
++,Fankhauser Yanik,Yanik,9.75,Giroud Jonathan **,4
++,Grossenbacher Marc,Marc,10.00,Giroud Jonathan **,5
+o,Krähenbühl Tobias ***,***,8.50,Giroud Jonathan **,6
++,Juon Martin,Martin,10.00,Choﬄon Anthony,1
++,Menoud Liam,Liam,9.75,Choﬄon Anthony,2
+o,Crettaz Olivier *,*,8.50,Choﬄon Anthony,3
+o,Colò Kilian **,**,8.50,Choﬄon Anthony,4
+o,Mamadou Lamine Gnabaly,Gnabaly,8.50,Choﬄon Anthony,5
++,Quartenoud Samuel,Samuel,9.75,Choﬄon Anthony,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Choﬄon Anthony,7
++,Balimann Fabian,Fabian,9.75,Schläﬂi Hugo,1
+o,Gottofrey Marc **,**,8.50,Schläﬂi Hugo,2
++,Quartenoud Samuel,Samuel,10.00,Schläﬂi Hugo,3
+-,Mollet Ivan **,**,8.75,Schläﬂi Hugo,4
++,Monney Branighan,Branighan,9.75,Schläﬂi Hugo,5
+o,Balimann Sandro *,*,8.50,Schläﬂi Hugo,6
+o,Schläﬂi Hugo,Hugo,8.50,Balimann Fabian,1
+-,Pürro David,David,8.75,Balimann Fabian,2
++,Holweger Marek,Marek,9.75,Balimann Fabian,3
+o,Dufey Gil *,*,8.50,Balimann Fabian,4
++,Germanier Joel,Joel,10.00,Balimann Fabian,5
++,Pasquier Loïc,Loïc,9.75,Balimann Fabian,6
+o,Dorsaz Théo,Théo,8.50,Vonlanthen Alexandre,1
++,Lauber Grégoire,Grégoire,10.00,Vonlanthen Alexandre,2
++,Hirschi Damien (2003),(2003),10.00,Vonlanthen Alexandre,3
+o,Duplan Steve ***,***,8.50,Vonlanthen Alexandre,4
++,Jacot Ismaël,Ismaël,9.75,Vonlanthen Alexandre,5
+o,Gottofrey Marc **,**,8.50,Vonlanthen Alexandre,6
++,Imstepf Sandro,Sandro,10.00,Mermillod Jérôme (2004),1
++,Burri Flemming,Flemming,9.75,Mermillod Jérôme (2004),2
+o,Collaud Romain *,*,8.50,Mermillod Jérôme (2004),3
++,Wieland Timon,Timon,9.75,Mermillod Jérôme (2004),4
+o,Hofer Sven *,*,8.50,Mermillod Jérôme (2004),5
+o,Borcard Clovis *,*,8.75,Mermillod Jérôme (2004),6
++,Grossenbacher Marc,Marc,9.75,Cotting Alexandre,1
+o,Cardinaux Victor **,**,8.50,Cotting Alexandre,2
++,Neyroud Geoﬀrey,Geoﬀrey,9.75,Cotting Alexandre,3
+o,Ducrest Etienne *,*,8.50,Cotting Alexandre,4
++,Vallotton Jason,Jason,9.75,Cotting Alexandre,5
+-,Sonnay Thomas **,**,8.75,Cotting Alexandre,6
++,Wenger Marco,Marco,9.75,Tornare Paul,1
+o,Crettaz Olivier *,*,8.50,Tornare Paul,2
++,Valvini Maxime,Maxime,9.75,Tornare Paul,3
+o,Piemontesi Pascal **,**,8.50,Tornare Paul,4
++,Parvex Bryan,Bryan,10.00,Tornare Paul,5
+o,Mollet Ivan **,**,8.50,Tornare Paul,6
++,Portmann Fabio,Fabio,10.00,Menoud Liam,1
+o,Choﬄon Anthony,Anthony,8.50,Menoud Liam,2
+o,Gapany Benjamin ***,***,8.50,Menoud Liam,3
++,Zbinden Samuel,Samuel,9.75,Menoud Liam,4
++,Krebs Clemens,Clemens,9.75,Menoud Liam,5
+o,Baeriswyl Christoph,Christoph,8.50,Menoud Liam,6
+o,Hofer Sven *,*,8.50,Droxler Jonathan **,1
+o,Monney Branighan,Branighan,8.50,Droxler Jonathan **,2
++,Beaud Eric,Eric,10.00,Droxler Jonathan **,3
++,Pürro David,David,9.75,Droxler Jonathan **,4
+o,Matthey Mickaël **,**,8.50,Droxler Jonathan **,5
++,Loup Alexandre *,*,9.75,Droxler Jonathan **,6
++,Vonlanthen Alexandre,Alexandre,9.75,Dorsaz Théo,1
+-,Borcard Clovis *,*,8.75,Dorsaz Théo,2
+-,Buchs Noah (2004),(2004),8.75,Dorsaz Théo,3
+-,Bapst Ludovic,Ludovic,8.75,Dorsaz Théo,4
+-,Fankhauser Yanik,Yanik,9.00,Dorsaz Théo,5
++,Perret Axel (2003),(2003),10.00,Dorsaz Théo,6
+,16.10.2021 05:04,05:04,Seite 2/,Dorsaz Théo,7
++,Germanier Joel,Joel,10.00,Zbinden Dario (2004),1
+o,Giroud Jonathan **,**,8.50,Zbinden Dario (2004),2
+-,Stoll Thomas,Thomas,9.00,Zbinden Dario (2004),3
++,Dind Samuel **,**,9.75,Zbinden Dario (2004),4
+-,Balimann Sandro *,*,8.75,Zbinden Dario (2004),5
+-,Neyroud Geoﬀrey,Geoﬀrey,9.00,Zbinden Dario (2004),6
+o,Neyroud Geoﬀrey,Geoﬀrey,8.50,Maire Pascal (2004),1
++,Juon Martin,Martin,9.75,Maire Pascal (2004),2
+o,Vallotton Jason,Jason,8.50,Maire Pascal (2004),3
+o,Holweger Marek,Marek,8.50,Maire Pascal (2004),4
++,Lauber Grégoire,Grégoire,9.75,Maire Pascal (2004),5
++,Ganière William,William,9.75,Maire Pascal (2004),6
+-,Pürro David,David,9.00,Martin Gaël (2004),1
+o,Vaucher Rémy,Rémy,8.75,Martin Gaël (2004),2
+o,Aeschbacher Ivo,Ivo,8.50,Martin Gaël (2004),3
++,Beaud Eric,Eric,10.00,Martin Gaël (2004),4
+o,Wieland Timon,Timon,8.50,Martin Gaël (2004),5
++,Jacot Ismaël,Ismaël,10.00,Martin Gaël (2004),6
+o,Baeriswyl Christoph,Christoph,8.50,Stoll Thomas,1
++,Dind Samuel **,**,9.75,Stoll Thomas,2
+-,Zbinden Dario (2004),(2004),9.00,Stoll Thomas,3
++,Jacot Ismaël,Ismaël,9.75,Stoll Thomas,4
+-,Gottofrey Marc **,**,8.50,Stoll Thomas,5
+-,Dufey Gil *,*,8.75,Stoll Thomas,6
+o,Ducry Antoine **,**,8.50,Haenni Stéphane **,1
++,Buchs Noah (2004),(2004),10.00,Haenni Stéphane **,2
+o,Herger Matthias **,**,8.50,Haenni Stéphane **,3
++,Collaud Bastien (2005),(2005),10.00,Haenni Stéphane **,4
+o,Staudenmann Fabian ***,***,8.50,Haenni Stéphane **,5
+-,Sturny Nicolas,Nicolas,8.75,Haenni Stéphane **,6
+o,Zbinden Dario (2004),(2004),8.50,Germanier Joel,1
+o,Aeschbacher Ivo,Ivo,8.50,Germanier Joel,2
+-,Buchs Stefan,Stefan,8.75,Germanier Joel,3
++,Mooser Manuel,Manuel,9.75,Germanier Joel,4
+o,Balimann Fabian,Fabian,8.50,Germanier Joel,5
++,Burri Flemming,Flemming,10.00,Germanier Joel,6
++,Holweger Marek,Marek,10.00,Bapst Richard,1
+o,Matthey Mickaël **,**,8.50,Bapst Richard,2
++,Burri Flemming,Flemming,10.00,Bapst Richard,3
+o,Cardinaux Victor **,**,8.50,Bapst Richard,4
+o,Turin Antoine,Antoine,8.50,Bapst Richard,5
+o,Mamadou Lamine Gnabaly,Gnabaly,8.50,Bapst Richard,6
+o,Burri Flemming,Flemming,8.50,Quartenoud Samuel,1
++,Fallegger Riccardo (2003),(2003),10.00,Quartenoud Samuel,2
+o,Schläﬂi Hugo,Hugo,8.50,Quartenoud Samuel,3
+o,Zbinden Lukas (2003),(2003),8.50,Quartenoud Samuel,4
++,Zbinden Samuel,Samuel,9.75,Quartenoud Samuel,5
+o,Choﬄon Anthony,Anthony,8.50,Quartenoud Samuel,6
++,Buchs Stefan,Stefan,10.00,Jacot Ismaël,1
++,Beaud Eric,Eric,9.75,Jacot Ismaël,2
+o,Hofer Sven *,*,8.50,Jacot Ismaël,3
+o,Stoll Thomas,Thomas,8.50,Jacot Ismaël,4
+o,Vonlanthen Alexandre,Alexandre,8.50,Jacot Ismaël,5
+o,Martin Gaël (2004),(2004),8.50,Jacot Ismaël,6
++,Maire Pascal (2004),(2004),10.00,Neyroud Geoﬀrey,1
+-,Collaud Bastien (2005),(2005),8.75,Neyroud Geoﬀrey,2
+o,Cotting Alexandre,Alexandre,8.50,Neyroud Geoﬀrey,3
+-,Loup Alexandre *,*,8.75,Neyroud Geoﬀrey,4
++,Pharisa Loic,Loic,10.00,Neyroud Geoﬀrey,5
+-,Zbinden Dario (2004),(2004),9.00,Neyroud Geoﬀrey,6
+-,Jeannin Jess,Jess,8.75,Fankhauser Yanik,1
++,Rouge Dany,Dany,10.00,Fankhauser Yanik,2
+-,Ganière William,William,8.75,Fankhauser Yanik,3
+o,Giroud Jonathan **,**,8.50,Fankhauser Yanik,4
+-,Dorsaz Théo,Théo,9.00,Fankhauser Yanik,5
++,Fallegger Riccardo (2003),(2003),9.75,Fankhauser Yanik,6
+-,Pharisa Loic,Loic,8.75,Bapst Ludovic,1
++,Mamadou Lamine Gnabaly,Gnabaly,10.00,Bapst Ludovic,2
+o,Zimmermann Mario *,*,8.50,Bapst Ludovic,3
+-,Dorsaz Théo,Théo,8.75,Bapst Ludovic,4
+-,Ganière William,William,8.75,Bapst Ludovic,5
++,Beaud Eric,Eric,9.75,Bapst Ludovic,6
+-,Fankhauser Yanik,Yanik,8.75,Jeannin Jess,1
+-,Zbinden Samuel,Samuel,8.75,Jeannin Jess,2
++,Borcard Guillaume,Guillaume,9.75,Jeannin Jess,3
+o,Borcard Clovis *,*,8.50,Jeannin Jess,4
+-,Collaud Bastien (2005),(2005),8.75,Jeannin Jess,5
++,Cherpillod Cédric,Cédric,9.75,Jeannin Jess,6
+-,Mamadou Lamine Gnabaly,Gnabaly,8.75,Wieland Timon,1
++,Pharisa Loic,Loic,10.00,Wieland Timon,2
+o,Sonnay Thomas **,**,8.50,Wieland Timon,3
+o,Mermillod Jérôme (2004),(2004),8.50,Wieland Timon,4
++,Martin Gaël (2004),(2004),9.75,Wieland Timon,5
+o,Monney Branighan,Branighan,8.50,Wieland Timon,6
+o,Collaud Bastien (2005),(2005),8.50,Valvini Maxime,1
++,Wenger Marco,Marco,10.00,Valvini Maxime,2
+o,Tornare Paul,Paul,8.50,Valvini Maxime,3
+o,Zimmermann Mario *,*,8.50,Valvini Maxime,4
+o,Buchs Noah (2004),(2004),8.50,Valvini Maxime,5
++,Mooser Manuel,Manuel,10.00,Valvini Maxime,6
+o,Jacot Ismaël,Ismaël,8.50,Buchs Stefan,1
+o,Parvex Bryan,Bryan,8.50,Buchs Stefan,2
+-,Germanier Joel,Joel,8.75,Buchs Stefan,3
++,Imstepf Sandro,Sandro,9.75,Buchs Stefan,4
++,Cherpillod Cédric,Cédric,9.75,Buchs Stefan,5
+o,Vaucher Rémy,Rémy,8.50,Buchs Stefan,6
++,Aeschbacher Ivo,Ivo,9.75,Perret Axel (2003),1
+o,Loup Grégoire,Grégoire,8.50,Perret Axel (2003),2
+o,Baeriswyl Christoph,Christoph,8.50,Perret Axel (2003),3
++,Vaucher Rémy,Rémy,10.00,Perret Axel (2003),4
+o,Ducry Antoine **,**,8.50,Perret Axel (2003),5
+o,Dorsaz Théo,Théo,8.50,Perret Axel (2003),6
++,Parvex Bryan,Bryan,10.00,Hirschi Damien (2003),1
+o,Loup Alexandre *,*,8.50,Hirschi Damien (2003),2
+o,Vonlanthen Alexandre,Alexandre,8.50,Hirschi Damien (2003),3
++,Burri Flemming,Flemming,9.75,Hirschi Damien (2003),4
+o,Pürro David,David,8.50,Hirschi Damien (2003),5
+o,Portmann Fabio,Fabio,8.50,Hirschi Damien (2003),6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,Hirschi Damien (2003),7
+-,Martin Gaël (2004),(2004),9.00,Pürro David,1
+-,Balimann Fabian,Fabian,8.75,Pürro David,2
++,Imstepf Sandro,Sandro,10.00,Pürro David,3
+o,Droxler Jonathan **,**,8.75,Pürro David,4
++,Hirschi Damien (2003),(2003),10.00,Pürro David,5
+o,Zimmermann Mario *,*,8.50,Pürro David,6
++,Haenni Stéphane **,**,9.75,Ducry Antoine **,1
+o,Gapany Benjamin ***,***,8.50,Ducry Antoine **,2
+-,Tschachtli Sven,Sven,8.75,Ducry Antoine **,3
+-,Mamadou Lamine Gnabaly,Gnabaly,8.75,Ducry Antoine **,4
++,Perret Axel (2003),(2003),10.00,Ducry Antoine **,5
+-,Rogivue Théo (2003),(2003),9.00,Ducry Antoine **,6
++,Valvini Maxime,Maxime,10.00,Collaud Bastien (2005),1
+-,Neyroud Geoﬀrey,Geoﬀrey,8.75,Collaud Bastien (2005),2
+o,Colò Kilian **,**,8.50,Collaud Bastien (2005),3
+o,Haenni Stéphane **,**,8.50,Collaud Bastien (2005),4
+-,Jeannin Jess,Jess,8.75,Collaud Bastien (2005),5
++,Cochrane Benjamin,Benjamin,10.00,Collaud Bastien (2005),6
+-,Bapst Ludovic,Ludovic,8.75,Pharisa Loic,1
+o,Wieland Timon,Timon,8.50,Pharisa Loic,2
+o,Rogivue Théo (2003),(2003),8.50,Pharisa Loic,3
++,Lauber Grégoire,Grégoire,10.00,Pharisa Loic,4
+o,Neyroud Geoﬀrey,Geoﬀrey,8.50,Pharisa Loic,5
++,Rouge Dany,Dany,10.00,Pharisa Loic,6
+o,Sturny Nicolas,Nicolas,8.50,Loup Alexandre *,1
++,Hirschi Damien (2003),(2003),9.75,Loup Alexandre *,2
+o,Kropf Marcel **,**,8.50,Loup Alexandre *,3
+-,Neyroud Geoﬀrey,Geoﬀrey,9.00,Loup Alexandre *,4
++,Wenger Marco,Marco,9.75,Loup Alexandre *,5
+o,Droxler Jonathan **,**,8.50,Loup Alexandre *,6
+o,Hirschi Damien (2003),(2003),8.50,Parvex Bryan,1
++,Buchs Stefan,Stefan,10.00,Parvex Bryan,2
++,Aeschbacher Ivo,Ivo,10.00,Parvex Bryan,3
+o,Riedo Fredy *,*,8.50,Parvex Bryan,4
+o,Tornare Paul,Paul,8.50,Parvex Bryan,5
+o,Grossenbacher Marc,Marc,8.50,Parvex Bryan,6
+o,Tschachtli Sven,Sven,8.50,Vallotton Jason,1
++,Cherpillod Cédric,Cédric,9.75,Vallotton Jason,2
++,Maire Pascal (2004),(2004),10.00,Vallotton Jason,3
+o,Borcard Johann **,**,8.50,Vallotton Jason,4
+o,Cotting Alexandre,Alexandre,8.50,Vallotton Jason,5
+o,Loup Grégoire,Grégoire,8.50,Vallotton Jason,6
++,Cherpillod Cédric,Cédric,10.00,Pasquier Loïc,1
+o,Mollet Ivan **,**,8.50,Pasquier Loïc,2
+o,Piemontesi Pascal **,**,8.50,Pasquier Loïc,3
+o,Loup Grégoire,Grégoire,8.50,Pasquier Loïc,4
++,Juon Martin,Martin,9.75,Pasquier Loïc,5
+o,Balimann Fabian,Fabian,8.50,Pasquier Loïc,6
+o,Beaud Eric,Eric,8.50,Fallegger Riccardo (2003),1
+o,Quartenoud Samuel,Samuel,8.50,Fallegger Riccardo (2003),2
++,Mooser Manuel,Manuel,10.00,Fallegger Riccardo (2003),3
++,Berthet Luca,Luca,9.75,Fallegger Riccardo (2003),4
+o,Borcard Clovis *,*,8.50,Fallegger Riccardo (2003),5
+o,Fankhauser Yanik,Yanik,8.50,Fallegger Riccardo (2003),6
+,16.10.2021 05:04,05:04,Seite 3/,Fallegger Riccardo (2003),7
+o,Borcard Guillaume,Guillaume,8.50,Berthet Luca,1
++,Mooser Manuel,Manuel,10.00,Berthet Luca,2
+o,Dousse Michel **,**,8.50,Berthet Luca,3
+o,Fallegger Riccardo (2003),(2003),8.50,Berthet Luca,4
+o,Beaud Eric,Eric,8.50,Berthet Luca,5
++,Holweger Marek,Marek,9.75,Berthet Luca,6
+o,Buchs Noah (2004),(2004),8.50,Cochrane Benjamin,1
+o,Portmann Fabio,Fabio,8.50,Cochrane Benjamin,2
++,Lauber Grégoire,Grégoire,9.75,Cochrane Benjamin,3
+o,Grossenbacher Marc,Marc,8.50,Cochrane Benjamin,4
++,Borcard Guillaume,Guillaume,9.75,Cochrane Benjamin,5
+o,Collaud Bastien (2005),(2005),8.50,Cochrane Benjamin,6
+o,Riedo Fredy *,*,8.75,Sonnay Thomas **,1
+-,Balimann Sandro *,*,8.75,Sonnay Thomas **,2
++,Wieland Timon,Timon,10.00,Sonnay Thomas **,3
+o,Baeriswyl Christoph,Christoph,8.50,Sonnay Thomas **,4
+o,Krähenbühl Tobias ***,***,8.50,Sonnay Thomas **,5
+-,Cotting Alexandre,Alexandre,8.75,Sonnay Thomas **,6
+o,Rouge Dany,Dany,8.75,Mooser Manuel,1
+o,Berthet Luca,Luca,8.50,Mooser Manuel,2
+o,Fallegger Riccardo (2003),(2003),8.50,Mooser Manuel,3
+o,Germanier Joel,Joel,8.50,Mooser Manuel,4
++,Imstepf Sandro,Sandro,10.00,Mooser Manuel,5
+o,Valvini Maxime,Maxime,8.50,Mooser Manuel,6
++,Mooser Manuel,Manuel,9.75,Rouge Dany,1
+o,Fankhauser Yanik,Yanik,8.50,Rouge Dany,2
+o,Krebs Clemens,Clemens,8.50,Rouge Dany,3
+o,Portmann Fabio,Fabio,8.50,Rouge Dany,4
+-,Burri Flemming,Flemming,8.75,Rouge Dany,5
+o,Pharisa Loic,Loic,8.50,Rouge Dany,6
+o,Choﬄon Anthony,Anthony,8.50,Juon Martin,1
+o,Maire Pascal (2004),(2004),8.50,Juon Martin,2
+o,Zbinden Samuel,Samuel,8.50,Juon Martin,3
+o,Cherpillod Cédric,Cédric,8.50,Juon Martin,4
+o,Pasquier Loïc,Loïc,8.50,Juon Martin,5
+o,Lauber Grégoire,Grégoire,8.50,Juon Martin,6
++,Fallegger Riccardo (2003),(2003),10.00,Beaud Eric,1
+o,Jacot Ismaël,Ismaël,8.50,Beaud Eric,2
+o,Droxler Jonathan **,**,8.50,Beaud Eric,3
+o,Martin Gaël (2004),(2004),8.50,Beaud Eric,4
++,Berthet Luca,Luca,9.75,Beaud Eric,5
+o,Bapst Ludovic,Ludovic,8.50,Beaud Eric,6
++,Berthet Luca,Luca,9.75,Borcard Guillaume,1
+o,Sturny Nicolas,Nicolas,8.50,Borcard Guillaume,2
+o,Jeannin Jess,Jess,8.50,Borcard Guillaume,3
+o,Wenger Marco,Marco,8.50,Borcard Guillaume,4
+o,Cochrane Benjamin,Benjamin,8.50,Borcard Guillaume,5
++,Imstepf Sandro,Sandro,9.75,Borcard Guillaume,6
++,Quartenoud Samuel,Samuel,10.00,Burri Flemming,1
+o,Mermillod Jérôme (2004),(2004),8.50,Burri Flemming,2
+o,Bapst Richard,Richard,8.50,Burri Flemming,3
+o,Hirschi Damien (2003),(2003),8.50,Burri Flemming,4
+-,Rouge Dany,Dany,8.75,Burri Flemming,5
+o,Germanier Joel,Joel,8.75,Burri Flemming,6
+o,Pasquier Loïc,Loïc,8.50,Cherpillod Cédric,1
+o,Vallotton Jason,Jason,8.75,Cherpillod Cédric,2
+o,Wenger Marco,Marco,8.50,Cherpillod Cédric,3
++,Juon Martin,Martin,10.00,Cherpillod Cédric,4
+o,Buchs Stefan,Stefan,8.50,Cherpillod Cédric,5
+o,Jeannin Jess,Jess,8.50,Cherpillod Cédric,6
+o,Monney Branighan,Branighan,8.50,Lauber Grégoire,1
+o,Vonlanthen Alexandre,Alexandre,8.50,Lauber Grégoire,2
+o,Cochrane Benjamin,Benjamin,8.50,Lauber Grégoire,3
+o,Pharisa Loic,Loic,8.50,Lauber Grégoire,4
+o,Maire Pascal (2004),(2004),8.50,Lauber Grégoire,5
++,Juon Martin,Martin,10.00,Lauber Grégoire,6
+o,Mermillod Jérôme (2004),(2004),8.50,Imstepf Sandro,1
+o,Zbinden Lukas (2003),(2003),8.50,Imstepf Sandro,2
+o,Pürro David,David,8.50,Imstepf Sandro,3
+o,Buchs Stefan,Stefan,8.50,Imstepf Sandro,4
+o,Mooser Manuel,Manuel,8.50,Imstepf Sandro,5
+o,Borcard Guillaume,Guillaume,8.50,Imstepf Sandro,6
+©,2021 Eidgenössischer Schwingerverba,Schwingerverba,nd,dskranzschwinger *** Eidg. Kranzs,1
+o,Perret Axel (2003),(2003),8.50,Aeschbacher Ivo,1
++,Germanier Joel,Joel,10.00,Aeschbacher Ivo,2
+o,Parvex Bryan,Bryan,8.50,Aeschbacher Ivo,3
++,Martin Gaël (2004),(2004),9.75,Aeschbacher Ivo,4
+o,Crettaz Olivier *,*,8.50,Aeschbacher Ivo,5
+o,Zbinden Lukas (2003),(2003),8.50,Aeschbacher Ivo,6
++,Zbinden Lukas (2003),(2003),10.00,Ganière William,1
+o,Dousse Michel **,**,8.50,Ganière William,2
+-,Fankhauser Yanik,Yanik,8.75,Ganière William,3
+-,Buchs Noah (2004),(2004),8.75,Ganière William,4
+-,Bapst Ludovic,Ludovic,8.75,Ganière William,5
+o,Maire Pascal (2004),(2004),8.50,Ganière William,6
+-,Loup Grégoire,Grégoire,8.75,Krebs Clemens,1
+o,Turin Antoine,Antoine,8.50,Krebs Clemens,2
++,Rouge Dany,Dany,10.00,Krebs Clemens,3
+o,Dousse Michel **,**,8.50,Krebs Clemens,4
+o,Menoud Liam,Liam,8.50,Krebs Clemens,5
+o,Buchs Noah (2004),(2004),8.50,Krebs Clemens,6
+o,Turin Antoine,Antoine,8.50,Zbinden Samuel,1
+-,Jeannin Jess,Jess,8.75,Zbinden Samuel,2
++,Juon Martin,Martin,9.75,Zbinden Samuel,3
+o,Menoud Liam,Liam,8.50,Zbinden Samuel,4
+o,Quartenoud Samuel,Samuel,8.50,Zbinden Samuel,5
+o,Wenger Marco,Marco,8.50,Zbinden Samuel,6
+o,Bapst Richard,Richard,8.50,Holweger Marek,1
+o,Grossenbacher Marc,Marc,8.50,Holweger Marek,2
+o,Balimann Fabian,Fabian,8.50,Holweger Marek,3
++,Maire Pascal (2004),(2004),9.75,Holweger Marek,4
+o,Vaucher Rémy,Rémy,8.50,Holweger Marek,5
+o,Berthet Luca,Luca,8.50,Holweger Marek,6
+o,Ducrest Etienne *,*,8.50,Dind Samuel **,1
+o,Stoll Thomas,Thomas,8.50,Dind Samuel **,2
++,Zbinden Lukas (2003),(2003),9.75,Dind Samuel **,3
+o,Zbinden Dario (2004),(2004),8.50,Dind Samuel **,4
+,16.10.2021 05:04,05:04,Seite 4/,Dind Samuel **,5
