@@ -9,7 +9,7 @@ Diese Daten wurden im Rahmen einer Datenanalyse in Zusammenarbeit mit SRF Data, 
 
 ## Disclaimer
 
-Die Daten dürfen für weitere Analysen verwendet werden, jedoch wird kein Anspruch auf Vollständigkeit noch Korrektheit erhoben.
+Die Daten dürfen für weitere Analysen verwendet werden, jedoch wird kein Anspruch auf Vollständigkeit oder Korrektheit erhoben.
 
 Bei Fragen oder Unklarheiten bitte an [Christian Wassmer](https://github.com/chwassme), [Julian Schmidli](https://github.com/jlsmdl), [Lukas Frischknecht](https://github.com/lukasfrischknecht) oder [Samuel Hufschmid](https://github.com/shufschmid) wenden.
 
@@ -19,7 +19,7 @@ Die Daten enthalten Bergkranz-, Teilverband- und Kantonal-Schwingfeste aus den J
 
 ### Allgemeine Felder
 
-- Schwingerlevel: Kranzlevel des eingeteilten Schwingers * Kantonal- bzw. Gäuverbandskranzschwinger ** Teilverbandskranzschwinger *** Eidg. Kranzschwinger
+- `Schwingerlevel`: Kranzlevel des eingeteilten Schwingers * Kantonal- bzw. Gäuverbandskranzschwinger ** Teilverbandskranzschwinger *** Eidg. Kranzschwinger
 
 ### Rohdaten
 
@@ -32,7 +32,7 @@ Die Daten enthalten Bergkranz-, Teilverband- und Kantonal-Schwingfeste aus den J
 
 Aus den Statistik-PDFs wurde je eine **Kämpfe**- und eine **Schlussranglisten**-Datei extrahiert mittels Python-Script (thanks to [John Templon](https://github.com/jtemplon/)). 
 
-Aus diesen Dateien wurde mittels eines Java-Programms die Zwischenrangliste, angereicherte Notenblätter sowie Daten für die weitere Analyse  extrahiert. 
+Aus diesen Dateien wurde mittels eines Java-Programms die **Zwischenrangliste**, angereicherte **Notenblätter** sowie Daten für die weitere Analyse (`fight_data.csv`) extrahiert. 
 
 **Kämpfe**
 
