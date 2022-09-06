@@ -1,19 +1,24 @@
-# ESV Hoselupf data repository
+# ESV "Hoselupf" Data Repository
 
-Diese Daten wurden im Rahmen einer Datenanalyse in Zusammenarbeit mit SRF Data, SRF Impact und bajour.ch für das ESAF 2022 aufbereitet.
+## Einführende Anmerkungen
+
+Dieses Repo enthält die gescrapten und geparsten Daten von Bergkranz-, Teilverband- und Kantonal-Schwingfeste aus den Jahren 2015 bis und mit Juli 2022, die auf ESV.ch veröffentlicht wurden (Stand: Juli 22) und von Bajour und SRF geparst, verarbeitet und ergänzt wurden. Es handelt sich aktuell noch um einen Zwischenstand, da ein Teil des Prozesses (Berechnung TrueSkill) aufgrund von Ferienabwesenheiten fehlt. SRF wird diesen, zusammen mit einem Analyseskript, voraussichtlich im Oktober nachliefern.
+
+Diese Daten wurden im Rahmen einer Datenanalyse in Zusammenarbeit mit SRF Data, SRF Impact und bajour.ch für eine Vorberichterstattung vor dem ESAF 2022 aufbereitet.
+
 
 - [SRF 10vor10 | Daten zeigen: Einheimische Schwinger werden bevorzugt](https://www.srf.ch/play/tv/redirect/detail/d3fcb608-384f-4dbc-a055-b3924bf54712)
 - [SRF News | Wenns um den Muni geht, haben es die Gäste schwerer](https://www.srf.ch/news/schweiz/datenanalyse-zum-schwingsport-wenns-um-den-muni-geht-haben-es-die-gaeste-schwerer)
 - [SRF Impact | Nationalsport Schwingen – Daten belegen unfaire Einteilung an Schwingfesten](https://youtu.be/vbDpDDqHBv0)
 - [bajour.ch | Wenns um den Muni geht, wird im Schwingen «gemischelt»](https://bajour.ch/a/SkL5VZZlqlzutHIR/datenanalyse-schwingen)
 
-## Disclaimer
+## Haftungsausschluss / Disclaimer
 
-Die Daten dürfen für weitere Analysen verwendet werden, jedoch wird kein Anspruch auf Vollständigkeit oder Korrektheit erhoben.
+Die veröffentlichten Informationen wurden sorgfältig zusammengestellt, erheben jedoch keinen Anspruch auf Aktualität, Vollständigkeit oder Richtigkeit. Sie stammen ursprünglich aus PDFs, die auf der Webseite ESV.ch veröffentlicht wurden. Für Schäden, die durch die Verwendung dieses Skripts oder der daraus gezogenen Informationen entstehen, wird keine Haftung übernommen. Dies gilt auch für Inhalte Dritter, die über dieses Angebot zugänglich sind.
+
+## Kontakt
 
 Bei Fragen oder Unklarheiten bitte an [Christian Wassmer](https://github.com/chwassme), [Julian Schmidli](https://github.com/jlsmdl), [Lukas Frischknecht](https://github.com/lukasfrischknecht) oder [Samuel Hufschmid](https://github.com/shufschmid) wenden.
-
-Die Daten enthalten Bergkranz-, Teilverband- und Kantonal-Schwingfeste aus den Jahren 2015 bis und mit Juli 2022. 
 
 ## Daten
 
